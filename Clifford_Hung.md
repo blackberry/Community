@@ -8,7 +8,7 @@ contacts:
 
 tags: [RIM, individual]
 photo: none
-layout: actor
+layout: people
 ---
 
 Paragraph 1 goes here

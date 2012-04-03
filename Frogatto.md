@@ -1,4 +1,7 @@
 ---
 title: Frogatto - Game and Framework
+tags: framework, gaming, native
+layout: default
+---
 
-Keywords: framework, gaming, native
+here goes the rest
