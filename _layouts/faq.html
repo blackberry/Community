@@ -1,7 +1,3 @@
----
-layout: default
----
-
-{% assign faq = page %}
-
-{% include faq.html %}
+{% capture lcol %}{% include default-lcol.html %}{% endcapture %}
+{% assign rcol = ""}
+{% include common-include.html %}

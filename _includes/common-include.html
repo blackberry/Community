@@ -1,0 +1,64 @@
+<html>
+	<head>
+		<title>{{ page.title }}</title>
+		<link id="stylesheet" href="{{ site.base-url }}/css/github.css" rel="stylesheet" type="text/css"></link>
+		<script type="text/javascript">
+
+			function logoClick() {
+				document.location = 'http://' + document.location.host;
+			}
+
+		</script>
+<!-- Start of Google Analytics code -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-28534102-1']);
+  _gaq.push(['_setDomainName', 'github.com']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<!-- End of Google Analytics code -->
+	</head>
+	<body>
+		<div class="header">
+			<div class="logo" onclick="logoClick()">&nbsp;</div>
+			<div class="github-logo" onclick="document.location='http://github.com/blackberry'">&nbsp;</div>
+		</div>
+		<div class="center">
+			<table class="content">
+				<tr>
+				  <!-- Left Column / TOC / Global Navigation -->
+				  <!-- Possibly included, may vary between TOC and Technology?? -->
+				       {{ lcol }}
+
+				  <!-- Center Column / Content -->
+				  <!-- From content provided by page -->
+					<td valign="top" class="content-column">
+						<div>
+						          {{ ccol }}
+							  {{ content }}
+
+
+						</div>
+					</td>
+				  <!-- Right Column / Menu / Entry Highlights -->
+				  <!-- Probably included depending on the type of entry -->
+					{{ rcol }}
+
+				<tr>
+			</table>
+			<div class="footer">
+				<div style="border-style: none none dashed none; border-width: 1px; border-color: Silver;margin-top: 40px;"></div>
+				<p style="font-size: 8.5pt;color:Gray;text-decoration:italics;text-align: center;">Copyright 1999-2011 Research In Motion Limited. 295 Phillip Street, Waterloo, Ontario, Canada, N2L 3W8. All Rights Reserved.</p>
+			</div>
+		</div>
+
+	</body>
+</html>
