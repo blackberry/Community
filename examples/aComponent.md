@@ -10,7 +10,7 @@ layout: component
 title: ACME Explosive Tennis Balls
 description: Tennis balls that explode on impact (on Road Runner)
 contacts:
-   -contact: '[Road Runner]
+   -contact: '[Road Runner]'
    -contact: '[Wile E. Coyote]'
 tags: OpenSource, Native, Component
 ---
