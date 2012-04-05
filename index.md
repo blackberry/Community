@@ -1,4 +1,5 @@
 ---
+title: BlackBerry Community Wiki
 layout: basic
 ---
 
