@@ -1,9 +1,9 @@
 # The BlackBerry&reg; Community Wiki
 
-Content in the
 <!-- temporarily removed
 [Community Wiki](http://blackberry.github.com/Community)
 -->
+Content in the
 [Community Wiki](http://pelegri.github.com/Community)
 is authored collectively by the community under [Terms and Conditions](TBD).
 Some of the content is authored by individuals that are RIM employees - 
@@ -17,11 +17,10 @@ but rather we are manually using [Jekyll](http://github.com/mojombo/jekyll/) and
 The location of this wiki and the technology used may change over time, but the content and the contribution structure
 will remain.
 
-Start page to the wiki is
 <!-- temporarily removed
 [blackberry.github.com/Community](http://blackberry.github.com/Community)
 -->
-(temporarily)
+Start page to the wiki is (temporarily)
 [pelegri.github.com/Community](http://pelegri.github.com/Community)
 to get started.
 
