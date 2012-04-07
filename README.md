@@ -3,34 +3,36 @@
 <!-- temporarily removed
 [Community Wiki](http://blackberry.github.com/Community)
 -->
-Content in the
+Content in this
 [Community Wiki](http://pelegri.github.com/Community)
-is authored collectively by the community under [Terms and Conditions](TBD).
-Some of the content is authored by individuals that are RIM employees - 
-(...appropriate disclaimer goes here...).
+is authored collectively by the community under the following [Terms and Conditions](TBD).
+Some of the content is authored by individuals that are RIM employees and
+..._appropriate disclaimer goes here_...
 
-The Wiki is currently hosted at GitHub and implemented using Pages
-([Overview](http://pages.github.com/), [Help](http://help.github.com/pages/).
-We are not using the [Page Generator](https://github.com/blog/1081-instantly-beautiful-project-pages)
-but rather we are manually using [Jekyll](http://github.com/mojombo/jekyll/) and the gh-pages machinery.
-
+This Wiki is currently hosted at GitHub and implemented using Pages
+([Overview](http://pages.github.com/), [Help](http://help.github.com/pages/)).
+The Wiki is not using the [Page Generator](https://github.com/blog/1081-instantly-beautiful-project-pages)
+but rather uses [Jekyll](http://github.com/mojombo/jekyll/) and the gh-pages machinery.
 The location of this wiki and the technology used may change over time, but the content and the contribution structure
 will remain.
 
 <!-- temporarily removed
 [blackberry.github.com/Community](http://blackberry.github.com/Community)
 -->
-Start page to the wiki is (temporarily)
-[pelegri.github.com/Community](http://pelegri.github.com/Community)
-to get started.
+**_Start page_** is (temporarily) at
+[pelegri.github.com/Community](http://pelegri.github.com/Community).
+
 
 ## Basic structure
 
-* Each Wiki entry is a page that uses a specific layout, depending on the type of entry.
-* We use GitHub issues to track requests.
-* We use forks to implement workflow (and to try new features).
+* Each Wiki entry is a [Markdown](http://daringfireball.net/projects/markdown/) page
+* A page uses a layout (via Jekyll) based on the type of entry.
+* GitHub issues are used to track requests.
+* Git Forks are used to implement workflow (and to try new features).
 
 ## Teams / Roles
+
+The following teams collaborate to create the Wiki:
 
 * A very small team of [Administrator](TBD) that keeps the Wiki working.
 * A dedicated team of [Editors](TBD) that keeps the integrity and consistency of the pages.   All Administrators are Editors.
@@ -43,15 +45,17 @@ to get started.
 
 *Editor*  
 Change the page directly. This can be done in-place
-(see GitHub Blogs:
-[1](https://github.com/blog/143-inline-file-editing),
-[2](https://github.com/blog/844-forking-with-the-edit-button)
-and [3](https://github.com/blog/905-edit-like-an-ace))
+(see
+[[1]](https://github.com/blog/143-inline-file-editing),
+[[2]](https://github.com/blog/844-forking-with-the-edit-button)
+and [[3]](https://github.com/blog/905-edit-like-an-ace))
 for small changes or through a fork and a pull request for larger changes
 
 *Contributor*  
 Like editors, but use your judgement, specially as you start getting up-to-speed with the machinery and the conventions we are
-following: if you don't feel comfortable with markdown or have any doubts, fork and do an explicit pull request.
+following.
+If you don't feel comfortable with Markdown
+or have any doubts, fork and do an explicit pull request.
 
 *Community Member*  
 The simplest approach is to file an [Issue](https://github.com/blackberry/Community/issues) with the desired change.
@@ -98,9 +102,3 @@ like the [BlackBerry-WebWorks](https://github.com/blackberry-webworks) organizat
 
 Eduardo has an initial version that will be reviewed by a first group of volunteers.
 
-## Issues
-
-* Do we really need a Meta?  Can that just be the Master branch, with README.md et al?
-* How flat / hierarchical do we want the space to be?  Probably faq/ is separated of the rest.  Maybe people/?
-
-## 
