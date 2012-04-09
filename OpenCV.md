@@ -1,18 +1,21 @@
 ---
 name: OpenCV
 oneline: Open Computing Vision
-status: Being ported.
+status: Partial Port
 platform: Native
-weblink: "http://opencv.willowgarage.com"
+complink: http://github.com/blackberry/OpenCV
+links:
+   - http://en.wikipedia.org/wiki/OpenCV
+   - http://opencv.willowgarage.com
+license: BSD
 
-layout: default
+layout: component
 
 title: OpenCV - Open Computing Vision
 description: OpenCV is an open source cross-platform computer vision library.
 contacts:
-   -contact: '[Andy Abgottspon]'
-   -contact: '[Clifford Hung]'
+   - '[Andy Abgottspon]'
+   - '[Clifford Hung]'
 tags: OpenSource, Native, Component
 ---
 
-The rest goes here

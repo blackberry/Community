@@ -1,3 +1,13 @@
-{% capture lcol %}{% include default-lcol.html %}{% endcapture %}
-{% assign rcol = ""}
+{% assign base-url = site.force-prefix %}
+
+{% capture lcol %}{% include default-navigation.html %}{% endcapture %}
+{% assign rcol = "" %}
+
+{% capture ccol %}<h1>{{ page.title }}</h1>
+{% if page.details %}
+<h3>Details</h3>
+{{ page.details | markdownify }}
+{% endif %}
+{% endcapture %}
+
 {% include common-include.html %}

@@ -1,14 +1,7 @@
 ---
 title: BlackBerry Community Wiki
-layout: basic
+redirect-page: Community_Wiki
+redirect-seconds: 0
+redirect-message: "Please wait while we redirect you to the starting page"
+layout: redirect
 ---
-
-# Community Wiki, implemented using Pages.
-
-## Overview
-
-This and that...
-
-## Instructions on how to contribute
-
-Check out [README.md](blob/gh-pages/README.md)
