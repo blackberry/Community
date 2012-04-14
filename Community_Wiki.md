@@ -1,5 +1,5 @@
 ---
-title: BlackBerry&reg; Community Wiki
+title: Welcome to the BlackBerry&reg; Community Wiki
 layout: basic
 ---
 

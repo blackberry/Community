@@ -1,16 +1,14 @@
 <!-- Right Column / Menu / Entry Highlights -->
 <!-- Probably included depending on the type of entry -->
-<td valign="top" class="menu-column">
-  <div class="menu">
-    <div class="menu-header">{{ page.name }}</div>
-    <div class="menu-item"><em>{{ page.oneline }}</em></div>
-    <div class="menu-item"><em>Status: </em>{{ page.status }}</div>
-    <div class="menu-item"><em>Platform: </em>{{ page.platform }}</div>
+  <table>
+    <caption>{{ page.name }}</caption>
+    <tr><td colspan="2">{{ page.oneline }}</td></tr>
+    <tr><th scope="row">Status</th><td>{{ page.status }}</td></tr>
+    <tr><th scope="row">Platform</th><td>{{ page.platform }}</td></tr>
     {% if page.license %}
-    <div class="menu-item"><em>License: </em>{{ page.license }}</div>
+    <tr><th scope="row">License</th><td>{{ page.license }}</td></tr>
     {% endif %}
     {% if page.complink %}
-    <div class="menu-item"><a href="{{ page.complink }}">Component Site</a></div>
+    <tr><td colspan="2"><a href="{{ page.complink }}">Component Site</a></td></tr>
     {% endif %}
-  </div>
-</td>
+  </table>
