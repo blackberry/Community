@@ -14,7 +14,7 @@ layout: component
 title: threeJS
 description: A 3D framework for WebGL
 contacts:
-   - '[Jonathan Feldstein]'
+   - 'Jonathan Feldstein'
 tags: OpenSource, WebWorks, Component, WebGL
 ---
 

@@ -1,6 +1,6 @@
 ---
 name: WebWorks
-oneline: BlackBerry's Open Source HTML5 Framework
+oneline: BlackBerry Open Source HTML5 Framework
 status: GA
 platform: HTML5
 complink: http://blackberry.github.com/WebWorks
@@ -12,7 +12,7 @@ license: ASL2
 
 layout: component
 
-title: WebWorks - BlackBerry's HTML5 Framework
+title: WebWorks - BlackBerry HTML5 Framework
 description: "WebWorks is an Open Source HTML5 Framework for BlackBerry Smartphones, BlackBerry PlayBooks
 and BlackBerry 10 Devices."
 
@@ -44,5 +44,5 @@ WebWorks repositories at GitHub include:
  * [WebWorks-Community-APIs](http://github.com/blackberry/WebWorks-Community-APIs)
  * [WebWorks-Documentation](http://github.com/blackberry/WebWorks-Documentation)
 
-Also see [Ripple](Ripple.html)
+Also see [Ripple]
 

@@ -38,7 +38,6 @@ repositories.
 [Webkit-Smartphone repo](http://github.com/blackberry/Webkit-Smartphone),
 [WebKit-PlayBook repo](http://github.com/blackberry/Webkit-PlayBook)
 
-
 ### Contacts
 
 

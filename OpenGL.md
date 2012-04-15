@@ -20,7 +20,7 @@ layout: component
 
 {% include common-defs.md %}
 
-Supported in PlayBook 2.0 via [WebWorks](WebWorks.html).
+Supported in PlayBook 2.0 via [WebWorks]
 Also supported in the PlayBook 2.0 browser but end-user needs to explicitly allow its use.
 
 ### Additional Links

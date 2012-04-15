@@ -16,4 +16,6 @@ contacts:
 tags: OpenSource, WebWorks, Component
 ---
 
-bbUI.js outgrew from [WebWorks-Samples](WebWorks-Samples.html)
+{% include common-defs.md %}
+
+bbUI.js outgrew from [WebWorks-Samples][gameplay] 

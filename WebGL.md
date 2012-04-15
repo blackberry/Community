@@ -13,7 +13,7 @@ tags: HTML5, Component, WebGL
 
 description: "WebGL here..."
 contacts:
-   - '[Jonathan Feldstein]'
+   - 'Jonathan Feldstein'
 
 layout: component
 ---
@@ -29,7 +29,7 @@ Also supported in the PlayBook 2.0 browser but end-user needs to explicitly allo
 * [WebGL Wiki @ Khronos](http://www.khronos.org/webgl/wiki_1_15/index.php/Main_Page)
 
 ### Contacts
-[Jonathan Feldstein], others
+[Jonathan Feldstein][jfeldstein], others
 
 ### Also See
 [OpenGL], [TunnelTilt], [NDK-Samples]
