@@ -4,7 +4,7 @@
 [Community Wiki](http://blackberry.github.com/Community)
 -->
 Content in this
-[Community Wiki](http://pelegri.github.com/Community)
+[Community Wiki](http://blackberry-community.github.com/Community)
 is authored collectively by the community under the following [Terms and Conditions](TBD).
 Some of the content is authored by individuals that are RIM employees and
 ..._appropriate disclaimer goes here_...
@@ -20,7 +20,7 @@ will remain.
 [blackberry.github.com/Community](http://blackberry.github.com/Community)
 -->
 **_Start page_** is (temporarily) at
-[pelegri.github.com/Community](http://pelegri.github.com/Community).
+[blackberry-community.github.com/Community](http://blackberry-community.github.com/Community).
 
 
 ## Basic structure
@@ -92,11 +92,15 @@ In general, when in doubt, get feedback from addition people.
 
 ## Staging Area
 
-We are temporarily using Eduardo's [Community Repo](http://github.com/pelegri/Community) for staging purposes,
-including the [Issues](https://github.com/pelegri/Community/issues).
-We may create a proper staging repo for the Editor team via a new organization,
-something like _BlackBerry-Wiki_ or _BlackBerry-Community_,
-like the [BlackBerry-WebWorks](https://github.com/blackberry-webworks) organization.
+We use a workflow similar to those used by WebWorks and Gaming via a
+[BlackBerry-Community](https://github.com/blackberry-community) organization.
+[Issues](https://github.com/pelegri/Community/issues)
+are kept in the Community repo in that organization.
+
+Individual members of the community host their own repositories, for example:
+ * [pelegri/Community](http://github.com/pelegri/Community)
+ * [taylorbb/Community](http://github.com/taylortbb/Community)
+
 
 ## Status of this Initiative
 
