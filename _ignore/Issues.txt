@@ -31,3 +31,13 @@ What are the frameworks / pillars?  E.g. HTML5 or WebWorks?
 === 04 ===
 
 How to handle "Also see:"?
+
+>>>>>> NOTE TO SELF <<<<<<
+
+On how to use more of markdown in wiki
+
+ (0) Manually include the common references in each Wiki page
+ (1) Create a new filter that uses that map of common references
+...
+
+ probably move Description and Contacts from the layout to the free portion of the page

@@ -5,18 +5,22 @@ status: GA
 platform: HTML5
 complink: https://webkit.org
 links:
-   - TBD - Wikipedia
+   - http://en.wikipedia.org/wiki/WebKit
    - http://github.com/blackberry/Webkit-Smartphone
    - http://github.com/blackberry/Webkit-PlayBook
 
-layout: component
-
 title: Webkit
+tags: HTML5, Component, Webkit
+
 description: here...
 contacts:
    - '[George Staikos]'
-tags: HTML5, Component, Webkit
+
+layout: component
 ---
+
+{% include common-defs.md %}
+
 
 Torch Mobile was an early participant in the Webkit community.
 RIM acquired Torch Mobile in XXX and RIM first used it in its BB6 smartphones.
@@ -29,3 +33,14 @@ and
 [WebWorks-PlayBook](http://github.com/blackberry/Webkit-Playbook)
 repositories.
 
+### Additional Links
+[Wikipedia](http://en.wikipedia.org/wiki/WebKit),
+[Webkit-Smartphone repo](http://github.com/blackberry/Webkit-Smartphone),
+[WebKit-PlayBook repo](http://github.com/blackberry/Webkit-PlayBook)
+
+
+### Contacts
+
+
+### Also See
+[HTML5], [WebWorks]

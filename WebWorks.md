@@ -24,6 +24,9 @@ contacts:
 tags: OpenSource, HTML5, Component
 ---
 
+{% include common-defs.md %}
+
+
 Currently the runtime for BlackBerry WebWorks on the BlackBerry smartphones is based on Java while
 that for the BlackBerry PlayBook is based on Adobe AIR.
 WebWorks is fully Open Sourced and is developed transparently.

@@ -18,4 +18,6 @@ contacts:
 tags: OpenSource, WebWorks, Component, WebGL
 ---
 
+{% include common-defs.md %}
+
 We have started contributing upstream  TBD - Link to OpenBBNews post.  Still plenty of work to do.
