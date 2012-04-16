@@ -1,35 +1,28 @@
 ---
+layout: component
+
+title: OpenGL - Open Graphics Library
 name: OpenGL
-oneline: High Performance.... OpenGL
+oneline: Open Graphics Library
 status: GA
 platform: HTML5
-complink: https://github.com/blackberry/WebGL-Samples
-links:
-   - TBD - Wikipedia
-   - W3C site
-
-title: OpenGL
-tags: HTML5, Component, WebGL
-
-description: "OpenGL here..."
-contacts:
-   - whoever
-
-layout: component
+complink: https://github.com/blackberry/NDK-Samples
+tags: Component, OpenGL
 ---
-
 {% include common-defs.md %}
 
-Supported in PlayBook 2.0 via [WebWorks]
-Also supported in the PlayBook 2.0 browser but end-user needs to explicitly allow its use.
+### Description
+OpenGL is a standard specification defining a cross-language, cross-platform API for writing applications that
+produce 2D and 3D computer graphics.  OpenGL is managed by the non-profit technology consortium [Khronos Group](http://www.khronos.org/).
+
+OpenGL is supported in the BlackBerry PlayBook and on BlackBerry 10 Devices.
 
 ### Additional Links
-
-Wikipedia  
-Chronos sitezb  
+* [Wikipedia](http://en.wikipedia.org/wiki/OpenGL)
+* [website](http://www.opengl.org/)
+* [Native Micro-site](http://developer.blackberry.com/native)
 
 ### Contacts
-
 
 ### Also See
 [WebGL], [NDK-Samples], [GamePlay]

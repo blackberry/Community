@@ -1,31 +1,18 @@
 ---
+layout: component
+
+title: WebWorks - BlackBerry HTML5 Framework
 name: WebWorks
 oneline: BlackBerry Open Source HTML5 Framework
 status: GA
 platform: HTML5
 complink: http://blackberry.github.com/WebWorks
-links:
-   - Wikipedia
-   - http://github.com/blackbery/WebWorks-Tablet
-   - http://github.com/blackbery/WebWorks
 license: ASL2
-
-layout: component
-
-title: WebWorks - BlackBerry HTML5 Framework
-description: "WebWorks is an Open Source HTML5 Framework for BlackBerry Smartphones, BlackBerry PlayBooks
-and BlackBerry 10 Devices."
-
-contacts:
-   - '[Gord Tanner]'
-   - '[Laurent Hasson]'
-   - '[Ken Wallis]'
-   - many more
 tags: OpenSource, HTML5, Component
 ---
-
 {% include common-defs.md %}
 
+### Description
 
 Currently the runtime for BlackBerry WebWorks on the BlackBerry smartphones is based on Java while
 that for the BlackBerry PlayBook is based on Adobe AIR.
@@ -44,5 +31,9 @@ WebWorks repositories at GitHub include:
  * [WebWorks-Community-APIs](http://github.com/blackberry/WebWorks-Community-APIs)
  * [WebWorks-Documentation](http://github.com/blackberry/WebWorks-Documentation)
 
-Also see [Ripple]
+### Contacts
+[Gord Tanner], [Laurent Hasson], [Ken Wallis], ...
+
+### Also See
+[Ripple], [ASL2], [WebGL], [bbUI.js]
 

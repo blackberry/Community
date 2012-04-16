@@ -15,7 +15,28 @@
 [webworks]: <WebWorks.html> "A framework to write HTML5 Applications for the BlackBerry Platform"
 
 [webworkssamples]: <TBD> "Samples using the WebWorks framework"
-[jfeldstein]: <TBD> "TBD"
 [tunneltilt]: <TBD> "TBD"
 [html5]: <TBD> "TBD"
 [ripple]: <TBD> "TBD"
+[nodebeat]: <TBD> "TBD"
+[qnx]: <TBD> "TBD"
+
+[blackberry_world]: <TBD> "TBD"
+[blackberry_10_jam]: <TBD> "TBD"
+[blackberry_devcon]: <TBD> "TBD"
+
+[clifford_hung]: <Clifford_Hung.html> "Clifford Hung"
+[laurence_muller]: <Laurence_Muller.html> "Laurence Muller"
+[tim_neil]: <Tim_Neil.html> "Tim Neil"
+
+[jonathan_feldstein]: <TBD> "TBD"
+[laurent_hasson]: <TBD> "TBD"
+[ken_wallis]: <TBD> "TBD"
+[gord_tanner]: <TBD> "TBD"
+[andy_abgottspon]: <TBD> "TBD"
+[eduardo_pelegrillopart]: <TBD> "TBD"
+[george_staikos]: <TBD> "TBD"
+
+[asl2]: <http://www.apache.org/licenses/LICENSE-2.0.html> "Apache License, Version 2.0"
+[gpl]: <TBD> "TBD"
+[bsd]: <http://en.wikipedia.org/wiki/BSD_licenses> "BSD Licenses, at Wikipedia"

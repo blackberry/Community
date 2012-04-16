@@ -1,8 +1,8 @@
 ---
-title: All Pages
 layout: basic
----
 
+title: All Pages
+---
 {% include common-defs.md %}
 
 This should be an automatically generate list of all the pages in the wiki, but, in the meantime, here is a _manually-generated_ listing:
@@ -17,6 +17,7 @@ This should be an automatically generate list of all the pages in the wiki, but,
 * [OpenFrameworks]
 * [OpenGL]
 * [Open Source]
+* [PhoneGap]
 * [threeJS]
 * [WebGL]
 * [Webkit]

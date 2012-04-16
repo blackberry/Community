@@ -1,27 +1,25 @@
 ---
+layout: component
+
+title: WebGL
 name: WebGL
-oneline: High Performance.... OpenGL
+oneline: OpenGL ES 2.0 for the Web
 status: GA
 platform: HTML5
 complink: https://github.com/blackberry/WebGL-Samples
-links:
-   - TBD - Wikipedia
-   - W3C site
-
-title: WebGL
 tags: HTML5, Component, WebGL
-
-description: "WebGL here..."
-contacts:
-   - 'Jonathan Feldstein'
-
-layout: component
 ---
-
 {% include common-defs.md %}
 
-Supported in PlayBook 2.0 via [WebWorks](WebWorks.html).
-Also supported in the PlayBook 2.0 browser but end-user needs to explicitly allow its use.
+### Description
+
+WebGL can be summarized as "OpenGL ES 2.0 for the Web".
+WebGL provides a low-level 3D graphics API based on OpenGL ES 2.0,
+exposed through the HTML5 Canvas element and using [GLSL](http://en.wikipedia.org/wiki/GLSL)
+to program Shaders, with modifications to be more friendly to JavaScript developers.
+
+WebGL is supported in PlayBook 2.0 via [WebWorks].
+WebGL is also supported in the PlayBook 2.0 browser but end-user needs to explicitly allow its use.
 
 ### Additional Links
 * [Wikipedia](http://en.wikipedia.org/wiki/WebGL)
@@ -29,7 +27,7 @@ Also supported in the PlayBook 2.0 browser but end-user needs to explicitly allo
 * [WebGL Wiki @ Khronos](http://www.khronos.org/webgl/wiki_1_15/index.php/Main_Page)
 
 ### Contacts
-[Jonathan Feldstein][jfeldstein], others
+[Jonathan Feldstein], others
 
 ### Also See
 [OpenGL], [TunnelTilt], [NDK-Samples]

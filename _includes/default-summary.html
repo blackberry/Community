@@ -9,6 +9,9 @@
     {% if page.license %}
     <div class="menu-item"><em>License: </em>{{ page.license }}</div>
     {% endif %}
+    {% if page.tags %}
+    <div class="menu-item"><em>Tags: </em>{{ page.tags }}</div>
+    {% endif %}
     {% if page.complink %}
     <div class="menu-item"><a href="{{ page.complink }}">Component Site</a></div>
     {% endif %}

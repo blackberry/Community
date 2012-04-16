@@ -1,26 +1,19 @@
 {% assign base-url = site.force-prefix %}
 
 {% capture lcol %}{% include default-navigation.html %}{% endcapture %}
-{% assign rcol = "" %}
 
-{% capture ccol %}<h1>{{ page.title }}</h1>
-<h3>Description</h3>
-{{ page.description | markdownify }}
-<h3>Details</h3>
-{% if page.tags %}
-<strong>Tags:</strong> {{ page.tags }}
-<br/>
-{% endif %}
-{% if page.links %}
-<strong>More Links</strong>
-<ul>
-{% for item in page.links %}
-<li><a href="{{ item }}">{{ item }}</a></li>
-{% endfor %}
-</ul>
-{% endif %}
-
-
+{% capture rcol %}
+<td valign="top" class="menu-column">
+  <div class="menu">
+    <div class="menu-header">{{ page.title }}</div>
+    <div class="menu-item"><em>{{ page.oneline }}</em></div>
+    {% if page.tags %}
+    <div class="menu-item"><em>Tags: </em>{{ page.tags }}</div>
+    {% endif %}
+  </div>
+</td>
 {% endcapture %}
+
+{% capture ccol %}<h1>{{ page.title }}</h1>{% endcapture %}
 
 {% include common-include.html %}
