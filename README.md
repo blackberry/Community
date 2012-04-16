@@ -27,6 +27,7 @@ will remain.
 
 * Each Wiki entry is a [Markdown](http://daringfireball.net/projects/markdown/) page
 * A page uses a layout (via Jekyll) based on the type of entry.
+* Common definitions are kept in *common-defs.md* and other files in the *_includes* directory.
 * GitHub issues are used to track requests.
 * Git Forks are used to implement workflow (and to try new features).
 
