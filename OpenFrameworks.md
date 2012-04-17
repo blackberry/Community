@@ -24,7 +24,7 @@ See thread in [Support Forum](http://supportforums.blackberry.com/t5/Native-SDK-
 * OpenFrameworks Wiki: [Main](http://wiki.openframeworks.cc/index.php?title=Main_Page); [OF for Processing Devs](http://wiki.openframeworks.cc/index.php?title=OF_for_Processing_users)
 
 ### Contacts
-[Andy Abgottspon], [Clifford Hung], [Laurence Muller]
+[Clifford Hung], [Laurence Muller]
 
 ### Also See
 [NodeBeat]

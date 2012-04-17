@@ -22,9 +22,5 @@ OpenCV is an open source cross-platform computer vision library.
 ### Contacts
 [Andy Abgottspon], [Clifford Hung]
 
-links:
-   - http://en.wikipedia.org/wiki/OpenCV
-   - http://opencv.willowgarage.com
-
 ### Also See
 [BSD]
