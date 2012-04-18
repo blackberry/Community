@@ -12,6 +12,7 @@ This should be an automatically generate list of all the pages in the wiki, but,
 * [Apache Cordova]
 * [bbUI.js]
 * [BlackBerry 10]
+* [DebugToken]
 * [Frogatto]
 * [OpenCV]
 * [OpenFrameworks]
@@ -40,7 +41,11 @@ This should be an automatically generate list of all the pages in the wiki, but,
 * [Contribute](other/Contribute.html)
 * [Legal](other/Legal.html)
 * [Staying Connected](Staying_Connected.html)
-* [Example: basic](other/example-basic.html)
-* [Example: component](other/example-component.html)
-* [Example: faq](other/example-faq.html)
-* [Example: people](other/example-people.html)
+
+**Examples**
+
+* [Basic](other/example-basic.html)
+* [Component](other/example-component.html)
+* [Technology](other/example-technology.html)
+* [FAQ](other/example-faq.html)
+* [People](other/example-people.html)

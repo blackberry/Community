@@ -1,0 +1,29 @@
+{% assign base-url = site.force-prefix %}
+
+{% capture lcol %}{% include default-navigation.html %}{% endcapture %}
+
+{% if page.oneline %}
+{% capture rcol %}
+<td valign="top" class="menu-column">
+  <div class="menu">
+    <div class="menu-header">{{ page.title }}</div>
+    <div class="menu-item"><em>{{ page.oneline }}</em></div>
+    {% if page.forum %}
+    <div class="menu-item"><em>Forum: </em>{{ page.forum }}</div>
+    {% endif %}
+    {% if page.tags %}
+    <div class="menu-item"><em>Tags: </em>{{ page.tags }}</div>
+    {% endif %}
+    {% if page.techlink %}
+    <div class="menu-item"><a href="{{ page.techlink }}">website</a></div>
+    {% endif %}
+  </div>
+</td>
+{% endcapture %}
+{% else %}
+{% assign rcol = "" %}
+{% endif %}
+
+{% capture ccol %}<h1>{{ page.title }}</h1>{% endcapture %}
+
+{% include common-include.html %}
