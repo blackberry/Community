@@ -13,8 +13,10 @@ the pages holding the actual content plus the layout/include pages.
 
 To simplify casual contributions, this repository includes a set of __examples__, one per layout:
 
-* [basic](example-basic.html)
-* [component](example-component.html)
-* [faq](example-faq.html)
-* [people](example-people.html)
+* [Basic](example-basic.html)
+* [Component](example-component.html)
+* [Technology](example-technology.html)
+* [FAQ](example-faq.html)
+* [People](example-people.html)
 
+If you are creating a new page, you can start by copying the appropriate example and changing the relevant pieces.
