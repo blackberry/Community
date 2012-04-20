@@ -1,7 +1,10 @@
-<html>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
 	<head>
 		<title>{{ page.title }}</title>
 		<link id="stylesheet" href="{{ base-url }}/css/github.css" rel="stylesheet" type="text/css"></link>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 		<script type="text/javascript">
 
 			function logoClick() {
@@ -27,37 +30,41 @@
 <!-- End of Google Analytics code -->
 	</head>
 	<body>
-		<div class="header">
-			<div class="logo" onclick="logoClick()">&nbsp;</div>
-			<div class="github-logo" onclick="document.location='http://github.com/blackberry'">&nbsp;</div>
+		<div id="header_wrap">
+		  <div id="header">
+			  <p id="blackberry-logo"><img src="{{ base-url }}/images/logo.png" alt="BlackBerry" /> Community Wiki</p>
+			  <a id="github-logo" href="#"><img src="{{ base-url }}/images/github-logo.png" alt="Github" /></a>
+		  </div>
 		</div>
-		<div class="center">
-			<table class="content">
-				<tr>
+
+		<div id="wrapper">
+			<div id="left">
 				  <!-- Left Column / TOC / Global Navigation -->
 				  <!-- Possibly included, may vary between TOC and Technology?? -->
-				       {{ lcol }}
+				  {{ lcol }}
+			</div>
+			
+			<div id="content">
+				  <h1>{{ page.title }}</h1>
+
+				  {% if rcol != "" %}
+				  <div id="right">
+					    <!-- Right Column / Menu / Entry Highlights -->
+					    <!-- Probably included depending on the type of entry -->
+					    {{ rcol }}
+
+				  </div>
+				  {% endif %}
 
 				  <!-- Center Column / Content -->
 				  <!-- From content provided by page -->
-					<td valign="top" class="content-column">
-						<div>
-						          {{ ccol }}
-							  {{ content }}
+				  {{ ccol }}
+				  {{ content }}
 
-
-						</div>
-					</td>
-				  <!-- Right Column / Menu / Entry Highlights -->
-				  <!-- Probably included depending on the type of entry -->
-					{{ rcol }}
-
-				<tr>
-			</table>
-			<div class="footer">
-				<div style="border-style: none none dashed none; border-width: 1px; border-color: Silver;margin-top: 40px;"></div>
-				<p style="font-size: 8.5pt;color:Gray;text-decoration:italics;text-align: center;">Copyright 1999-2011 Research In Motion Limited. 295 Phillip Street, Waterloo, Ontario, Canada, N2L 3W8. All Rights Reserved.</p>
+				  <p id="copyright" style="font-size: 8.5pt; text-align: center;">Copyright 1999-2011 Research In Motion Limited. 295 Phillip Street, Waterloo, Ontario, Canada, N2L 3W8. All Rights Reserved.</p>
 			</div>
+			
+			
 		</div>
 
 	</body>

@@ -4,20 +4,18 @@
 
 {% if page.oneline %}
 {% capture rcol %}
-<td valign="top" class="menu-column">
-  <div class="menu">
-    <div class="menu-header">{{ page.title }}</div>
-    <div class="menu-item"><em>{{ page.oneline }}</em></div>
-    {% if page.tags %}
-    <div class="menu-item"><em>Tags: </em>{{ page.tags }}</div>
-    {% endif %}
-  </div>
-</td>
+<table>
+  <caption>{{ page.title }}</caption>
+  <tr><td colspan="2">{{ page.oneline }}</td></tr>
+  {% if page.tags %}
+  <tr><th scope="row">Tags</th><td>{{ page.tags }}</td></tr>
+  {% endif %}
+</table>
 {% endcapture %}
 {% else %}
-{% assign rcol = "" %}
+{% capture rcol %}{% endcapture %}
 {% endif %}
 
-{% capture ccol %}<h1>{{ page.title }}</h1>{% endcapture %}
+{% capture ccol %}{% endcapture %}
 
 {% include common-include.html %}

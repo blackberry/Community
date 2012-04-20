@@ -1,7 +1,7 @@
 ---
 layout: basic
 
-title: BlackBerry&reg; Community Wiki
+title: Welcome to the BlackBerry&reg; Community Wiki
 ---
 {% include common-defs.md %}
 
