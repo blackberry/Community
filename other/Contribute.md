@@ -5,18 +5,33 @@ layout: basic
 ---
 {% include common-defs.md %}
 
-The __developer/contributor-facing__ branch is the
-[master branch](https://github.com/pelegri/Community/tree/master).
+There are many ways to contribute
 
-You are currently in the gh-pages branch which is the __user-facing__ view.  The files here include
-the pages holding the actual content plus the layout/include pages.
+### Advertise the Wiki
 
-To simplify casual contributions, this repository includes a set of __examples__, one per layout:
+We want to make this Wiki the main community-created entry point.  So, help us advertise it
 
+### Improve the Wiki
+
+If you see a page that needs fixing, file an Issue with a
+[content](https://github.com/blackberry-community/Community/issues?labels=content) label.
+
+### Provide New Content
+
+The Wiki uses the Pages machinery from GitHub; the content itself is hosted in the *gh-pages*
+branch of the [Community](https://github.com/BlackBerry-Community/Community/tree/master) repo.
+We prefer submissions via a GitHub [pull request](http://help.github.com/send-pull-requests/).
+
+We provide examples for all layouts, so you can copy and start editing:
 * [Basic](example-basic.html)
 * [Component](example-component.html)
 * [Technology](example-technology.html)
 * [FAQ](example-faq.html)
 * [People](example-people.html)
 
-If you are creating a new page, you can start by copying the appropriate example and changing the relevant pieces.
+If you are new to Git or GitHub, check out [QuickStart](QuickStart.html) Page.
+
+### Become a Core member of this Community Wiki effort
+
+Finally, we welcome community members that have shown commitment to this wiki effort to become members of our core group.
+
