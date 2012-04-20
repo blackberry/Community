@@ -22,6 +22,8 @@ will remain.
 **_Start page_** is (temporarily) at
 [blackberry-community.github.com/Community](http://blackberry-community.github.com/Community).
 
+A summary of the **_Contribution Opportunities_** is available at the
+[Contribute](http://blackberry-community.github.com/Community/other/Contribute.html) Wiki page.
 
 ## Basic structure
 
@@ -99,6 +101,7 @@ We use a workflow similar to those used by WebWorks and Gaming via a
 are kept in the Community repo in that organization.
 
 Individual members of the community host their own repositories, for example:
+
  * [pelegri/Community](http://github.com/pelegri/Community)
  * [taylorbb/Community](http://github.com/taylortbb/Community)
 
