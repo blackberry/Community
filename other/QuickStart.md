@@ -17,8 +17,10 @@ social interaction.
 
 ### Pages and Wikis
 
-The BlackBerry&reg; Community Wiki uses [GitHub Pages](http://help.github.com/pages/) leveraging
-the [Jekyll](http://github.com/mojombo/jekyll/) machinery to provide per-component layouts.
+The BlackBerry&reg; Community Wiki uses [GitHub Pages](http://help.github.com/pages/) with
+templating provided via
+[Jekyll](http://github.com/mojombo/jekyll/).
+The benefits of this approach over GitHub's Wiki are [discussed here](http://supportforums.blackberry.com/t5/General-Open-Source-Topics/Community-Wiki-at-GitHub-Pages-or-Wiki/td-p/1466637).
 
 ### How are Pages Written?
 
