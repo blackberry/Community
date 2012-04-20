@@ -22,11 +22,14 @@ will remain.
 **_Start page_** is (temporarily) at
 [blackberry-community.github.com/Community](http://blackberry-community.github.com/Community).
 
+A summary of the **_Contribution Opportunities_** is available at the
+[Contribute](http://blackberry-community.github.com/Community/other/Contribute.html) Wiki page.
 
 ## Basic structure
 
 * Each Wiki entry is a [Markdown](http://daringfireball.net/projects/markdown/) page
 * A page uses a layout (via Jekyll) based on the type of entry.
+* Common definitions are kept in *common-defs.md* and other files in the *_includes* directory.
 * GitHub issues are used to track requests.
 * Git Forks are used to implement workflow (and to try new features).
 
@@ -98,6 +101,7 @@ We use a workflow similar to those used by WebWorks and Gaming via a
 are kept in the Community repo in that organization.
 
 Individual members of the community host their own repositories, for example:
+
  * [pelegri/Community](http://github.com/pelegri/Community)
  * [taylorbb/Community](http://github.com/taylortbb/Community)
 
