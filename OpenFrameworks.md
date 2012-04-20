@@ -1,27 +1,30 @@
 ---
+layout: component
+
+title: OpenFrameworks
 name: OpenFrameworks
 oneline: C++ Toolkit for Creative Coding
 status: Ongoing Port
 platform: Native
 complink: https://github.com/openframeworks/openFrameworks
-links:
-   - http://en.wikipedia.org/wiki/OpenFrameworks
-   - http://www.openframeworks.cc/
 license: BSD (or MIT?) Need to check
-
-layout: component
-
-title: OpenFrameworks
-description: "OpenCV is an open source cross-platform C++-based framework for media: sound and video."
-contacts:
-   - 'http://www.multigesture.net/'
-   - '[Andy Abgottspon]'
-   - '[Clifford Hung]'
 tags: OpenSource, Native, Component
 ---
+{% include common-defs.md %}
 
-See thread in [Support Forum](http://supportforums.blackberry.com/t5/Native-SDK-for-BlackBerry-Tablet/Porting-openFrameworks-need-help-with-the-audio-QSA-part/td-p/1641151).
+### Description
+<em>"OpenFrameworks is an open source C++ toolkit for creative coding"</em>
 
-Principals involved include [Laurence Muller](Laurence_Muller.html).
+See thread in [Support Forum](http://supportforums.blackberry.com/t5/Native-SDK-for-BlackBerry-Tablet/Porting-openFrameworks-need-help-with-the-audio-QSA-part/td-p/1641151). This is a port driven by the team behind [NodeBeat]
 
-This is a port driven by the team behind [NodeBeat](NodeBeat.html).
+### Additional Lnks:
+* [Wikipedia](http://en.wikipedia.org/wiki/OpenFrameworks)
+* [WebSite](http://www.openframeworks.cc/)
+* [Multigesture](http://www.multigesture.net/)
+* OpenFrameworks Wiki: [Main](http://wiki.openframeworks.cc/index.php?title=Main_Page); [OF for Processing Devs](http://wiki.openframeworks.cc/index.php?title=OF_for_Processing_users)
+
+### Contacts
+[Clifford Hung], [Laurence Muller]
+
+### Also See
+[NodeBeat]

@@ -8,6 +8,9 @@
     {% if page.license %}
     <tr><th scope="row">License</th><td>{{ page.license }}</td></tr>
     {% endif %}
+    {% if page.tags %}
+    <tr><th scope="row">Tags</th><td>{{ page.tags }}</td></tr>
+    {% endif %}
     {% if page.complink %}
     <tr><td colspan="2"><a href="{{ page.complink }}">Component Site</a></td></tr>
     {% endif %}

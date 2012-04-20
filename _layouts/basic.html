@@ -1,7 +1,20 @@
 {% assign base-url = site.force-prefix %}
 
 {% capture lcol %}{% include default-navigation.html %}{% endcapture %}
-{% assign rcol = "" %}
+
+{% if page.oneline %}
+{% capture rcol %}
+<table>
+  <caption>{{ page.title }}</caption>
+  <tr><td colspan="2">{{ page.oneline }}</td></tr>
+  {% if page.tags %}
+  <tr><th scope="row">Tags</th><td>{{ page.tags }}</td></tr>
+  {% endif %}
+</table>
+{% endcapture %}
+{% else %}
+{% capture rcol %}{% endcapture %}
+{% endif %}
 
 {% capture ccol %}{% endcapture %}
 

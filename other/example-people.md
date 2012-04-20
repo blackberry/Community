@@ -1,25 +1,37 @@
 ---
-layout: people
-
 title: Title of People Page
+oneline: Online Summary
+tags: list of tags
+
+layout: people
 ---
+{% include common-defs.md %}
 
-Extra content goes here.
+### Description
+Description goes here
 
+### Additional Links
+* One Link
+* Two Links
+
+### Also See
+List of other pages that are relevant to this one.  Use references whenver possible (see common-defs.md in include directory).
+
+<!-- Clone this page, remove after this comment -->
 ## More on the People Layout
 
 ### Layout and Variables
-The *people* template just includes the left-hand side *navigation* page.  
+The *basic* template has the left-hand side *navigation* page and a simple right-hand side *summary*.
+The summary is not shown if the *oneline* variable is not define
 
-The *people* template uses the following variables:
+The *basic* template uses the following variables:
 
-* _title_: Title of the People Page
-* _description_: Description of the People.  Will be run through markdown.
-* _links_: (optional) list of URLs of interest (twitter goes here, etc)
+* _title_: Title of the Basic Page
+* _oneline_: (optional) Oneline summary
 * _tags_: (optional) list of tags
 
 ### Extra Content (after YAML Header)
-Start with an overview, then provide the rest of your page.
+Follow the example shown in this page; clone the page and edit.
 
 ### Future work
 

@@ -1,13 +1,17 @@
 ---
-title: Tim Neil
-description: RIM developer
-
-links:
-  - bbui.js
-
-tags: rim
-
 layout: people
----
 
-This and that.
+title: Tim Neil
+oneline: RIM developer
+tags: rim
+---
+{% include common-defs.md %}
+
+### Description
+
+WebWorks founder.  Product Manager.  [bbUI.js] lead
+
+### Additional Links
+
+### Also See
+[bbUI.js]

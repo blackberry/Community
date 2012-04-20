@@ -2,15 +2,28 @@
 
 {% capture lcol %}{% include default-navigation.html %}{% endcapture %}
 
+{% if page.oneline %}
 {% capture rcol %}
 <table>
   <caption>{{ page.title }}</caption>
   <tr><td colspan="2">{{ page.oneline }}</td></tr>
+  {% if page.forum %}
+  <tr><th scope="row">Forum</th><td>{{ page.forum }}</td></tr>
+  {% endif %}
   {% if page.tags %}
   <tr><th scope="row">Tags</th><td>{{ page.tags }}</td></tr>
   {% endif %}
+  {% if page.techlink %}
+  <tr><td colspan="2"><a href="{{ page.techlink }}">Technology Site</a></td></tr>
+  {% endif %}
+</td>
+
 </table>
+
 {% endcapture %}
+{% else %}
+{% capture rcol %}{% endcapture %}
+{% endif %}
 
 {% capture ccol %}{% endcapture %}
 

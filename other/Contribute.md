@@ -1,8 +1,9 @@
 ---
-layout: basic
-
 title: Contribute to the Community Wiki
+
+layout: basic
 ---
+{% include common-defs.md %}
 
 The __developer/contributor-facing__ branch is the
 [master branch](https://github.com/pelegri/Community/tree/master).
