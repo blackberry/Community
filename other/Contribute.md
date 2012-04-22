@@ -5,16 +5,16 @@ layout: basic
 ---
 {% include common-defs.md %}
 
-There are many ways to contribute
+There are many ways to contribute.
 
 ### Advertise the Wiki
 
-We want to make this Wiki the main community-created entry point.  So, help us advertise it
+We want to make this Wiki the main community-created entry point for developers.  Help us advertise it.
 
 ### Improve its Quality
 
-If you see a page that needs fixing, file an Issue with a
-[content](https://github.com/blackberry-community/Community/issues?labels=content) label.
+If you believe there are errors in the content of a page, file an Issue and label it
+[content](https://github.com/blackberry-community/Community/issues?labels=content).
 
 ### Fix Existing Pages
 
@@ -22,18 +22,21 @@ The Wiki uses [GitHub Pages](http://help.github.com/pages/); the content itself 
 branch of the [Community](https://github.com/BlackBerry-Community/Community/tree/master) repo.
 We prefer submissions via a GitHub [pull request](http://help.github.com/send-pull-requests/).
 
-If your change is very simple, you might be able to use Inline Editing, see [QuickStart](QuickStart.html).
+If your change is very simple, you might be able to use Inline Editing, see our [QuickStart](QuickStart.html) page.
 
 ### Create New Pages
 
-Pages are written using layouts.  We provide examples that you can  copy and start editing:
+For substantial changes and for new content, you will need to use Git and GitHub to create and test your contribution;
+see [QuickStart](QuickStart.html) for details.
+
+Pages are written using one of these layouts:
 * [Basic](example-basic.html)
 * [Component](example-component.html)
 * [Technology](example-technology.html)
 * [FAQ](example-faq.html)
 * [People](example-people.html)
 
-If you are new to Git or GitHub, check out [QuickStart](QuickStart.html) Page.
+You can create a new page by copying and then editing one of the above example pages.
 
 ### Become a Core Member
 
