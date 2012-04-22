@@ -6,7 +6,7 @@
 Content in this
 [Community Wiki](http://blackberry-community.github.com/Community)
 is authored collectively by the community under the following [Terms and Conditions](TBD).
-Some of the content is authored by individuals that are RIM employees and
+Some of the content is authored by individuals who are RIM employees and
 ..._appropriate disclaimer goes here_...
 
 This Wiki is currently hosted at GitHub and implemented using Pages
@@ -37,7 +37,7 @@ A summary of the **_Contribution Opportunities_** is available at the
 
 The following teams collaborate to create the Wiki:
 
-* A very small team of [Administrator](TBD) that keeps the Wiki working.
+* A very small team of [Administrators](TBD) that keeps the Wiki working.
 * A dedicated team of [Editors](TBD) that keeps the integrity and consistency of the pages.   All Administrators are Editors.
 * A (we hope) large team of [Contributors](TBD) that provides content for the pages.
 * The rest of the community.
@@ -65,7 +65,7 @@ The simplest approach is to file an [Issue](https://github.com/blackberry/Commun
 Alternatively, fork the page, do the change and submit a pull request.
 We still need to finalize the legal details (see note below).
 
-*Legal Note* - All contributions will be done under the following [Terms and Conditions](TBD), whose
+*Legal Note* - All contributions will be done under the [Terms and Conditions](TBD), whose
 main goals are to ensure that the content can be reused and that the participants (including RIM) are
 legally protected.
  
@@ -91,7 +91,7 @@ Get a review from at least one other editor.
 You are responsible to review changes coming from the community members for content.
 And, depending on the details of the legal arrangement, you may need to review those too.
 
-In general, when in doubt, get feedback from addition people.
+In general, when in doubt, get feedback from additional people.
 
 ## Staging Area
 
