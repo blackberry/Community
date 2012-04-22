@@ -60,11 +60,22 @@ our *staging* repository,
 [Fork](http://help.github.com/fork-a-repo/) the staging repository.  Add your content to it (most likely
 by cloning into your local workstation), then send a [pull request](http://help.github.com/send-pull-requests/).
 
+### Can I Edit In my Browser?
+
+GitHub allows inline file editing and this may be very useful for quick and simple changes.
+The edit generates its own commit and pull request, so all the other machinery still applies,
+but visual feedback is limited to Markdown, without layouts.
+See [1], [2] and [3] for details.
+
+[1]: <https://github.com/blog/143-inline-file-editing> ""
+[2]: <https://github.com/blog/844-forking-with-the-edit-button> ""
+[3]: <https://github.com/blog/905-edit-like-an-ace> ""
+
 ### What are my First Steps?
 
 * Get a free account at GitHub.com
 * Learn about Markdown
-* Install Git in your workstation/laptop
+* Install Git in your workstation/laptop (not needed if you edit inline)
 
 ### Working Disconnected
 
