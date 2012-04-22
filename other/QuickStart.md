@@ -60,7 +60,7 @@ our *staging* repository,
 [Fork](http://help.github.com/fork-a-repo/) the staging repository.  Add your content to it (most likely
 by cloning into your local workstation), then send a [pull request](http://help.github.com/send-pull-requests/).
 
-### Can I Edit In my Browser?
+### Can I Edit in my Browser?
 
 GitHub allows inline file editing and this may be very useful for quick and simple changes.
 The edit generates its own commit and pull request, so all the other machinery still applies,
