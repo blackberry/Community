@@ -17,6 +17,10 @@ tags: OpenSource, Native, Component
 
 See thread in [Support Forum](http://supportforums.blackberry.com/t5/Native-SDK-for-BlackBerry-Tablet/Porting-openFrameworks-need-help-with-the-audio-QSA-part/td-p/1641151). This is a port driven by the team behind [NodeBeat]
 
+The current port is available in the developPlayBook branch of OpenFrameworks from [falcon4ever]
+(http://github.com/falcon4ever/openFrameworks/commits/developPlayBook)
+
+
 ### Additional Lnks:
 * [Wikipedia](http://en.wikipedia.org/wiki/OpenFrameworks)
 * [WebSite](http://www.openframeworks.cc/)
