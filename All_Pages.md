@@ -7,6 +7,8 @@ title: All Pages
 
 This should be an automatically generate list of all the pages in the wiki, but, in the meantime, here is a _manually-generated_ listing:
 
+<span id="lcol-content">
+
 **Technologies, Components, Products**
 
 * [Apache Cordova]
@@ -30,10 +32,6 @@ This should be an automatically generate list of all the pages in the wiki, but,
 * [Laurence Muller](Laurence_Muller.html)
 * [Tim Neil](Tim_Neil.html)
 
-**FAQ Pages**
-
-* none so far.
-
 **Other Pages**
 
 * [All Pages](All_Pages.html)
@@ -49,3 +47,13 @@ This should be an automatically generate list of all the pages in the wiki, but,
 * [Technology](other/example-technology.html)
 * [FAQ](other/example-faq.html)
 * [People](other/example-people.html)
+
+</span>
+
+<span id="rcol-content">
+
+**FAQ Pages**
+
+* none so far.
+
+</span>
