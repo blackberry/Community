@@ -57,6 +57,10 @@ This should be an automatically generate list of all the pages in the wiki, but,
 
 *******
 
+*News*
+
+Keep up with News...
+
 *Articles*
 
 **FAQ**
