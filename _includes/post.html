@@ -1,5 +1,5 @@
 <div>
-    <h3><a class="newsPost" href="{{ post.url }}">{{ post.title }}</a></h3>
+    <h3><a class="newsPost" href="{{ site.baseurl }}/{{ post.url }}">{{ post.title }}</a></h3>
 	<div>{{ post.date | date: '%m-%d-%Y' }}</div>
 	
   {% if content %}
