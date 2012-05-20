@@ -7,7 +7,13 @@ title: All Pages
 
 This should be an automatically generate list of all the pages in the wiki, but, in the meantime, here is a _manually-generated_ listing:
 
-<span id="lcol-content">
+*******
+
+*__Note__ This should be laid off as two columns, one for Pages and one for Articles, but jekyll does not properly handle markdown inside spans.*
+
+*******
+
+*Pages*
 
 **Technologies, Components, Products**
 
@@ -26,13 +32,13 @@ This should be an automatically generate list of all the pages in the wiki, but,
 * [Webkit]
 * [WebWorks]
 
-**People Pages**
+**People**
 
 * [Clifford Hung](Clifford_Hung.html)
 * [Laurence Muller](Laurence_Muller.html)
 * [Tim Neil](Tim_Neil.html)
 
-**Other Pages**
+**Other**
 
 * [All Pages](All_Pages.html)
 * [Community Wiki](Community_Wiki.html)
@@ -48,12 +54,15 @@ This should be an automatically generate list of all the pages in the wiki, but,
 * [FAQ](other/example-faq.html)
 * [People](other/example-people.html)
 
-</span>
 
-<span id="rcol-content">
+*******
 
-**FAQ Pages**
+*Articles*
+
+**FAQ**
 
 * none so far.
 
-</span>
+**In Depth**
+
+* none so far.
