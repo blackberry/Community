@@ -13,7 +13,7 @@ Partner in MultiGesture.net.  One of leads in port of [OpenFrameworks]
 
 ### Additional Links
 * [Multigesture.net](http://www.multigesture.net/)
-* [NodeBeat](http://nodebeat.org)
+* [NodeBeat](http://nodebeat.com)
 
 ### See Also
 [OpenFrameworks], [NodeBeat]
