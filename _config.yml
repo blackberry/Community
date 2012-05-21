@@ -1,3 +1,6 @@
-force-prefix: "/Community"
-# force-prefix: ""
 baseurl: "/Community"
+
+# no longer used
+#
+# force-prefix: "/Community"
+# force-prefix: ""
