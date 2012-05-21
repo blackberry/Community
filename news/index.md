@@ -1,15 +1,21 @@
 ---
-layout: default
+layout: news
 title: Community News
 ---
-
-<h1>Community News</h1>
 
 <div id="posts">
   <div>
     {% for post in site.posts %}
     <div style="border-bottom: 1px solid #DFDFDF;">
-      {% include post.html %}
+     <div>
+      <h3><a class="newsPost" href="{{ site.baseurl }}/{{ post.url }}">{{ post.title }}</a></h3>
+      <div>{{ post.date | date: '%m-%d-%Y' }}</div>
+      {% if content %}
+        {{ content }}
+      {% else %}
+        {{ post.content }}
+      {% endif %}
+     </div>
     </div>
     {% endfor %}
   </div>

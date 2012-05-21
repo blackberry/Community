@@ -1,24 +1,10 @@
 ---
-layout: default
+layout: news
 title: Latest Community News
 ---
 {% include news-defs.md %}
 
-#Latest Community News
-
-This page collects news from the community.  Reporters from the community submit news using the
-Edit-in-place feature of GitHub;
-if you don't have push rights on this repository, a community editor will review and
-accept your contribution.
-
-Use the example from the bottom of the page, and adjust the fields as appropriate.
-Place your submission at the top of the page so the latest news show first.
-Note this is a [markdown](http://github.github.com/github-flavored-markdown/) page.
-
-Community editors will regularly review this page, create new posts accessible from the
-[Main News Page](index.html) and will reset the page for the next batch.
-
-## News Submissions
+Content in this page is community-driven; read how to [Submit News](Submit_News.html).
 
 ### BlackBerry 10 Games at NordicGame
 **_What:_** Sean Taylor and Anders Jeppson (RIM) and Tim Closs (Marmalade) will present on Gaming on BlackBerry 10
@@ -61,13 +47,8 @@ to contribute to the [jQuery Mobile Cookbook](http://jquerymobilecookbook.com/) 
 **_Reporter:_** [Tim Windsor][timw]  
 **_Date:_** May 14, 2012
 
----
-
-## Sample News Submission
-
-### Title
-**_What:_** longer description  
-**_More Links:_** links  
-**_Reporter:_** Who reported the new  
-**_Date:_** Month Date, Year
-
+### New Beta Zone
+**_What:_** Update to [BlackBerry Beta Zone](http://blackberry.com/beta)
+**_More Links:_** [Experience a New BlackBerry Beta Zone](http://blogs.blackberry.com/2012/04/new-blackberry-beta-zone/ "Post at DevBlog")
+**_Reporter:_** Kerri B.
+**_Date:_** April 25, 2012

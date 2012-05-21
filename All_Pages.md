@@ -5,15 +5,7 @@ title: All Pages
 ---
 {% include common-defs.md %}
 
-This should be an automatically generate list of all the pages in the wiki, but, in the meantime, here is a _manually-generated_ listing:
-
-*******
-
-*__Note__ This should be laid off as two columns, one for Pages and one for Articles, but jekyll does not properly handle markdown inside spans.*
-
-*******
-
-*Pages*
+TBD - Automatically generate this list and render in two columns; the list below generated _manually_:
 
 **Technologies, Components, Products**
 
@@ -54,19 +46,3 @@ This should be an automatically generate list of all the pages in the wiki, but,
 * [FAQ](other/example-faq.html)
 * [People](other/example-people.html)
 
-
-*******
-
-*News*
-
-Keep up with News...
-
-*Articles*
-
-**FAQ**
-
-* none so far.
-
-**In Depth**
-
-* none so far.
