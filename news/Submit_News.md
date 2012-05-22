@@ -30,7 +30,7 @@ will create news entries accessible from the [Main News Page](index.html) and wi
 
 ### Short Title
 Longer description  
-_Links_: links; separated; by;  
 
+_Links_: links; separated; by;  
 _Submitted_: On Month Date, Year, by Somebody as link
 
