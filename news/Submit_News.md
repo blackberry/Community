@@ -29,8 +29,8 @@ will create news entries accessible from the [Main News Page](index.html) and wi
 ## Sample News Submission
 
 ### Short Title
-**_What:_** longer description  
-**_More Links:_** links  
-**_Reporter:_** Who reported the new  
-**_Date:_** Month Date, Year
+Longer description  
+_Links_: links; separated; by;  
+
+_Submitted_: On Month Date, Year, by Somebody as link
 
