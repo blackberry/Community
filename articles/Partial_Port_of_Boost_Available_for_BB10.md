@@ -2,7 +2,9 @@
 layout: basic
 title: Partial Port of Boost Available for BlackBerry 10
 ---
-{% include common-defs.md %}
+{% include articles-defs.md %}
+_Author_: [Clifford Hung]  
+_Date_: May 21, 2012  
 
 Selected parts of the <a href="http://www.boost.org/">Boost</a> C++ libraries (version 1.48.0)
 have been ported to run on BB 10.
