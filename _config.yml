@@ -1,4 +1,5 @@
 baseurl: "/Community"
+stage: "http://github.com/blackberry-community/Community/blob/gh-pages"
 
 # no longer used
 #
