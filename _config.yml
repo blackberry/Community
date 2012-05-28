@@ -1,2 +1,7 @@
-force-prefix: "/Community"
+baseurl: "/Community"
+stage: "http://github.com/blackberry-community/Community/blob/gh-pages"
+
+# no longer used
+#
+# force-prefix: "/Community"
 # force-prefix: ""

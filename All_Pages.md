@@ -5,7 +5,7 @@ title: All Pages
 ---
 {% include common-defs.md %}
 
-This should be an automatically generate list of all the pages in the wiki, but, in the meantime, here is a _manually-generated_ listing:
+TBD - Automatically generate this list and render in two columns; the list below generated _manually_:
 
 **Technologies, Components, Products**
 
@@ -24,17 +24,13 @@ This should be an automatically generate list of all the pages in the wiki, but,
 * [Webkit]
 * [WebWorks]
 
-**People Pages**
+**People**
 
 * [Clifford Hung](Clifford_Hung.html)
 * [Laurence Muller](Laurence_Muller.html)
 * [Tim Neil](Tim_Neil.html)
 
-**FAQ Pages**
-
-* none so far.
-
-**Other Pages**
+**Other**
 
 * [All Pages](All_Pages.html)
 * [Community Wiki](Community_Wiki.html)
@@ -49,3 +45,4 @@ This should be an automatically generate list of all the pages in the wiki, but,
 * [Technology](other/example-technology.html)
 * [FAQ](other/example-faq.html)
 * [People](other/example-people.html)
+
