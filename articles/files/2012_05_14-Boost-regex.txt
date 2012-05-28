@@ -1,0 +1,1 @@
+regress/test_simple_repeats.cpp:158: Error in test here:    regress/test_regex_search.hpp:525:Expression did not compile when it should have done: Invalid content of repeat range.  The error occured while parsing the regular expression: 'a{>>>HERE>>> 2 , 4 }'. (While testing N5boost11basic_regexIwNS_16cpp_regex_traitsIwEEEE)
