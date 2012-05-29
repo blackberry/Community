@@ -30,8 +30,12 @@ We provide template examples for all the layouts, so you can get copy one of the
 
 ### How Can You Report a Problem in a Page
 
-File an Issue with a
-[content](https://github.com/blackberry-community/Community/issues?labels=content) label.
+If you believe there are errors in the content of a page, file a
+[content Issue](https://github.com/blackberry/Community/issues?labels=content) on the main repository.
+
+Infrastructure problems are more nuanced, so we record them against the
+[Staging Repository](https://github.com/blackberry-community/Community/issues?labels=content).
+
 
 ### Where are Pages Kept?
 
@@ -99,8 +103,7 @@ This is useful for a fast edit loop, and to work disconnected.
 To create a local wiki, run Jekyll
 ([usage](https://github.com/mojombo/jekyll/wiki/Usage),
 [install](https://github.com/mojombo/jekyll/wiki/Install/2ac4260c25de04e9215573c3424bd6ecdcdae9ef))
-as <code>jekyll --server --base-url '/Community'</code> and point your browser to
-<code>localhost:4000/Community/</code>.
+as `jekyll --server` and point your browser to `localhost:4000/Community/`.
 
 ### Additional Information
 
