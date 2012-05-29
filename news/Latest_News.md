@@ -6,6 +6,10 @@ title: Latest Community News
 
 Content in this page is community-driven; read how to [Submit News](Submit_News.html).
 
+### bbUI.js 0.9.2 Now Available
+Tim has announced the next release of [bbUI.js][bbuijs], v0.9.2. Long list of changes, see the [commit log](https://github.com/blackberry/bbUI.js/commit/5aa6175b88189f1f78341786619561fce1c5f1f4),
+and the [ChangeLog](https://github.com/blackberry/bbUI.js/blob/master/CHANGELOG.md#version-092).
+
 ### BlackBerry 10 Jam World Tour Starts
 [Milan](http://www.blackberryjamworldtour.com/milan) marks the start of the
 [BlackBerry 10 Jam World Tour](http://www.blackberryjamworldtour.com).  Many locations are already sold out,
