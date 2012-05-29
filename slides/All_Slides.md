@@ -5,8 +5,7 @@ title: All Slide Decks
 ---
 {% include slides-defs.md %}
 
-TBD - Automatically generate this list and render in two columns; the list below generated _manually_
-Arrange reverse chronologically by date of presentation.
+Please keep in reverse chronological order by date of presentation.
 
 ### Mobile World Congress 2012
 * [The BlackBerry Developer Community](BlackBerry_Dev_Community.html) - Alec Saunders, Feb 28th, 2012
