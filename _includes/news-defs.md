@@ -3,3 +3,5 @@
 
 [jamtour]: <http://www.blackberryjamworldtour.com/> "BlackBerry 10 Jam World Tour"
 [devblog]: <http://devblog.blackberry.com"> "Inside BlackBerry DevBlog"
+
+[bbuijs]: <../bbUIjs.html> "A WebWorks-based Framework to write HTML5 applications using BBOS and BB10 Conventions"
