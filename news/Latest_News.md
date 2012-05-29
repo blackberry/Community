@@ -6,6 +6,14 @@ title: Latest Community News
 
 Content in this page is community-driven; read how to [Submit News](Submit_News.html).
 
+### BlackBerry 10 Jam World Tour Starts
+[Milan](http://www.blackberryjamworldtour.com/milan) marks the start of the
+[BlackBerry 10 Jam World Tour](http://www.blackberryjamworldtour.com).  Many locations are already sold out,
+so hurry up and register if you are interested.
+
+_Links_: [BlackBerry 10 Jam World Tour](http://www.blackberryjamworldtour.com)  
+_Submitted_: On May 29, 2012, by [Eduardo Pelegri-Llopart][pelegri]
+
 ### BlackBerry 10 Games at NordicGame
 Sean Taylor and Anders Jeppson (RIM) and Tim Closs (Marmalade) will present on Gaming on BlackBerry 10
 and Native Development for BlackBerry 10.  Sean will present the latest features of Gameplay.  
