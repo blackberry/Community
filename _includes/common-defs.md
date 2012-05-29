@@ -26,9 +26,10 @@
 [tunneltilt]: <TBD> "TBD"
 [webworkssamples]: <TBD> "Samples using the WebWorks framework"
 
-[blackberry_world]: <TBD> "TBD"
-[blackberry_10_jam]: <TBD> "TBD"
-[blackberry_devcon]: <TBD> "TBD"
+[bbw]: <TBD> "TBD"
+[bb10jam]: <TBD> "TBD"
+[devcon2012_america]: <TBD> "TBD"
+[devcon2012_europe]: <TBD> "TBD"
 
 [clifford_hung]: <Clifford_Hung.html> "Clifford Hung"
 [laurence_muller]: <Laurence_Muller.html> "Laurence Muller"
