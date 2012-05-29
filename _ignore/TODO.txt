@@ -1,5 +1,27 @@
-GamePlay
-NDK-Samples
-Ripple
-TunnelTilt
-Jonathan_Feldstein
+* Infrastructure: Add link to "edit this page"
+
+Each page should have a link to the blackberry-community page, so community members can edit
+the page there directly.
+
+* Look at each of 3 BlackBerry.com/Communities folders: Consumer, Business, Developer
+
+Decide how to incorporate that.  I think best is to move them into the single page
+"Inside BlackBerry"
+
+* Pass through all Pages
+
+To add correct layout, etc
+
+* Create pages for all repositories
+
+Link to general pages for each class, like [Samples]
+
+* Provide instructions on what to do when
+** Adding a repository
+** Adding a new sample to an existing repository
+
+
+;; Local Variables: **
+;; mode:outline **
+;; End: **
+
