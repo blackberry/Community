@@ -31,6 +31,7 @@ will create news entries accessible from the [Main News Page](index.html) and wi
 ### Short Title
 Longer description  
 
-_Links_: links; separated; by;  
-_Submitted_: On Month Date, Year, by Somebody as link
+_Source_: by link-to-Somebody, at link-to-OriginalSource, on Month Date, Year  
+or  
+_Source_: by link-to-Somebody, on Month Date, Year
 
