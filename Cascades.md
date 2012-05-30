@@ -34,11 +34,6 @@ TBD
 Below are the key presentations from [BlackBerry 10 Jam]; presentations from the World Tour
 are on their way.
 
-A full list of BlackBerry 10 Jam sessions is at the
-[Session Catalog](https://devcon.blackberryconferences.net/2012/scheduler/newCatalog.do).
-If you attended, you can get at the recordings
-from the [Conference Portal](https://bbworld.blackberryconferences.net/2012/portal/myPortal.ww).
-
 * DEV163 - Get Ready for Cascades Development
 ([Session](https://bbworld.blackberryconferences.net/2012/scheduler/modifySession.do?SESSION_ID=2481),
 [Recordings](http://blackberrydevcon.eventmystro.com/em/presentation-details/auid/715/nav/cat))

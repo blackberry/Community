@@ -5,6 +5,10 @@ title: All Slide Decks
 ---
 {% include slides-defs.md %}
 
+Also see:
+ * [BlackBerry Jam][bb10jam]
+ * [All Developer Conferences][devcon]
+
 Please keep in reverse chronological order by date of presentation.
 
 ### Mobile World Congress 2012

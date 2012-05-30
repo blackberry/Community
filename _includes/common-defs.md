@@ -28,9 +28,12 @@
 [webworkssamples]: <TBD> "Samples using the WebWorks framework"
 
 [bbw]: <TBD> "TBD"
-[bb10jam]: <TBD> "TBD"
-[devcon2012_america]: <TBD> "TBD"
-[devcon2012_europe]: <TBD> "TBD"
+[bb10jam]: <BlackBerry_Jam.html> "BlackBerry 10 Jam"
+[devcon]: <Developer_Conferences.html> "Developer Conferences"
+[devcon2011_america]: <Developer_Conferences.html> "Developer Conferences"
+[devcon2011_asia]: <Developer_Conferences.html> "Developer Conferences"
+[devcon2012_europe]: <Developer_Conferences.html> "Developer Conferences"
+
 
 [clifford_hung]: <Clifford_Hung.html> "Clifford Hung"
 [laurence_muller]: <Laurence_Muller.html> "Laurence Muller"
