@@ -1,8 +1,8 @@
 ---
 title: Cascades
 oneline: Framework to Build BlackBerry 10 Native Apps
-forum: http://supportforums.blackberry.com/t5/Cascades-Development/bd-p/Cascades
-techlink: https://developer.blackberry.com/cascades/
+forum: "http://supportforums.blackberry.com/t5/Cascades-Development/bd-p/Cascades"
+techlink: "https://developer.blackberry.com/cascades/"
 tags: cascades, native, blackberry10
 
 layout: technology
@@ -15,21 +15,33 @@ Framework to Build Fuild BlackBerry 10 Native Apps,
 Cascades was previewed initially at [BlackBerry DevCon 2012 Europe][devcon2012_europe]
 and then presented in detail at [BlackBerry 10 Jam][bb10jam].
 
-### Additional Links
-* [Developer Home](https://developer.blackberry.com/cascades/)
+The key web page is the [Cascades Micro-Site](https://developer.blackberry.com/cascades/).
+The site has many useful areas, including:
 * [Introduction](https://developer.blackberry.com/cascades/documentation/getting_started/introtocascades.html)
 * [Sample Apps](https://developer.blackberry.com/cascades/sampleapps)
 * [Documentation](https://developer.blackberry.com/cascades/documentation)
 * [Online Reference](https://developer.blackberry.com/cascades/reference/classes.html)
 * [Downloads](https://developer.blackberry.com/cascades/download)
 
-### Forum
-[Cascades Development Forum](http://supportforums.blackberry.com/t5/Cascades-Development/bd-p/Cascades)
+The main forum for questions is the:
 
-### Also See
-TBD
+* [Cascades Development Forum](http://supportforums.blackberry.com/t5/Cascades-Development/bd-p/Cascades)
 
-### Media
+The main tool for authoring Cascades is:
+
+* [Cascades Builder](https://developer.blackberry.com/cascades/documentation/getting_started/cascades_builder/index.html)
+
+The Cascades Builder is bundled in the QNX Momentics IDE.
+
+### Cascades Samples
+
+Samples are critical to speeding up learning and using new technology.
+Whenever possible we release samples under an Open Source license to simplify their use in whatever contexts are most useful
+to the developer communities.
+
+A list of the currently available samples is at [Cascades Samples].
+
+### Presentations and Other Media
 
 Below are the key presentations from [BlackBerry 10 Jam]; presentations from the World Tour
 are on their way.
@@ -63,4 +75,6 @@ are on their way.
 [Abstract](http://blackberrydevcon.eventmystro.com/em/presentation-details/auid/731/nav/cat))
 
 
- 
+### Also See
+TBD
+

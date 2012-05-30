@@ -7,17 +7,15 @@
 <table>
   <caption>{{ page.title }}</caption>
   <tr><td colspan="2">{{ page.oneline }}</td></tr>
-  {% if page.forum %}
-  <tr><td scope="row"><a href="{{ page.forum }}">Forum</a></td></tr>
+  {% if page.forum != null %}
+  <tr><th scope="row"><a href="{{ page.forum }}">Forum</a></th><td></td></tr>
   {% endif %}
-  {% if page.techlink %}
-  <tr><td colspan="2"><a href="{{ page.techlink }}">Technology Site</a></td></tr>
+  {% if page.techlink != null %}
+  <tr><th scope="row"><a href="{{ page.technlink }}">Website</a></th><td></td></tr>
   {% endif %}
   {% if page.tags %}
   <tr><th scope="row">Tags</th><td>{{ page.tags }}</td></tr>
   {% endif %}
-</td>
-
 </table>
 
 {% endcapture %}
