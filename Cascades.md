@@ -1,8 +1,8 @@
 ---
 title: Cascades
 oneline: Framework to Build BlackBerry 10 Native Apps
-forum: http://supportforums.blackberry.com/t5/Cascades-Development/bd-p/Cascades
-techlink: https://developer.blackberry.com/cascades/
+forum: "http://supportforums.blackberry.com/t5/Cascades-Development/bd-p/Cascades"
+techlink: "https://developer.blackberry.com/cascades/"
 tags: cascades, native, blackberry10
 
 layout: technology
@@ -10,34 +10,45 @@ layout: technology
 {% include common-defs.md %}
 
 ### Description
-Framework to Build Fuild BlackBerry 10 Native Apps,
+Framework to Build Fuild BlackBerry 10 Native Apps.
+Cascades leverages the Qt object model, event model, and threading model, using
+QtCore, QtXML, QtSql, QtNetwork and QtSensors.
+The UI framework it based on an scene graph model and can be programmed at the C++ or QML level.
+Cascades includes a rich set of core and advanced controls and is OpenGL-accelerated.
 
 Cascades was previewed initially at [BlackBerry DevCon 2012 Europe][devcon2012_europe]
 and then presented in detail at [BlackBerry 10 Jam][bb10jam].
 
-### Additional Links
-* [Developer Home](https://developer.blackberry.com/cascades/)
+The key web page is the [Cascades Micro-Site](https://developer.blackberry.com/cascades/).
+The site has many useful areas, including:
 * [Introduction](https://developer.blackberry.com/cascades/documentation/getting_started/introtocascades.html)
 * [Sample Apps](https://developer.blackberry.com/cascades/sampleapps)
 * [Documentation](https://developer.blackberry.com/cascades/documentation)
 * [Online Reference](https://developer.blackberry.com/cascades/reference/classes.html)
 * [Downloads](https://developer.blackberry.com/cascades/download)
 
-### Forum
-[Cascades Development Forum](http://supportforums.blackberry.com/t5/Cascades-Development/bd-p/Cascades)
+The main forum for questions is the:
 
-### Also See
-TBD
+* [Cascades Development Forum](http://supportforums.blackberry.com/t5/Cascades-Development/bd-p/Cascades)
 
-### Media
+The main tool for authoring Cascades is:
+
+* [Cascades Builder](https://developer.blackberry.com/cascades/documentation/getting_started/cascades_builder/index.html)
+
+The Cascades Builder is bundled in the QNX Momentics IDE.
+
+### Cascades Samples
+
+Samples are critical to speeding up learning and using new technology.
+Whenever possible we release samples under an Open Source license to simplify their use in whatever contexts are most useful
+to the developer communities.
+
+A list of the currently available samples is at [Cascades Samples].
+
+### Presentations and Other Media
 
 Below are the key presentations from [BlackBerry 10 Jam]; presentations from the World Tour
 are on their way.
-
-A full list of BlackBerry 10 Jam sessions is at the
-[Session Catalog](https://devcon.blackberryconferences.net/2012/scheduler/newCatalog.do).
-If you attended, you can get at the recordings
-from the [Conference Portal](https://bbworld.blackberryconferences.net/2012/portal/myPortal.ww).
 
 * DEV163 - Get Ready for Cascades Development
 ([Session](https://bbworld.blackberryconferences.net/2012/scheduler/modifySession.do?SESSION_ID=2481),
@@ -68,4 +79,6 @@ from the [Conference Portal](https://bbworld.blackberryconferences.net/2012/port
 [Abstract](http://blackberrydevcon.eventmystro.com/em/presentation-details/auid/731/nav/cat))
 
 
- 
+### Also See
+TBD
+
