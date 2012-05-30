@@ -16,7 +16,7 @@ The event happened at the same time as [BlackBerry World](http://www.blackberryw
 and it included a preview of some of the BlackBerry 10 features and the [BlackBerry 10 Dev Alpha](http://devblog.blackberry.com/2012/05/what-is-blackberry-10-dev-alpha/).
 
 A full list of BlackBerry 10 Jam sessions is at the
-[Session Catalog](https://devcon.blackberryconferences.net/2012/scheduler/newCatalog.do).
+[Session Catalog](https://bbworld.blackberryconferences.net/2012/scheduler/newCatalog.do).
 If you attended, you can get at the recordings
 from the [Conference Portal](https://bbworld.blackberryconferences.net/2012/portal/myPortal.ww).
 
