@@ -1,3 +1,8 @@
+[all_pages]: <All_Pages.html> "All Pages in this Wiki"
+[all_articles]: <articles/All_Articles.html> "All Articles in this Wiki"
+[all_slides]: <slides/All_Slides.html> "All Presentations in this Wiki"
+[all_news]: <news/index.html> "All News in this Wiki"
+
 [apache_cordova]: <Apache_Cordova.html> "The Open Source HTML5 Cross-Platform Framework"
 [bbuijs]: <bbUIjs.html> "A WebWorks-based Framework to write HTML5 applications using BBOS and BB10 Conventions"
 [blackberry_10]: <BlackBerry_10.html> "The next generation BlackBerry Platform"
