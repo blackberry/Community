@@ -26,8 +26,8 @@ Wiki pages are written in
 ### Staged and Released Wikis
 
 There are multiple wikis.  The _released_ Wiki is
-[blackberry.github.com/Community/][2], while the _staged_ Wiki is at
-[blackberry-community.github.com/Community/][3].
+[blackberry.github.com/Community][2], while the _staged_ Wiki is at
+[blackberry-community.github.com/Community][3].
 These are the only two Wikis you will encounter although
 some individuals may create [forks](http://help.github.com/fork-a-repo/)
 of the Wiki to create complex contributions.
