@@ -47,36 +47,36 @@ A list of the currently available samples is at [Cascades Samples].
 
 ### Presentations and Other Media
 
-Below are the key presentations from [BlackBerry 10 Jam]; presentations from the World Tour
+Below are the key presentations from [BlackBerry 10 Jam][bb10jam]; presentations from the World Tour
 are on their way.
 
 * DEV163 - Get Ready for Cascades Development
-([Session](https://bbworld.blackberryconferences.net/2012/scheduler/modifySession.do?SESSION_ID=2481),
-[Recordings](http://blackberrydevcon.eventmystro.com/em/presentation-details/auid/715/nav/cat))
+([Session](https://bbworld.blackberryconferences.net/2012/scheduler/sessionDetails.do?SESSION_ID=DEV163),
+[Recordings](http://blackberrydevcon.eventmystro.com/em/presentation-details/auid/715/nav/cat "Requires Registration"))
 * DEV166 - Cascades Basics
-([Session](https://bbworld.blackberryconferences.net/2012/scheduler/modifySession.do?SESSION_ID=2860),
-[Recordings](http://blackberrydevcon.eventmystro.com/em/presentation-details/auid/720/nav/cat))
+([Session](https://bbworld.blackberryconferences.net/2012/scheduler/sessionDetails.do?SESSION_ID=DEV166),
+[Recordings](http://blackberrydevcon.eventmystro.com/em/presentation-details/auid/720/nav/cat "Requires Registration"))
 * DEV106 - Cascades: Understanding and Applying UI Fundamentals
-([Session](https://bbworld.blackberryconferences.net/2012/scheduler/modifySession.do?SESSION_ID=2366),
-[Recordings](http://blackberrydevcon.eventmystro.com/em/presentation-details/auid/685/nav/cat))
+([Session](https://bbworld.blackberryconferences.net/2012/scheduler/sessionDetails.do?SESSION_ID=DEV106),
+[Recordings](http://blackberrydevcon.eventmystro.com/em/presentation-details/auid/685/nav/cat "Requires Registration"))
 * DEV165 - BlackBerry 10 Cascades Samples
-([Session](https://bbworld.blackberryconferences.net/2012/scheduler/modifySession.do?SESSION_ID=2840),
-[Recordings](http://blackberrydevcon.eventmystro.com/em/presentation-details/auid/719/nav/cat))
+([Session](https://bbworld.blackberryconferences.net/2012/scheduler/sessionDetails.do?SESSION_ID=DEV165),
+[Recordings](http://blackberrydevcon.eventmystro.com/em/presentation-details/auid/719/nav/cat "Requires Registration"))
 * DEV178 - The Importance of Designer-Developer Collaboration: Cascades Tools that Can Help
-([Session](https://bbworld.blackberryconferences.net/2012/scheduler/modifySession.do?SESSION_ID=2445),
-[Recordings](http://blackberrydevcon.eventmystro.com/em/presentation-details/auid/712/nav/cat))
+([Session](https://bbworld.blackberryconferences.net/2012/scheduler/sessionDetails.do?SESSION_ID=DEV178),
+[Recordings](http://blackberrydevcon.eventmystro.com/em/presentation-details/auid/712/nav/cat "Requires Registration"))
 * DEV167 – Advanced UI Frameworks Using Cascades
-([Session](https://bbworld.blackberryconferences.net/2012/scheduler/modifySession.do?SESSION_ID=2861),
-[Recordings](http://blackberrydevcon.eventmystro.com/em/presentation-details/auid/721/nav/cat))
+([Session](https://bbworld.blackberryconferences.net/2012/scheduler/sessionDetails.do?SESSION_ID=DEV167),
+[Recordings](http://blackberrydevcon.eventmystro.com/em/presentation-details/auid/721/nav/cat "Requires Registration"))
 * DEV105 – Design and Build a Fluent App Experience with Cascade
-([Session](https://bbworld.blackberryconferences.net/2012/scheduler/modifySession.do?SESSION_ID=2365),
-[Abstract](http://blackberrydevcon.eventmystro.com/em/presentation-details/auid/684/nav/cat))
+([Session](https://bbworld.blackberryconferences.net/2012/scheduler/sessionDetails.do?SESSION_ID=DEV105),
+[Recordings](http://blackberrydevcon.eventmystro.com/em/presentation-details/auid/684/nav/cat "Requires Registration"))
 * DEV129 – How We Built BBM Using the BlackBerry 10 Platform and Cascade
-([Session](https://bbworld.blackberryconferences.net/2012/scheduler/modifySession.do?SESSION_ID=2390),
-[Abstract](http://blackberrydevcon.eventmystro.com/em/presentation-details/auid/693/nav/cat))
+([Session](https://bbworld.blackberryconferences.net/2012/scheduler/sessionDetails.do?SESSION_ID=DEV129),
+[Recordings](http://blackberrydevcon.eventmystro.com/em/presentation-details/auid/693/nav/cat "Requires Registration"))
 * DEV177 – Building Compelling 3D Apps using Cascades and OpenGL E
-([Session](https://bbworld.blackberryconferences.net/2012/scheduler/modifySession.do?SESSION_ID=3020),
-[Abstract](http://blackberrydevcon.eventmystro.com/em/presentation-details/auid/731/nav/cat))
+([Session](https://bbworld.blackberryconferences.net/2012/scheduler/sessionDetails.do?SESSION_ID=DEV177),
+[Recordings](http://blackberrydevcon.eventmystro.com/em/presentation-details/auid/731/nav/cat "Requires Registration"))
 
 
 ### Also See
