@@ -19,6 +19,13 @@ so hurry up and register if you are interested.
 
 _Source_: [Eduardo Pelegri-Llopart][pelegri], on May 29, 2012 
 
+### More Upstreaming: LibCurl
+[Joe Mason](http://twitter.com/joenotcharles)'s changes to libcurl have been accepted.  They provide a new auth callback
+and should be integrated in a [future release](http://curl.haxx.se/mail/lib-2012-05/0138.html).  This is a good example
+of how contributing directly to the community is a win-win for all involved parties.
+
+_Source_: [Joe Mason](http://twitter.com/joenotcharles), on May 24, 2012
+
 ### BlackBerry 10 Games at NordicGame
 Sean Taylor and Anders Jeppson (RIM) and Tim Closs (Marmalade) will present on Gaming on BlackBerry 10
 and Native Development for BlackBerry 10 at [NordicGame](http://nordicgame.com/).

@@ -7,7 +7,28 @@ title: BlackBerry 10 Jam
 
 ## Overview
 
-Official Developer Conferences for BlackBerry 10
+Official Developer Conferences for BlackBerry 10 listed in reverse chronological order.
+
+## BlackBerry 10 Jam World Tour
+
+The BlackBery 10 Jam World Tour is ongoing.  Registration is open and slots are filing up very fast.
+Full details are at [BlackBerry 10 Jam World Tour](http://www.blackberryjamworldtour.com/).
+
+### Next Cities
+
+The next 5 cities are:
+* [Austin], June 5, 2012
+* [Santa Clara], June 7, 2012
+* [Paris], June 12, 2012
+* [London], June 14, 2012
+* [New York], June 19, 2012
+
+### Cities Visited
+
+* [Milan], May 29, 2012
+* [Barcelona], May 31, 2012
+
+Slides from these presentations will be available in the near future.
 
 ## BlackBerry 10 Jam
 
@@ -20,9 +41,3 @@ A full list of BlackBerry 10 Jam sessions is at the
 If you attended, you can get at the recordings
 from the [Conference Portal](https://bbworld.blackberryconferences.net/2012/portal/myPortal.ww).
 
-
-## BlackBerry 10 Jam World Tour
-
-See [BlackBerry 10 Jam World Tour](http://www.blackberryjamworldtour.com/).
-
-Slides from these presentations will be available in the near future.
