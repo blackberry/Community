@@ -13,12 +13,12 @@ for more details.
 ### GitHub, Git and Markdown
 
 This wiki is hosted at [GitHub](http://en.wikipedia.org/wiki/GitHub).
-Technically the Wiki is a [Git][1] repository
+Technically the Wiki is a [Git][4] repository
 using [GitHub Pages](http://help.github.com/pages/) and
 [Jekyll](http://github.com/mojombo/jekyll/),
 but you can mostly ignore that for these instructions
 
-[1]: <http://en.wikipedia.org/wiki/Git_(software)>
+[4]: <http://en.wikipedia.org/wiki/Git_(software)>
 
 Wiki pages are written in
 [Markdown](http://daringfireball.net/projects/markdown/) and the source files end in .md.
@@ -26,14 +26,14 @@ Wiki pages are written in
 ### Staged and Released Wikis
 
 There are multiple wikis.  The _released_ Wiki is
-[blackberry.github.com/Community][2], while the _staged_ Wiki is at
-[blackberry-community.github.com/Community][3].
+[blackberry.github.com/Community][5], while the _staged_ Wiki is at
+[blackberry-community.github.com/Community][6].
 These are the only two Wikis you will encounter although
 some individuals may create [forks](http://help.github.com/fork-a-repo/)
 of the Wiki to create complex contributions.
 
-[2]: <http://blackberry.github.com/Community/index.html>
-[3]: <http://blackberry-community.github.com/Community/index.html>
+[5]: <http://blackberry.github.com/Community/index.html>
+[6]: <http://blackberry-community.github.com/Community/index.html>
 
 You submit contributions to the staged wiki, which are
 then accepted and eventually promoted to the released wiki.
