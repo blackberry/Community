@@ -34,6 +34,10 @@ TBD - Automatically generate this list and render in two columns; the list below
 * [Webkit]
 * [WebWorks]
 
+**Places**
+
+* [Barcelona]
+
 **People**
 
 * [Clifford Hung](Clifford_Hung.html)
