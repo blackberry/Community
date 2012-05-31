@@ -12,11 +12,11 @@ BlackBerry Developer Community in the area around Austin, Texas
 
 ## Future Events
 
-TBD
+* June 5, 2012 - [Austin](http://www.blackberryjamworldtour.com/austin) stop in [BlackBerry 10 Jam World Tour][bb10jam].
 
 ## Past Events
 
-June 5, 2012 - [Austin](http://www.blackberryjamworldtour.com/austin) stop in [BlackBerry 10 Jam World Tour][bb10jam].
+TBD
 
 ## Developer Groups
 
