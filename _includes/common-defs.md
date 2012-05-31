@@ -12,6 +12,7 @@
 [debugtoken]: <DebugToken.html> "DebugToken"
 [events]: <Events.html> "Events"
 [frogatto]: <Frogatto.html> "A 2-D Game"
+[nfc]: <NFC.html> "NFC - Near Field Communication"
 [opencv]: <OpenCV.html> "Language that leverages GPUs"
 [openframeworks]: <OpenFrameworks> "Open Source Framework for Creative Media Applications"
 [opengl]: <OpenGL.html> "Language .."
@@ -29,12 +30,12 @@
 [gameplay]: <GamePlay.html> "Portable, OpenSource Gaming Framework"
 [jquery-mobile]: <jQuery-Mobile-Samples.html> "jQuery-Mobile-Samples Repository"
 
-[gameplay-repo]: <http://github.com/blackberry/GamePlay.html> "Portable, OpenSource Gaming Framework"
-[jquery-mobile-samples]: <http://github.com/blackberry/jQuery-Mobile-Samples.html> "jQuery-Mobile-Samples Repository"
-[cascades-samples]: <http://github.com/blackberry/Cascades-Samples.html> "Cascades-Samples Repository"
-[cascades-community-samples]: <http://github.com/blackberry/Cascades-Community-Samples.html> "Cascades-Community-Samples Repository"
-[ndk-samples]: <http://github.com/blackberry/NDK-Samples.html> "Native Samples that can be used with the NDK"
-[scoreloop-samples]: <http://github.com/blackberry/Scoreloop-Samples.html> "Socoreloop-Samples Repository"
+[gameplay-repo]: <http://github.com/blackberry/Gameplay> "Portable, OpenSource Gaming Framework"
+[jquery-mobile-samples]: <http://github.com/blackberry/jQuery-Mobile-Samples> "jQuery-Mobile-Samples Repository"
+[cascades-samples]: <http://github.com/blackberry/Cascades-Samples> "Cascades-Samples Repository"
+[cascades-community-samples]: <http://github.com/blackberry/Cascades-Community-Samples> "Cascades-Community-Samples Repository"
+[ndk-samples]: <http://github.com/blackberry/NDK-Samples> "Native Samples that can be used with the NDK"
+[scoreloop-samples]: <http://github.com/blackberry/Scoreloop-Samples> "Socoreloop-Samples Repository"
 
 
 [air_samples]: <TBD> "TBD"
@@ -72,3 +73,11 @@
 [asl2]: <http://www.apache.org/licenses/LICENSE-2.0.html> "Apache License, Version 2.0"
 [gpl]: <TBD> "TBD"
 [bsd]: <http://en.wikipedia.org/wiki/BSD_licenses> "BSD Licenses, at Wikipedia"
+
+[dc12e_dev339]: <slides/devcon2012-europe/Which_Programming_Environment_for_You.html> "Which Programming Environment is Right for You?"
+[dc12e_dev311]: <slides/devcon2012-europe/Build_NFC_App.html> "How to Build an NFC-Enabled App"
+[dc12e_dev319]: <slides/devcon2012-europe/Introduction_to_PlayBook_NDK.html> "Introduction to the BlackBerry PlayBook Native SDK: Building a Sample Application"
+[dc12e_dev301]: <slides/devcon2012-europe/Introduction_to_WebWorks.html> "Introduction to BlackBerry WebWorks"
+[dc12e_dev345]: <slides/devcon2012-europe/Mastering_Java_Layouts.html> "Mastering Java Layouts: Fields, Managers, and Screens"
+
+[mwc2012_asaunders]: <slides/mwc2012/BlackBerry_Dev_Community.html> "The BlackBerry Developer Community"

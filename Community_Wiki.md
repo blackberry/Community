@@ -11,7 +11,7 @@ The BlackBerry&reg; Community Wiki is authored collectively by the BlackBerry co
 
 #### Pages
 
-These short, usually one screenful, overviews of components, technology, or any other topic.
+Pages are short, usually one screenful, overviews of components, technology, or any other topic.
 The goal of these pages is to point the reader to the right place where to get more detailed information.
 Whenever possible we will want to avoid duplicating information readily available elsewhere.
 
