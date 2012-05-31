@@ -45,6 +45,18 @@ page but also topics covered, level of detail and format.
 The location of this wiki and the technology it uses may change over time, but the content and the contribution
 structure will remain the same.
 
+## Under the Covers
+
+The BlackBerry® Community Wiki uses [GitHub Pages](http://help.github.com/pages/)
+mostly written in [Markdown](http://daringfireball.net/projects/markdown/)
+with templating provided via [Jekyll](http://github.com/mojombo/jekyll/).
+The benefits of this approach over GitHub’s Wiki are [discussed here](http://supportforums.blackberry.com/t5/General-Open-Source-Topics/Community-Wiki-at-GitHub-Pages-or-Wiki/td-p/1466637).
+
+We use two main repositories: [one](http://github.com/blackberry/Community)
+corresponds to the [released Wiki](http://blackberry.github.com/Community)
+and the [other](http://github.com/blackberry-community/Community)
+corresponds to the [staged Wiki](http://blackberry-community.github.com/Community).
+
 ## Terms and Conditions
 
 Content to this Wiki is available under the following [Terms and Conditions](other/Legal.html).
