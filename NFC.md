@@ -36,7 +36,7 @@ Samples for BlackBerry 10 are on their way.
 
 #### DevCon 2012 Europe
 
-* [DEV311 - How to Build an NFC-Enabled App][dc12e_dev311] - Java for BBOS
+* DEV311 - How to Build an NFC-Enabled App ([Session][dc12e_dev311], No recordings) - Java for BBOS
 
 
 #### [BlackBerry 10 Jam][bb10jam]
