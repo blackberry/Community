@@ -6,6 +6,13 @@ title: Latest Community News
 
 Content in this page is community-driven; read how to [Submit News](Submit_News.html).
 
+### New Cascades Sample: HelloCamera
+Sean McVeight has added a new [Cascades] sample showing how to use the Camera on [BlackBerry 10].
+Check out the code at the [Cascades-Community-Samples][http://github.com/blackberry/Cascades-Community-Samples],
+under [HelloCamera][https://github.com/blackberry/Cascades-Community-Samples/tree/master/HelloCamera].
+
+_Source_: [Sean McVeight][TBD], on June 1, 2012 
+
 ### bbUI.js 0.9.2 Now Available
 Tim has announced the next release of [bbUI.js][bbuijs], v0.9.2. Long list of changes, see the [commit log](https://github.com/blackberry/bbUI.js/commit/5aa6175b88189f1f78341786619561fce1c5f1f4),
 and the [ChangeLog](https://github.com/blackberry/bbUI.js/blob/master/CHANGELOG.md#version-092).
