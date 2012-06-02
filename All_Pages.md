@@ -36,7 +36,14 @@ TBD - Automatically generate this list and render in two columns; the list below
 
 **Places**
 
+* [Austin]
 * [Barcelona]
+* [Guatemala]
+* [London]
+* [Milan]
+* [New York]
+* [Paris]
+* [Santa Clara]
 
 **People**
 

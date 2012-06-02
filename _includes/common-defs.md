@@ -82,10 +82,11 @@
 
 [mwc2012_asaunders]: <slides/mwc2012/BlackBerry_Dev_Community.html> "The BlackBerry Developer Community"
 
-[barcelona]: <Barcelona.html> "Barcelona, Catalonia, Spain, and nearby areas"
-[milan]: <Milan.html> "Milan, Italy, and nearby areas"
-[london]: <London.html> "London, UK, and nearby areas"
-[paris]: <Paris.html> "Paris, France, and nearby areas"
 [austin]: <Austin.html> "Austin, Texas, USA, and nearby areas"
-[santa_clara]: <Santa_Clara.html> "Santa Clara, California, USA, and nearby areas"
+[barcelona]: <Barcelona.html> "Barcelona, Catalonia, Spain, and nearby areas"
+[guatemala]: <Guatemala.html> "Guatemala, Guatemala, and nearby areas"
+[london]: <London.html> "London, UK, and nearby areas"
+[milan]: <Milan.html> "Milan, Italy, and nearby areas"
 [new_york]: <New_York.html> "New York, NY, USA, and nearby areas"
+[paris]: <Paris.html> "Paris, France, and nearby areas"
+[santa_clara]: <Santa_Clara.html> "Santa Clara, California, USA, and nearby areas"
