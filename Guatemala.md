@@ -8,7 +8,7 @@ title: Guatemala
 ## Overview
 
 BlackBerry Developer Community in the area around Guatemala
-([Wikipedia](http://en.wikipedia.org/wiki/Guatemala), [Gov Website](http://www.guatemala.gob.gt/)
+([Wikipedia](http://en.wikipedia.org/wiki/Guatemala), [Gov Website](http://www.guatemala.gob.gt/))
 
 ## Future Events
 
