@@ -7,6 +7,7 @@
 [bbuijs]: <bbUIjs.html> "A WebWorks-based Framework to write HTML5 applications using BBOS and BB10 Conventions"
 [blackberry_10]: <BlackBerry_10.html> "The next generation BlackBerry Platform"
 [bugs]: <Bugs.html> "Filing and Searching for Bugs"
+[camera]: <Camera.html> "Camera APIs"
 [cascades]: <Cascades.html> "Cascades"
 [cascades_samples]: <Cascades_Samples.html> "Cascades_Samples"
 [debugtoken]: <DebugToken.html> "DebugToken"

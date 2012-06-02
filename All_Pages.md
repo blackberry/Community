@@ -14,6 +14,7 @@ TBD - Automatically generate this list and render in two columns; the list below
 * [BlackBerry 10]
 * [BlackBerry Jam][bb10jam]
 * [Bugs]
+* [Camera]
 * [Cascades]
 * [Cascades Samples]
 * [DebugToken]
