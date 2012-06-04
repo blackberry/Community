@@ -3,6 +3,9 @@ layout: news
 title: Community News
 ---
 
+<h3>Latest News</h3>
+See [News Highlights](Latest_News.html).
+
 <div id="posts">
   <div>
     {% for post in site.posts %}
