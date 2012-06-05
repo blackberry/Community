@@ -11,7 +11,13 @@ Sean McVeight has added a new [Cascades] sample showing how to use the Camera on
 Check out the code at the [Cascades-Community-Samples][http://github.com/blackberry/Cascades-Community-Samples],
 under [HelloCamera][https://github.com/blackberry/Cascades-Community-Samples/tree/master/HelloCamera].
 
-_Source_: [Sean McVeight][TBD], on June 1, 2012 
+_Source_: [Sean McVeight][TBD], on June 1, 2012
+
+### BlackBerry PlayBook 2.1 beta
+The beta release of the BlacKBerry PlayBook 2.1.0 is now available; we encourage developers to use it to test
+their applications before the final release.
+
+_Source_: [Tim Windsor], at [DevBlog](Today we are releasing a beta of BlackBerry® Tablet OS 2.1.0 for developers to test their applications with), on May 31, 2012
 
 ### bbUI.js 0.9.2 Now Available
 Tim has announced the next release of [bbUI.js][bbuijs], v0.9.2. Long list of changes, see the [commit log](https://github.com/blackberry/bbUI.js/commit/5aa6175b88189f1f78341786619561fce1c5f1f4),
@@ -65,6 +71,13 @@ Updates to the [Jam Tour][jamtour] page with new cities and dates.
 
 _Source_: [Alex Kinsella][alexk], at [DevBlog](http://devblog.blackberry.com/2012/05/blackberry_10_jam_world_tour_update_2/ "BlackBerry 10 Jam World Tour Update"), on May 5, 2012   
 
+### PictureWall Sample
+[PictureWall](http://github.com/blackberry/picturewall) is a new HTML5 sample that displays one or more pictures
+on a _wall_ of PlayBooks, served from a [node.js](http://nodejs.org/) application
+using [socket.io](http://socket.io/).
+More details at [DevBlog](http://devblog.blackberry.com/2012/05/picturewall-html5-sample/)
+
+_Source_: [Eduardo Pelegri-LLopart][pelegri], on May 23, 2012
 
 ### BlackBerry Samples for jQuery Mobile
 New repo [jQuery-Mobile-Samples](http://github.com/blackberry/jquery-mobile-samples) to be used
