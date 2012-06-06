@@ -6,6 +6,14 @@ title: Latest Community News
 
 Content in this page is community-driven; read how to [Submit News](Submit_News.html).
 
+### Update to WebWorks and Ripple
+New versions of BlackBerry 10 WebWorks SDK and Ripple available from [download page](http://devblog.blackberry.com/2012/06/blackberry-10-webworks-sdk-ripple-update/).
+Open Source repos are [Ripple-UI](https://github.com/blackberry/Ripple-UI) and
+[BB10-WebWorks-Packager](https://github.com/blackberry/BB10-Webworks-Packager).
+On the last one, we are in the middle of consolidating the WebWorks repos for BlackBerry 10, so stay tuned.
+
+_Source_: [Ken Wallis][TBD], at [DevBlog](), on June 6, 2012
+
 ### New Cascades Sample: HelloCamera
 Sean McVeight has added a new [Cascades] sample showing how to use the Camera on [BlackBerry 10].
 Check out the code at the [Cascades-Community-Samples][http://github.com/blackberry/Cascades-Community-Samples],
