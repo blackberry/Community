@@ -21,5 +21,5 @@
 
 [bb10jam]: <../BlackBerry_Jam.html> "BlackBerry 10 Jam"
 
-[cascades]: <../Cascades.hmtl> "Cascades"
-[nfc]: <../NFC.hmtl> "NFC"
+[cascades]: <../Cascades.html> "Cascades"
+[nfc]: <../NFC.html> "NFC"
