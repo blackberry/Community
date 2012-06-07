@@ -12,7 +12,7 @@ BlackBerry Developer Community in the area around Guatemala
 
 ## Future Events
 
-TBD
+Aug/31 Group Conference for Systems Engineering students at [UMG](http://goo.gl/Y5e1i)
 
 ## Past Events
 
@@ -20,6 +20,7 @@ TBD
 
 ## Developer Groups
 
-TBD
-
+[BlackBerry Developer Group GT](http://goo.gl/ZMPQu)
+[@BBDevGT Twitter](http://goo.gl/gpHEO)
+[BBDevGT Facebook](http://goo.gl/6gHmC)
 
