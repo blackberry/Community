@@ -6,7 +6,7 @@ title: Latest Community News
 
 Content in this page is community-driven; read how to [Submit News](Submit_News.html).
 
-### New BlackBerry 10 Sample: NFC tags
+### New BlackBerry 10 Sample: NfcTool
 John and Martin have published a new BlackBerry 10 sample that shows how to read and write various
 sorts of NDEF messages from and to [NFC] tags using the BlackBerry 10 NFC APIs.
 Includes
