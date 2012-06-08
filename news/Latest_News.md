@@ -6,6 +6,19 @@ title: Latest Community News
 
 Content in this page is community-driven; read how to [Submit News](Submit_News.html).
 
+### Online Webinar for Cascades
+Next June 19th there will be an online webinar for Cascades.  Check out [Details](http://devblog.blackberry.com/2012/06/your-second-chance-at-getting-started-with-cascades/)
+and [register](http://developer.blackberry.com/cascades/webcasts).
+Time is 11am ET - or [convert to your timezone](http://www.timeanddate.com/worldclock/fixedtime.html?iso=20120620T0300).
+
+_Source_: [DevBlog](http://devblog.blackberry.com/2012/06/your-second-chance-at-getting-started-with-cascades/), on June 7, 2012
+
+### HTML5 test reports 447 for BB10 Browser
+[HTML5 test](http://html5test.com/results/mobile.html) reports 447 for the BlackBerry 10 Browser.
+This beats all mobile **and** desktop browsers.
+
+_Source_: [Eduardo Pelegri-Llopart][pelegri], on June 7, 2012
+
 ### Update to WebWorks and Ripple
 New versions of BlackBerry 10 WebWorks SDK and Ripple available from [download page](http://devblog.blackberry.com/2012/06/blackberry-10-webworks-sdk-ripple-update/).
 Open Source repos are [Ripple-UI](https://github.com/blackberry/Ripple-UI) and
