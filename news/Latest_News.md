@@ -6,6 +6,12 @@ title: Latest Community News
 
 Content in this page is community-driven; read how to [Submit News](Submit_News.html).
 
+### New Native Sample: NativeCamera
+Another sample from Sean: [NativeCamera](https://github.com/blackberry/Cascades-Community-Samples/tree/master/NativeCamera)
+shows how to set up a Camera viewfinder in a non-cascades environment using libscreen.
+
+_Source_: [Sean McVeight], via [Community Wiki](http://blackberry.github.com/Community/Camera.html), on June 8, 2012.
+
 ### Online Webinar for Cascades
 Next June 19th there will be an online webinar for Cascades.  Check out [Details](http://devblog.blackberry.com/2012/06/your-second-chance-at-getting-started-with-cascades/)
 and [register](http://developer.blackberry.com/cascades/webcasts).
@@ -38,7 +44,7 @@ _Source_: [Sean McVeight][TBD], on June 1, 2012
 The beta release of the BlacKBerry PlayBook 2.1.0 is now available; we encourage developers to use it to test
 their applications before the final release.
 
-_Source_: [Tim Windsor], at [DevBlog](http://devblog.blackberry.com/2012/05/blackberry-playbook-2-1-0-beta/), on May 31, 2012
+_Source_: [Tim Windsor], via [DevBlog](http://devblog.blackberry.com/2012/05/blackberry-playbook-2-1-0-beta/), on May 31, 2012
 
 ### bbUI.js 0.9.2 Now Available
 Tim has announced the next release of [bbUI.js][bbuijs], v0.9.2. Long list of changes, see the [commit log](https://github.com/blackberry/bbUI.js/commit/5aa6175b88189f1f78341786619561fce1c5f1f4),
@@ -90,7 +96,7 @@ _Source_: [Eduardo Pelegri-Llopart][pelegri], on May 17, 2012
 ### BlackBerry 10 Jam World Tour Update
 Updates to the [Jam Tour][jamtour] page with new cities and dates.  
 
-_Source_: [Alex Kinsella][alexk], at [DevBlog](http://devblog.blackberry.com/2012/05/blackberry_10_jam_world_tour_update_2/ "BlackBerry 10 Jam World Tour Update"), on May 5, 2012   
+_Source_: [Alex Kinsella][alexk], via [DevBlog](http://devblog.blackberry.com/2012/05/blackberry_10_jam_world_tour_update_2/ "BlackBerry 10 Jam World Tour Update"), on May 5, 2012   
 
 ### PictureWall Sample
 [PictureWall](http://github.com/blackberry/picturewall) is a new HTML5 sample that displays one or more pictures
@@ -104,7 +110,7 @@ _Source_: [Eduardo Pelegri-LLopart][pelegri], on May 23, 2012
 New repo [jQuery-Mobile-Samples](http://github.com/blackberry/jquery-mobile-samples) to be used
 to contribute to the [jQuery Mobile Cookbook](http://jquerymobilecookbook.com/) project.  
 
-_Source_: [Tim Windsor][timw], at [DevBlog](http://devblog.blackberry.com/2012/05/jquery-mobile-blackberry-samples/ "BlackBerry Samples for jQuery Mobile"), on May 14, 2012   
+_Source_: [Tim Windsor][timw], via [DevBlog](http://devblog.blackberry.com/2012/05/jquery-mobile-blackberry-samples/ "BlackBerry Samples for jQuery Mobile"), on May 14, 2012   
 
 
 ### New Beta Zone
