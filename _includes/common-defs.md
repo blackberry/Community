@@ -20,6 +20,8 @@
 [open_source]: <Open_Source.html> "Open Source Actvities at RIM"
 [picturewall]: <PictureWall.html> "PictureWall Sample Application"
 [phonegap]: <PhoneGap.html> "Original cross-platform framework from Nitobi"
+[qml]: <QML.html> "Qt Meta Language"
+[qt]: <Qt.html> "Qt"
 [samples]: <Samples.html> "Code Samples"
 [slideshare]: <SlideShare.html> "Presentations at SlideShare"
 [threejs]: <threeJS.html> "A WebGL 3-D Framework"
