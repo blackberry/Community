@@ -6,6 +6,16 @@ title: Latest Community News
 
 Content in this page is community-driven; read how to [Submit News](Submit_News.html).
 
+### New BlackBerry 10 Sample: NFC tags
+John and Martin have published a new BlackBerry 10 sample that shows how to read and write various
+sorts of NDEF messages from and to [NFC] tags using the BlackBerry 10 NFC APIs.
+Includes
+[Code](https://github.com/blackberry/Cascades-Community-Samples/tree/master/NfcTool)
+and
+[Article](http://supportforums.blackberry.com/t5/Native-Development/NFC-on-BlackBerry-10-Reading-and-Writing-Tags-using-native-APIs/ta-p/1721887).
+
+_Source_: via changelog at [Cascades-Community-Samples](https://github.com/blackberry/Cascades-Community-Samples), on June 8, 2012
+
 ### New Native Sample: NativeCamera
 Another sample from Sean: [NativeCamera](https://github.com/blackberry/Cascades-Community-Samples/tree/master/NativeCamera)
 shows how to set up a Camera viewfinder in a non-cascades environment using libscreen.
