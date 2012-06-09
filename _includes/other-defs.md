@@ -1,0 +1,6 @@
+[createnewpage]: <CreateNewPage.html> "Create a new Wiki Page"
+[proposenewpage]: <ProposeNewPage.html> "Propose a new Wiki Page"
+[quickstart]: <CreateNewPage.html> "Quick Start on the Community Wiki"
+[quickedit]: <CreateNewPage.html> "Quick Edits to a Page"
+[legal]: <Legal.html> "Legal Information"
+[contribute]: <Contribute.html> "Contribute to the Community Wiki"
