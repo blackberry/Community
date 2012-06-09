@@ -1,15 +1,18 @@
 ---
 layout: news
-title: Community News
+title: Older Community News
 ---
+{% include news-defs.md %}
 
-<h3>Latest News</h3>
-See [News Highlights](Latest_News.html).
+Also see [Latest News]
 
 <div id="posts">
   <div>
     {% for post in site.posts %}
+<!--
     <div style="border-bottom: 1px solid #DFDFDF;">
+-->
+	<div>
      <div>
       <h3><a class="newsPost" href="{{ site.baseurl }}/{{ post.url }}">{{ post.title }}</a></h3>
       <div>{{ post.date | date: '%m-%d-%Y' }}</div>
