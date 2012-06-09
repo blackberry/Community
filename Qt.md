@@ -15,6 +15,11 @@ Qt is a cross-platform application and UI framework for developers using C++ or 
 QtCore, QtXML, QtSql, QtNetwork and QtSensors.
 The [Cascades] UI elements are available through C/C++ bindings and using [QML].
 
+Qt is included in the BlackBerry 10 Devices and is also available in the Native SDK.
+A release includes matched builds for win32, linux32, win64, linux64, macosx
+on the Native SDK
+and for armle-v7 and x86 on the devices.
+
 ### Support
 
 BlackBerry 10 developers interact through two forums:
