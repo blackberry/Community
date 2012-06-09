@@ -4,7 +4,13 @@ title: Latest Community News
 ---
 {% include news-defs.md %}
 
-Content in this page is community-driven; read how to [Submit News](Submit_News.html).
+<div style="background-color: ghostwhite; border-style: solid; border-width: 1px; padding: 10px; margin-top: 10px; font-size: 105%">
+<span style="font-weight: bold">The World Tour: </span> This week the
+<a href="http://www.blackberryjamworldtour.com">BlackBerry 10 Jam World Tour</a> is
+visiting <a href="../Paris.html">Paris</a> on June 12 and
+<a href="../London.html">London</a> on June 14.
+</div>
+
 
 ### New BlackBerry 10 Sample: NfcTool
 John and Martin have published a new BlackBerry 10 sample that shows how to read and write various
@@ -127,4 +133,8 @@ _Source_: [Tim Windsor][timw], via [DevBlog](http://devblog.blackberry.com/2012/
 Update to [BlackBerry Beta Zone](http://blackberry.com/beta).  
 
 _Source_: Kerri B, at [DevBlog](http://blogs.blackberry.com/2012/04/new-blackberry-beta-zone/ "Experience a New BlackBerry Beta Zone"), on April 25, 2012  
+
+    
+---
+These news are community-contribute.  We encourage you to [Submit News](Submit_News.html); see [how](../other/QuickEdit.html)
 

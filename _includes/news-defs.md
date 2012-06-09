@@ -1,3 +1,5 @@
+[latest_news]: <Latest_News.html> "Latest News"
+
 [pelegri]: <http://twitter.com/pelegri> "Eduardo Pelegri-Llopart"
 [alexk]: <http://twitter.com/alexkinsella> "Alex Kinsella"
 
