@@ -3,9 +3,15 @@ title: Contribute to the Community Wiki
 
 layout: basic
 ---
-{% include common-defs.md %}
+{% include other-defs.md %}
 
-There are many ways to contribute.
+This page describes in detail *Contribution Opportunities* in the Wiki.  
+
+Also see:
+* How to [Propose a New Page][propose new page]
+* How to do a [Quick Edit][quick edit] to an existing page
+* How to [Create a New Page][create new page]
+* A brief [Technology Overview]
 
 ### Advertise the Wiki
 
@@ -25,12 +31,12 @@ The Wiki uses [GitHub Pages](http://help.github.com/pages/); the content itself 
 branch of the [Community](https://github.com/BlackBerry-Community/Community/tree/master) repo.
 We prefer submissions via a GitHub [pull request](http://help.github.com/send-pull-requests/).
 
-If your change is a simple edit, you should be able to use Inline Editing, see [Quick Edit].
+You can use Inline Editing for most simple changes, see [Quick Edit].
 
 ### Create New Pages
 
-For substantial changes and for new content, you will need to use Git and GitHub to create and test your contribution;
-see [Technology Overview] for details.
+For substantial changes and for new content, you will need to use Git and GitHub to create and test your contribution.
+See [How to Create a New Page][create new page] and [Technology Overview] for details.
 
 Pages are written using one of these layouts:
 * [Basic](example-basic.html)

@@ -3,9 +3,15 @@ title: Overview of Technology Used in This Wiki
 
 layout: basic
 ---
-{% include common-defs.md %}
+{% include other-defs.md %}
 
-New to Git but want to contribute to the wiki? Here are some basic starting concepts and links.
+This page provides a brief *Overview of the Technology* used in the Wiki.
+
+Also see:
+* How to [Propose a New Page][propose new page]
+* How to do a [Quick Edit][quick edit] to an existing page
+* How to [Create a New Page][create new page]
+* An overview of [Contribution Opportunities](Contribute.html).
 
 ### Git and GitHub
 
@@ -107,11 +113,14 @@ as `jekyll --server` and point your browser to `localhost:4000/Community/`.
 
 ### Additional Information
 
+Documentation on Git is pretty good by now:
+
 Git-Related:
- * [Git Reference](http://gitref.org/)
- * [Git CheatSheet](http://help.github.com/git-cheat-sheets/)
  * [Git SCM](http://git-scm.com)
- * [ProGit.org](http://progit.org)
+ * [Git Reference](http://git-scm.com/docs)
+ * [Git Book](http://git-scm.com/book)
+ * [Git Videos](http://git-scm.com/videos)
+ * The Git Man pages installed in your desktop with the software.
 
 GitHub-Related:
  * [GitHub Help](http://help.github.com/)
