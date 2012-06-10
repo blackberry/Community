@@ -185,4 +185,4 @@ Test your new changes.  Fix any errors you may have and iterate until you are ha
 
 ### Send a Pull Request
 
-Last action: in your fork repo, click on that "_pull request_" button.  You will get a web work to compose your request:
+Last action: in your fork repo, click on the _pull request_ button.  You will get a web work to compose your request:
