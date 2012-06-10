@@ -4,7 +4,6 @@
       <ul>
 	<li><a href="{{ base-url }}/Community_Wiki.html">Home</a></li>
 	<li><a href="http://www.google.com/#hl=en&q=site%3Ablackberry.github.com%2FCommunity" target="_blank">Search Wiki</a></li>
-	<li><a href="http://www.blackberryjamworldtour.com/">Jam World Tour</a></li>
       </ul>
     </li>
     <li>Page and Articles
@@ -28,15 +27,23 @@
     </li>
     <li>Contribute
       <ul>
-	<li><a href="{{ site.stage }}{{ page.url | replace:'.html','.md' }}" target="_blank">Edit this Page</a>
-	  (<a href="{{ base-url }}/other/QuickEdit.html">How?</a>)</li>
-	<li><a href="https://github.com/blackberry/Community/issues?labels=&milestone=&state=open" target="_blank">Submit Issues</a></li>
-	<li><a href="{{ base-url }}/news/Submit_News.html" target="_blank">Submit News</a></li>
+	<li><a href="{{ site.stage }}{{ page.url | replace:'.html','.md' }}" target="_blank">Edit Page</a>
+	  [<a href="{{ base-url }}/other/Quick_Edit.html" target="_blank" style="font-size: 100%; font-weight: bold;" title="How to Edit this Page in your Browser">?</a>]
+	</li>
+	<li><a href="https://github.com/blackberry-community/Community">Create Page</a>
+	  [<a href="{{ base-url }}/other/Create_New_Page.html" target="_blank" style="font-size: 100%; font-weight: bold;" title="Why You need your Own Fork; and How to get it">?</a>]
+	</li>
+	<li><a href="https://github.com/blackberry/Community/issues?labels=pagewanted&milestone=&state=">Request Page</a>
+	  [<a href="{{ base-url }}/other/Propose_New_Page.html" target="_blank" style="font-size: 100%; font-weight: bold;" title="How to Request a New Page">?</a>]
+	</li>
+	<li><a href="{{ site.stage }}/news/Submit_News.md" target="_blank">Submit News</a>
+	  [<a href="{{ base-url }}/news/Submit_News.html" target="_blank" style="font-size: 100%; font-weight: bold;" title="How to Submit News">?</a>]
+	</li>
+	<li><a href="{{ base-url }}/other/Contribute.html">More</a></li>
 	</ul>
     </li>
     <li>Other
       <ul>
-	<li><a href="{{ base-url }}/other/Contribute.html">How to Contribute</a></li>
 	<!-- pretty raw but useful -->
 	<li><a href="https://github.com/blackberry/Community/commits/gh-pages.atom">Repo History<img src="/Community/images/16px-Feed-icon.png"/></a></li>
 	<li><a href="{{ base-url }}/other/Legal.html">Legal</a></li>
