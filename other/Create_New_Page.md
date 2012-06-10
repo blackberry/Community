@@ -181,8 +181,27 @@ Once you are ready, push your changes to your fork.  This will be a `git push or
 You are almost done.  If you didn't forget any files, your changes are now at GitHub, but you should check it.  This means activating your Wiki
 through the Pages machinery by using the _other_ URL.  In my case, this is [pelegri.github.com/Community](http://pelegri.github.com/Community).
 
-Test your new changes.  Fix any errors you may have and iterate until you are happy with the results.
+Test your new changes.  Sometimes the machinery kicks in slowly, so try a couple of reloads.
+Fix any errors you may have and iterate until you are happy with the results.
 
 ### Send a Pull Request
 
-Last action: in your fork repo, click on the _pull request_ button.  You will get a web work to compose your request:
+Last action: in your fork repo, click on the _pull request_ button.
+
+<p style="text-align: center; margin:0px">
+  <img src="images/PullRequestButton.png"
+       style="margin:10px; border:solid; border-color:lightgray; border-width: 2px"/></p>
+
+This creates web form to compose your request:
+
+<p style="text-align: center; margin:0px">
+  <a href="images/PullRequestForm-large.png"><img src="images/PullRequestForm.png"
+       style="margin:10px; border:solid; border-color:lightgray; border-width: 2px"/></a></p>
+
+Fill in the description and send it.
+
+### Engage in a Conversation with the Approver
+
+The pull request next shows in the inbox of one of the members that can accept it.  They may accept it unchanged, or they may ask for some changes.
+
+We want your contributions but we are fallible and have time constraints; if we don't reply promptly, ping us!
