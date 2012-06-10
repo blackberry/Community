@@ -1,16 +1,51 @@
 ---
-title: Propose a New Page
+title: Create a New Page
 
 layout: basic
 ---
 {% include other-defs.md %}
 
-This page describes in detail how to propose a new page for the Community Wiki,
-for situations where [Creating a New Page][createnewpage] is not possible
-or practical.
-For quick changes to an existing page, check [QuickEdit].
+This page describes in detail how to create a new page in the wiki;
+for quick changes to an existing page, check [Quick Edit]
+An alternative for some situations is to [Propose a New Page][propose new page].
 
-### Search for Page
+You may want to check the brief [Technology Overview], or just jump right into the instructions.
+
+### Overview
+
+This Wiki is implemented via [GitHub Pages](http://help.github.com/pages/)
+using [Markdown](http://daringfireball.net/projects/markdown/)
+and [Jekyll](http://github.com/mojombo/jekyll/).
+There are two main repositories: [one](http://github.com/blackberry/Community)
+for the [released Wiki](http://blackberry.github.com/Community)
+and the [other](http://github.com/blackberry-community/Community)
+for the [staged Wiki](http://blackberry-community.github.com/Community).
+
+The steps involved are:
+* Create a _fork_ of the Staging Wiki repository
+* `git clone` from your GitHub fork into a local repos
+* Create the new page in your local repository
+* Test locally
+* `git add` the files
+* `git commit` the changes
+* `git push` the changes to your fork at GitHub
+* Test your changes
+* Send a _pull request_ from your fork to the Staging Wiki
+
+-- IMAGE HERE --
+
+### Once Only
+
+You will need:
+* A GitHub account
+* Git client software installed in your local laptop/desktop
+* Access to GitHub (via ssh or https)
+
+See [Technology Overview] for these.
+
+### Fork the (Right) Repo
+
+
 
 Start by checking if the page you want to propose already exists.  Look for the search link in the
 navigation (left-hand side) menu:

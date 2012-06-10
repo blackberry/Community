@@ -7,7 +7,7 @@ layout: basic
 
 This page describes how to do quick edit to an existing Wiki Page;
 see
-[How to Contribute](Contribute.html) and [QuickStart](QuickStart.html)
+[How to Contribute](Contribute.html) and [Technology Overview]
 for more details.
 
 ### GitHub, Git and Markdown

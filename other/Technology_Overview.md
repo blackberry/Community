@@ -1,5 +1,5 @@
 ---
-title: QuickStart to Git and GitHub
+title: Overview of Technology Used in This Wiki
 
 layout: basic
 ---

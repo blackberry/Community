@@ -25,12 +25,12 @@ The Wiki uses [GitHub Pages](http://help.github.com/pages/); the content itself 
 branch of the [Community](https://github.com/BlackBerry-Community/Community/tree/master) repo.
 We prefer submissions via a GitHub [pull request](http://help.github.com/send-pull-requests/).
 
-If your change is a simple edit, you should be able to use Inline Editing, see our [QuickStart](QuickStart.html) page.
+If your change is a simple edit, you should be able to use Inline Editing, see [Quick Edit].
 
 ### Create New Pages
 
 For substantial changes and for new content, you will need to use Git and GitHub to create and test your contribution;
-see [QuickStart](QuickStart.html) for details.
+see [Technology Overview] for details.
 
 Pages are written using one of these layouts:
 * [Basic](example-basic.html)
