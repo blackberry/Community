@@ -92,7 +92,7 @@
 [austin]: <Austin.html> "Austin, Texas, USA, and nearby areas"
 [bangalore]: <Bangalore.html>" "Bangalore, India and nearby areas"
 [barcelona]: <Barcelona.html> "Barcelona, Catalonia, Spain, and nearby areas"
-[beijing]: <Beijing.html"> "Beijing, China and nearby areas"
+[beijing]: <Beijing.html> "Beijing, China and nearby areas"
 [berlin]: <Berlin.html> "Berlin, Germany and nearby areas"
 [delhi]: <Delhi.html> "Delhi, India and nearby areas"
 [guatemala]: <Guatemala.html> "Guatemala, Guatemala, and nearby areas"
