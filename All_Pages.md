@@ -42,13 +42,23 @@ TBD - Automatically generate this list and render in two columns; the list below
 **Places**
 
 * [Austin]
+* [Bangalore]
 * [Barcelona]
+* [Beijing]
+* [Berlin]
+* [Delhi]
 * [Guatemala]
+* [Jakarta]
 * [London]
 * [Milan]
+* [Montreal]
+* [Moscow]
 * [New York]
 * [Paris]
 * [Santa Clara]
+* [Singapore]
+* [Toronto]
+* [Warsaw]
 
 **People**
 
