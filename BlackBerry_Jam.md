@@ -16,17 +16,27 @@ Full details are at [BlackBerry 10 Jam World Tour](http://www.blackberryjamworld
 
 ### Next Cities
 
-The next 5 cities are:
-* [Austin], June 5, 2012
-* [Santa Clara], June 7, 2012
+The next few cities are:
 * [Paris], June 12, 2012
 * [London], June 14, 2012
 * [New York], June 19, 2012
+* [Toronto], June 21, 2012
+* [Moscow], June 26, 2012
+* [Berlin], June 28, 2012
+* [Bangalore], July 2, 2012
+* [Warsaw], July 3, 2012
+* [Delhi], July 4, 2012
+* [Beijing], July 6, 2012
+* [Singapore], July 9, 2012
+* [Jakarta], July 10, 2012
+* [Montreal], July 11, 2012
 
 ### Cities Visited
 
 * [Milan], May 29, 2012
 * [Barcelona], May 31, 2012
+* [Austin], June 5, 2012
+* [Santa Clara], June 7, 2012
 
 Slides from these presentations will be available in the near future.
 
