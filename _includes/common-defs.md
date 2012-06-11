@@ -2,6 +2,7 @@
 [all_articles]: <articles/All_Articles.html> "All Articles in this Wiki"
 [all_slides]: <slides/All_Slides.html> "All Presentations in this Wiki"
 [all_news]: <news/index.html> "All News in this Wiki"
+[recent_changes]: <Recent_Changes.html> "Recent changes in this Wiki"
 
 [apache_cordova]: <Apache_Cordova.html> "The Open Source HTML5 Cross-Platform Framework"
 [bbuijs]: <bbUIjs.html> "A WebWorks-based Framework to write HTML5 applications using BBOS and BB10 Conventions"
@@ -34,6 +35,8 @@
 [gameplay]: <GamePlay.html> "Portable, OpenSource Gaming Framework"
 [jquery-mobile]: <jQuery-Mobile-Samples.html> "jQuery-Mobile-Samples Repository"
 
+[code_samples]: <Code_Samples.html> "Code Samples"
+
 [gameplay-repo]: <http://github.com/blackberry/Gameplay> "Portable, OpenSource Gaming Framework"
 [jquery-mobile-samples]: <http://github.com/blackberry/jQuery-Mobile-Samples> "jQuery-Mobile-Samples Repository"
 [cascades-samples]: <http://github.com/blackberry/Cascades-Samples> "Cascades-Samples Repository"
@@ -41,18 +44,18 @@
 [ndk-samples]: <http://github.com/blackberry/NDK-Samples> "Native Samples that can be used with the NDK"
 [scoreloop-samples]: <http://github.com/blackberry/Scoreloop-Samples> "Socoreloop-Samples Repository"
 
-
 [air_samples]: <TBD> "TBD"
 [bws_samples]: <TBD> "TBD"
 [code_signing]: <TBD> "TBD"
 [gaming_samples]: <TBD> "TBD"
-[html5]: <TBD> "TBD"
+[webworks_samples]: <TBD> "Samples using the WebWorks framework"
 [html5_samples]: <TBD> "TBD"
+
+[html5]: <TBD> "TBD"
 [nodebeat]: <TBD> "TBD"
 [qnx]: <TBD> "TBD"
 [ripple]: <TBD> "TBD"
 [tunneltilt]: <TBD> "TBD"
-[webworkssamples]: <TBD> "Samples using the WebWorks framework"
 
 [bbw]: <TBD> "TBD"
 [bb10jam]: <BlackBerry_Jam.html> "BlackBerry 10 Jam"
