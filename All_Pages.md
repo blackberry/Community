@@ -17,6 +17,7 @@ TBD - Automatically generate this list and render in two columns; the list below
 * [Camera]
 * [Cascades]
 * [Cascades Samples]
+* [Code Samples]
 * [DebugToken]
 * [Developer Conferences][devcon]
 * [Events]
