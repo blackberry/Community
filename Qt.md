@@ -15,20 +15,41 @@ Qt is a cross-platform application and UI framework for developers using C++ or 
 QtCore, QtXML, QtSql, QtNetwork and QtSensors.
 The [Cascades] UI elements are available through C/C++ bindings and using [QML].
 
-Qt is included in the BlackBerry 10 Devices and is also available in the Native SDK.
+Qt 4.8 is included in the BlackBerry 10 Devices and is also available in the Native SDK.
 A release includes matched builds for win32, linux32, win64, linux64, macosx
 on the Native SDK
 and for armle-v7 and x86 on the devices.
+
+### Getting started
+
+The [Qt Api Documentation](http://qt-project.org/doc/qt-4.8/) provides some good examples on how to get started with Qt.
+
+### UI Creation
+
+UIs in Qt can be either written using Widgets or Qt Quick. Because Widgets have its origin in the desktop world and
+are more or less static, it is recommended to use Qt Quick and QML for UIs on mobile platforms.  
+
+#### Qt Quick 
+
+[Qt Quick](http://qt-project.org/doc/qt-4.8/qtquick.html) is a set of technologies built on top of Qt providing the 
+developers with the means to write fluid application UIs especially for mobile and embedded platforms.
+
+The core of Qt Quick is the Java Script like QML language that allows the declaration of a user interface. QML 
+code is executed at runtime by the [Qt Declarative UI Runtime](http://qt-project.org/doc/qt-4.8/qmlruntime.html). Because 
+Qt Quick runs on top of Qt, custom elements can be defined on the C++ side 
+and exposed to QML ([extending QML](http://qt-project.org/doc/qt-4.8/qml-extending.html)). Furthermore data can be [exchanged between C++ and QML](http://qt-project.org/doc/qt-4.8/qtbinding.html) which makes it possible to seperate UI and 
+logic from each other. In general it is recommened to have the business logic in C++ and the UI in Java Script.
 
 ### Support
 
 BlackBerry 10 developers interact through two forums:
 
-* Developers using Qt as part of Cascades-centric applications should use
+* Developers using Qt as part of Cascades-centric applications use
 the [Cascades Forum](http://supportforums.blackberry.com/t5/Cascades-Development/bd-p/Cascades)
-* Developers using Qt as part of Games/Ports of games should use
-the [Native Forum](http://supportforums.blackberry.com/t5/Native-Development/bd-p/native_sdk)
- 
+* Developers using Qt without Cascades-layer use the [Native Forum](http://supportforums.blackberry.com/t5/Native-Development/bd-p/native_sdk)
+
+IRC: #qt-qnx on freenode
+
 ### Filing Bugs
 
 Defects or requests for enhancement can be submitted through the [DevZone JIRA](https://www.blackberry.com/jira/secure/Dashboard.jspa),
@@ -45,5 +66,5 @@ TBD.
 
 
 ### Also See
-TBD
+[QNX on Qt-Project](http://qt-project.org/wiki/QNX)
 
