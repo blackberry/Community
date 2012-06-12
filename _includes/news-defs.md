@@ -5,6 +5,8 @@
 
 [jamtour]: <http://www.blackberryjamworldtour.com/> "BlackBerry 10 Jam World Tour"
 [devblog]: <http://devblog.blackberry.com"> "Inside BlackBerry DevBlog"
+[bb10jam]: <../BlackBerry_Jam.html> "BlackBerry 10 Jam"
 
 [bbuijs]: <../bbUIjs.html> "A WebWorks-based Framework to write HTML5 applications using BBOS and BB10 Conventions"
 [cascades]: <../Cascades.html> "Cascades Native Framework"
+[bps]: <../BPS.html> "BlackBerry Platform Services"
