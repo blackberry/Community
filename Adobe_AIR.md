@@ -3,7 +3,7 @@ title: Adobe Air
 oneline: Framework to Build BlackBerry 10 Native Apps
 forum: "http://supportforums.blackberry.com/t5/Cascades-Development/bd-p/Cascades"
 techlink: "https://developer.blackberry.com/cascades/"
-tags: cascades, native, blackberry10
+tags: air, native, blackberry10
 
 layout: technology
 ---
