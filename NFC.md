@@ -22,11 +22,9 @@ Communication is also possible between an NFC device and an unpowered NFC chip, 
 
 We have samples for each of the key platforms
 
+* [Native / BlackBerry 10](https://github.com/jcmurray/Cascades-Community-Samples)
 * [WebWorks / BBOS](https://github.com/blackberry/WebWorks-Community-APIs/tree/master/Smartphone/NFC)
 * [Java / BBOS](https://github.com/blackberry/Samples-for-Java/tree/master/NFC)
-
-Samples for BlackBerry 10 are on their way.
-
 
 ### Presentations and Other Media
 
