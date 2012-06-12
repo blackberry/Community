@@ -12,7 +12,7 @@ visiting <a href="../Paris.html">Paris</a> on June 12 and
 </div>
 
 ### New Sample: 
-Julian has added the sample shown at [BB10Jam] in Orlando that accessed
+Julian has added the sample shown at [BlackBerry 10 Jam][bb10jam] in Orlando that accessed
 [BPS] using [Native Extensions for Adobe AIR](http://www.adobe.com/devnet/air/native-extensions-for-air.html).
 Code in the [SampleBPSANE](https://github.com/blackberry/Samples-for-AIR/tree/master/SampleBPSANE) directory of
 [Samples-for-AIR](http://github.com/blackberry/Samples-for-AIR] repo.
