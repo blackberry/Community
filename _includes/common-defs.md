@@ -4,6 +4,8 @@
 [all_news]: <news/index.html> "All News in this Wiki"
 [recent_changes]: <Recent_Changes.html> "Recent changes in this Wiki"
 
+[adobe_air]: <Adobe_AIR.html> "Adobe Integrated Runtime (AIR)"
+[air]: <AIR.html> "Adobe Integrated Runtime (AIR)"
 [apache_cordova]: <Apache_Cordova.html> "The Open Source HTML5 Cross-Platform Framework"
 [bbuijs]: <bbUIjs.html> "A WebWorks-based Framework to write HTML5 applications using BBOS and BB10 Conventions"
 [blackberry_10]: <BlackBerry_10.html> "The next generation BlackBerry Platform"

@@ -9,6 +9,7 @@ TBD - Automatically generate this list and render in two columns; the list below
 
 **Technologies, Components, Products**
 
+* [Adobe AIR] \(aka [AIR]\)
 * [Apache Cordova]
 * [bbUI.js]
 * [BlackBerry 10]
