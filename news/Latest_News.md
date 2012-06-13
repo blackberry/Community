@@ -11,6 +11,15 @@ visiting <a href="../Paris.html">Paris</a> on June 12 and
 <a href="../London.html">London</a> on June 14.
 </div>
 
+### New Repo: libQREncode
+Cliff has ported libQREncode, FUKUCHI's very popular, C-based, [QR Code](http://en.wikipedia.org/wiki/QR_Code) encoder
+([website](http://fukuchi.org/works/qrencode/index.html)).  The new
+[libQREncode](https://github.com/blackberry/libqrencode) repo is a fork of
+[FUKUCHI's repo](http://fukuchi.org/works/qrencode/index.html).  
+
+_Source_: [Cliff Hung], on June 13, 2012
+
+
 ### New to Samples-for-AIR: SampleBPSANE
 Julian has added the sample shown at [BlackBerry 10 Jam][bb10jam] in Orlando that accessed
 [BPS] using [Native Extensions for Adobe AIR](http://www.adobe.com/devnet/air/native-extensions-for-air.html).
