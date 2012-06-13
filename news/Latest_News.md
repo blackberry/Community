@@ -11,6 +11,14 @@ visiting <a href="../Paris.html">Paris</a> on June 12 and
 <a href="../London.html">London</a> on June 14.
 </div>
 
+### Cleanup: Qt Repo and Gitorious
+We are now contributing directly upstream to [Gitorious](http://qt.gitorious.org/qt), and, as a consequence,
+the [old repo](https://github.com/blackberry/Qt) is, at best, a duplicate.
+Code has been removed but download files will still be here - currently a tad out of date.
+
+_Source_: Rafael Roquetto, on June 13, 2012
+
+
 ### More Open Source Committers: Jason/jQuery and Gord/Apache Cordova
 Jason Scott is now part of the [jQuery team](http://jquery.org/team). And Gord Tanner is now a committer
 at [Apache Cordova](http://incubator.apache.org/projects/callback.html).  Congrats!  
