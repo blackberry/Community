@@ -11,6 +11,12 @@ visiting <a href="../Paris.html">Paris</a> on June 12 and
 <a href="../London.html">London</a> on June 14.
 </div>
 
+### More Open Source Committers: Jason/jQuery and Gord/Apache Cordova
+Jason Scott is now part of the [jQuery team](http://jquery.org/team). And Gord Tanner is now a committer
+at [Apache Cordova](http://incubator.apache.org/projects/callback.html).  Congrats!  
+
+_Source_: Jason and Gord, on June 13, 2012
+
 ### Updated: SNEP Support in BlackBerry 10
 [Martin][mdw] and [John][jcm] have added
 [SNEP](http://www.nfc-forum.org/specs/spec_list/#protts) support to their NfcTool sample
