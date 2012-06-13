@@ -3,8 +3,8 @@
 [cliff]: <http://twitter.com/cliffordhung> "Clifford Hung"
 [pelegri]: <http://twitter.com/pelegri> "Eduardo Pelegri-Llopart"
 [alexk]: <http://twitter.com/alexkinsella> "Alex Kinsella"
-[mdw]: <http://twitter.com/mwdrim> "Martin Woolley"
-[jwc]: <http://twitter.com/jwcrim> "John Murray"
+[mdw]: <http://twitter.com/mdwrim> "Martin Woolley"
+[jcm]: <http://twitter.com/jcmrim> "John Murray"
 
 [jamtour]: <http://www.blackberryjamworldtour.com/> "BlackBerry 10 Jam World Tour"
 [devblog]: <http://devblog.blackberry.com"> "Inside BlackBerry DevBlog"
