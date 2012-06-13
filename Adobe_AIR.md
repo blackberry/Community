@@ -1,9 +1,9 @@
 ---
-title: Adobe Air
+title: Adobe AIR
 oneline: Framework to Build BlackBerry 10 Native Apps
 forum: "http://supportforums.blackberry.com/t5/Cascades-Development/bd-p/Cascades"
 techlink: "https://developer.blackberry.com/cascades/"
-tags: air, native, blackberry10
+tags: air, native, blackberry10, playbook
 
 layout: technology
 ---
@@ -33,6 +33,7 @@ The main tools for authoring Adobe AIR applications are:
 * [BlackBerry Tablet OS SDK for Adobe AIR](https://developer.blackberry.com/cascades/documentation/getting_started/cascades_builder/index.html)
 * [Adobe Flash Builder](http://www.adobe.com/products/flash-builder.html)
 * [BlackBerry Simulators](http://us.blackberry.com/developers/resources/simulators.jsp)
+* [FDT 5](http://fdt.powerflasher.com/)
 
 ### Beta for BlackBerry 10
 
