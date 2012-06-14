@@ -4,7 +4,7 @@ title: Latest Community News
 ---
 {% include news-defs.md %}
 
-<div style="background-color: ghostwhite; border-style: solid; border-width: 1px; padding: 10px; margin-top: 10px; font-size: 105%">
+<div style="background-color: ghostwhite; border-style: solid; border-width: 1px; padding: 10px; margin-top: 10px; font-size: 105%; line-height: 150%;">
 &bull; This week the
 <a href="http://www.blackberryjamworldtour.com">BlackBerry 10 Jam World Tour</a> is
 visiting <a href="../Paris.html">Paris</a> on June 12 and
