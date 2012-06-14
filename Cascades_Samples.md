@@ -8,13 +8,14 @@ layout: basic
 {% include common-defs.md %}
 
 ### Description
-Repositories containing Samples useful for developers using the [Cascades] Framework:
+Repositories from RIM (official) and The Community (unofficial, both RIM and non-RIM)
+containing Samples useful for developers using the [Cascades] Framework:
 
-* [Cascades-Samples]
-* [Cascades-Community-Samples]
+* [Cascades-Samples][repo:cascades-samples] - Official samples using Cascades
+* [Cascades-Community-Samples][repo:cascades-community-samples] - Community Samples using Cascades
 
 More to come...
 
 ### Also See
-[Cascades]
+[Cascades], [HTML5_Samples], [HTML5]
 

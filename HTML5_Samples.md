@@ -8,7 +8,7 @@ layout: basic
 {% include common-defs.md %}
 
 ### Description
-Repositories from RIM and the Community
+Repositories from RIM (official) and The Community (unofficial, both RIM and non-RIM)
 containing Samples useful for developers using the [HTML5] Framework:
 
 #### GitHub.com/BlackBerry
@@ -25,7 +25,7 @@ More to come...
 * [Khan Academy](https://github.com/levidehaan/KABook "A Khan Academy app for the Blackberry Playbook") - Contact: Levi De Haan
 
 ### Also See
-
+[Cascades_Samples], [Cascades], [HTML5]
 
  
  
