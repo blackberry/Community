@@ -5,10 +5,13 @@ title: Latest Community News
 {% include news-defs.md %}
 
 <div style="background-color: ghostwhite; border-style: solid; border-width: 1px; padding: 10px; margin-top: 10px; font-size: 105%">
-<span style="font-weight: bold">The World Tour: </span> This week the
+This week the
 <a href="http://www.blackberryjamworldtour.com">BlackBerry 10 Jam World Tour</a> is
 visiting <a href="../Paris.html">Paris</a> on June 12 and
 <a href="../London.html">London</a> on June 14.
+<br/>
+The [Cascades Online Webinar](http://devblog.blackberry.com/2012/06/your-second-chance-at-getting-started-with-cascades/)
+is June 19th, 11am ET - or [convert to your timezone](http://www.timeanddate.com/worldclock/fixedtime.html?iso=20120619T1500).
 </div>
 
 ### Cleanup: Qt Repo and Gitorious
@@ -70,7 +73,7 @@ _Source_: [Sean McVeight], via [Community Wiki](http://blackberry.github.com/Com
 ### Online Webinar for Cascades
 Next June 19th there will be an online webinar for Cascades.  Check out [Details](http://devblog.blackberry.com/2012/06/your-second-chance-at-getting-started-with-cascades/)
 and [register](http://developer.blackberry.com/cascades/webcasts).
-Time is 11am ET - or [convert to your timezone](http://www.timeanddate.com/worldclock/fixedtime.html?iso=20120620T0300).
+Time is 11am ET - or [convert to your timezone](http://www.timeanddate.com/worldclock/fixedtime.html?iso=20120619T1500).
 
 _Source_: [DevBlog](http://devblog.blackberry.com/2012/06/your-second-chance-at-getting-started-with-cascades/), on June 7, 2012
 
