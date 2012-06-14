@@ -5,12 +5,12 @@ title: Latest Community News
 {% include news-defs.md %}
 
 <div style="background-color: ghostwhite; border-style: solid; border-width: 1px; padding: 10px; margin-top: 10px; font-size: 105%">
-This week the
+&bull; This week the
 <a href="http://www.blackberryjamworldtour.com">BlackBerry 10 Jam World Tour</a> is
 visiting <a href="../Paris.html">Paris</a> on June 12 and
 <a href="../London.html">London</a> on June 14.
 <br/>
-The <a href="http://devblog.blackberry.com/2012/06/your-second-chance-at-getting-started-with-cascades/">Cascades Online Webinar</a>
+&bull; The <a href="http://devblog.blackberry.com/2012/06/your-second-chance-at-getting-started-with-cascades/">Cascades Online Webinar</a>
 is June 19th, 11am ET - or <a href="http://www.timeanddate.com/worldclock/fixedtime.html?iso=20120619T1500">convert to your timezone</a>.
 </div>
 
