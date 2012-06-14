@@ -4,12 +4,29 @@ title: Latest Community News
 ---
 {% include news-defs.md %}
 
-<div style="background-color: ghostwhite; border-style: solid; border-width: 1px; padding: 10px; margin-top: 10px; font-size: 105%">
-<span style="font-weight: bold">The World Tour: </span> This week the
+<div style="background-color: ghostwhite; border-style: solid; border-width: 1px; padding: 10px; margin-top: 10px; font-size: 105%; text-align: center; line-height: 180%;">
+The
 <a href="http://www.blackberryjamworldtour.com">BlackBerry 10 Jam World Tour</a> is
-visiting <a href="../Paris.html">Paris</a> on June 12 and
-<a href="../London.html">London</a> on June 14.
+visiting <a href="../Paris.html">Paris</a> on <strong>June 12</strong> and
+<a href="../London.html">London</a> on <strong>June 14</strong>.
+<br/>
+The <a href="http://devblog.blackberry.com/2012/06/your-second-chance-at-getting-started-with-cascades/">Cascades Online Webinar</a>
+is <strong>June 19</strong>, 11am ET - or <a href="http://www.timeanddate.com/worldclock/fixedtime.html?iso=20120619T1500">convert to your timezone</a>.
 </div>
+
+### Cleanup: Qt Repo and Gitorious
+We are now contributing directly upstream to [Gitorious](http://qt.gitorious.org/qt), and, as a consequence,
+the [old repo](https://github.com/blackberry/Qt) is, at best, a duplicate.
+Code has been removed but download files will still be here - currently a tad out of date.
+
+_Source_: Rafael Roquetto, on June 13, 2012
+
+
+### More Open Source Committers: Jason/jQuery and Gord/Apache Cordova
+Jason Scott is now part of the [jQuery team](http://jquery.org/team). And Gord Tanner is now a committer
+at [Apache Cordova](http://incubator.apache.org/projects/callback.html).  Congrats!  
+
+_Source_: Jason and Gord, on June 13, 2012
 
 ### Updated: SNEP Support in BlackBerry 10
 [Martin Wooley][mdw] and [John Murray][jcm] have added
@@ -56,7 +73,7 @@ _Source_: [Sean McVeight], via [Community Wiki](http://blackberry.github.com/Com
 ### Online Webinar for Cascades
 Next June 19th there will be an online webinar for Cascades.  Check out [Details](http://devblog.blackberry.com/2012/06/your-second-chance-at-getting-started-with-cascades/)
 and [register](http://developer.blackberry.com/cascades/webcasts).
-Time is 11am ET - or [convert to your timezone](http://www.timeanddate.com/worldclock/fixedtime.html?iso=20120620T0300).
+Time is 11am ET - or [convert to your timezone](http://www.timeanddate.com/worldclock/fixedtime.html?iso=20120619T1500).
 
 _Source_: [DevBlog](http://devblog.blackberry.com/2012/06/your-second-chance-at-getting-started-with-cascades/), on June 7, 2012
 
