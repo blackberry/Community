@@ -29,7 +29,7 @@ at [Apache Cordova](http://incubator.apache.org/projects/callback.html).  Congra
 _Source_: Jason and Gord, on June 13, 2012
 
 ### Updated: SNEP Support in BlackBerry 10
-[Martin][mdw] and [John][jcm] have added
+[Martin Wooley][mdw] and [John Murray][jcm] have added
 [SNEP](http://www.nfc-forum.org/specs/spec_list/#protts) support to their NfcTool sample
 ([commit](https://github.com/blackberry/Cascades-Community-Samples/commit/ac7a409893bb5ea9815f492cb7c7a687ba017840)).
 More details in the [Code](https://github.com/blackberry/Cascades-Community-Samples/tree/master/NfcTool) and in their
@@ -38,7 +38,7 @@ More details in the [Code](https://github.com/blackberry/Cascades-Community-Samp
 _Source_: [Martin][mdw] and [John][jcm], on June 13, 2012
 
 ### New Repo: libQREncode
-Cliff has ported libQREncode, FUKUCHI's very popular, C-based, [QR Code](http://en.wikipedia.org/wiki/QR_Code) encoder
+[Cliff Hung] has ported libQREncode, FUKUCHI's very popular, C-based, [QR Code](http://en.wikipedia.org/wiki/QR_Code) encoder
 ([website](http://fukuchi.org/works/qrencode/index.html)).  The new
 [libQREncode](https://github.com/blackberry/libqrencode) repo is a fork of
 [FUKUCHI's repo](http://fukuchi.org/works/qrencode/index.html).  

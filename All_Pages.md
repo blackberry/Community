@@ -23,6 +23,7 @@ TBD - Automatically generate this list and render in two columns; the list below
 * [Developer Conferences][devcon]
 * [Events]
 * [Frogatto]
+* [HTML5 Samples]
 * [NFC]
 * [OpenCV]
 * [OpenFrameworks]
