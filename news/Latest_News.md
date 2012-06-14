@@ -10,8 +10,8 @@ This week the
 visiting <a href="../Paris.html">Paris</a> on June 12 and
 <a href="../London.html">London</a> on June 14.
 <br/>
-The [Cascades Online Webinar](http://devblog.blackberry.com/2012/06/your-second-chance-at-getting-started-with-cascades/)
-is June 19th, 11am ET - or [convert to your timezone](http://www.timeanddate.com/worldclock/fixedtime.html?iso=20120619T1500).
+The <a href="http://devblog.blackberry.com/2012/06/your-second-chance-at-getting-started-with-cascades/">Cascades Online Webinar</a>
+is June 19th, 11am ET - or <a href="http://www.timeanddate.com/worldclock/fixedtime.html?iso=20120619T1500">convert to your timezone</a>.
 </div>
 
 ### Cleanup: Qt Repo and Gitorious
