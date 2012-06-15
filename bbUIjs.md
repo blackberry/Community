@@ -14,12 +14,14 @@ tags: OpenSource, WebWorks, Component
 
 ### Description
 
-bbUI.js is a WebWorks framework that helps follow the UI recommendations for BlackBerry OS, BlackBerry PlayBook and BlackBerry 10.  The framework started as a portion of some [WebWorks-Samples][webworkssamples] but later [became a top project](http://openbbnews.wordpress.com/2012/02/25/bbuijs/).  Tim Neil is the project lead.
+bbUI.js is a WebWorks framework that helps follow the UI recommendations for BlackBerry OS, BlackBerry PlayBook and BlackBerry 10.
+The framework started within [WebWorks-Samples][repo:webworks-amples]
+but later [became a top project](http://openbbnews.wordpress.com/2012/02/25/bbuijs/).  Tim Neil is the project lead.
 
 Currently the support for BBOS smartphones is more complete than that for PlayBook.  We expect this to change quickly.
 
 ### Additional Links
-* [Project Site at GitHub](http://github.com/blackberry/bbui.js)
+* [Project Site at GitHub][repo:bbuijs]
 
 ### Related Articles and Posts
 * [Native or HTML5? Only the developer knows](http://devblog.blackberry.com/2012/05/blackberry-10-bbui/), by Tim Neil, May 2, 2012
