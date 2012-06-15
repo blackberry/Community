@@ -54,13 +54,17 @@ The current list includes:
 Below are the key presentations from [BlackBerry 10 Jam][bb10jam]; presentations from the World Tour
 are on their way.
 
-TBD
-
 * DEV151 – Developing Adobe AIR Native Extensions
 ([Session](https://bbworld.blackberryconferences.net/2012/scheduler/sessionDetails.do?SESSION_ID=DEV151),
 [Recording Unavailable](NotAvailable "Not Available")),
 * DEV150 – Developing Adobe AIR applications for BlackBerry 10
 ([Session](https://bbworld.blackberryconferences.net/2012/scheduler/sessionDetails.do?SESSION_ID=DEV150),
 [Recordings](http://blackberrydevcon.eventmystro.com/em/presentation-details/auid/681/nav/cat "Requires Registration"))
+
+### Articles and Other Resources
+
+From [DevBlog](http://devblog.blackberry.com):
+* [AIR Porting: PlayBook to BlackBerry 10](http://devblog.blackberry.com/2012/06/adobe-air-porting-blackberry-10/)
+* [Develop Adobe AIR Applications for BlackBerry 10 with Powerflasher's FDT 5](http://devblog.blackberry.com/2012/06/develope-adobe-air-applications-for-blackberry-10-with-powerflashers-fdt-5/)
 
 ### Also See
