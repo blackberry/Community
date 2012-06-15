@@ -30,7 +30,19 @@ We have samples for each of the key platforms
 
 #### List of Articles
 
-* [Knowledge Base](http://supportforums.blackberry.com/t5/Java-Development/NFC-Article-and-Code-Index/ta-p/1538775)
+From [Knowledge Base](http://supportforums.blackberry.com/t5/Java-Development/NFC-Article-and-Code-Index/ta-p/1538775):
+
+* [NFC Primer for Developers](http://supportforums.blackberry.com/t5/Java-Development/NFC-Primer-for-Developers/ta-p/1334857)
+* [Reading and Writing NFC Tags](http://supportforums.blackberry.com/t5/Java-Development/Reading-and-Writing-NFC-Smart-Tags/ta-p/1379453)
+* [NDEF Tag Reading from BlackBerry® WebWorks™](http://supportforums.blackberry.com/t5/Web-and-WebWorks-Development/NFC-NDEF-Tag-Reading-from-WebWorks-Applications/ta-p/1430431)
+* [NFC Virtual Target Emulation](http://supportforums.blackberry.com/t5/Java-Development/NFC-Virtual-Target-Emulation/ta-p/1509687)
+* [NDEF Message Handling Behaviours](http://supportforums.blackberry.com/t5/Java-Development/NFC-NDEF-Message-Handling-Behaviors/ta-p/1538737)
+* [Peer to peer communication with SNEP](http://supportforums.blackberry.com/t5/Java-Development/NFC-Peer-to-Peer-Communications-with-SNEP/ta-p/1532841)
+* [DevCon Europe 2012 presentation](http://www.slideshare.net/BlackBerry/dev311-woolley-murray)
+* [NFC Card Emulation Primer](http://supportforums.blackberry.com/t5/Java-Development/NFC-Card-Emulation-Primer/ta-p/1596893)
+* [NFC Developer FAQ](http://supportforums.blackberry.com/t5/Java-Development/NFC-Developer-FAQ/ta-p/1634793)
+* [BlackBerry 10 - Reading and Writing Tags using Native APIs](http://supportforums.blackberry.com/t5/Native-Development/NFC-on-BlackBerry-10-Reading-and-Writing-Tags-using-native-APIs/ta-p/1721887)
+* [BlackBerry 10 - Peer to peer using SNEP](http://supportforums.blackberry.com/t5/Native-Development/NFC-on-BlackBerry-10-peer-to-peer-communication-using-SNEP/ta-p/1758859)
 
 #### DevCon 2012 Europe
 
