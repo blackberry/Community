@@ -13,6 +13,7 @@ containing Samples useful for developers using the [HTML5] Framework:
 
 #### GitHub.com/BlackBerry
 
+* [PictureWall][repo:picturewall] - Displays pictures on a wall of devices
 * [WebWorks-Samples][repo:webworks-samples] - Commmunity Samples using WebWorks
 * [WebGL-Samples][repo:webgl-samples] - Samples specially using WebGL
 
