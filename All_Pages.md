@@ -10,6 +10,7 @@ TBD - Automatically generate this list and render in two columns; the list below
 **Technologies, Components, Products**
 
 * [Adobe AIR] \(aka [AIR]\)
+* [AliceJS]
 * [Apache Cordova]
 * [bbUI.js]
 * [BlackBerry 10]
@@ -23,6 +24,7 @@ TBD - Automatically generate this list and render in two columns; the list below
 * [Developer Conferences][devcon]
 * [Events]
 * [Frogatto]
+* [HTML5]
 * [HTML5 Samples]
 * [NFC]
 * [OpenCV]
