@@ -5,6 +5,7 @@
 [recent_changes]: <Recent_Changes.html> "Recent changes in this Wiki"
 
 [adobe_air]: <Adobe_AIR.html> "Adobe Integrated Runtime (AIR)"
+[alicejs]: <AliceJS.html> "Alice - A Lightweight Independent CSS Engine"
 [air]: <AIR.html> "Adobe Integrated Runtime (AIR)"
 [apache_cordova]: <Apache_Cordova.html> "The Open Source HTML5 Cross-Platform Framework"
 [bbuijs]: <bbUIjs.html> "A WebWorks-based Framework to write HTML5 applications using BBOS and BB10 Conventions"
@@ -41,6 +42,7 @@
 
 [code_samples]: <Code_Samples.html> "Code Samples"
 
+[repo:bbuijs]: <http://github.com/blackberry/bbui.js> "Repository for bbUI.js HTML5 Framework"
 [repo:cascades-community-samples]: <http://github.com/blackberry/Cascades-Community-Samples> "Repository for Community - RIM and non-RIM - Samples using the Cascades framework"
 [repo:cascades-samples]: <http://github.com/blackberry/Cascades-Samples> "Cascades-Samples Repository"
 [repo:gameplay]: <http://github.com/blackberry/Gameplay> "Portable, OpenSource Gaming Framework"
