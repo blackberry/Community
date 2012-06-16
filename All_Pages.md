@@ -15,6 +15,7 @@ TBD - Automatically generate this list and render in two columns; the list below
 * [bbUI.js]
 * [BlackBerry 10]
 * [BlackBerry Jam][bb10jam]
+* [BlackBerry Platform Services][bps] \(aka [BPS]\)
 * [Bugs]
 * [Camera]
 * [Cascades]
