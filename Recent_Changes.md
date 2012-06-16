@@ -7,6 +7,7 @@ title: Recent Changes
 
 New additions and major updates to pages.  Listed in reverse chronological order.
 
+* New: [QR Code]
 * New: [AliceJS], [HTML5_Samples], [HTML5]
 * New: [Adobe_AIR] \(aka [AIR]\)
 * New: [Buenos Aires], [Cape Town], [Dubai], [Mexico City], [Sao Paulo], [Sydney]
