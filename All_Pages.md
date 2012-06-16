@@ -34,6 +34,7 @@ TBD - Automatically generate this list and render in two columns; the list below
 * [OpenGL]
 * [Open Source]
 * [PhoneGap]
+* [Python]
 * [QML]
 * [QR Code]
 * [Qt]
