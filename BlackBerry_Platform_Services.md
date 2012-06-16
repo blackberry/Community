@@ -2,7 +2,7 @@
 title: BlackBerry Platform Services
 oneline: Single Consistent Interface to Platform Services
 forum: http://supportforums.blackberry.com/t5/Native-Development/bd-p/native_sdk
-techlink: http://developer.blackberry.com/native
+techlink: https://developer.blackberry.com/native/reference/com.qnx.doc.bps.lib_ref/com.qnx.doc.bps.lib_ref/topic/overview.html
 tags: cascades, native, blackberry10
 
 layout: technology
