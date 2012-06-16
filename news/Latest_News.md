@@ -171,6 +171,21 @@ to contribute to the [jQuery Mobile Cookbook](http://jquerymobilecookbook.com/) 
 _Source_: [Tim Windsor][timw], via [DevBlog](http://devblog.blackberry.com/2012/05/jquery-mobile-blackberry-samples/ "BlackBerry Samples for jQuery Mobile"), on May 14, 2012   
 
 
+### New BlackBerry 10 SDKs at BlackBerry 10 Jam
+RIM released beta versions of the SDKs for BlackBerry 10 for
+[WebWorks](http://devblog.blackberry.com/2012/05/blackberry-10-webworks-sdk/),
+[Native SDK](http://devblog.blackberry.com/2012/05/blackberry-10-native-sdk/),
+[Ripple](http://devblog.blackberry.com/2012/05/ripple-blackberry-10/),
+[Cascades](http://devblog.blackberry.com/2012/05/cascades-builder/)
+and
+[Adobe AIR](https://developer.blackberry.com/air/).
+Also released was the
+new [BlackBerry Runtime for Android](http://devblog.blackberry.com/2012/05/runtime-for-android-apps-blackberry-10/).
+All these SDKs can be run on emulators or the
+[BlackBerry 10 Dev Alpha](http://devblog.blackberry.com/2012/05/what-is-blackberry-10-dev-alpha/).
+
+_Source_: Ken Wallis and Alex Kinsella, via [DevBlog](http://devblog.blackberry.com), May 1, 2012
+
 ### New Beta Zone
 Update to [BlackBerry Beta Zone](http://blackberry.com/beta).  
 

@@ -48,6 +48,7 @@
 [repo:gameplay]: <http://github.com/blackberry/Gameplay> "Portable, OpenSource Gaming Framework"
 [repo:jquery-mobile-samples]: <http://github.com/blackberry/jQuery-Mobile-Samples> "jQuery-Mobile-Samples Repository"
 [repo:ndk-samples]: <http://github.com/blackberry/NDK-Samples> "Native Samples that can be used with the NDK"
+[repo:picturewall]: <http://github.com/blackberry/PictureWall> "HTML5 Application to display pictures on a wall of devices"
 [repo:scoreloop-samples]: <http://github.com/blackberry/Scoreloop-Samples> "Socoreloop-Samples Repository"
 [repo:webgl-samples]: <http://github.com/blackberry/webgl-samples> "Repository for Community - RIM and non-RIM - Samples using WebGL"
 [repo:webworks-samples]: <http://github.com/blackberry/webworks-samples> "Repository for Community - RIM and non-RIM - Samples using the BlackBerry Webworks framework"
