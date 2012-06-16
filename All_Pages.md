@@ -26,6 +26,7 @@ TBD - Automatically generate this list and render in two columns; the list below
 * [Frogatto]
 * [HTML5]
 * [HTML5 Samples]
+* [HTML5 Tools]
 * [NFC]
 * [OpenCV]
 * [OpenFrameworks]
