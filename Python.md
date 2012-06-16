@@ -17,6 +17,7 @@ The Python Programming Language
 ### Samples
 
 ### Additional Links
+http://hg.microcode.ca/blackberry-py/wiki/QMLViewerSample
 
 ### Contacts
 Peter...
