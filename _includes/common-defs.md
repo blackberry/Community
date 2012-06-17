@@ -31,6 +31,7 @@
 [python]: <Python.html> "Python"
 [qr_code]: <QR_Code.html> "QR Codes - Quick Release Codes"
 [qml]: <QML.html> "Qt Meta Language"
+[qsa]: <QNX_Sound_Architecture.html> "QNX Sound Architecture"
 [qt]: <Qt.html> "Qt"
 [samples]: <Samples.html> "Code Samples"
 [slideshare]: <SlideShare.html> "Presentations at SlideShare"
