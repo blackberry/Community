@@ -11,12 +11,13 @@ tags: Python, BlackBerry10, Qt, QML
 
 ### Description
 Python is a readable, easy-to-learn, and high-level programming language
-([Wikipedia](http://en.wikipedia.org/wiki/Python_(programming_language)),
-first released in 1991 and now 
+([Wikipedia][1]) first released in 1991 and now 
 [used by many organizations](http://wiki.python.org/moin/OrganizationsUsingPython).
 The BlackBerry PlayBook and BlackBerry 10 devices include a port of Python 3.2, 
 and support apps written with it via a Python 
 [entry point](http://peterhansen.ca/blog/bbx-python-direct-entry-point.html).
+
+[1]: <http://en.wikipedia.org/wiki/Python_(programming_language)> "Python Programming Language, at Wikipedia"
 
 The [BB-Py Project](http://blackberry-py.microcode.ca/) is a community-driven 
 effort to build on this capability by providing UI frameworks 

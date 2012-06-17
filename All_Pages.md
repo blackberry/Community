@@ -36,6 +36,7 @@ TBD - Automatically generate this list and render in two columns; the list below
 * [PhoneGap]
 * [Python]
 * [QML]
+* [QNX Sound Architecture][qsa] \(aka [QSA]\)
 * [QR Code]
 * [Qt]
 * [Samples]
