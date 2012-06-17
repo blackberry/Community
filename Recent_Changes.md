@@ -8,7 +8,7 @@ title: Recent Changes
 New additions and major updates to pages.  Listed in reverse chronological order.
 
 * New: [Python]
-* New: [BlackBerry Platform Services][bps]
+* New: [BlackBerry Platform Services][bps], [QNX Sound Architecture][qsa]
 * New: [QR Code], [HTML5 Tools]
 * New: [AliceJS], [HTML5 Samples], [HTML5]
 * New: [Adobe AIR] \(aka [AIR]\)
