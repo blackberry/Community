@@ -10,7 +10,7 @@ layout: technology
 {% include common-defs.md %}
 
 ### Description
-Framework to Build Fuild BlackBerry 10 Native Apps.
+Framework to Build Fluid BlackBerry 10 Native Apps.
 Cascades leverages the Qt object model, event model, and threading model, using
 QtCore, QtXML, QtSql, QtNetwork and QtSensors.
 The UI framework it based on an scene graph model and can be programmed at the C++ or QML level.
