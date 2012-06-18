@@ -1,4 +1,5 @@
 [latest_news]: <Latest_News.html> "Latest News"
+[all_news]: <All_News.html> "All News"
 
 [cliff]: <http://twitter.com/cliffordhung> "Clifford Hung"
 [pelegri]: <http://twitter.com/pelegri> "Eduardo Pelegri-Llopart"
