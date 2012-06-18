@@ -1,0 +1,24 @@
+{% assign base-url = site.baseurl %}
+
+{% capture lcol %}{% include default-navigation.html %}{% endcapture %}
+
+{% if page.oneline %}
+{% capture rcol %}
+<table>
+  <caption>{{ page.title }}</caption>
+  <tr><td colspan="2">{{ page.oneline }}</td></tr>
+  {% if page.link %}
+  <tr><td colspan="2"><a href="{{ page.link }}">Product Site</a></td></tr>
+  {% endif %}
+  {% if page.tags %}
+  <tr><th scope="row">Tags</th><td>{{ page.tags }}</td></tr>
+  {% endif %}
+</table>
+{% endcapture %}
+{% else %}
+{% capture rcol %}{% endcapture %}
+{% endif %}
+
+{% capture ccol %}{% endcapture %}
+
+{% include basic-include.html %}
