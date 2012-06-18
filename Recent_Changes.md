@@ -7,6 +7,7 @@ title: Recent Changes
 
 New additions and major updates to pages.  Listed in reverse chronological order.
 
+* New: [NodeBeat] (still figuring out product pages)
 * New: [Python]
 * New: [BlackBerry Platform Services][bps], [QNX Sound Architecture][qsa]
 * New: [QR Code], [HTML5 Tools]

@@ -87,10 +87,14 @@
 [devcon2011_asia]: <Developer_Conferences.html> "Developer Conferences"
 [devcon2012_europe]: <Developer_Conferences.html> "Developer Conferences"
 
+[blackberry_playbook]: <TBD> "BlackBerry PlayBook"
+[playbook]: <TBD> "BlackBerry PlayBook"
 
 [clifford_hung]: <Clifford_Hung.html> "Clifford Hung"
 [laurence_muller]: <Laurence_Muller.html> "Laurence Muller"
 [tim_neil]: <Tim_Neil.html> "Tim Neil"
+
+[seth_sandler]: <TBD> "TBD"
 
 [jonathan_feldstein]: <TBD> "TBD"
 [laurent_hasson]: <TBD> "TBD"
