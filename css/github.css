@@ -198,3 +198,10 @@ h4 {
   bottom: -3em;
   padding-bottom: 1em;
 }
+
+#col3 {
+  column-count: 3;
+  -moz-column-count: 3;
+  -webkit-column-count: 3;
+  padding-top: 10px;
+}

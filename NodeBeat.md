@@ -15,6 +15,10 @@ It is currently available for the [BlackBerry PlayBook][playbook].
 NodeBeat was the initial driver for the port of [OpenFrameworks] to the [PlayBook] and will also be ported to
 [BlackBerry 10][bb10].
 
+### Links
+* [NodeBeat at AppWorld](http://appworld.blackberry.com/webstore/content/106167/?lang=en)
+* Other - DevBlog article
+
 ### Contacts
 [Laurence Muller], [Seth Sandler]
 
