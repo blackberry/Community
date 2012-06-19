@@ -25,5 +25,5 @@ OpenGL is supported in the BlackBerry PlayBook and on BlackBerry 10 Devices.
 ### Contacts
 
 ### Also See
-[WebGL], [NDK-Samples], [GamePlay]
+[WebGL], [NDK-Samples], [Gameplay]
 
