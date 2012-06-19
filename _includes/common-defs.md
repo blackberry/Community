@@ -22,6 +22,7 @@
 [html5_samples]: <HTML5_Samples.html> "Open Source Samples showcasing the HTML5 technology on BlackBerry"
 [html5_tools]: <HTML5_Tools.html> "Tools useful for HTML5 Development"
 [nfc]: <NFC.html> "NFC - Near Field Communication"
+[nodebeat]: <NodeBeat.html> "Visual Music App"
 [opencv]: <OpenCV.html> "Language that leverages GPUs"
 [openframeworks]: <OpenFrameworks> "Open Source Framework for Creative Media Applications"
 [opengl]: <OpenGL.html> "Language .."
@@ -76,7 +77,6 @@
 [bb6]: <TBD> "TBD"
 [bb7]: <TBD> "TBD"
 [bridge]: <TBD> "TBD"
-[nodebeat]: <TBD> "TBD"
 [qnx]: <TBD> "TBD"
 [tunneltilt]: <TBD> "TBD"
 
@@ -87,10 +87,14 @@
 [devcon2011_asia]: <Developer_Conferences.html> "Developer Conferences"
 [devcon2012_europe]: <Developer_Conferences.html> "Developer Conferences"
 
+[blackberry_playbook]: <TBD> "BlackBerry PlayBook"
+[playbook]: <TBD> "BlackBerry PlayBook"
 
 [clifford_hung]: <Clifford_Hung.html> "Clifford Hung"
 [laurence_muller]: <Laurence_Muller.html> "Laurence Muller"
 [tim_neil]: <Tim_Neil.html> "Tim Neil"
+
+[seth_sandler]: <TBD> "TBD"
 
 [jonathan_feldstein]: <TBD> "TBD"
 [laurent_hasson]: <TBD> "TBD"

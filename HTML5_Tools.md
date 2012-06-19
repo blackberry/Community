@@ -19,7 +19,9 @@ Some useful tools for HTML5 development on BlackBerry Platforms.
 
 ### Community
 
-TBD (add your own - editor will help)
+* [JConsole-WebWorks](https://github.com/muerl/jsconsole-WebWorks) - A JavaScript (and CoffeeScript) web console, see [README](https://github.com/muerl/jsconsole-WebWorks#readme)
+
+Add your own - editor will help.
 
 ### Also See
 [HTML5], [HTML5 Samples]
