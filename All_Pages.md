@@ -23,6 +23,7 @@ title: All Pages
 * [Developer Conferences][devcon]
 * [Events]
 * [Frogatto]
+* [Gameplay]
 * [HTML5]
 * [HTML5 Samples]
 * [HTML5 Tools]
