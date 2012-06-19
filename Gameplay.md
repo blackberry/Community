@@ -4,7 +4,7 @@ layout: component
 title: Gameplay
 name: Gameplay
 oneline: Cross-Plaform, OpenGL-based, 3D Engine
-status: 0.4
+status: 1.4
 platform: Native
 complink: http://gameplay3d.org
 license: ASL2
@@ -26,7 +26,7 @@ Gameplay provides support for:
 ### Website and Code
 The main website is [Gameplay3d.org](http://gameplay3d.org).  The site has a
 [Developer Guide](https://github.com/blackberry/GamePlay/raw/master/gameplay-docs/development-guide.pdf)
-and tutorials for several samples.
+and tutorials for several samples, as well as [API Reference](http://gameplay3d.org/api.php) and links to Downloads.
 
 The code is developed transparently at [GitHub][repo:gameplay] and is available under an [ASL2] license.
 
@@ -36,6 +36,12 @@ Samples developed by the core Gameplay team: [Code@GitHub](https://github.com/bl
 Add additional samples...
 
 * TBD
+
+### Articles, Reviews and other News
+
+* [Introducing Gameplay v1.2 for 3D Indie Game Developers](http://devblog.blackberry.com/2012/04/introducing-gameplay-v1-2-for-3d-indie-game-developers/) (from [DevBlog][devblog])
+* [Gameplay 1.2 for 3D Indie Developers](http://www.gamefromscratch.com/post/2012/04/30/Gameplay-12-for-3D-Indie-developers.aspx) (from [Game From Scratch](http://gamefromscratch.com)
+* [A quick look at RIM’s Gameplay 1.2 SDK](http://www.gamefromscratch.com/post/2012/05/02/A-quick-look-at-RIM%E2%80%99s-Gameplay-12-SDK.aspx) (from [Game From Scratch](http://gamefromscratch.com)
 
 ### Contacts
 [Sean Taylor]
