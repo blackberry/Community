@@ -7,17 +7,20 @@ title: All Pages
 
 **Technologies, Components, Products**
 
-* [Adobe AIR] \(aka [AIR]\)
+* [Adobe AIR]  
+&nbsp;&bull; aka [AIR]
 * [AliceJS]
 * [Apache Cordova]
 * [bbUI.js]
 * [BlackBerry 10]
 * [BlackBerry Jam][bb10jam]
-* [BlackBerry Platform Services][bps] \(aka [BPS]\)
+* [BlackBerry Platform Services][bps]  
+&nbsp;&bull; aka, [BPS]
 * [Bugs]
 * [Camera]
 * [Cascades]
-* [Cascades Samples and Tips] \(redirect from [Cascades Samples]\)
+* [Cascades Samples and Tips]  
+&nbsp;&bull; aka, [Cascades Samples]
 * [Code Samples]
 * [DebugToken]
 * [Developer Conferences][devcon]
@@ -37,9 +40,8 @@ title: All Pages
 * [Python]
 * [QML]
 * [QML33]
-* [QNX Sound Architecture][qsa]
- * aka [QSA]
- * second
+* [QNX Sound Architecture][qsa]  
+&nbsp;&bull; aka [QSA]  
 * [QR Code]
 * [Qt]
 * [Samples]
