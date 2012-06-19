@@ -13,9 +13,9 @@ visiting <a href="../New_York.html">New York</a> on <strong>June 19</strong> and
 The <a href="http://devblog.blackberry.com/2012/06/your-second-chance-at-getting-started-with-cascades/">Cascades Online Webinar</a>
 is <strike><strong>June 19</strong>,
 <a href="http://www.timeanddate.com/worldclock/fixedtime.html?iso=20120620T1500"
-title="convert to your time zone">11am ET</a></strike><em>SOLD OUT</em>.
+title="convert to your time zone">11am ET</a></strike> <em>SOLD OUT</em>.
 <br/>
-4 Additional Presentations: <strong>June 20</strong>, 
+Additional Presentations: <strong>June 20</strong>, 
 <a href="http://www.timeanddate.com/worldclock/fixedtime.html?iso=20120620T1500"
 title="convert to your time zone">11am ET</a>
 and
