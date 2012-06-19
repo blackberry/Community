@@ -43,7 +43,7 @@
 [webworks]: <WebWorks.html> "A framework to write HTML5 Applications for the BlackBerry Platform"
 [youtube]: <YouTube.html> "Videos at YouTube"
 
-[gameplay]: <GamePlay.html> "Portable, OpenSource Gaming Framework"
+[gameplay]: <Gameplay.html> "Portable, OpenSource Gaming Framework"
 [jquery-mobile]: <jQuery-Mobile-Samples.html> "jQuery-Mobile-Samples Repository"
 
 [code_samples]: <Code_Samples.html> "Code Samples"
