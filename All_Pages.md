@@ -17,7 +17,7 @@ title: All Pages
 * [Bugs]
 * [Camera]
 * [Cascades]
-* [Cascades Samples]
+* [Cascades Samples and Tips] \(redirect from [Cascades Samples]\)
 * [Code Samples]
 * [DebugToken]
 * [Developer Conferences][devcon]
@@ -36,7 +36,9 @@ title: All Pages
 * [PhoneGap]
 * [Python]
 * [QML]
-* [QNX Sound Architecture][qsa] \(aka [QSA]\)
+* [QNX Sound Architecture][qsa]
+ * aka [QSA]
+ * second
 * [QR Code]
 * [Qt]
 * [Samples]
