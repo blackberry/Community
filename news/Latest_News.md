@@ -30,6 +30,15 @@ and
 title="convert to your time zone">2pm ET</a>,
 </div>
 
+### BlackBerry-Py: Python and BlackBerry 10
+[BlackBerry Py](../Python.html) has been making very good progress.  The goal is to support the
+development of complete BlackBerry 10 apps, with the UI written using [QML](../QML.html) and
+[Cascades](../Cascades.html),
+and the “business logic” or back-end code written entirely in Python.  Check out the [Python](../Python.html)
+page in the wiki
+
+_Source_: [Peter Hansen], on June 17, 2012
+
 ### Cleanup: Qt Repo and Gitorious
 We are now contributing directly upstream to [Gitorious](http://qt.gitorious.org/qt), and, as a consequence,
 the [old repo](https://github.com/blackberry/Qt) is, at best, a duplicate.
