@@ -1,11 +1,9 @@
 ---
-layout: basic
+layout: col3
 
 title: All Pages
 ---
 {% include common-defs.md %}
-
-TBD - Automatically generate this list and render in two columns; the list below generated _manually_:
 
 **Technologies, Components, Products**
 
@@ -29,6 +27,7 @@ TBD - Automatically generate this list and render in two columns; the list below
 * [HTML5 Samples]
 * [HTML5 Tools]
 * [NFC]
+* [NodeBeat]
 * [OpenCV]
 * [OpenFrameworks]
 * [OpenGL]

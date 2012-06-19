@@ -1,5 +1,5 @@
 ---
-title: More Open Source Committers: Jason (jQuery) and Gord (Apache Cordova)
+title: "More Open Source Committers: Jason (jQuery) and Gord (Apache Cordova)"
 layout: post
 ---
 {% include news-defs.md %}
