@@ -2,6 +2,7 @@
 title: TunnelTilt, a WebGL Game
 layout: post
 ---
+{% include posts-defs.md %}
 
 TunnelTilt, a WebGL-based game shown during last month's [keynote at DevCon America](http://www.blackberrydevcon.com/americas/webcast/part1) (check at 24:18) is now available under an Open Source license at [GitHub.com](http://github.com/blackberry/WebGL-Samples).
 

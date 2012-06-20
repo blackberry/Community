@@ -2,7 +2,7 @@
 title: "BlackBerry 10 Games at NordicGame"
 layout: post
 ---
-{% include news-defs.md %}
+{% include posts-defs.md %}
 
 
 Sean Taylor and Anders Jeppson (RIM) and Tim Closs (Marmalade) will present on Gaming on BlackBerry 10

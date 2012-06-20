@@ -2,7 +2,7 @@
 title: Cleanup of Qt Repo and Gitorious
 layout: post
 ---
-{% include news-defs.md %}
+{% include posts-defs.md %}
 
 We are now contributing directly upstream to [Gitorious](http://qt.gitorious.org/qt), and, as a consequence,
 the [old repo](https://github.com/blackberry/Qt) is, at best, a duplicate.

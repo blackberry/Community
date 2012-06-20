@@ -2,7 +2,7 @@
 title: "BlackBerry 10 Samples Galore"
 layout: post
 ---
-{% include news-defs.md %}
+{% include posts-defs.md %}
 
 
 Post at [DevBlog](http://devblog.blackberry.com/2012/05/blackberry-10-samples/ "BlackBerry 10 Samples Galore") summarizing the new samples repositories released during [BlacKBerry 10 Jam](http://www.blackberryjamconference.com/).  

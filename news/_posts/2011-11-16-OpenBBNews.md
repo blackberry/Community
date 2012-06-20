@@ -1,7 +1,8 @@
 ---
-title: Open BB News Started
+title: Open BB posts Started
 layout: post
 ---
+{% include news-defs.md %}
 
 We have started a new Blog to report on and encourage discussions about Open Source activities related to BlackBerry, PlayBook, BBX, and similar topics.
 

@@ -2,7 +2,7 @@
 title: SNEP Support in BlackBerry 10
 layout: post
 ---
-{% include news-defs.md %}
+{% include posts-defs.md %}
 
 [Martin Wooley][mdw] and [John Murray][jcm] have added
 [SNEP](http://www.nfc-forum.org/specs/spec_list/#protts) support to their NfcTool sample

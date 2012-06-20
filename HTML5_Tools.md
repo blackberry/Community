@@ -23,6 +23,10 @@ Some useful tools for HTML5 development on BlackBerry Platforms.
 
 Add your own - editor will help.
 
+### Articles, Mentions, and More
+
+* [Tools](http://mobiletestingfordummies.tumblr.com/post/25361838354/tools) - From [Testing for Dummies](http://mobiletestingfordummies.tumblr.com/)
+
 ### Also See
 [HTML5], [HTML5 Samples]
 

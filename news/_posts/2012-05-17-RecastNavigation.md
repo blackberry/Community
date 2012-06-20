@@ -2,7 +2,7 @@
 title: "New Repo: RecastNavigation"
 layout: post
 ---
-{% include news-defs.md %}
+{% include posts-defs.md %}
 
 
 The new [RecastNavigation](https://github.com/blackberry/recastnavigation) Repository at GitHub

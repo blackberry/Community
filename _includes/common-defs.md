@@ -1,3 +1,32 @@
+<!-- Repositories -->
+
+[repo:alut]: <https://github.com/blackberry/ALUT> "Repo: ALUT, OpenAL Utilities"
+[repo:bbuijs]: <http://github.com/blackberry/bbui.js> "Repo: bbUI.js Framework for WebWorks"
+[repo:cascadescommunitysamples]: <http://github.com/blackberry/Cascades-Community-Samples> "Repo: Community - RIM and non-RIM - Samples using the Cascades framework"
+[repo:cascades-samples]: <http://github.com/blackberry/Cascades-Samples> "repo: Official Cascades Samples"
+[repo:gameplay]: <http://github.com/blackberry/Gameplay> "Repo: Gameplay, a Portable, OpenSource Gaming Framework"
+[repo:jquery-mobile-samples]: <http://github.com/blackberry/jQuery-Mobile-Samples> "Repo: jQuery-Mobile-Samples Repository"
+[repo:ndk-samples]: <http://github.com/blackberry/NDK-Samples> "Repo: Native Samples that can be used with the NDK"
+[repo:openal]: <http://github.com/blackberry/OpenAL> "Repo: OpenAL"
+[repo:picturewall]: <http://github.com/blackberry/PictureWall> "Repo: HTML5 Application to display pictures on a wall of devices"
+[repo:qrencode]: <http://github.com/blackberry/QREncode> "QREncode Repository"
+[repo:ripple-ui]: <http://github.com/blackberry/Ripple-UI> "Repo: Ripple UI Emulator"
+[repo:ripple-framework]: <http://github.com/blackberry/Ripple-Framework> "Repo: Ripple Framework"
+[repo:ripple-services]: <http://github.com/blackberry/Ripple-Services> "Repo: Ripple Services"
+[repo:sdl]: <http://github.com/blackberry/SDL> "Repo:SDL"
+[repo:scoreloop-samples]: <http://github.com/blackberry/Scoreloop-Samples> "Socoreloop-Samples Repository"
+[repo:webgl-samples]: <http://github.com/blackberry/webgl-samples> "Repository for Community - RIM and non-RIM - Samples using WebGL"
+[repo:webworks-samples]: <http://github.com/blackberry/webworks-samples> "Repository for Community - RIM and non-RIM - Samples using the BlackBerry Webworks framework"
+[repo:zxing]: <http://github.com/blackberry/ZXing> "ZXing Repository"
+
+<!-- Absolute Paths -->
+
+[asl2]: <http://www.apache.org/licenses/LICENSE-2.0.html> "Apache License, Version 2.0"
+[gpl]: <TBD> "TBD"
+[bsd]: <http://en.wikipedia.org/wiki/BSD_licenses> "BSD Licenses, at Wikipedia"
+
+<!-- Relative Paths -->
+
 [all_pages]: <All_Pages.html> "All Pages in this Wiki"
 [all_articles]: <articles/All_Articles.html> "All Articles in this Wiki"
 [all_slides]: <slides/All_Slides.html> "All Presentations in this Wiki"
@@ -14,7 +43,8 @@
 [bugs]: <Bugs.html> "Filing and Searching for Bugs"
 [camera]: <Camera.html> "Camera APIs"
 [cascades]: <Cascades.html> "Cascades"
-[cascades_samples]: <Cascades_Samples.html> "Cascades_Samples"
+[cascades_samples]: <Cascades_Samples.html> "Cascades Samples"
+[cascades_samples_and_tips]: <Cascades_Samples_and_Tips.html> "Cascades Samples and Tips"
 [debugtoken]: <DebugToken.html> "DebugToken"
 [events]: <Events.html> "Events"
 [frogatto]: <Frogatto.html> "A 2-D Game"
@@ -48,24 +78,6 @@
 
 [code_samples]: <Code_Samples.html> "Code Samples"
 
-[repo:alut]: <https://github.com/blackberry/ALUT> "Repo: ALUT, OpenAL Utilities"
-[repo:bbuijs]: <http://github.com/blackberry/bbui.js> "Repo: bbUI.js Framework for WebWorks"
-[repo:cascades-community-samples]: <http://github.com/blackberry/Cascades-Community-Samples> "Repo: Community - RIM and non-RIM - Samples using the Cascades framework"
-[repo:cascades-samples]: <http://github.com/blackberry/Cascades-Samples> "repo: Official Cascades Samples"
-[repo:gameplay]: <http://github.com/blackberry/Gameplay> "Repo: Gameplay, a Portable, OpenSource Gaming Framework"
-[repo:jquery-mobile-samples]: <http://github.com/blackberry/jQuery-Mobile-Samples> "Repo: jQuery-Mobile-Samples Repository"
-[repo:ndk-samples]: <http://github.com/blackberry/NDK-Samples> "Repo: Native Samples that can be used with the NDK"
-[repo:openal]: <http://github.com/blackberry/OpenAL> "Repo: OpenAL"
-[repo:picturewall]: <http://github.com/blackberry/PictureWall> "Repo: HTML5 Application to display pictures on a wall of devices"
-[repo:qrencode]: <http://github.com/blackberry/QREncode> "QREncode Repository"
-[repo:ripple-ui]: <http://github.com/blackberry/Ripple-UI> "Repo: Ripple UI Emulator"
-[repo:ripple-framework]: <http://github.com/blackberry/Ripple-Framework> "Repo: Ripple Framework"
-[repo:ripple-services]: <http://github.com/blackberry/Ripple-Services> "Repo: Ripple Services"
-[repo:sdl]: <http://github.com/blackberry/SDL> "Repo:SDL"
-[repo:scoreloop-samples]: <http://github.com/blackberry/Scoreloop-Samples> "Socoreloop-Samples Repository"
-[repo:webgl-samples]: <http://github.com/blackberry/webgl-samples> "Repository for Community - RIM and non-RIM - Samples using WebGL"
-[repo:webworks-samples]: <http://github.com/blackberry/webworks-samples> "Repository for Community - RIM and non-RIM - Samples using the BlackBerry Webworks framework"
-[repo:zxing]: <http://github.com/blackberry/ZXing> "ZXing Repository"
 
 [ripple]: <TBD> "TBD"
 
@@ -104,9 +116,6 @@
 [eduardo_pelegrillopart]: <TBD> "TBD"
 [george_staikos]: <TBD> "TBD"
 
-[asl2]: <http://www.apache.org/licenses/LICENSE-2.0.html> "Apache License, Version 2.0"
-[gpl]: <TBD> "TBD"
-[bsd]: <http://en.wikipedia.org/wiki/BSD_licenses> "BSD Licenses, at Wikipedia"
 
 [dc12e_dev339]: <slides/devcon2012-europe/Which_Programming_Environment_for_You.html> "Which Programming Environment is Right for You?"
 [dc12e_dev311]: <slides/devcon2012-europe/Build_NFC_App.html> "How to Build an NFC-Enabled App"
