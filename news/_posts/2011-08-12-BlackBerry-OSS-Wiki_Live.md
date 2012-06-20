@@ -2,6 +2,7 @@
 title: BlackBerry Open Source Wiki now Live
 layout: post
 ---
+{% include posts-defs.md %}
 
 We now have a [single wiki for all open source projects](http://blackberry.github.com) at Research In Motion.  This allows us to move wiki content out of the repository based wiki's and to the main one covering all OSS projects.
 

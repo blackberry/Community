@@ -2,6 +2,7 @@
 title: BlackBerry WebWorks SDK for Tablet OS v2.1 Now Available
 layout: post
 ---
+{% include posts-defs.md %}
 
 With the release of v2.1 of the BlackBerry&reg; WebWorks&trade; SDK for Tablet OS, new APIs and application functionality are [now available for download](http://devblog.blackberry.com/2011/06/blackberry-webworks-sdk-tablet-os-version-2-1/)!
 

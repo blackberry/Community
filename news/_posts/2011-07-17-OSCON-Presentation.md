@@ -2,6 +2,7 @@
 title: OSCON Presentation
 layout: post
 ---
+{% include posts-defs.md %}
 
 Recently RIM attended [OSCON](http://www.oscon.com/oscon2011) to talk about our open source goals. You can check out the slides from the session below.
 
