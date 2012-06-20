@@ -2,7 +2,7 @@
 title: "BlackBerry 10 Jam World Tour Update"
 layout: post
 ---
-{% include news-defs.md %}
+{% include posts-defs.md %}
 
 
 Updates to the [Jam Tour][jamtour] page with new cities and dates.  

@@ -2,6 +2,7 @@
 title: Ogg Vorbis Now Available
 layout: post
 ---
+{% include posts-defs.md %}
 
 Ogg Vorbis has been ported to BlackBerry&copy; PlayBook OS.  Sources are available at [GitHub.com](http://github.com/blackberry/OggVorbis). Feedback via [SupportForums](http://supportforums.blackberry.com/t5/Native-SDK-for-BlackBerry-Tablet/bd-p/native_sdk) and [Issues](https://github.com/blackberry/OggVorbis/issues).
 
