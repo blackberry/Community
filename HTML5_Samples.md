@@ -11,15 +11,21 @@ layout: basic
 Repositories from RIM (official) and The Community (unofficial, both RIM and non-RIM)
 containing Samples useful for developers using the [HTML5] Framework:
 
-#### GitHub.com/BlackBerry
+### GitHub.com/BlackBerry
 
-* [PictureWall][repo:picturewall] - Displays pictures on a wall of devices
-* [WebWorks-Samples][repo:webworks-samples] - Commmunity Samples using WebWorks
-* [WebGL-Samples][repo:webgl-samples] - Samples specially using WebGL
+**[PictureWall][repo:picturewall]**, by [Gord Tanner]  
+Displays pictures on a wall of devices.  The pictures are delivered from a server that is running
+[nodeJS](http://nodejs.org/) and are pushed to the tablets using [socket.io](http://socket.io/).
+
+**[WebWorks-Samples][repo:webworks-samples]**, by multiple Authors  
+Commmunity Samples using WebWorks.  Includes Aura, KitchenSink, SketchPad, SwipeMenu, Weather and many more samples.
+
+**[WebGL-Samples][repo:webgl-samples]**, by [Jonathan Feldstein] and others  
+Samples specially using WebGL.  Includes [TunnelTilt](http://appworld.blackberry.com/webstore/content/79082/?lang=en)
 
 More to come...
 
-#### Elsewhere
+### Elsewhere
 
 **[Lemma for PlayBook](https://github.com/yllus/Lemma-for-the-BlackBerry-PlayBook "Lemma for the BlackBerry PlayBook")**, by [Sully Syed](http://yllus.com/)  
 A free, Open-Source Twitter app for BlackBerry PlayBook (see [website](http://lemmaforplaybook.com/).  The implementation uses [bbUI.js], [jsOAuth] and other open source components. Available at [BlackBerry App World](http://appworld.blackberry.com/webstore/content/54868/?lang=en).
