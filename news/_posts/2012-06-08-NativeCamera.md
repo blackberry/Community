@@ -2,7 +2,7 @@
 title: "New Native Sample: NativeCamera"
 layout: post
 ---
-{% include news-defs.md %}
+{% include posts-defs.md %}
 
 Another sample from Sean: [NativeCamera](https://github.com/blackberry/Cascades-Community-Samples/tree/master/NativeCamera)
 shows how to set up a Camera viewfinder in a non-cascades environment using libscreen.

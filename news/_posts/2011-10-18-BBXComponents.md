@@ -2,6 +2,7 @@
 title: Announcing the Native Open Source Components Initiative
 layout: post
 ---
+{% include posts-defs.md %}
 
 Today [Research in Motion](http://rim.com) announced its Native Open Source Components Initiative at DevCon 2011 America. RIM is contributing initial ports of commonly used Open Source Libraries and Games to the QNX-based BlackBerry&copy; Tablet OS, to be used in conjuction with the [BlackBerry Native SDK for Tablet OS](http://developer.blackberry.com/native) (NDK). Following this release, RIM will collaborate with the existing open source communities to incorporate these changes into the upstream repositories.
 

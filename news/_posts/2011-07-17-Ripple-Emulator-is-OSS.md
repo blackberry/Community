@@ -2,6 +2,7 @@
 title: Ripple Emulator is now Open Source
 layout: post
 ---
+{% include posts-defs.md %}
 
 Today the [Ripple Emulator](http://devblog.blackberry.com/2011/06/blackberry-webworks-tooling-evolved/) has now become open source under an Apache 2.0 license.
 

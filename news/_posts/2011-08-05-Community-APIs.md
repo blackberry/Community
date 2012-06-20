@@ -2,6 +2,7 @@
 title: New Community APIs Repository
 layout: post
 ---
+{% include posts-defs.md %}
 
 The [WebWorks-Community-APIs repository](https://github.com/blackberry/WebWorks-Community-APIs) has been created as an area where members of the community can post up their JavaScript Extensions to share with the rest of the world.
 

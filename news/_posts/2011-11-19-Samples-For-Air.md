@@ -2,6 +2,7 @@
 title: Samples for AIR Now Available
 layout: post
 ---
+{% include posts-defs.md %}
 
 The Samples for AIR open source project, [GitHub.com/BlackBerry/Samples-for-AIR](http://github.com/blackberry/Samples-for-AIR),  offers sample APIs written using Blackberry Tablet OS SDK for Adobe AIR. APIs include common utilities and UI elements such as animated screen transitions, navigation menu, media component, search field, and download manager. A fully functional example application that demonstrates how to use the provided APIs is also provided.
 

@@ -2,7 +2,7 @@
 title: "Online Webinar for Cascades"
 layout: post
 ---
-{% include news-defs.md %}
+{% include posts-defs.md %}
 
 Next June 19th there will be an online webinar for Cascades.  Check out [Details](http://devblog.blackberry.com/2012/06/your-second-chance-at-getting-started-with-cascades/)
 and [register](http://developer.blackberry.com/cascades/webcasts).

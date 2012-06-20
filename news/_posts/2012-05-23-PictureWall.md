@@ -2,7 +2,7 @@
 title: "PictureWall Sample"
 layout: post
 ---
-{% include news-defs.md %}
+{% include posts-defs.md %}
 
 
 [PictureWall](http://github.com/blackberry/picturewall) is a new HTML5 sample that displays one or more pictures

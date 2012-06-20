@@ -2,7 +2,7 @@
 title: "Registration open for Milan and Barcelona"
 layout: post
 ---
-{% include news-defs.md %}
+{% include posts-defs.md %}
 
 
 Registration for the Milan and Barcelona stops of the BlackBerry 10 [Jam World Tour][jamtour] is now open.  
