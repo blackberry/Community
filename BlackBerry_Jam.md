@@ -30,7 +30,7 @@ The next few cities are:
 * [Sydney], July 12, 2012
 * [Cape Town], July 31, 2012
 * [Buenos Aires], August, 2012
-* [Mexico], August, 2012
+* [Mexico City], August, 2012
 * [Sao Paulo], August, 2012
 
 ### Cities Visited
