@@ -33,6 +33,9 @@ by Tim Neil on *DevBlog*, May 31, 2012
 * [Using bbUI’s onscreenready and ondomready to Dynamically Change Your HTML](http://nathancampos.me/post/24763995668/using-bbuis-onscreenready-and-ondomready-to) by [Nathan Campos](http://nathancampos.me/),
 on Jun 9, 2012
 
+### Videos
+* [Tim Neil discusses WebWorks and bbUI.js](http://www.youtube.com/watch?v=_kPewENDF2M), on May 4, 2012
+
 ### Contacts
 [Tim Neil]
 
