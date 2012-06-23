@@ -7,6 +7,7 @@ title: Recent Changes
 
 New additions and major updates to pages.  Listed in reverse chronological order.
 
+* New: [Amsterdam] and [Netherlands]
 * New: [Gameplay]
 * Updated: [All Pages] - Now uses 3 columns
 * New: [NodeBeat] - We are still figuring out product pages
