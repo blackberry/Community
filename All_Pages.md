@@ -54,6 +54,7 @@ title: All Pages
 
 **Places**
 
+* [Amsterdam]
 * [Austin]
 * [Bangalore]
 * [Barcelona]
@@ -70,6 +71,7 @@ title: All Pages
 * [Milan]
 * [Montreal]
 * [Moscow]
+* [Netherlands]
 * [New York]
 * [Paris]
 * [Santa Clara]

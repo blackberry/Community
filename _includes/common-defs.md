@@ -125,6 +125,7 @@
 
 [mwc2012_asaunders]: <slides/mwc2012/BlackBerry_Dev_Community.html> "The BlackBerry Developer Community"
 
+[amsterdam]: <Amsterdam.html> "Amsterdam, Netherlands, and nearby areas"
 [austin]: <Austin.html> "Austin, Texas, USA, and nearby areas"
 [bangalore]: <Bangalore.html>" "Bangalore, India and nearby areas"
 [barcelona]: <Barcelona.html> "Barcelona, Catalonia, Spain, and nearby areas"
@@ -141,6 +142,7 @@
 [milan]: <Milan.html> "Milan, Italy, and nearby areas"
 [montreal]: <Montreal.html> "Montreal, Quebec, Canada, and nearby areas"
 [moscow]: <Moscow.html> "Moscow, Russia, and nearby areas"
+[netherlands]: <Netherlands.html> "The Netherlands"
 [new_york]: <New_York.html> "New York, NY, USA, and nearby areas"
 [paris]: <Paris.html> "Paris, France, and nearby areas"
 [santa_clara]: <Santa_Clara.html> "Santa Clara, California, USA, and nearby areas"
