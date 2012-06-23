@@ -30,8 +30,8 @@ More to come...
 **[Lemma for PlayBook](https://github.com/yllus/Lemma-for-the-BlackBerry-PlayBook "Lemma for the BlackBerry PlayBook")**, by [Sully Syed](http://yllus.com/)  
 A free, Open-Source Twitter app for BlackBerry PlayBook (see [website](http://lemmaforplaybook.com/).  The implementation uses [bbUI.js], [jsOAuth] and other open source components. Available at [BlackBerry App World](http://appworld.blackberry.com/webstore/content/54868/?lang=en).
 
-**[Unit Calculator](https://github.com/TheMarco/Unit-Converter "Unit Calculator")**, by [Marco van Hylckama Vlieg](http://www.i-marco.nl/)  
-A unit calculator for BlackBerry Playbook that uses [jQuery Mobile].  Available at [BlackBerry App World](http://appworld.blackberry.com/webstore/content/32461/?lang=en)
+**[Unit Converter](https://github.com/TheMarco/Unit-Converter "Unit Converter")**, by [Marco van Hylckama Vlieg](http://www.i-marco.nl/)  
+A unit converter for BlackBerry Playbook that uses [jQuery Mobile].  Available at [BlackBerry App World](http://appworld.blackberry.com/webstore/content/32461/?lang=en)
 
 **[Khan Academy](https://github.com/levidehaan/KABook "A Khan Academy app for the Blackberry Playbook")**, by [Levi De Haan](http://github.com/levidehaan)  
 The Open Source Khan Academy app for the BlackBerry PlayBook, written using the Khan Academy API.
