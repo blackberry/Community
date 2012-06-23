@@ -20,7 +20,7 @@ title: All Pages
 * [Camera]
 * [Cascades]
 * [Cascades Samples and Tips]  
-&nbsp;&nbsp;&bull; aka [Cascades Samples]
+&nbsp;&nbsp;&bull; from [Cascades Samples]
 * [Code Samples]
 * [DebugToken]
 * [Developer Conferences][devcon]
@@ -54,6 +54,8 @@ title: All Pages
 
 **Places**
 
+* [Amsterdam]  
+&nbsp;&nbsp;&bull; from [Netherlands]
 * [Austin]
 * [Bangalore]
 * [Barcelona]
