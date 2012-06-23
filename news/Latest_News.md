@@ -30,6 +30,13 @@ and
 title="convert to your time zone">2pm ET</a>
 </div>
 
+### Lua and Bullet Physics Updates
+[Lua](../Lua.html) was updated to verison 5.2 on [May 15, 2012](https://github.com/blackberry/Lua/commit/ecfbcc12ff04a88927b4d1ff6ba542fcd61be59a).
+[Bullet Physics](../Bullet_Physics.html) was updated to version 2.8 on
+[May 17, 2012](https://github.com/blackberry/Bullet/commit/f3c9586c66f80a289dd26e4c33f243317e5da66f).
+
+_Source_: RIM Gaming group, on June 22, 2012
+
 ### BlackBerry-Py: Python and BlackBerry 10
 [BlackBerry Py](../Python.html) has been making very good progress.  The goal is to support the
 development of complete BlackBerry 10 apps, with the UI written using [QML](../QML.html) and

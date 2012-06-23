@@ -24,9 +24,17 @@ Currently the support for BBOS smartphones is more complete than that for PlayBo
 * [Project Site at GitHub][repo:bbuijs]
 
 ### Related Articles and Posts
-* [Native or HTML5? Only the developer knows](http://devblog.blackberry.com/2012/05/blackberry-10-bbui/), by Tim Neil, May 2, 2012
-* [bbUI.js version 0.9.2 now available](http://devblog.blackberry.com/2012/05/bbui-js-update-now-available/), by Tim Neil, May 31, 2012
-* [Using bbUI’s onscreenready and ondomready to Dynamically Change Your HTML](http://nathancampos.me/post/24763995668/using-bbuis-onscreenready-and-ondomready-to) by [Nathan Campos](http://nathancampos.me/), Jun 9, 2012
+* [Native or HTML5? Only the developer knows](http://devblog.blackberry.com/2012/05/blackberry-10-bbui/),
+by Tim Neil on *DevBlog*, May 2, 2012
+* [A closer look at bbUI.js...](http://crackberry.com/closer-look-bbuijs-rims-open-source-ui-toolkit-designed-help-create-applications-native-capabilities),
+by Bla1ze, at *CrackBerry*, May 15, 2012
+* [bbUI.js version 0.9.2 now available](http://devblog.blackberry.com/2012/05/bbui-js-update-now-available/),
+by Tim Neil on *DevBlog*, May 31, 2012
+* [Using bbUI’s onscreenready and ondomready to Dynamically Change Your HTML](http://nathancampos.me/post/24763995668/using-bbuis-onscreenready-and-ondomready-to) by [Nathan Campos](http://nathancampos.me/),
+on Jun 9, 2012
+
+### Videos
+* [Tim Neil discusses WebWorks and bbUI.js](http://www.youtube.com/watch?v=_kPewENDF2M), on May 4, 2012
 
 ### Contacts
 [Tim Neil]
