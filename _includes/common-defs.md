@@ -37,8 +37,9 @@
 
 [blackberry_services]: <BlackBerry_Services.html> "Client and Server Side BlackBerry Services"
 
-[bb_advertising]: <TBD> "BlackBerry Advertising Service"
-[bb_analytics]: <TBD> "BlackBerry Analytics Service"
+[bb_advertising]: <BlackBerry_Advertising_Service.html> "BlackBerry Advertising Service"
+[bb_analytics]: <BlackBerry_Analytics_Service.html> "BlackBerry Analytics Service"
+[bbm]: <BlackBerry_Messenger.html> "BlackBerry_Messenger"
 [bb_web_services]: <BlackBerry_Web_Services.html> "BlackBerry Web Services for Enterprise Administration"
 [bws]: <BlackBerry_Web_Services.html> "BlackBerry Web Services for Enterprise Administration"
 [bb_payment]: <BlackBerry_Payment_Service.html> "BlackBerry Payment Service"
