@@ -2,6 +2,7 @@
 
 [repo:alut]: <https://github.com/blackberry/ALUT> "Repo: ALUT, OpenAL Utilities"
 [repo:bbuijs]: <http://github.com/blackberry/bbui.js> "Repo: bbUI.js Framework for WebWorks"
+[repo:bws]: <http://github.com/bws-samples> "Repo: Code samples for BlackBerry Web Services for Enterprise Administration"
 [repo:cascadescommunitysamples]: <http://github.com/blackberry/Cascades-Community-Samples> "Repo: Community - RIM and non-RIM - Samples using the Cascades framework"
 [repo:cascades-samples]: <http://github.com/blackberry/Cascades-Samples> "repo: Official Cascades Samples"
 [repo:gameplay]: <http://github.com/blackberry/Gameplay> "Repo: Gameplay, a Portable, OpenSource Gaming Framework"
@@ -32,6 +33,16 @@
 [all_slides]: <slides/All_Slides.html> "All Presentations in this Wiki"
 [all_news]: <news/index.html> "All News in this Wiki"
 [recent_changes]: <Recent_Changes.html> "Recent changes in this Wiki"
+
+
+[blackberry_services]: <BlackBerry_Services.html> "Client and Server Side BlackBerry Services"
+
+[bb_advertising]: <TBD> "BlackBerry Advertising Service"
+[bb_analytics]: <TBD> "BlackBerry Analytics Service"
+[bb_web_services]: <BlackBerry_Web_Services.html> "BlackBerry Web Services for Enterprise Administration"
+[bws]: <BlackBerry_Web_Services.html> "BlackBerry Web Services for Enterprise Administration"
+[bb_payment]: <BlackBerry_Payment_Service.html> "BlackBerry Payment Service"
+[bb_push]: <BlackBerry_Push_Service.html> "BlackBerry Push Service"
 
 [adobe_air]: <Adobe_AIR.html> "Adobe Integrated Runtime (AIR)"
 [alicejs]: <AliceJS.html> "Alice - A Lightweight Independent CSS Engine"
