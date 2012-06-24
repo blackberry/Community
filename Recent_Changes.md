@@ -7,6 +7,7 @@ title: Recent Changes
 
 New additions and major updates to pages.  Listed in reverse chronological order.
 
+* Staged: [BlackBerry Messenger][bbm], [BlackBerry Analytics Service][bb_analytics], [BlackBerry Advertising Service][bb_advertising]
 * New: [BlackBerry Services], [BlackBerry Payment Service][bb_payment], [BlackBerry Push Service][bb_push], [BlackBerry Web Services][bws]
 * New: [Amsterdam] and [Netherlands]
 * New: [Gameplay]
