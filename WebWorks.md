@@ -31,9 +31,44 @@ WebWorks repositories at GitHub include:
  * [WebWorks-Community-APIs](http://github.com/blackberry/WebWorks-Community-APIs)
  * [WebWorks-Documentation](http://github.com/blackberry/WebWorks-Documentation)
 
+### Articles and Posts
+
+#### RIM's posts at DevBlog
+
+The main blog is DevBlog, under the [Web-Development](http://devblog.blackberry.com/category/web-development/) category.
+
+As a sample, here are the 3 most recent entries as of the latest update to this page:
+
+&nbsp;&nbsp;&bull; *[BlackBerry 10 Jam Interview with Mippin -VIDEO-](http://devblog.blackberry.com/2012/06/blackberry-10-jam-interview-with-mippin-video/)*  
+&nbsp;&nbsp;&bull; *[Hey JavaScript developers! We’re hiring.](http://devblog.blackberry.com/2012/06/hiring-javascript-developers/)*  
+&nbsp;&nbsp;&bull; *[BlackBerry 10 WebWorks SDK and Ripple Emulator Refreshed](http://devblog.blackberry.com/2012/06/blackberry-10-webworks-sdk-ripple-update/)*  
+
+#### RIM Knowledge Base
+
+Main repository is the Knowkledge Base ([website](http://supportforums.blackberry.com/t5/Web-and-WebWorks-Development/tkb-p/browser_dev%40tkb#), [RSS feed](http://supportforums.blackberry.com/rim/rss/board?board.id=browser_dev%40tkb)).
+
+The Knowledge Base supports searching and well as filtering; some useful filters are:
+* [Most Views](http://supportforums.blackberry.com/t5/Web-and-WebWorks-Development/tkb-p/browser_dev%40tkb#/?sort_by=-views&page=1&restrictionStates=no_filter&breadCrumb=%5B%5D&publishRangeTime=0&attentionState=no_filter&search_type=message)
+* [Date of latest Update](http://supportforums.blackberry.com/t5/Web-and-WebWorks-Development/tkb-p/browser_dev%40tkb#/?sort_by=-topicPublishDate&page=1&restrictionStates=no_filter&breadCrumb=%5B%5D&publishRangeTime=0&attentionState=no_filter&search_type=message)
+* [Most Likes](http://supportforums.blackberry.com/t5/Web-and-WebWorks-Development/tkb-p/browser_dev%40tkb#/?sort_by=-topicKudosCount&page=1&restrictionStates=no_filter&breadCrumb=%5B%5D&publishRangeTime=0&attentionState=no_filter&search_type=message)
+* [Most Comments](http://supportforums.blackberry.com/t5/Web-and-WebWorks-Development/tkb-p/browser_dev%40tkb#/?sort_by=-replies&page=1&restrictionStates=no_filter&breadCrumb=%5B%5D&publishRangeTime=0&attentionState=no_filter&search_type=message)
+
+As a sample, here are the 3 most recent entries as of the latest update to this page:
+
+&nbsp;&nbsp;&bull; *[How to detect the BlackBerry Browser](http://supportforums.blackberry.com/t5/Web-and-WebWorks-Development/How-to-detect-the-BlackBerry-Browser/ta-p/559862)*  
+&nbsp;&nbsp;&bull; *[How to Use the BlackBerry WebWorks Plug-in for Eclipse®](http://supportforums.blackberry.com/t5/Web-and-WebWorks-Development/How-to-Use-the-BlackBerry-WebWorks-Plug-in-for-Eclipse/ta-p/446837)*  
+&nbsp;&nbsp;&bull; *[How to debug BlackBerry web applications using Web Inspector](http://supportforums.blackberry.com/t5/Web-and-WebWorks-Development/How-to-debug-BlackBerry-web-applications-using-Web-Inspector/ta-p/1207155)*  
+
+#### Non-RIM
+**[Quick WebWorks lesson: how to have your app running in the background](http://thebbthing.wordpress.com/2012/06/25/quick-webworks-lesson-how-to-have-your-app-running-in-the-background/)**, by [NunoDonato](http://twitter.com/nunodonato)  
+Nuno explains how to configure the 'config.xml' file, and how to use different APIs to use WebWorks to write
+an application that runs in the background.
+
+
+
 ### Contacts
 [Gord Tanner], [Laurent Hasson], [Ken Wallis], ...
 
 ### Also See
-[Ripple], [ASL2], [WebGL], [bbUI.js]
+[Ripple], [ASL2], [WebGL], [bbUI.js], [HTML5], [HTML5 Samples]
 
