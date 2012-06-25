@@ -41,7 +41,8 @@ Code has been removed but download files will still be here - currently a tad ou
 _Source_: Rafael Roquetto, on June 13, 2012
 
 
-Older News at [All News]    
 ---
-These news are community-contribute.  We encourage you to [Submit News](Submit_News.html); see [how](../other/QuickEdit.html)
+These news are archived on a regular basis; look at [All News] for older news.
+  
+These news are community-contributed.  We encourage you to [Submit News](Submit_News.html); see [how](../other/QuickEdit.html).
 
