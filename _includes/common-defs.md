@@ -157,6 +157,7 @@
 [netherlands]: <Netherlands.html> "The Netherlands"
 [new_york]: <New_York.html> "New York, NY, USA, and nearby areas"
 [paris]: <Paris.html> "Paris, France, and nearby areas"
+[porto]: <Porto.html> "Porto, Portugal, and nearby areas"
 [santa_clara]: <Santa_Clara.html> "Santa Clara, California, USA, and nearby areas"
 [sao_paulo]: <Sao_Paulo.html> "Sao Paulo, Brazil, and nearby areas"
 [singapore]: <Singapore.html> "Singapore and nearby areas"
