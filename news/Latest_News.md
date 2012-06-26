@@ -17,6 +17,12 @@ for the latest
 title="convert to your time zone">11am ET</a>
 </div>
 
+### The Road to BlackBerry 10 Gold
+[Tim Neil] provides an overview of the process towards [BlackBerry 10] beta
+at [DevBlog](http://devblog.blackberry.com/2012/06/blackberry-10-sdks-download-now/).
+
+_Source_: [Tim Neil], on June 26, 2012
+
 ### Lua and Bullet Physics Updates
 [Lua](../Lua.html) was updated to version 5.2 on [May 15, 2012](https://github.com/blackberry/Lua/commit/ecfbcc12ff04a88927b4d1ff6ba542fcd61be59a).
 [Bullet Physics](../Bullet_Physics.html) was updated to version 2.8 on
