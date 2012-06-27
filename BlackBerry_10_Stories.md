@@ -20,7 +20,7 @@ Digital brochure showcasing clinic treatments with ability to capture potential 
 
 ### General
 
-**[BB10: Initial Impressions]()**, by Daniel Bigham  
+**[BB10: Initial Impressions](http://www.danielbigham.ca/cgi-bin/document.pl?mode=Display&DocumentID=901)**, by Daniel Bigham  
 I was able to spend a few hours learning and playing with BB10 for the first time today, and I am so impressed...
 
 
