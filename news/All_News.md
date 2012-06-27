@@ -1,10 +1,10 @@
 ---
 layout: news
-title: Older Community News
+title: Community News
 ---
 {% include news-defs.md %}
 
-Also see [Latest News]
+Also see [Latest News] for late-breaking news.
 
 <div id="posts">
   <div>
