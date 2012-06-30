@@ -43,7 +43,7 @@ As a sample, here are the 3 most recent entries as of the latest update to this 
 &nbsp;&nbsp;&bull; *[Hey JavaScript developers! We’re hiring.](http://devblog.blackberry.com/2012/06/hiring-javascript-developers/)*  
 &nbsp;&nbsp;&bull; *[BlackBerry 10 WebWorks SDK and Ripple Emulator Refreshed](http://devblog.blackberry.com/2012/06/blackberry-10-webworks-sdk-ripple-update/)*  
 
-#### RIM Knowledge Base
+#### More RIM Articles
 
 Main repository is the Knowkledge Base ([website](http://supportforums.blackberry.com/t5/Web-and-WebWorks-Development/tkb-p/browser_dev%40tkb#), [RSS feed](http://supportforums.blackberry.com/rim/rss/board?board.id=browser_dev%40tkb)).
 
