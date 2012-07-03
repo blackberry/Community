@@ -45,6 +45,7 @@ title: All Pages
 * [OpenFrameworks]
 * [OpenGL]
 * [Open Source]
+* [Open Source Wish List]
 * [PhoneGap]
 * [Python]
 * [QML]

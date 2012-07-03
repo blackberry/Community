@@ -72,6 +72,7 @@
 [openframeworks]: <OpenFrameworks.html> "Open Source Framework for Creative Media Applications"
 [opengl]: <OpenGL.html> "Language .."
 [open_source]: <Open_Source.html> "Open Source Actvities at RIM"
+[open_source_wish_list]: <Open_Source_Wish_List.html> "Wish List for Open Source Components and Applications"
 [picturewall]: <PictureWall.html> "PictureWall Sample Application"
 [phonegap]: <PhoneGap.html> "Original cross-platform framework from Nitobi"
 [python]: <Python.html> "Python"
