@@ -7,6 +7,7 @@ title: Recent Changes
 
 New additions and major updates to pages.  Listed in reverse chronological order.
 
+* Added: [Open Source Wish List]
 * Added: [BlackBerry 10 Stories][bb10_stories], [Contributor Agreement]
 * Added: [Porto]
 * Staged: [BlackBerry Messenger][bbm], [BlackBerry Analytics Service][bb_analytics], [BlackBerry Advertising Service][bb_advertising]
