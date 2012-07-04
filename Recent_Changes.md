@@ -7,6 +7,7 @@ title: Recent Changes
 
 New additions and major updates to pages.  Listed in reverse chronological order.
 
+* Added: [LZMA], [OpenTTD], [SDL], [TiMidity], [TouchControlOverlay]
 * Added: [Open Source Wish List]
 * Added: [BlackBerry 10 Stories][bb10_stories], [Contributor Agreement]
 * Added: [Porto]
