@@ -88,7 +88,7 @@
 [sdl]: <SDL.html> "SDL"
 [slideshare]: <SlideShare.html> "Presentations at SlideShare"
 [threejs]: <threeJS.html> "A WebGL 3-D Framework"
-[timidity]: <TiMiDity.html> "TiMiDity"
+[timidity]: <TiMidity.html> "TiMidity"
 [touchcontroloverlay]: <TouchControlOverlay.html> "TouchControlOverlay"
 [url_launcher]: <URL_Launcher.html> "URL Launching Application"
 [webgl]: <WebGL.html> "OpenGL ES 2.0 for the Web"
