@@ -11,8 +11,6 @@ layout: technology
 
 ### Description
 
-TBD - Staged
-
 The BlackBerry Advertising Service can simplify your path to in-app ad
 revenue. Let Research In Motion (RIM) help with your in-app
 advertising, both commercially and technically, so you can focus on
