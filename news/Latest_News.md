@@ -16,6 +16,11 @@ and
 <a href="../Sydney.html">Sydney</a> on <strong>July 12</strong>
 </div>
 
+### New Camera Sample: Video Recording
+[Sean McVeigh] pushed out a new sample to the Cascades-Community-Samples repository.  Download [HelloVideoCamera](https://github.com/blackberry/Cascades-Community-Samples/tree/master/HelloVideoCamera) and try it out on your Dev Alpha!
+
+_Source_: [Sean McVeigh], on July 6, 2012
+
 ### The Road to BlackBerry 10 Gold
 [Tim Neil] provides an overview of the process towards [BlackBerry 10] beta
 at [DevBlog](http://devblog.blackberry.com/2012/06/blackberry-10-sdks-download-now/).
