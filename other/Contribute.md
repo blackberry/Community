@@ -44,6 +44,7 @@ Pages are written using one of these layouts:
 * [Technology](example-technology.html)
 * [FAQ](example-faq.html)
 * [People](example-people.html)
+* [Wanted](example-wanted.html)
 
 You can create a new page by copying and then editing one of the above example pages.
 

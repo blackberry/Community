@@ -11,8 +11,6 @@ layout: technology
 
 ### Description
 
-TBD - Staged
-
 BlackBerry® Messenger is an instant messaging app just for BlackBerry smartphone owners
 
 [Main site](http://us.blackberry.com/developers/blackberrymessenger/)

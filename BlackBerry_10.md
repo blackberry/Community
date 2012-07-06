@@ -1,21 +1,12 @@
 ---
-layout: basic
+title: BlackBerry 10
 
-title: BlackBerry&reg; 10
-oneline: The Next Generation Platform
-tags:
+layout: wanted
 ---
 {% include common-defs.md %}
 
-### Description
+Clarification relative to PlayBook
 
-The BlackBerry&reg; 10 is....
+Hisotry 
 
-An introduction to BlackBerry&reg; 10, including links to the micro-site
-
-### Additional links
-
-### Contacts
-
-### Also See
-[QNX]
+https://developer.blackberry.com/
