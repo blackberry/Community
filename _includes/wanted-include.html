@@ -47,15 +47,19 @@
 			<div id="content">
 				  <h1>{{ page.title }}</h1>
 
-{% if page.note %}
-<p style="margin-top:10px; margin-bottom: 10px;">
-<strong>Note</strong> - {{ page.note }}
+				  <div id="right">
+<p style="text-align: center;">
+<a href="{{ base-url }}/Wanted_Pages.html"><img width="100px" src="{{ base-url }}/images/200px-UK_traffic_sign_7001.png"/></a>
 </p>
-{% endif %}
-				  <!-- content provided by page -->
-				  <div id="col3">
-				  {{ content }}
+<p style="margin-top:10px; text-align: center;">
+Page under construction
+</p>
+<p style="margin-top:5px; text-align: center;">
+Your contribution is encouraged!
+</p>
 				  </div>
+
+				  {{ content }}
 
 				  <p id="copyright" style="font-size: 8.5pt; text-align: center;">Copyright 1999-2011 Research In Motion Limited. 295 Phillip Street, Waterloo, Ontario, Canada, N2L 3W8. All Rights Reserved.</p>
 			</div>
