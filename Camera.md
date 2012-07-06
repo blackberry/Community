@@ -31,6 +31,10 @@ Shows how to set up a Cascades foreign window and connect the Camera viewfinder 
 **[NativeCamera](http://github.com/blackberry/Cascades-Community-Samples/tree/master/NativeCamera)**  
 Shows how to set up a Camera viewfinder in a non-cascades environment using libscreen.
 
+**[HelloVideoCamera](https://github.com/blackberry/Cascades-Community-Samples/tree/master/HelloVideoCamera)**  
+Shows how to record videos using the Camera.
+This sample is based on the HelloCamera sample so it also illustrates how to set up a Cascades foreign window and connect the Camera viewfinder to it.
+
 ### Presentations and Other Media
 
 * TBD
