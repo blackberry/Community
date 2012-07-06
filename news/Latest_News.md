@@ -6,15 +6,13 @@ title: Latest Community News
 
 <div style="background-color: ghostwhite; border-style: solid; border-width: 1px; padding: 10px; margin-top: 10px; font-size: 105%; text-align: center; line-height: 180%;">
 The
-<a href="../BlackBerry_Jam.html">BlackBerry 10 Jam World Tour</a> is
-visiting <a href="../Moscow.html">Moscow</a> on <strong>June 26</strong> and
-<a href="../Berlin.html">Berlin</a> on <strong>June 28</strong>
-<br/>
-<a href="http://www.blackberrydeveloperevents.com/events/webcast/registration/register.html?scoid=1047459465">Register</a>
-for the latest
-<a href="../Cascades.html">Cascades</a> Webinar on <strong>June 26</strong> at 
-<a href="http://www.timeanddate.com/worldclock/fixedtime.html?iso=20120626T1500"
-title="convert to your time zone">11am ET</a>
+<a href="../BlackBerry_Jam.html">BlackBerry 10 Jam World Tour</a> is visiting
+<a href="../Singapore.html">Signapore</a> on <strong>July 9</strong>,
+<a href="../Jakarta.html">Jakarta</a> on <strong>July 10</strong>,
+<a href="../Dubai.html">Dubai</a> on <strong>July 10</strong>,
+<a href="../Montreal.html">Montreal</a> on <strong>July 11</strong>
+and
+<a href="../Sydney.html">Sydney</a> on <strong>July 12</strong>
 </div>
 
 ### The Road to BlackBerry 10 Gold
