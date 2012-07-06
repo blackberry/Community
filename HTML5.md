@@ -28,5 +28,13 @@ The BlackBerry browser has consistently delivered high performance and high fide
 
 See [HTML5 Samples]
 
+### Official Documentation
+
+[BlackBerry Web References](https://developer.blackberry.com/html5/documentation/ww_webrefs/Web_references_1986046_11.html), including:
+[HTML Elements and Attributed Supported](http://docs.blackberry.com/26991),
+[CSS Elements Supported](http://docs.blackberry.com/27290)
+and
+[BlackBerry Browser Scripting Reference](https://developer.blackberry.com/html5/documentation/ww_webrefs/Supported_JS_APIs_1253681_11.html)
+
 ### Also See
-[Cascades Samples], [Cascades], [HTML5 Samples], [HTML5 Tools]
+[Cascades Samples], [Cascades], [HTML5 Samples], [HTML5 Tools], [Webkit]

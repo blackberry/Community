@@ -11,8 +11,6 @@ layout: technology
 
 ### Description
 
-TBD - Staged
-
 With the reports and metrics available with the Analytics Service,
 you can find out if your app is being used the way it was designed to be used.
 You can also identify user behavior and segments to discover new business opportunities
