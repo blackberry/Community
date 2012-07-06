@@ -9,6 +9,7 @@ The
 <a href="../BlackBerry_Jam.html">BlackBerry 10 Jam World Tour</a> is visiting
 <a href="../Singapore.html">Signapore</a> on <strong>July 9</strong>,
 <a href="../Jakarta.html">Jakarta</a> on <strong>July 10</strong>,
+<br/>
 <a href="../Dubai.html">Dubai</a> on <strong>July 10</strong>,
 <a href="../Montreal.html">Montreal</a> on <strong>July 11</strong>
 and
