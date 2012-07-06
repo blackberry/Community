@@ -15,7 +15,7 @@ See [Inside BlackBerry]
 ## Others
 
 * [CrackBerry](http://crackberry.com "CrackBerry .com")
-* [OSBB](http://opensourcebb.com/ "Open Source BlackBerry)
+* [OSBB](http://opensourcebb.com/ "Open Source BlackBerry")
 
 
 * [the BlackBerry thing](http://thebbthing.wordpress.com/)

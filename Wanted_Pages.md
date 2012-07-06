@@ -20,7 +20,7 @@ the map in _includes/common-defs.md"
 * [BlackBerry Themes](BlackBerry_Themes.html)
 * [Blogs](Blogs.html)
 * [Cocos2d-x](Cocos2d-x.html)
-* [Code_Signing](Code_Signing.html)
+* [Code Signing](Code_Signing.html)
 * [Emulators](Emulators.html)
 * [Forums](Forums.html)
 * [Inside BlackBerry](Inside_BlackBerry.html)
@@ -36,5 +36,5 @@ the map in _includes/common-defs.md"
 * [TunnelTilt](TunnelTilt.html)
 * [Upstreaming](Upstreaming.html)
 * [WebGL-Samples](WebGL-Samples.html)
-* [Web_Inspector](Web_Inspector.html)
+* [Web Inspector](Web_Inspector.html)
 
