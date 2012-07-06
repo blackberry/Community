@@ -1,16 +1,19 @@
 ---
-layout: col3
+layout: col2
 
 title: Wanted Pages
-note: "This is a list of all the wanted pages.  As you provide the content for a Wanted page, remember to
-move it from here to All_Pages.md.  Also remember to add it to Recent_Pages.md and to
-the map in _includes/common-defs.md"
+note: "A list of all the wanted pages; some are just Names with brief notes; some are pages under construction.\
+\n
+Editors will periodically do passes through the names and create pages that can be edited easily\
+\n
+As you complete a page, remember to remove it from here and add it to All Pages, Recent Pages and the common-defs map"
 ---
 {% include common-defs.md %}
 
-### Just Names
+### Names
 * Wikitude - Wikitude.com
 * Immigration Projects
+* FreeImage - [home](http://freeimage.sourceforge.net/license.html), [tweet](http://bit.ly/MaMulx)/[@lynxluna](http://twitter.com/lynxluna), [repo](https://github.com/lynxluna/freeimage)
 
 ### Pages
 * [Android](Android.html)
