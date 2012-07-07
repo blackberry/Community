@@ -11,6 +11,7 @@ As you complete a page, remember to remove it from here and add it to All Pages,
 {% include common-defs.md %}
 
 ### Names
+* Ogre3D [web](http://www.ogre3d.org/) - @lynxluna works on it
 
 
 ### Pages
