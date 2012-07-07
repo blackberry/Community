@@ -37,6 +37,16 @@ The main tool for authoring Cascades is:
 
 The Cascades Builder is bundled in the QNX Momentics IDE.
 
+### Knowledge Base
+
+From the [Official Knowledge Base](http://supportforums.blackberry.com/t5/Cascades-Development-Knowledge/tkb-p/Cascades@tkb?CPID=E10C020&Date=070612) (snapshot on July 7, 2012):
+
+* [Using OpenGL in a Cascades ForeignWindow](http://supportforums.blackberry.com/t5/Cascades-Development-Knowledge/Using-OpenGL-in-a-Cascades-ForeignWindow/ta-p/1785779)
+* [ListItemComponent Types When Using GroupDataModel](http://supportforums.blackberry.com/t5/Cascades-Development-Knowledge/ListItemComponent-Types-When-Using-GroupDataModel/ta-p/1750117)
+* [Using a Custom DataModel to Filter Data for a ListView](http://supportforums.blackberry.com/t5/Cascades-Development-Knowledge/Using-a-Custom-DataModel-to-Filter-Data-for-a-ListView/ta-p/1752509)
+* [Using your own DataModel](http://supportforums.blackberry.com/t5/Cascades-Development-Knowledge/Using-your-own-DataModel/ta-p/1755893)
+* [BlackBerry 10 Dev Alpha Simulator Shows Scroll Bars in Portrait Mode](http://supportforums.blackberry.com/t5/Cascades-Development-Knowledge/BlackBerry-10-Dev-Alpha-Simulator-Shows-Scroll-Bars-in-Portrait/ta-p/1761701)
+
 ### Cascades Samples
 
 Samples are critical to speeding up learning and using new technology.
