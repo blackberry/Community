@@ -16,10 +16,56 @@ and
 <a href="../Sydney.html">Sydney</a> on <strong>July 12</strong>
 </div>
 
+These news are archived on a regular basis; look at [All News] for older news.
+
+### New Cascades Webinar
+[Register now](http://www.blackberrydeveloperevents.com/events/webcast/registration/register.html?scoid=1051105884) for the next Cascades Webinar.  The topic is
+*"Connecting, Retrieving, Storing and Displaying your Data"*.
+Date is July 10, 2012, 11am ET
+[TZ converter](http://www.timeanddate.com/worldclock/fixedtime.html?iso=20120710T1500).
+
+_Source_: [Garett], via [DevBlog](http://devblog.blackberry.com/2012/07/cascades-cascades-cascades-webcasts-webcasts-webcasts/), on July 6, 2012
+
+### Recordings of Cascades Webcasts Available
+The recordings of the first two [Cascades](../Cascades.html) webinars
+are now available in the
+[videos page](https://developer.blackberry.com/cascades/documentation/videos/index.html) of the microsite.
+
+_Source_: [Garett], via [DevBlog](http://devblog.blackberry.com/2012/07/cascades-cascades-cascades-webcasts-webcasts-webcasts/), on July 6, 2012
+
 ### New Camera Sample: Video Recording
-[Sean McVeigh] pushed out a new sample to the Cascades-Community-Samples repository.  Download [HelloVideoCamera](https://github.com/blackberry/Cascades-Community-Samples/tree/master/HelloVideoCamera) and try it out on your Dev Alpha!
+[Sean McVeigh] pushed out a new sample to the Cascades-Community-Samples repository.
+Download [HelloVideoCamera](https://github.com/blackberry/Cascades-Community-Samples/tree/master/HelloVideoCamera) and try it out on your Dev Alpha!
 
 _Source_: [Sean McVeigh], on July 6, 2012
+
+### New Web-GL Sample: PeaksAndValleys
+
+[Erik Oros] had added a new [WebGL](../WebGL.html) Sample to the
+[WebGL-Samples](http://github.com/blackberry/WebGL-Samples) repository.
+[PeaksAndValleys](../PeaksAndValleys.html) is a demo
+that shows several WebGL concepts, including rendering objects, blending textures, lighting, skybox generation,
+touch control and more.
+
+_Source_: [Erik Oros], on July 5, 2012
+
+### RIM looking for Developers!
+Research In Motion is looking to hire developers in the [WebWorks Team](http://devblog.blackberry.com/2012/07/hiring-devs/)
+and in the [Developer Relations](http://devblog.blackberry.com/2012/06/hiring-javascript-developers)
+teams.
+There are positions available in
+Canada,
+China
+France,
+India,
+Indonesia,
+Poland,
+Singapore,
+South Korea,
+and
+UAE.
+
+_Source_: DevRel, via [DevBlog](http://devblog.blackberry.com/2012/07/hiring-devs/), on July 4, 2012
 
 ### The Road to BlackBerry 10 Gold
 [Tim Neil] provides an overview of the process towards [BlackBerry 10] beta
@@ -52,7 +98,6 @@ _Source_: Rafael Roquetto, on June 13, 2012
 
 
 ---
+These news are community-contributed and you are encouraged to [Submit News](Submit_News.html); see [how](../other/QuickEdit.html).  
 These news are archived on a regular basis; look at [All News] for older news.
-  
-These news are community-contributed.  We encourage you to [Submit News](Submit_News.html); see [how](../other/QuickEdit.html).
 

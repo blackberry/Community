@@ -22,6 +22,7 @@ WebGL is supported in PlayBook 2.0 via [WebWorks].
 WebGL is also supported in the PlayBook 2.0 browser but end-user needs to explicitly allow its use.
 
 ### Additional Links
+* [Native WebGL...](http://devblog.blackberry.com/2012/02/playbook-native-webgl-development/) (DevBlog announcement)
 * [Wikipedia](http://en.wikipedia.org/wiki/WebGL)
 * [WebGL @ Khronos](http://www.khronos.org/webgl/)
 * [WebGL Wiki @ Khronos](http://www.khronos.org/webgl/wiki_1_15/index.php/Main_Page)
