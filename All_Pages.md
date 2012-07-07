@@ -71,7 +71,7 @@ title: All Pages
 * [TunnelTilt]
 * [URL Launcher]
 * [WebGL]
-* [WebGL-Samples]
+* [WebGL_Samples]
 * [Webkit]
 * [WebWorks]
 * [YouTube]
