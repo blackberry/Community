@@ -11,9 +11,8 @@ As you complete a page, remember to remove it from here and add it to All Pages,
 {% include common-defs.md %}
 
 ### Names
-* Wikitude - Wikitude.com
-* Immigration Projects
-* FreeImage - [home](http://freeimage.sourceforge.net/license.html), [tweet](http://bit.ly/MaMulx)/[@lynxluna](http://twitter.com/lynxluna), [repo](https://github.com/lynxluna/freeimage)
+* Ogre3D [web](http://www.ogre3d.org/) - @lynxluna works on it
+
 
 ### Pages
 * [Android](Android.html)
@@ -31,6 +30,8 @@ As you complete a page, remember to remove it from here and add it to All Pages,
 * [Code Signing](Code_Signing.html)
 * [Emulators](Emulators.html)
 * [Forums](Forums.html)
+* [FreeImage](FreeImage.html)
+* [Immigration Projects](Immigration_Projects.html)
 * [Inside BlackBerry](Inside_BlackBerry.html)
 * [jQuery](jQuery.html)
 * [libscreen](libscreen.html)
@@ -45,4 +46,5 @@ As you complete a page, remember to remove it from here and add it to All Pages,
 * [Upstreaming](Upstreaming.html)
 * [WebGL-Samples](WebGL-Samples.html)
 * [Web Inspector](Web_Inspector.html)
+* [Wikitude](Wikitude.html)
 
