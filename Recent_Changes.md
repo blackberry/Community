@@ -7,6 +7,7 @@ title: Recent Changes
 
 New additions and major updates to pages.  Listed in reverse chronological order.
 
+* Added: [Screencasts]
 * Added: [PeaksAndValleys], [TunnelTilt], [WebGL-Samples]
 * Updated: [Camera]
 * Added: [Wanted Pages] (wanted pages not tracked here)

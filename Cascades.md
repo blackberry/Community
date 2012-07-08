@@ -23,7 +23,7 @@ The key web page is the [Cascades Micro-Site](https://developer.blackberry.com/c
 The site has many useful areas, including:
 * [Introduction](https://developer.blackberry.com/cascades/documentation/getting_started/introtocascades.html)
 * [Sample Apps](https://developer.blackberry.com/cascades/sampleapps)
-* [Documentation](https://developer.blackberry.com/cascades/documentation)
+* [Documentation](https://developer.blackberry.com/cascades/documentation) - including a [videos area](https://developer.blackberry.com/cascades/documentation/videos/index.html)
 * [Online Reference](https://developer.blackberry.com/cascades/reference/classes.html)
 * [Downloads](https://developer.blackberry.com/cascades/download)
 
@@ -54,6 +54,21 @@ Whenever possible we release samples under an Open Source license to simplify th
 to the developer communities.
 
 A list of the currently available samples is at [Cascades Samples].
+
+### Webinars
+
+The micro-site has a
+[videos page](https://developer.blackberry.com/cascades/documentation/videos/index.html)
+that includes
+material, including recordings, on a series of Webinars covering Cascades.  The current list includes
+
+**Past Presentations**
+* _Astonishing UIs using the new BlackBerry 10 framework_
+* _Astonishing UIs using the new BlackBerry 10 frameowkr continued_
+
+**Scheduled Presentations**
+* _Cascades - connecting, retrieving, storing and displaying your data_
+* _Building Compelling 3D Apps using Cascades and OpenGL ES_
 
 ### Presentations and Other Media
 
