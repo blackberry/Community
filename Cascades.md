@@ -64,10 +64,10 @@ material, including recordings, on a series of Webinars covering Cascades.  The 
 
 **Past Presentations**
 * _Astonishing UIs using the new BlackBerry 10 framework_
-* _Astonishing UIs using the new BlackBerry 10 frameowkr continued_
+* _Astonishing UIs using the new BlackBerry 10 frameowrk continued_
+* _Cascades - connecting, retrieving, storing and displaying your data_
 
 **Scheduled Presentations**
-* _Cascades - connecting, retrieving, storing and displaying your data_
 * _Building Compelling 3D Apps using Cascades and OpenGL ES_
 
 ### Presentations and Other Media
