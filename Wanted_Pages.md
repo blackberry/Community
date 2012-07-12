@@ -35,6 +35,7 @@ As you complete a page, remember to remove it from here and add it to All Pages,
 * [Immigration Projects](Immigration_Projects.html)
 * [Inside BlackBerry](Inside_BlackBerry.html)
 * [jQuery](jQuery.html)
+* [Knowledge Base](Knowledge_Base.html)
 * [libscreen](libscreen.html)
 * [Native](Native.html)
 * [Native SDK](Native_SDK.html)
