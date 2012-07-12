@@ -16,7 +16,8 @@ A list of developer screencasts.  Sorted by type and origin.
 * [Cascades: Using Cascades Exporter](https://www.youtube.com/watch?v=Niu_ilcSNTw "BlackBerryDev @ YouTube") (7:21; 19 Jun '12) - Using the Cascades Exporter effectively
 * [Cascades: Creating a Simple List](https://www.youtube.com/watch?v=2B4efVErrvA "BlackBerryDev @ YouTube") (8:31; 19 Jun '12) - How to create a list in Cascades
 * [Astonishing UIs using the new BlackBerry 10 framework](http://cgs.adobeconnect.com/p32ziff0pz5/ "DevRel Webinar") (1:18:20; Jun '12) - Overview of Cascades
-* [Astonishing UIs using the new BlackBerry 10 framework continued](http://cgs.adobeconnect.com/p32ziff0pz5http://cgs.adobeconnect.com/p410ka71xsy/ "DevRel Webinar") (1:17:59; Jun '12) - Continuation
+* [Astonishing UIs using the new BlackBerry 10 framework continued](http://cgs.adobeconnect.com/p410ka71xsy/ "DevRel Webinar") (1:17:59; Jun '12) - Continuation
+* [Connecting, retrieving, storing and displaying your data](http://cgs.adobeconnect.com/p5fpdoyrx2p/ "DevRel Webinar") (1:0115; Jul '12) - From network to presentation
 
 ### Community Videos
 
