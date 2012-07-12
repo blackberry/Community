@@ -77,8 +77,9 @@ title: All Pages
 * [WebWorks]
 * [YouTube]
 
-**Wanted**
+**Wanted and FAQ**
 
+* [FAQ]
 * [Wanted_Pages](Wanted_Pages.html)
 
 **Staged**
