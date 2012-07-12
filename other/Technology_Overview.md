@@ -119,6 +119,7 @@ Git-Related:
  * [Git SCM](http://git-scm.com)
  * [Git Reference](http://git-scm.com/docs)
  * [Git Book](http://git-scm.com/book)
+ * [Try Git](try.github.com), learn Git the [Code School way](http://codeschool.com)
  * [Git Videos](http://git-scm.com/videos)
  * The Git Man pages installed in your desktop with the software.
 

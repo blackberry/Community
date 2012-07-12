@@ -37,7 +37,7 @@ This sample is based on the HelloCamera sample so it also illustrates how to set
 
 ### Presentations and Other Media
 
-* TBD
+* [Shutter Sound Policy](http://supportforums.blackberry.com/t5/Native-Development/Camera-shutter-sound/m-p/1808535#M5712)
 
 ### Also See
 [Cascades], [WebWorks], [Native]
