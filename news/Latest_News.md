@@ -37,8 +37,10 @@ EmailListener ([#62](https://github.com/blackberry/WebWorks-Community-APIs/pull/
 [#63](https://github.com/blackberry/WebWorks-Community-APIs/pull/63) from [rbalsewich](http://github.com/rbalsewich)),
 and TransportCoverage ([#64](https://github.com/blackberry/WebWorks-Community-APIs/pull/64)
 from [bthornton32](http://github.com/bthornton32)).
+
 A complete list of extensions is available at the
 [Tablet](https://github.com/blackberry/WebWorks-Community-APIs/tree/master/Tablet)
+and
 [Smartphone](https://github.com/blackberry/WebWorks-Community-APIs/tree/master/Smartphone)
 directories of the repository.
 
