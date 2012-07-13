@@ -18,6 +18,16 @@ and
 
 These news are archived on a regular basis; look at [All News] for older news.
 
+### 23 Extensions in WebWorks-Community-APIs
+As of this writing, the [Webworks-Community-APIs](http://github.com/blackberry/WebWorks-Community-APIs)
+repository has 23 extensions: 17 for 
+[Smartphone](https://github.com/blackberry/WebWorks-Community-APIs/tree/master/Smartphone)
+and 6 for
+[Tablet](https://github.com/blackberry/WebWorks-Community-APIs/tree/master/Tablet).
+More on the way.
+
+_Source_: [Eduardo Pelegri-Llopart], on July 13, 2012
+
 ### New EmailListener and Transport Coverage, and improvements to Clipboard Extensions
 Multiple commits into [WebWorks-Community-APIs](http://github.com/blackberry/WebWorks-Community-APIs)
 updated the PlayBook Clipboard extension ([#61](http://github.com/blackberry/WebWorks-Community-APIs/pull/61)
@@ -27,8 +37,10 @@ EmailListener ([#62](https://github.com/blackberry/WebWorks-Community-APIs/pull/
 [#63](https://github.com/blackberry/WebWorks-Community-APIs/pull/63) from [rbalsewich](http://github.com/rbalsewich)),
 and TransportCoverage ([#64](https://github.com/blackberry/WebWorks-Community-APIs/pull/64)
 from [bthornton32](http://github.com/bthornton32)).
+
 A complete list of extensions is available at the
 [Tablet](https://github.com/blackberry/WebWorks-Community-APIs/tree/master/Tablet)
+and
 [Smartphone](https://github.com/blackberry/WebWorks-Community-APIs/tree/master/Smartphone)
 directories of the repository.
 
