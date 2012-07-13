@@ -16,13 +16,11 @@ See [Inside BlackBerry]
 
 * [CrackBerry](http://crackberry.com "CrackBerry .com")
 * [OSBB](http://opensourcebb.com/ "Open Source BlackBerry")
-
-
 * [the BlackBerry thing](http://thebbthing.wordpress.com/)
-  by http://twitter.com/nunodonato
+  by [nunodonato](http://twitter.com/nunodonato)
+* [RapidBerry](http://rapidberry.net/category/developers-2/)
+* [OnOnOn!](http://ononon.weebly.com/)
 
 ### Portugues
-http://www.planetaberry.net/
-http://www.planetaberry.net/comunidade/
-
-http://ononon.weebly.com/
+* http://www.planetaberry.net/
+* http://www.planetaberry.net/comunidade/

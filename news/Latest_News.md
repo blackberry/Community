@@ -18,6 +18,16 @@ and
 
 These news are archived on a regular basis; look at [All News] for older news.
 
+### Improved WebWorks NFC Extension
+
+Improved WebWorks NFC Extension for Smartphones
+([WebWorks-Community-APIs#79](https://github.com/blackberry/WebWorks-Community-APIs/pull/79))
+with support for a wide range of message types
+that can be stored on an NFC tag.
+
+_Source_: [Rob Williams], July 11, 2012
+ 
+ 
 ### New Cascades Webinar
 [Register now](http://www.blackberrydeveloperevents.com/events/webcast/registration/register.html?scoid=1051105884) for the next Cascades Webinar.  The topic is
 *"Connecting, Retrieving, Storing and Displaying your Data"*.
