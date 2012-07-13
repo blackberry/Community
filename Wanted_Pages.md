@@ -12,6 +12,7 @@ As you complete a page, remember to remove it from here and add it to All Pages,
 
 ### Names
 * Ogre3D [web](http://www.ogre3d.org/) - @lynxluna works on it
+* Update slides with links to http://www.blackberryjamworldtour.com/presentations
 
 
 ### Pages
