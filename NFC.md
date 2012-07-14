@@ -38,6 +38,7 @@ From [Knowledge Base](http://supportforums.blackberry.com/t5/Java-Development/NF
 * [NFC Virtual Target Emulation](http://supportforums.blackberry.com/t5/Java-Development/NFC-Virtual-Target-Emulation/ta-p/1509687)
 * [NDEF Message Handling Behaviours](http://supportforums.blackberry.com/t5/Java-Development/NFC-NDEF-Message-Handling-Behaviors/ta-p/1538737)
 * [Peer to peer communication with SNEP](http://supportforums.blackberry.com/t5/Java-Development/NFC-Peer-to-Peer-Communications-with-SNEP/ta-p/1532841)
+* [Peer to peer communication with LLCP](http://supportforums.blackberry.com/t5/Java-Development/Peer-to-peer-communication-with-LLCP/ta-p/1808893)
 * [DevCon Europe 2012 presentation](http://www.slideshare.net/BlackBerry/dev311-woolley-murray)
 * [NFC Card Emulation Primer](http://supportforums.blackberry.com/t5/Java-Development/NFC-Card-Emulation-Primer/ta-p/1596893)
 * [NFC Developer FAQ](http://supportforums.blackberry.com/t5/Java-Development/NFC-Developer-FAQ/ta-p/1634793)
