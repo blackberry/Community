@@ -18,6 +18,18 @@ and
 
 These news are archived on a regular basis; look at [All News] for older news.
 
+### New NFC Sample Application for Java: LLCPDemo
+ 
+Martin Woolley and John Murray have added a new Java application to the
+[Samples-for-Java](http://github.com/blackberry/Samples-for-Java) repository.
+[LLCPDemo](https://github.com/blackberry/Samples-for-Java/tree/master/NFC/LLCPDemo)
+is a sample application  that demonstrates how to use the
+NFC Logical Link Control Protocol (LLCP)
+([specs](http://www.nfc-forum.org/specs/spec_list/))
+to enable peer-to-peer communication between two NFC enabled devices.
+
+_Source_: [John Murray], on July 13, 2012
+
 ### 23 Extensions in WebWorks-Community-APIs
 As of this writing, the [Webworks-Community-APIs](http://github.com/blackberry/WebWorks-Community-APIs)
 repository has 23 extensions: 17 for 
