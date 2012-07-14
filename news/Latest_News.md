@@ -18,6 +18,13 @@ and
 
 These news are archived on a regular basis; look at [All News] for older news.
 
+### New at Samples-for-Java: SocialApp
+[SocialApp](https://github.com/blackberry/Samples-for-Java/tree/master/SocialApp)
+demonstrates how BlackBerry Java developers
+can integrate with native social apps such as Facebook, Twitter etc.
+
+_Source_: [Shadid Haque](https://github.com/shaque), on June 4, 2012
+
 ### New MIDlet for NFC Transaction Event Notifications
 [Martin Woolley](https://github.com/mdwoolley) and
 [John Murray](https://github.com/jcmurray)
