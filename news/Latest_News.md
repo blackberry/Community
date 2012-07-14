@@ -18,15 +18,31 @@ and
 
 These news are archived on a regular basis; look at [All News] for older news.
 
+### New MIDlet for NFC Transaction Event Notifications
+[Martin Woolley](https://github.com/mdwoolley) and
+[John Murray](https://github.com/jcmurray)
+have added a
+[MIDlet](https://github.com/blackberry/Samples-for-Java/tree/master/NFC/NfcMidlet2)
+which illustrates the combined use of TransactionListener and
+PushRegistry for receiving
+[NFC](http://www.nfc-forum.org/)
+transaction event notifications.
+
+_Source_: [Martin Woolley], on April 3, 2012
+
 ### New NFC Sample Application for Java: LLCPDemo
  
-Martin Woolley and John Murray have added a new Java application to the
+[Martin Woolley](https://github.com/mdwoolley) and
+[John Murray](https://github.com/jcmurray)
+have added a new Java application to the
 [Samples-for-Java](http://github.com/blackberry/Samples-for-Java) repository.
 [LLCPDemo](https://github.com/blackberry/Samples-for-Java/tree/master/NFC/LLCPDemo)
 is a sample application  that demonstrates how to use the
 NFC Logical Link Control Protocol (LLCP)
 ([specs](http://www.nfc-forum.org/specs/spec_list/))
 to enable peer-to-peer communication between two NFC enabled devices.
+
+Also see John and Martin's [Knowledge Base Article](http://supportforums.blackberry.com/t5/Java-Development/Peer-to-peer-communication-with-LLCP/ta-p/1808893).
 
 _Source_: [John Murray], on July 13, 2012
 
