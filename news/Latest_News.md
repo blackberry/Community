@@ -5,18 +5,23 @@ title: Latest Community News
 {% include news-defs.md %}
 
 <div style="background-color: ghostwhite; border-style: solid; border-width: 1px; padding: 10px; margin-top: 10px; font-size: 105%; text-align: center; line-height: 180%;">
-The
-<a href="../BlackBerry_Jam.html">BlackBerry 10 Jam World Tour</a> is visiting
-<a href="../Singapore.html">Signapore</a> on <strong>July 9</strong>,
-<a href="../Jakarta.html">Jakarta</a> on <strong>July 10</strong>,
+New Webinars on July 19t for the BlackBerry Dev Alpha Community
 <br/>
-<a href="../Dubai.html">Dubai</a> on <strong>July 10</strong>,
-<a href="../Montreal.html">Montreal</a> on <strong>July 11</strong>
+<a href="http://www.blackberrydeveloperevents.com/events/webcast/registration/register.html?scoid=1052571652">WebWorks SDK</a>
+at
+<a href="http://www.timeanddate.com/worldclock/fixedtime.html?iso=20120719T1500"
+title="convert to your time zone">11am ET</a>
 and
-<a href="../Sydney.html">Sydney</a> on <strong>July 12</strong>
+<a href="http://www.blackberrydeveloperevents.com/events/webcast/registration/register.html?scoid=1052539763">Native SDK</a>
+at
+<a href="http://www.timeanddate.com/worldclock/fixedtime.html?iso=20120719T1800"
+title="convert to your time zone">2pm ET</a>
 </div>
 
 These news are archived on a regular basis; look at [All News] for older news.
+
+### BlackBerry 10 Jam Tour Presentations
+BlackBerry 10 Jam World Tour presentations are [Now Available](http://www.blackberryjamworldtour.com/presentations)
 
 <!-- RECORDED UNTIL HERE -->
 <!-- Pass from OpenBBNews - next is Elsewhere from March 25, 2012 -->
