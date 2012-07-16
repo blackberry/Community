@@ -18,6 +18,9 @@ and
 
 These news are archived on a regular basis; look at [All News] for older news.
 
+<!-- RECORDED UNTIL HERE -->
+<!-- Pass from OpenBBNews - next is Elsewhere from March 25, 2012 -->
+
 ### New at Samples-for-Java: SocialApp
 [SocialApp](https://github.com/blackberry/Samples-for-Java/tree/master/SocialApp)
 demonstrates how BlackBerry Java developers
