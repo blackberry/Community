@@ -17,11 +17,6 @@ Full details are at [BlackBerry 10 Jam World Tour](http://www.blackberryjamworld
 ### Next Cities
 
 The next few cities are:
-* [Singapore], July 9, 2012
-* [Jakarta], July 10, 2012
-* [Dubai], July 10, 2012
-* [Montreal], July 11, 2012
-* [Sydney], July 12, 2012
 * [Cape Town], July 31, 2012
 * [Buenos Aires], August, 2012
 * [Mexico City], August, 2012
@@ -43,6 +38,11 @@ The next few cities are:
 * [Warsaw], July 3, 2012
 * [Delhi], July 4, 2012
 * [Beijing], July 6, 2012
+* [Singapore], July 9, 2012
+* [Jakarta], July 10, 2012
+* [Dubai], July 10, 2012
+* [Montreal], July 11, 2012
+* [Sydney], July 12, 2012
 
 Slides from these presentations will be available in the near future.
 
