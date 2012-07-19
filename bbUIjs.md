@@ -22,6 +22,7 @@ Currently the support for BBOS smartphones is more complete than that for PlayBo
 
 ### Additional Links
 * [Project Site at GitHub][repo:bbuijs]
+* The [Project Wiki](https://github.com/blackberry/bbUI.js/wiki) has a wealth of information
 
 ### Articles and Posts
 

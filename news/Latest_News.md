@@ -20,8 +20,58 @@ title="convert to your time zone">2pm ET</a>
 
 These news are archived on a regular basis; look at [All News] for older news.
 
+### Beta 2 for the BlackBerry 10 SDK for Adobe AIR
+The Beta 2 of the [BlackBerry 10 SDK for Adobe AIR](https://developer.blackberry.com/air/beta/)
+is now available.
+A key new addition is access to the new Invocation Framework.
+See [Tim Neil's Introduction post](http://devblog.blackberry.com/2012/07/using-the-invocation-framework-from-actionscript-2/).
+
+_Source_: [Tim Neil], via [DevBlog](http://devblog.blackberry.com/2012/07/using-the-invocation-framework-from-actionscript-2/),
+on July 19, 2012
+
+### Updates to Cascades Tooling in Beta 2 / R6
+[Markus Landin] provides an overview at [DevBlog](http://devblog.blackberry.com/2012/07/cascades-tooling-beta-2/)
+on the new features in Cascades Tooling.  Improvements to the IDE include
+better UX for leveraging Design View, Edit Actions in Outline View, new Project Templates and Improvements
+to the QML Source Editing.  The Cascade Exporter (for designers) has also received improvements
+including Performance Improvements and a new UI Controls Palette.
+
+_Source_: [Markus Landin], via [DevBlog](http://devblog.blackberry.com/2012/07/cascades-tooling-beta-2/), on July 19, 2012
+
+
+### Updates to Cascades in Beta 2 / R6
+[Anders Larsson]'s [article at DevBlog](http://devblog.blackberry.com/2012/07/cascades-ui-framework-beta-2-updates/)
+provides an overview of the additions to the Cascades UI Framework including
+Action Bar, TabbedPane and Context Menu, Application Menu, List, Sheets and Custom Dialogs, Scrolling and Pinching
+and Invocation and Sharing.
+
+_Source_: [Anders Larsson], via [DevBlog](http://devblog.blackberry.com/2012/07/cascades-ui-framework-beta-2-updates/) on July 19, 2012
+
+### Native SDK for BlackBerry 10 (R6 / Beta 2)
+[Russell Andrade] provides an [Overview](http://devblog.blackberry.com/2012/07/native-sdk-update-improvements/)
+of today's Beta 2 (aka R6) for Native SDK for BlackBerry 10.
+New features include:
+Invocation Framework, NFC, Cryptography, Audio Manager, Native logging, Notifications Manager,
+Cascades API, Barcode Processing, Video and Camera, Vibration Control, and Clipboard.
+
+_Source_: [Russell Andrade], via [DevBlog](http://devblog.blackberry.com/2012/07/native-sdk-update-improvements/) on July 19, 2012
+
+### Submit your BlackBerry 10 Applications now!
+Tim has announced that developers can start submitting their BlackBerry 10 Applications to
+BlackBerry App World today to share with other BlackBerry 10 developers for early feedback.
+
+_Source_: [Tim Neil], via [DevBlog](http://devblog.blackberry.com/2012/07/blackberry-10-beta-sdk-updates/), on Jul 19, 2012
+
+### Roadmap for BlackBerry 10 SDKs
+Tim Neil has published the roadmap for the next BlackBerry 10 SDKs. R4 was May, R6 is today, July.  In the future are
+R8 (September), R9 (October) and R10 (November).  More details at [DevBlog](http://devblog.blackberry.com/2012/07/blackberry-10-beta-sdk-updates/).
+
+_Source_: [Tim Neil], via [DevBlog](http://devblog.blackberry.com/2012/07/blackberry-10-beta-sdk-updates/), on Jul 19, 2012
+
 ### BlackBerry 10 Jam Tour Presentations
 BlackBerry 10 Jam World Tour presentations are [Now Available](http://www.blackberryjamworldtour.com/presentations)
+
+_Source_: [Eduardo Pelegri-Llopart], on July 13, 2012
 
 <!-- RECORDED UNTIL HERE -->
 <!-- Pass from OpenBBNews - next is Elsewhere from March 25, 2012 -->
