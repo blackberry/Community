@@ -31,6 +31,8 @@ Currently the support for BBOS smartphones is more complete than that for PlayBo
 by Tim Neil on *DevBlog*, May 2, 2012
 * [bbUI.js version 0.9.2 now available](http://devblog.blackberry.com/2012/05/bbui-js-update-now-available/),
 by Tim Neil on *DevBlog*, May 31, 2012
+* [bbUI.js version 0.9.3 now available](http://devblog.blackberry.com/2012/07/bbui-js-version-0-9-3-now-available/),
+by Time Neil on *DevBlog*, July 20, 2012
 
 #### Non-RIM Articles
 * [A closer look at bbUI.js...](http://crackberry.com/closer-look-bbuijs-rims-open-source-ui-toolkit-designed-help-create-applications-native-capabilities),
