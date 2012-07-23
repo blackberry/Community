@@ -20,20 +20,27 @@ title="convert to your time zone">2pm ET</a>
 
 These news are archived on a regular basis; look at [All News] for older news.
 
+<!-- RECORDED UNTIL HERE -->
+<!-- Pass from OpenBBNews - next is Elsewhere from March 25, 2012 -->
+
+### bbUI.js 0.9.3 is now available
+From [Tim Neil], a new release of [bbUI.js](http://github.com/blackberry/bbUI.js) that continues to bridge the
+gap between what's available in the Cascades&mark; UI framework and what is available in bbUI.js.  A complete
+description is available at [DevBlog](http://devblog.blackberry.com/2012/07/bbui-js-version-0-9-3-now-available/).
+Note that some of the changes will impact your application markup, so check the details.
+
+_Sources_: [Tim Neil], via [DevBlog](http://devblog.blackberry.com/2012/07/bbui-js-version-0-9-3-now-available/), on July 20, 2012
+
 ### More Adoption of Ripple
 The adoption of [Ripple](http://github.com/blackberry/ripple-ui) has two recent very visible examples in
 the [PhoneGap Emulator](http://emulate.phonegap.com/), a prototype from Adobe, and in
 the [Web Simulator](https://01.org/web-simulator/about) used in
 Tizen ([website](https://www.tizen.org/),[wikipedia](http://en.wikipedia.org/wiki/Tizen)).
 The main developers participating in these projects continue to cooperate in
-Apache Cordova.
+Apache Cordova; see [Gord's mail](http://markmail.org/message/i6urugruobtql5m3).
 
-This level of interest is a good foundation for moving the project forward, as indicated in 
-Gord's mail to [Apache Cordova](http://markmail.org/message/i6urugruobtql5m3).
-
-_Sources_:  
-[Paul Plaquette], via [MarkMail](http://markmail.org/message/edogrok22lt3xfmn), on Jul 23, 2012;  
-[Brian Leroux], via [@brianleroux](https://twitter.com/brianleroux/status/226457079869739008), on Jul 21, 2012;  
+_Sources_: [Paul Plaquette], via [MarkMail](http://markmail.org/message/edogrok22lt3xfmn), on Jul 23, 2012;
+[Brian Leroux], via [@brianleroux](https://twitter.com/brianleroux/status/226457079869739008), on Jul 21, 2012;
 [Gord Tanner], via [MarkMail](http://markmail.org/message/i6urugruobtql5m3), on Jul 20, 2012
 
 ### New Beta of the Android Runtime for BlackBerry 10
@@ -109,9 +116,6 @@ _Source_: [Tim Neil], via [DevBlog](http://devblog.blackberry.com/2012/07/blackb
 BlackBerry 10 Jam World Tour presentations are [Now Available](http://www.blackberryjamworldtour.com/presentations)
 
 _Source_: [Eduardo Pelegri-Llopart], on July 13, 2012
-
-<!-- RECORDED UNTIL HERE -->
-<!-- Pass from OpenBBNews - next is Elsewhere from March 25, 2012 -->
 
 ### New at Samples-for-Java: SocialApp
 [SocialApp](https://github.com/blackberry/Samples-for-Java/tree/master/SocialApp)
