@@ -35,9 +35,15 @@ Shows how to set up a Camera viewfinder in a non-cascades environment using libs
 Shows how to record videos using the Camera.
 This sample is based on the HelloCamera sample so it also illustrates how to set up a Cascades foreign window and connect the Camera viewfinder to it.
 
-### Presentations and Other Media
+**[Photobomber](https://github.com/blackberry/Cascades-Samples/tree/master/photobomber)**  
+A camera application that let's you take photos and then have them "bombed" by somebody.  The app shows how to use the
+Cascades multimedia library with Camera, take a picture, manipulate the image, and add an image over another image.
 
-* [Shutter Sound Policy](http://supportforums.blackberry.com/t5/Native-Development/Camera-shutter-sound/m-p/1808535#M5712)
+### Presentations, Articles and Other Media
+
+* [Shutter Sound Policy](http://supportforums.blackberry.com/t5/Native-Development/Camera-shutter-sound/m-p/1808535#M5712),
+Forum post by Sean McVeigh, on July, 2012
+* [Getting Rolling with the Camera API](http://devblog.blackberry.com/2012/07/camera-api/), DevBlog by Paul Bernhardt, on July 20, 2012
 
 ### Also See
 [Cascades], [WebWorks], [Native]
