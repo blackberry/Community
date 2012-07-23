@@ -20,6 +20,42 @@ title="convert to your time zone">2pm ET</a>
 
 These news are archived on a regular basis; look at [All News] for older news.
 
+<!-- RECORDED UNTIL HERE -->
+<!-- Pass from OpenBBNews - next is Elsewhere from March 25, 2012 -->
+
+### bbUI.js 0.9.3 is now available
+From [Tim Neil], a new release of [bbUI.js](http://github.com/blackberry/bbUI.js) that continues to bridge the
+gap between what's available in the Cascades&mark; UI framework and what is available in bbUI.js.  A complete
+description is available at [DevBlog](http://devblog.blackberry.com/2012/07/bbui-js-version-0-9-3-now-available/).
+Note that some of the changes will impact your application markup, so check the details.
+
+_Sources_: [Tim Neil], via [DevBlog](http://devblog.blackberry.com/2012/07/bbui-js-version-0-9-3-now-available/), on July 20, 2012
+
+### More Adoption of Ripple
+The adoption of [Ripple](http://github.com/blackberry/ripple-ui) has two recent very visible examples in
+the [PhoneGap Emulator](http://emulate.phonegap.com/), a prototype from Adobe, and in
+the [Web Simulator](https://01.org/web-simulator/about) used in
+Tizen ([website](https://www.tizen.org/),[wikipedia](http://en.wikipedia.org/wiki/Tizen)).
+The main developers participating in these projects continue to cooperate in
+Apache Cordova; see [Gord's mail](http://markmail.org/message/i6urugruobtql5m3).
+
+_Sources_: [Paul Plaquette], via [MarkMail](http://markmail.org/message/edogrok22lt3xfmn), on Jul 23, 2012;
+[Brian Leroux], via [@brianleroux](https://twitter.com/brianleroux/status/226457079869739008), on Jul 21, 2012;
+[Gord Tanner], via [MarkMail](http://markmail.org/message/i6urugruobtql5m3), on Jul 20, 2012
+
+### New Beta of the Android Runtime for BlackBerry 10
+[Matt Whiteman] describes the
+[new functionality](http://devblog.blackberry.com/2012/07/android-runtime-for-blackberry-10-beta/)
+in the latest beta for the Android Runtime for BlackBerry 10.
+Combined with recent updates, the runtime supports:
+Running Apps on their own Window,
+Access to Cameras,
+In-App Payments through BlackBerry App World storefront,
+support for Telephony APIs,
+and access to information about Network Services.
+
+_Source_: [Matt Whiteman], via [DevBlog](http://devblog.blackberry.com/2012/07/android-runtime-for-blackberry-10-beta/), on July 19, 2012
+
 ### Beta 2 for the BlackBerry 10 SDK for Adobe AIR
 The Beta 2 of the [BlackBerry 10 SDK for Adobe AIR](https://developer.blackberry.com/air/beta/)
 is now available.
@@ -56,6 +92,14 @@ Cascades API, Barcode Processing, Video and Camera, Vibration Control, and Clipb
 
 _Source_: [Russell Andrade], via [DevBlog](http://devblog.blackberry.com/2012/07/native-sdk-update-improvements/) on July 19, 2012
 
+### Refresh of BlackBerry 10 WebWorks SDK
+[Ken Wallis] describes the latest version of the BlackBerry 10 WebWorks SDK.  Features include:
+support for the Invocation Framework, File and File Transfer, Push, Context Menu, Swipe Down Event and
+Multiple Localizable Splash Screens and Applications Icons.
+There is also an update to the Ripple (almost out there).
+
+_Source_: [Ken Wallis], via [DevBlog](http://devblog.blackberry.com/2012/07/webworks-beta-july/), on July 19, 2012
+
 ### Submit your BlackBerry 10 Applications now!
 Tim has announced that developers can start submitting their BlackBerry 10 Applications to
 BlackBerry App World today to share with other BlackBerry 10 developers for early feedback.
@@ -72,9 +116,6 @@ _Source_: [Tim Neil], via [DevBlog](http://devblog.blackberry.com/2012/07/blackb
 BlackBerry 10 Jam World Tour presentations are [Now Available](http://www.blackberryjamworldtour.com/presentations)
 
 _Source_: [Eduardo Pelegri-Llopart], on July 13, 2012
-
-<!-- RECORDED UNTIL HERE -->
-<!-- Pass from OpenBBNews - next is Elsewhere from March 25, 2012 -->
 
 ### New at Samples-for-Java: SocialApp
 [SocialApp](https://github.com/blackberry/Samples-for-Java/tree/master/SocialApp)
