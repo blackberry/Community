@@ -20,6 +20,21 @@ title="convert to your time zone">2pm ET</a>
 
 These news are archived on a regular basis; look at [All News] for older news.
 
+### HTTP Pipeline Contributed to LibCURL
+Joe Mason and George Rizkalla have implemented HTTP Pipelining for [libcurl](http://curl.haxx.se)
+and yesterday they [contributed it to the team](http://curl.haxx.se/mail/lib-2012-07/0242.html).
+One more upstream contribution from RIM.
+
+_Source_: [Daniel Stenberg](http://daniel.haxx.se/blog), via [@badger](http://twitter.com/badger), on July 24, 2012
+
+### Adobe Now in Contributor List
+The PhoneGap team has been a contributor to [WebWorks](../WebWorks.html) for a long time
+and the contributions continued after [Nitobi](http://nitobi.com) was acquired by Adobe.
+We have been cleaning up our [Signatory List](http://blackberry.github.com/approvedSignatories.html)
+and today we added [Adobe Systems Inc](http://adobe.com) explicitly to that list.
+
+_Source_: [Eduardo Pelegri-Llopart], on July 24, 2012
+
 <!-- RECORDED UNTIL HERE -->
 <!-- Pass from OpenBBNews - next is Elsewhere from March 25, 2012 -->
 
