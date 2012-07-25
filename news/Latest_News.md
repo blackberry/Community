@@ -20,6 +20,9 @@ title="convert to your time zone">2pm ET</a>
 
 These news are archived on a regular basis; look at [All News] for older news.
 
+<!-- RECORDED UNTIL HERE -->
+<!-- Pass from OpenBBNews - next is Elsewhere from March 25, 2012 -->
+
 ### HTTP Pipeline Contributed to LibCURL
 Joe Mason and George Rizkalla have implemented HTTP Pipelining for [libcurl](http://curl.haxx.se)
 and yesterday they [contributed it to the team](http://curl.haxx.se/mail/lib-2012-07/0242.html).
@@ -34,9 +37,6 @@ We have been cleaning up our [Signatory List](http://blackberry.github.com/appro
 and today we added [Adobe Systems Inc](http://adobe.com) explicitly to that list.
 
 _Source_: [Eduardo Pelegri-Llopart], on July 24, 2012
-
-<!-- RECORDED UNTIL HERE -->
-<!-- Pass from OpenBBNews - next is Elsewhere from March 25, 2012 -->
 
 ### bbUI.js 0.9.3 is now available
 From [Tim Neil], a new release of [bbUI.js](http://github.com/blackberry/bbUI.js) that continues to bridge the
