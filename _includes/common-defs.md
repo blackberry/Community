@@ -1,10 +1,12 @@
 <!-- Repositories -->
 
 [repo:alut]: <https://github.com/blackberry/ALUT> "Repo: ALUT, OpenAL Utilities"
+[repo:bb10-webworks-samples]: <http://github.com/blackberry/bb10-webworks-samples> "Repo: BB10-WebWorks-Samples"
 [repo:bbuijs]: <http://github.com/blackberry/bbui.js> "Repo: bbUI.js Framework for WebWorks"
 [repo:bws]: <http://github.com/bws-samples> "Repo: Code samples for BlackBerry Web Services for Enterprise Administration"
 [repo:cascadescommunitysamples]: <http://github.com/blackberry/Cascades-Community-Samples> "Repo: Community - RIM and non-RIM - Samples using the Cascades framework"
 [repo:cascades-samples]: <http://github.com/blackberry/Cascades-Samples> "repo: Official Cascades Samples"
+[repo:community-apis-for-air]: <http://github.com/blackberry/Community-APIs-for-AIR> "repo: Community-APIs-for-AIR"
 [repo:gameplay]: <http://github.com/blackberry/Gameplay> "Repo: Gameplay, a Portable, OpenSource Gaming Framework"
 [repo:jde-samples]: <http://github.com/blackberry/JDE-Samples> "Repo: Java Samples that were used with the JDE"
 [repo:jquery-mobile-samples]: <http://github.com/blackberry/jQuery-Mobile-Samples> "Repo: jQuery-Mobile-Samples Repository"
@@ -16,11 +18,13 @@
 [repo:ripple-ui]: <http://github.com/blackberry/Ripple-UI> "Repo: Ripple UI Emulator"
 [repo:ripple-framework]: <http://github.com/blackberry/Ripple-Framework> "Repo: Ripple Framework"
 [repo:ripple-services]: <http://github.com/blackberry/Ripple-Services> "Repo: Ripple Services"
+[repo:samples-for-java]: <http://github.com/blackberry/Samples-for-Java> "Repo: Samples-for-Java"
 [repo:sdl]: <http://github.com/blackberry/SDL> "Repo:SDL"
 [repo:scoreloop-samples]: <http://github.com/blackberry/Scoreloop-Samples> "Scoreloop-Samples Repository"
 [repo:touchcontroloverlay]: <http://github.com/blackberry/TouchControlOverlay> "TouchControlOverlay"
 [repo:webgl-samples]: <http://github.com/blackberry/webgl-samples> "Repository for Community - RIM and non-RIM - Samples using WebGL"
 [repo:webworks-samples]: <http://github.com/blackberry/webworks-samples> "Repository for Community - RIM and non-RIM - Samples using the BlackBerry Webworks framework"
+[repo:webworks-community-apis]: <http://github.com/blackberry/webworks-community-apis> "Repository for Extensions to WebWorks"
 [repo:zxing]: <http://github.com/blackberry/ZXing> "ZXing Repository"
 
 <!-- Absolute Paths -->
