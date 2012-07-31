@@ -17,7 +17,7 @@ As you complete a page, remember to remove it from here and add it to All Pages,
 * NFC - add http://helpblog.blackberry.com/2012/03/create-and-share-nfc-smart-tags/
 * OggVorbis - Explain that Gameplay supports it, that its repo is available, and that its not (currently) on BB10 device.
 * Mono - Point to [@rockpiper](http://twitter.com/rockpiper), [rockpiper@github](https://github.com/rockpiper), [monoberry](https://github.com/rockpiper/monoberry) and [fork of mono](https://github.com/rockpiper/mono)
-
+* libKML -
 
 ### Pages
 * [Android](Android.html)
