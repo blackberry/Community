@@ -20,6 +20,7 @@ As you complete a page, remember to remove it from here and add it to All Pages,
 * libKML -
 * Tutorials - [n4bb p1](http://n4bb.com/absolute-beginners-guide-to-developing-a-blackberry-10-app-part-1/) and
 [n4bb p2](http://n4bb.com/absolute-beginners-guide-to-developing-a-blackberry-10-app-part-2/)
+* Icons - where to get them; see [Forum Thread](http://supportforums.blackberry.com/t5/General-Open-Source-Topics/Open-Source-Icon-Sets-for-BB10-Development/m-p/1838159)
 
 ### Pages
 * [Android](Android.html)
