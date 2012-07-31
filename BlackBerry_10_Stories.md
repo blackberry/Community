@@ -9,7 +9,8 @@ tags:
 
 ### Description
 
-A collection of stories about the BlackBerry 10 and BlackBerry PlayBook platform from the press.  No more than title plus 2 lines each.
+A informal, non-official, collection of stories about the BlackBerry 10 and BlackBerry PlayBook platform from the press; each no more than title plus 2 lines.
+Also see [WhyBlackBerry Stories](https://developer.blackberry.com/whyblackberry/stories) at DevZone.
 
 Sorted in reverse chronological order on publication (or discovery) date:
 
