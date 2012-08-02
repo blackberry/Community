@@ -20,6 +20,27 @@ title="convert to your time zone">2pm ET</a>
 
 These news are archived on a regular basis; look at [All News] for older news.
 
+### Additional Cities in BlackBerry 10 Jam World Tour
+New cities added to the BlacKBerry 10 Jam World Tour: August 23 in [Waterloo, Ontario, Canada](http://www.blackberryjamworldtour.com/kitchener-waterloo),
+August 28 in [Vancouver, BC, Canada](http://www.blackberryjamworldtour.com/vancouver)
+and September 18th in [Amsterdam](http://www.blackberryjamworldtour.com/amsterdam).
+
+_Source_: [Alex Kinsella], via [DevBlog](http://devblog.blackberry.com/2012/08/blackberry_10_jam_new_cities_august/), on August 1, 2012
+
+### New Release of Gameplay: v1.4 with Lua Support
+The [Gameplay](http://gameplay3d.org) community has announced the release of the version 1.4 of this
+cross-platform, open source, gaming framework.  New features include support for Lua scripting.  See
+Sean Taylor's [post](http://devblog.blackberry.com/2012/08/announcing-gameplay-v1-4/) for more details.
+
+_Source_: [Sean Taylor], via [DevBlog](http://devblog.blackberry.com/2012/08/announcing-gameplay-v1-4/), on August 2, 2012
+
+### New Cascades Sample: LocationDiagnostics
+[Shadiq Haque] has released a new [Cascades](../Cascades.html) sample that shows how to use the
+BlackBerry 10 C++ Location APIs.  Code is available at RIM's GitHub organization, under
+the [Cascades-Community-Samples repo](https://github.com/blackberry/Cascades-Community-Samples/tree/master/LocationDiagnostics).
+
+_Source_: [Shadiq Haque], on August 1, 2012
+
 ### New Adobe AIR Sample: PushSampleApp
 [Matthew D'Andrea](https://github.com/mdandrea) and [Marco Di Cesare](https://github.com/mdicesare)
 authored an Adobe AIR application for BlackBerry 10 that is shows how to receive push requests using the
