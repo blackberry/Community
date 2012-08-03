@@ -20,6 +20,16 @@ title="convert to your time zone">2pm ET</a>
 
 These news are archived on a regular basis; look at [All News] for older news.
 
+### bbUI.js is First RIM project at UCOSP
+[bbUI.js](../bbUIjs.html) is the first Open Source project from RIM that is offered through the [UCOSP](http://ucosp.ca) program.
+UCOSP, the Undergraduate Capstone Open Source Project program brings together students in Canada to work together in joint
+capstone projects.  We are currently exploring adding a C++/Cascades project; we will announce if we set one up.
+In the meantime, see the current [list of projects](http://ucosp.ca/projects)
+and consider participating.
+
+_Source_: [Eduardo Pelegri-Llopart], via [UCOSP](http://ucosp.ca/projects), on August 2, 2012
+
+
 ### Additional Cities in BlackBerry 10 Jam World Tour
 New cities added to the BlacKBerry 10 Jam World Tour: August 23 in [Waterloo, Ontario, Canada](http://www.blackberryjamworldtour.com/kitchener-waterloo),
 August 28 in [Vancouver, BC, Canada](http://www.blackberryjamworldtour.com/vancouver)
