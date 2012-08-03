@@ -20,6 +20,15 @@ title="convert to your time zone">2pm ET</a>
 
 These news are archived on a regular basis; look at [All News] for older news.
 
+### Atom Feed for Open Source News
+These Open Source news are also available as an [Atom feed](http://en.wikipedia.org/wiki/Atom_feed) at
+[this URL](http://blackberry.github.com/Community/news/atom.xml).
+The feed is derived from [All News], so it may lag behind the
+[Latest News] by a few days.
+
+_Source_: [Eduardo Pelegri-Llopart], on August 2, 2012
+
+
 ### bbUI.js is First RIM project at UCOSP
 [bbUI.js](../bbUIjs.html) is the first Open Source project from RIM that is offered through the [UCOSP](http://ucosp.ca) program.
 UCOSP, the Undergraduate Capstone Open Source Project program brings together students in Canada to work together in joint
