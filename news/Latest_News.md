@@ -18,16 +18,20 @@ at
 title="convert to your time zone">2pm ET</a>
 </div>
 
-These news are archived on a regular basis; look at [All News] for older news.
+These news are archived on a regular basis; look at [All News] for older news,
+or use [this News feed](http:atom.xml).
+
+<!-- RECORDED UNTIL HERE -->
+<!-- Pass from OpenBBNews - next is Elsewhere from March 25, 2012 -->
 
 ### Atom Feed for Open Source News
-These Open Source news are also available as an [Atom feed](http://en.wikipedia.org/wiki/Atom_feed) at
-[this URL](http://blackberry.github.com/Community/news/atom.xml).
+These Open Source news are also available as an [Atom feed](http://en.wikipedia.org/wiki/Atom_feed)
+at
+[this URL](http:atom.xml).
 The feed is derived from [All News], so it may lag behind the
 [Latest News] by a few days.
 
 _Source_: [Eduardo Pelegri-Llopart], on August 2, 2012
-
 
 ### bbUI.js is First RIM project at UCOSP
 [bbUI.js](../bbUIjs.html) is the first Open Source project from RIM that is offered through the [UCOSP](http://ucosp.ca) program.
@@ -37,7 +41,6 @@ In the meantime, see the current [list of projects](http://ucosp.ca/projects)
 and consider participating.
 
 _Source_: [Eduardo Pelegri-Llopart], via [UCOSP](http://ucosp.ca/projects), on August 2, 2012
-
 
 ### Additional Cities in BlackBerry 10 Jam World Tour
 New cities added to the BlacKBerry 10 Jam World Tour: August 23 in [Waterloo, Ontario, Canada](http://www.blackberryjamworldtour.com/kitchener-waterloo),
@@ -75,9 +78,6 @@ that shows how to do basic Ogg file handling using OpenAL and OggVorbis from Cas
 The [commit](https://github.com/blackberry/Cascades-Community-Samples/pull/9) was accepted today.
 
 _Source_: [Ramprasad Madhavan](https://github.com/rmadhavan), on July 23, 2012
-
-<!-- RECORDED UNTIL HERE -->
-<!-- Pass from OpenBBNews - next is Elsewhere from March 25, 2012 -->
 
 ### HTTP Pipeline Contributed to LibCURL
 Joe Mason and George Rizkalla have implemented HTTP Pipelining for [libcurl](http://curl.haxx.se)

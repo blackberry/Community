@@ -4,7 +4,8 @@ title: Community News
 ---
 {% include news-defs.md %}
 
-Also see [Latest News] for late-breaking news.
+These news also available as a [Atom Feed](atom.xml).
+Additional late-breaking news might be available at [Latest News].
 
 <div id="posts">
   <div>
