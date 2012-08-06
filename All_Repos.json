@@ -1,0 +1,15 @@
+{
+ "Gameplay": {
+     "desc": "Cross-Platform 3D Native C++ Game Framework",
+     "url": "http://github.com/blackberry/GamePlay",
+     "type": "native",
+     "tags": [ "native", "openGL", "gaming" ]
+ },
+ "WebWorks-Samples": {
+     "desc": "Collection of BlackBerry WebWorks Sample Applications, from RIM and the community-at-large",
+     "url": "http://github.com/blackberry/WebWorks-Samples",
+     "type": "HTML5",
+     "tags": [ "html5", "webworks", "samples" ]
+ }
+}
+

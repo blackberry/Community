@@ -4,6 +4,7 @@
 	<head>
 		<title>{{ page.title }}</title>
 		<link id="stylesheet" href="{{ base-url }}/css/github.css" rel="stylesheet" type="text/css"></link>
+		<link id="stylesheet" href="{{ base-url }}/css/table.css" rel="stylesheet" type="text/css"></link>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 		<script type="text/javascript">
 
@@ -12,6 +13,12 @@
 			}
 
 		</script>
+{% if page.jsfile != "" %}
+		<script src="{{ base-url }}/js/jquery-1.7.2.js" type="text/javascript"></script>
+		<script src="{{ base-url }}/js/jquery.tablesorter.js"></script>
+		<script src="{{ base-url }}/js/{{ page.jsfile }}" type="text/javascript"></script>
+
+{% endif %}
 <!-- Start of Google Analytics code -->
 <script type="text/javascript">
 
@@ -58,10 +65,13 @@
 
 				  <!-- Center Column / Content -->
 				  <!-- From content provided by page -->
-<!-- remove ccol, unused
+
+				  <!-- remove ccol, unused
 				  {{ ccol }}
--->
+				    -->
+				  <div id="contentbody">
 				  {{ content }}
+				  </div>
 
 				  <p id="copyright" style="font-size: 8.5pt; text-align: center;">Copyright 1999-2011 Research In Motion Limited. 295 Phillip Street, Waterloo, Ontario, Canada, N2L 3W8. All Rights Reserved.</p>
 			</div>

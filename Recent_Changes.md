@@ -7,6 +7,7 @@ title: Recent Changes
 
 New additions and major updates to pages.  Listed in reverse chronological order.
 
+* Added [All Repos] and [All Samples], and the corresponding JS and JSON files.
 * Added first cut at: [BlackBerry 10 Releases], [BlackBerry 10.0.06][blackberry_10_0_06] and [BlackBerry 10.0.6 Samples][blackberry_10_0_06_samples]
 * Added: [FAQ]
 * Added: [Screencasts]

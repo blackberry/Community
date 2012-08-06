@@ -53,6 +53,8 @@
 [bb_push]: <BlackBerry_Push_Service.html> "BlackBerry Push Service"
 
 [adobe_air]: <Adobe_AIR.html> "Adobe Integrated Runtime (AIR)"
+[all_repos]: <All_Repos.html> "All Repos in GitHub.com/Blackberry"
+[all_samples]: <All_Samples.html> "All Samples in GitHub.com/Blackberry"
 [alicejs]: <AliceJS.html> "Alice - A Lightweight Independent CSS Engine"
 [air]: <AIR.html> "Adobe Integrated Runtime (AIR)"
 [apache_cordova]: <Apache_Cordova.html> "The Open Source HTML5 Cross-Platform Framework"

@@ -1,0 +1,17 @@
+{
+ "HelloOggVorbis": {
+     "desc": "Using Ogg Vorbis with OpenGL and Cascades" ,
+     "url": "mumble",
+     "repo": "what",
+     "type": "native",
+     "tags": [ "native", "audio", "cascades" ]
+ },
+ "NativeCamera": {
+     "desc": "Using Camera in C/C++ without Cascades" , 
+     "url": "mumble2",
+     "repo": "what",
+     "type": "native",
+     "tags": [ "native", "camera" ]
+ }
+}
+
