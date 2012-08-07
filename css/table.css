@@ -20,3 +20,7 @@ th:hover {
 tbody tr.even {
 	background-color: #fea
 }
+
+tbody tr.odd {
+	background-color:  #fff
+}

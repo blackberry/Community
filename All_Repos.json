@@ -1,14 +1,183 @@
 {
+ "BB10-WebWorks-Samples": {
+     "desc": "WebWorks Samples for BlackBerry 10",
+     "url": "http://github.com/blackberry/BB10-WebWorks-Samples",
+     "branches": ["master"],
+     "type": "html5",
+     "note": "Samples rely on features only present on the BlackBerry 10 platform",
+     "tags": [ "html5", "webworks", "bb10", "samples" ]
+ },
+ "BB10-WebWorks-Framework": {
+     "desc": "Framework that is packaged by the BB10-WebWorks-Packager with an Application to run on the BlackBerry 10",
+     "url": "http://github.com/blackberry/BB10-WebWorks-Framework",
+     "branches": ["master", "next"],
+     "branchinfo": "'master' is current release, 'next' is the next, unreleased, version",
+     "type": "html5",
+     "tags": [ "html5", "webworks", "bb10" ]
+ },
+ "BB10-WebWorks-Packager": {
+     "desc": "The Packager bundles the App content with the Framework from BB10-WebWorks-Packager to create a BAR to run on the BlackBerry 10",
+     "url": "http://github.com/blackberry/BB10-WebWorks-Packager",
+     "branches": ["master", "next", "next-bb"],
+     "branchinfo": "'master' is current release, 'next' is the next, unreleased, version - 'next-bb' I don't know",
+     "type": "html5",
+     "note": "Unclear what is the difference between 'next-bb' and 'next'",
+     "tags": [ "html5", "webworks", "bb10" ]
+ },
+ "bbUI.js": {
+     "desc": "Toolkit to build WebWorks Applications providing the BlackBerry UI and Design Language",
+     "url": "http://github.com/blackberry/bbUI.js",
+     "type": "html5",
+     "branches": ["master", "next"],
+     "branchinfo": "Both branches are for all platforms; 'master' is the current version and 'next' is the next version",
+     "tags": [ "html5", "webworks", "bb10", "bbos", "playbook" ]
+ },
+ "blackberry.github.com": {
+     "desc": "Pages-based, Open Source Microsite",
+     "url": "http://github.com/blackberry/blackberry.github.com",
+     "type": "docs",
+     "branches": ["master"],
+     "tags": [ "docs", "bb10" ]
+ },
+ "Boost": {
+     "desc": "The Boost C++ Libraries",
+     "url": "http://github.com/blackberry/Boost",
+     "type": "native",
+     "branches": ["1_48_0-dinkum", "1_48_0-gnu"],
+     "branchinfo": "'1_48_0-dinkum' is version for Dinkum libraries; '1_48_0-gnu' uses the GCC libraries",
+     "portinfo": "Original sources at <a href='http://www.boost.org'>Boost.org</a>",
+     "note": "Changes should be upstreamed",
+     "tags": [ "native", "bb10", "playbook", "port" ]
+ },
+ "BWS-Samples": {
+     "desc": "Samples showing how to use the BlackBerry Web Services for Enterprise Administration in Java and C#",
+     "url": "http://github.com/blackberry/BWS-Samples",
+     "type": "server",
+     "branches": ["master"],
+     "tags": [ "server", "java", "c#" ]
+ },
+ "Cascades-Community-Samples": {
+     "desc": "Cascades and native Sample Applications, from RIM and others",
+     "url": "http://github.com/blackberry/Cascades-Community-Samples",
+     "type": "native",
+     "branches": ["master", "macadamian"],
+     "note": "Name of repository may change to reflect it includes non-Cascades native samples.  Samples are supported across releases in a best-effort manner",
+     "branchinfo": "Ignore the 'Macadamian' branch; it needs to be deleted",
+     "tags": [ "native", "cascades", "samples", "bb10" ]
+ },
+ "Cascades-Samples": {
+     "desc": "Cascades Sample Applications, supported by RIM",
+     "url": "http://github.com/blackberry/Cascades-Samples",
+     "type": "native",
+     "branches": ["master"],
+     "note": "Unlike Cascades-Community-Samples, RIM is committed to supporting these samples across releases",
+     "tags": [ "native", "cascades", "samples" , "bb10" ]
+ },
+ "Community": {
+     "desc": "Community Wiki",
+     "url": "http://github.com/blackberry/Community",
+     "type": "docs",
+     "branches": ["gh-pages", "master"],
+     "branchinfo": "The 'gh-pages' branch is the important one and the default branch; 'master' is vestigial",
+     "tags": [ "wiki", "docs", "bb10" ]
+ },
+ "Community-APIs-for-AIR": {
+     "desc": "Extension APIs for Adobe AIR using ANE (AIR Native Extension) API",
+     "url": "http://github.com/blackberry/Community-APIs-for-AIR",
+     "type": "air",
+     "branches": ["master"],
+     "tags": [ "air", "bb10" ]
+ },
  "Gameplay": {
      "desc": "Cross-Platform 3D Native C++ Game Framework",
      "url": "http://github.com/blackberry/GamePlay",
      "type": "native",
-     "tags": [ "native", "openGL", "gaming" ]
+     "branches": ["master", "gh-pages", "next"],
+     "branchinfo": "'master' is current development, 'next' is next release, and 'gh-pages' is documentation",
+     "tags": [ "native", "openGL", "gaming", "bb10" ]
+ },
+ "NDK-Samples": {
+     "desc": "Native samples",
+     "url": "http://github.com/blackberry/NDK-Samples",
+     "type": "native",
+     "branches": ["develop", "master", "ndk1", "next"],
+     "branchinfo": "'master' is PlayBook 2, 'ndk1' is PlayBook 1, 'next' is BlackBerry 10, and 'develop' is next (beta) Release in BlackBerry 10",
+     "note": "Arguably these samples should be elsewhere, but there is a (temporary?) technical reason to keep them in this separate repository",
+     "tags": [ "native", "samples", "bb10" ]
+ },
+ "QtCascades-Samples": {
+     "desc": "Port of Samples from Qt documentation to use Cascades",
+     "url": "http://github.com/blackberry/Qt2Cascades-Samples",
+     "type": "native",
+     "branches": ["master", "gh-pages"],
+     "branchinfo": "'gh-pages' has detailed documentation on samples",
+     "portinfo": "Original samples at <a href='http://doc.qt.nokia.com/4.7-snapshot/all-examples.html'>Qt Example</a>",
+     "tags": [ "native", "cascades", "samples", "bb10", "Qt", "port" ]
+ },
+ "Ripple-UI": {
+     "desc": "UI layer of Ripple",
+     "url": "http://github.com/blackberry/Ripple-UI",
+     "type": "html5",
+     "branches": ["master", "next"],
+     "branchinfo": "'master' is current development, 'next' is next release",
+     "tags": [ "html5", "tools", "webworks" ]
+ },
+ "Samples-for-AIR": {
+     "desc": "Samples for Adobe AIR",
+     "url": "http://github.com/blackberry/Samples-for-AIR",
+     "type": "air",
+     "branches": ["master", "bb10"],
+     "branchinfo": "Master branch is for PlayBook; bb10 branch is for BlackBerry 10",
+     "tags": [ "air", "samples", "playbook", "bb10" ]
+ },
+ "Samples-for-Java": {
+     "desc": "Samples for the Java-Based BlackBerry OS Smarphones",
+     "url": "http://github.com/blackberry/Samples-for-Java",
+     "type": "java",
+     "branches": ["master"],
+     "tags": [ "java", "bbos" ]
+ },
+ "Scoreloop-Samples": {
+     "desc": "Sample showing integration with Scoreloop",
+     "url": "http://github.com/blackberry/Scoreloop-Samples",
+     "type": "native",
+     "branches": ["master", "BB10.0.06"],
+     "branchinfo": "'master' is PlayBook; 'BB10.0.06' is latest BlackBerry 10<br/>Name is arguably inconsistent with other conventions",
+     "note": "We need to decide where WebWorks integration will go",
+     "tags": [ "native", "samples", "bb10", "scoreloop", "gaming" ]
+ },
+ "WebGL-Samples": {
+     "desc": "WebGL-based Sample Applications",
+     "url": "http://github.com/blackberry/WebGL-Samples",
+     "type": "html5",
+     "branches": ["master", "gh-pages"],
+     "branchinfo": "'master' is current development for all platforms; 'gh-pages' is mostly for staging the demo",
+     "note": "Samples should work on PlayBook and on BB10 devices. WebGL is delivered wrapped as a WebWorks Application",
+     "tags": [ "html5", "webGL", "bb10", "samples" ]
+ },
+ "WebWorks-API-Docs": {
+     "desc": "Development Repo for the Documentation for WebWorks",
+     "url": "http://github.com/blackberry/WebWorks-API-Docs",
+     "branches": ["master", "next-BB10", "smartphone", "tablet"],
+     "branchinfo": "'master' is current development for BB10; 'next-BB10' is development for next beta release of BB10; 'Smartphone' and 'tablet' are for BBOS Smartphones and BlackBerry PlayBook",
+     "type": "html5",
+     "tags": [ "html5", "docs"]
+ },
+ "WebWorks-Community-APIs": {
+     "desc": "Cross-Platform 3D Native C++ Game Framework",
+     "url": "http://github.com/blackberry/WebWorks-Community-APIs",
+     "type": "html5",
+     "branches": ["master", "bt-fileuploader", "tablet-uploadDownload-readmeFixes"],
+     "branchinfo": "'master' is current development for all platforms; the other two should be deleted (need to triple check)",
+     "note": "Extensions vary depending on platform.  Still discussing whether to place the BB10 implementation in this repo",
+     "tags": [ "html5", "bbos", "playbook" ]
  },
  "WebWorks-Samples": {
-     "desc": "Collection of BlackBerry WebWorks Sample Applications, from RIM and the community-at-large",
+     "desc": "WebWorks Sample Applications, from RIM and others",
      "url": "http://github.com/blackberry/WebWorks-Samples",
-     "type": "HTML5",
+     "type": "html5",
+     "branches": ["master", "gh-pages"],
+     "branchinfo": "'master' is current development for all platforms; 'gh-pages' is mostly for staging the demo",
      "tags": [ "html5", "webworks", "samples" ]
  }
 }
