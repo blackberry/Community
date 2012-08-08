@@ -26,6 +26,7 @@ As you complete a page, remember to remove it from here and add it to All Pages,
 * How to Contribute a new Sample (...)
 * GNU tools pages - [forums](http://supportforums.blackberry.com/t5/Native-Development/Where-is-the-source-for-the-GPL-d-NDK-tools/m-p/1845039)
 * Ruby on BB10 - [Tweet](http://twitter.com/Jlbenc/status/231741925529624576)
+* PKZip port.
 
 ### Pages
 * [Android](Android.html)
