@@ -4,23 +4,28 @@ table.tablesorter {
 	margin: 20px 0 20px 0 !important;
 }
 table.tablesorter thead tr th, table.tablesorter tfoot tr th {
-	padding: 2px 4px 2px 4px !important;
+/*	padding: 4px 4px 2px 4px !important; */
+	padding: 12px 4px 2px 4px !important;
 	text-align: left;
-	vertical-align: top;
+/*	vertical-align: top; */
+	vertical-align: bottom;
 }
 table.tablesorter th {
 	background-color: #fc0;
+	writing-mode: lr-bt;
 }
 
 table.tablesorter thead tr .header {
-	background-image: url(bg.gif);
+	background-image: url(bg3.gif);
 	background-repeat: no-repeat;
-	background-position: center right;
+/*	background-position: center right; */
+	background-position: top left;
 	cursor: pointer;
 }
 table.tablesorter tbody td {
 	color: #3D3D3D;
-	padding: 4px;
+/*	padding: 4px; */
+	padding: 10px;
 	background-color: #FFF;
 	vertical-align: top;
 }
@@ -31,10 +36,10 @@ table.tablesorter tbody tr.odd td {
 	background-color:#fff
 }
 table.tablesorter thead tr .headerSortUp {
-	background-image: url(asc.gif);
+	background-image: url(asc3.gif);
 }
 table.tablesorter thead tr .headerSortDown {
-	background-image: url(desc.gif);
+	background-image: url(desc3.gif);
 }
 table.tablesorter thead tr .headerSortDown, table.tablesorter thead tr .headerSortUp {
 background-color: #fea
