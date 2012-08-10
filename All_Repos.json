@@ -88,7 +88,7 @@
      "url": "http://github.com/blackberry/BWS-Samples",
      "type": "server",
      "branches": ["master"],
-     "tags": [ "server", "java", "c#" ]
+     "tags": [ "server", "java", "c#", "samples" ]
  },
  "Cascades-Community-Samples": {
      "desc": "Cascades and native Sample Applications, from RIM and others",
@@ -187,7 +187,7 @@
      "type": "java",
      "branches": ["master", "4.5.0", "4.6.0", "4.6.1", "4.7.0", "5.0.0", "6.0.0", "7.0.0", "7.1.0"],
      "note": "There are branches and tags for all the releases of JDE",
-     "tags": [ "java" ]
+     "tags": [ "java", "samples" ]
  },
  "jQuery-Mobile-Samples": {
      "desc": "Samples showing how to use jQuery Mobile to write BlackBerry Apps",
@@ -197,7 +197,7 @@
      "branchinfo": "need information on branches",
      "warning": "Need information on branches",
      "note": "I believe the only change is build configuration. Changes should be upstreamed",
-     "tags": [ "html5", "bb10", "playbook" ]
+     "tags": [ "html5", "bb10", "playbook", "samples" ]
  },
  "JSON_parser": {
      "desc": "Port of C-based JSON parser",
@@ -267,7 +267,7 @@
      "type": "native",
      "branches": ["master"],
      "portinfo": "Changes upstreamed to the <a href='http://code.google.com/p/opengles-book-samples/'>opengles-book-samples</a> project ",
-     "tags": [ "native", "bb10", "playbook", "port" ]
+     "tags": [ "native", "bb10", "playbook", "port", "samples" ]
  },
  "OpenTTD": {
      "desc": "Cross-Platform, Open Source, simulation game originally based on Transport Tycoon Deluxe",
@@ -361,7 +361,7 @@
      "url": "http://github.com/blackberry/Samples-for-Java",
      "type": "java",
      "branches": ["master"],
-     "tags": [ "java", "bbos" ]
+     "tags": [ "java", "bbos", "samples" ]
  },
  "Skia": {
      "desc": "Complete 2D Graphic Library",
