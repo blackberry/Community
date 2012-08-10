@@ -7,11 +7,24 @@ jsfile: All_Repos.js
 ---
 {% include common-defs.md %}
 
-This is a sortable table with all the repositories in our [GitHub Organization](http://github.com/blackberry),
-generated from a backing [JSON file](All_Repos.json). Also see the list of [All Samples].
+<div id='right'>
+<div class='caption'>Repo Catalog</div>
+<ul>
+<li><a href="#repoPorts">Port Repos</a></li>
+<li><a href="#repoHtml5">HTML5 Repos</a></li>
+<li><a href="#repoNative">Native Repos</a></li>
+<li><a href="#repoAir">Adobe AIR Repos</a></li>
+<li><a href="#repoOther">Other Repos</a></li>
+</ul>
+</div>
+
+This page contains several tables cover all the repositories in our [GitHub Organization](http://github.com/blackberry),
+generated from a backing [JSON file](All_Repos.json). As an alternative presentation see [All Repos as One Table].
+Also see the list of [All Samples].
 
 The table can be sorted (ascending/descending) on a sequence of one or more columns.  To select additional
-columns select the next column while pressing the 'SHIFT' (on mac) key. The table uses these tooltips:
+columns select the next column while pressing the 'SHIFT' (on mac) key. The table uses the following tooltips -
+hover over them to learn their meaning:
 <span class="question" tip="(Repo column) A list of 'tags' characterizing this repo (useful?)">T</span>, 
 <span class="question" tip="(Repo column) Extra information on the branches in the repository">B</span>,
 <span class="question" tip="(Repo column) Repo has Pages">P</span>,
@@ -21,11 +34,34 @@ columns select the next column while pressing the 'SHIFT' (on mac) key. The tabl
 <span class="question" tip="(in BB10 column) Ported to PlayBook but not yet tested on BB10">?</span>,
 <span class="question" tip="(in Port column) Extra information on porting">P</span>.
 
-_*Notes*_: We are interested in your feedback on how to best present this information.  In particular:
+_*Notes*_: We are interested in your feedback on how to best present this information.
 
-*Q1*: Is the list of tags useful, or just extra noise.
+<div id="repoPorts">
+<a name="repoPorts"><h2>Port Repositories</h2></a>
+</div>
 
-*Q2*: Should we split the table into several tables?  Perhaps one for each platform, plus one for all ports?
-That way each table would then be smaller and with fewer columns.
+<a href="#top">Back to top</a>
 
-*N3*: We may have to start tracking non-RIM repos (e.g. opendataspace clients).
+<div id="repoHtml5">
+<a name="repoHtml5"><h2>HTML5 Repositories</h2></a>
+</div>
+
+<a href="#top">Back to top</a>
+
+<div id="repoNative">
+<a href="repoNative"><h2>Native Repositories</h2></a>
+</div>
+
+<a href="#top">Back to top</a>
+
+<div id="repoAir">
+<a href="repoAir"><h2>Adobe AIR Repositories</h2></a>
+</div>
+
+<a href="#top">Back to top</a>
+
+<div id="repoOther">
+<a href="repoOther"><h2>Other Repositories</h2></a>
+</div>
+
+<a href="#top">Back to top</a>

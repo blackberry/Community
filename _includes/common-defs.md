@@ -53,7 +53,8 @@
 [bb_push]: <BlackBerry_Push_Service.html> "BlackBerry Push Service"
 
 [adobe_air]: <Adobe_AIR.html> "Adobe Integrated Runtime (AIR)"
-[all_repos]: <All_Repos.html> "All Repos in GitHub.com/Blackberry"
+[all_repos]: <All_Repos.html> "All Repos in GitHub.com/Blackberry, in multiple tables"
+[all_repos_as_one_table]: <All_Repos_as_One_Table.html> "All Repos in GitHub.com/Blackberry as a single table"
 [all_samples]: <All_Samples.html> "All Samples in GitHub.com/Blackberry"
 [alicejs]: <AliceJS.html> "Alice - A Lightweight Independent CSS Engine"
 [air]: <AIR.html> "Adobe Integrated Runtime (AIR)"

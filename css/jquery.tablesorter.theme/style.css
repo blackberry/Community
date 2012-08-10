@@ -1,3 +1,35 @@
+table.tablesorter {
+	border: 1px solid #666;
+	margin: 20px 0 20px 0 !important;
+}
+
+table.tablesorter th, table.tablesorter td {
+	padding: 2px 4px 2px 4px !important;
+	text-align: left;
+	vertical-align: top;
+}
+
+table.tablesorter td.centered {
+        text-align: center;
+}
+
+table.tablesorter th {
+	background-color: #fc0;
+}
+
+table.tablesorter th:hover {
+	background-color: #fc7;
+}
+
+table.tablesorter tbody tr.even {
+	background-color: #fea
+}
+
+table.tablesorter tbody tr.odd {
+	background-color:  #fff
+}
+
+
 /* tables */
 table.tablesorter {
 	border: 1px solid #666;
