@@ -236,7 +236,9 @@ $(document).ready(function(){
 	items.sort();
 
 	/* Inject */
-	$('#tagsList').append(items.join(', '));
+	$('#tagsList').append($('<p/>', {
+	    html: items.join(', ')
+	})).addClass("taglist"); /* TODO: add style for taglist */
 
 
 	/* ====================== */

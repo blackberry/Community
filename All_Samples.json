@@ -8,6 +8,13 @@
      "warning": "optional warning",
      "tags": [ "an array of tags", "reserved tags are:", "html5", "native", "client" ]
  },
+ "fileTransfer": {
+     "desc": "Sample applications that demonstrate how to use the blackberry.io and blackberry.io.filetransfer APIs",
+     "url": "https://github.com/blackberry/BB10-WebWorks-Samples/tree/master/fileTransfer",
+     "repo": "BB10-WebWorks-Samples",
+     "repourl": "http://github.com/blackberry/BB10-WebWorks-Samples",
+     "tags": [ "html5", "client", "playbook", "bb10", "webworks", "filetransfer" ]
+ },
  "GoodCitizenCascades": {
      "desc": "The Cascades version of the NDK Sample App named 'Good Citizen'",
      "url": "http://github.com/blackberry/Cascades-Community-Samples/tree/master/GoodCitizenCascades",
@@ -39,6 +46,14 @@
      "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
      "note": "<p>HelloVideoCamera is a minimalist Cascades-based video camera app. It illustrates how to set up a Cascades foreign window and connect the Camera viewfinder to it.</p><p>HelloVideoCamera has functionality for starting and sotpping the camera, changing between front and back cameras, and recording video files which are saved to the camera roll.</p>",
      "tags": [ "native", "cascades", "client", "camera", "bb10", "video" ]
+ },
+ "invoke": {
+     "desc": "Two sample applications that show how to use the blackberry.invoke API for WebWorks",
+     "url": "https://github.com/blackberry/BB10-WebWorks-Samples/tree/master/invoke",
+     "repo": "BB10-WebWorks-Samples",
+     "repourl": "http://github.com/blackberry/BB10-WebWorks-Samples",
+     "note": "There are two sample applications: invokable and invoker",
+     "tags": [ "html5", "client", "playbook", "bb10", "webworks", "invocation"]
  },
  "InvokeClient": {
      "desc": "A simple client to invoke target apps in the Invocation Framework",
@@ -89,6 +104,22 @@
      "note": "See recording of demo at <a href='http://www.youtube.com/watch?v=3nX_AploVC8' target='_blank'>YouTube</a>",
      "warning": "Location of sample will change within the repository",
      "tags": [ "native", "client", "opengl", "bb10", "cascades" ]
+ },
+ "pushCapture": {
+     "desc": "Demonstrates how to write a BlackBerry 10 WebWorks Application that can receive push events",
+     "url": "https://github.com/blackberry/BB10-WebWorks-Samples/tree/master/pushCapture",
+     "repo": "BB10-WebWorks-Samples",
+     "repourl": "http://github.com/blackberry/BB10-WebWorks-Samples",
+     "note": "Consult the PushService and PushPayload classes from the <a href='https://developer.blackberry.com/html5/apis/'>API reference</a> for useful examples and a full description of how to use the push APIs",
+     "tags": [ "html5", "client", "playbook", "bb10", "push", "webworks"]
+ },
+ "swipemenu.js": {
+     "desc": "A swipe-down menu framework for BlackBerry WebWorks",
+     "url": "https://github.com/blackberry/BB10-WebWorks-Samples/tree/master/swipemenu",
+     "repo": "BB10-WebWorks-Samples",
+     "repourl": "http://github.com/blackberry/BB10-WebWorks-Samples",
+     "note": "Sample application that demonstrates swipemenu.js: A swipe-down menu framework for BlackBerry WebWorks SDK",
+     "tags": [ "html5", "client", "playbook", "bb10", "webworks"]
  },
  "VideoPlayerSample": {
      "desc": "A simple video player application that uses the MediaPlayer API",

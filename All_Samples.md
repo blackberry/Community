@@ -22,18 +22,21 @@ This page contains several tables cover all the samples in RIM's
 generated from a backing [JSON file](All_Samples.json).
 Also see the list of [All Repos].
 
-The table can be sorted (ascending/descending) on a sequence of one or more columns.  To select additional
-columns select the next column while pressing the 'SHIFT' (on mac) key. The table uses the following tooltips -
-hover over them to learn their meaning:
+The table can be sorted on one or more columns.  To select additional
+columns select the next column while pressing the 'SHIFT' (on mac) key.
+
+The table uses the following tooltips:
 <span class="question" tip="(Repo column) A list of 'tags' characterizing this sample">T</span>, 
-<span class="question" tip="(Desc column) Extra details on the sample">?</span>,
+<span class="question" tip="(Desc column) Extra details on the sample">?</span>
+and
 <span class="warning" tip="(Desc column) Issues to resolve">!</span>.
+Hover over the tips to learn their meaning.
 
-<div id="tagsList"><p>Samples are annotated with <em>"Tags"</em>.
-The tags used the samples below are:</p></div>
+<div id="tagsList"><p>The following <em>tags</em> are used to 
+describe different properties of the samples: </p></div>
+<!-- additional content provided by JavaScript -->
 
-
-_*Notes*_: We are interested in your feedback on how to best present this information.
+We welcome your feedback on how to best present information on the Samples.
 
 <div id="samplesHtml5">
 <a name="samplesHtml5"><h2>HTML5 Samples</h2></a>

@@ -22,19 +22,22 @@ This page contains several tables cover all the repositories in our [GitHub Orga
 generated from a backing [JSON file](All_Repos.json). As an alternative presentation see [All Repos as One Table].
 Also see the list of [All Samples].
 
-The table can be sorted (ascending/descending) on a sequence of one or more columns.  To select additional
-columns select the next column while pressing the 'SHIFT' (on mac) key. The table uses the following tooltips -
-hover over them to learn their meaning:
+The tables can be sorted on one or more columns.  To select additional
+columns select the next column while pressing the 'SHIFT' (on mac) key.
+
+The table uses the following tooltips:
 <span class="question" tip="(Repo column) A list of 'tags' characterizing this repo (useful?)">T</span>, 
 <span class="question" tip="(Repo column) Extra information on the branches in the repository">B</span>,
 <span class="question" tip="(Repo column) Repo has Pages">P</span>,
 <span class="question" tip="(Repo column) Repo has a Wiki">W</span>,
 <span class="question" tip="(Desc column) Extra details on the repository">?</span>,
 <span class="warning" tip="(Desc column) Issues to resolve">!</span>,
-<span class="question" tip="(in BB10 column) Ported to PlayBook but not yet tested on BB10">?</span>,
+<span class="question" tip="(in BB10 column) Ported to PlayBook but not yet tested on BB10">?</span>
+and
 <span class="question" tip="(in Port column) Extra information on porting">P</span>.
+Hover over the tips to learn their meaning.
 
-_*Notes*_: We are interested in your feedback on how to best present this information.
+We welcome your feedback on how to best present information on our Repositories.
 
 <div id="repoPorts">
 <a name="repoPorts"><h2>Port Repositories</h2></a>
