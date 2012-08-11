@@ -1,17 +1,77 @@
 {
+ "_comment_": {
+     "desc": "description",
+     "url": "URL to sample",
+     "repo": "name of repository",
+     "repourl": "URL of repository",
+     "note": "optional note",
+     "warning": "optional warning",
+     "tags": [ "an array of tags", "reserved tags are:", "html5", "native", "client" ]
+ },
+ "GoodCitizenCascades": {
+     "desc": "The Cascades version of the NDK Sample App named 'Good Citizen'",
+     "url": "http://github.com/blackberry/Cascades-Community-Samples/tree/master/GoodCitizenCascades",
+     "repo": "Cascades-Community-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
+     "note": "<p>This sample features best practices on how to properly structure the Open GL code and link it with Cascades, how to leverage Actions and the use of NavigatorPanes for multiple panels, as well as how to process touch events and use them to control a 3D scene rendered in OpenGL, using Qt objects and JavaScript</p>",
+     "tags": [ "native", "cascades", "client", "opengl", "bb10" ]
+ },
+ "HelloCamera": {
+     "desc": "Sets up a Cascades foreign window and connects a Camera Viewfinder to it",
+     "url": "http://github.com/blackberry/Cascades-Community-Samples/tree/master/HelloCamera",
+     "repo": "Cascades-Community-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
+     "note": "<p>HelloCamera is a slender little app showing how to set up a Cascades foreign window and connect the Camera viewfinder to it.</p><p>It has functionality for starting and stopping the camera service, changing between cameras and take photos that saves to the camera album</p>",
+     "tags": [ "native", "cascades", "client", "camera", "bb10" ]
+ },
  "HelloOggVorbis": {
-     "desc": "Using Ogg Vorbis with OpenGL and Cascades" ,
-     "url": "mumble",
-     "repo": "what",
-     "type": "native",
-     "tags": [ "native", "audio", "cascades" ]
+     "desc": "Basic Ogg file handling using OpenAL and Ogg Vorbis" ,
+     "url": "http://github.com/blackberry/Cascades-Community-Samples/tree/master/HelloOggVorbis",
+     "repo": "Cascades-Community-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
+     "note": "<p>This sample is extended from the original cascades cowbell sample in the <a href='https://github.com/blackberry/Cascades-Samples'>Cascades-Samples</a> repository.</p><p>The objective of this sample is to serve as a tutorial for setting up OpenAL and OggVorbis SDK to play compressed .ogg vorbis sound format. The sample also shows how to decode the regular .wav files without ALUT</p>",
+     "tags": [ "native", "audio", "cascades", "bb10" ]
+ },
+ "HelloVideoCamera": {
+     "desc": "A minimalist Cascades-based video camera app",
+     "url": "http://github.com/blackberry/Cascades-Community-Samples/tree/master/HelloVideoCamera",
+     "repo": "Cascades-Community-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
+     "note": "<p>HelloVideoCamera is a minimalist Cascades-based video camera app. It illustrates how to set up a Cascades foreign window and connect the Camera viewfinder to it.</p><p>HelloVideoCamera has functionality for starting and sotpping the camera, changing between front and back cameras, and recording video files which are saved to the camera roll.</p>",
+     "tags": [ "native", "cascades", "client", "camera", "bb10", "video" ]
  },
  "NativeCamera": {
-     "desc": "Using Camera in C/C++ without Cascades" , 
-     "url": "mumble2",
-     "repo": "what",
-     "type": "native",
-     "tags": [ "native", "camera" ]
+     "desc": "A simple picture-taking app in C/C++ without Cascades" , 
+     "url": "https://github.com/blackberry/Cascades-Community-Samples/tree/master/NativeCamera",
+     "repo": "Cascades-Community-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
+     "note": "The sample shows:<ul><li>how to access the camera</li><li>how to start the viewfinder and acquire the corresponding viewfinder window handle</li><li>how to take a photo (non-blocking)</li><li>how to save a photo to the camera roll</li><li>how to pass argument data between the main thread and your callback threads</li><li>how to signal your main thread using user-defined bps events from your callback thread</li></ul>",
+     "tags": [ "native", "client", "camera", "bb10" ]
+ },
+ "VideoPlayerSample": {
+     "desc": "A simple video player application that uses the MediaPlayer API",
+     "url": "https://github.com/blackberry/Cascades-Community-Samples/tree/master/VideoPlayerSample",
+     "repo": "Cascades-Community-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
+     "note": "VideoPlayerSample is a simple video player application. It uses the new MediaPlayer API and showcases all the fundamentals to make other full fledged video player applications.",
+     "tags": [ "native", "client", "camera", "bb10", "video", "cascades"]
+ },
+ "InvokeClient": {
+     "desc": "A simple client to invoke target apps in the Invocation Framework",
+     "url": "https://github.com/blackberry/Cascades-Community-Samples/tree/master/InvokeClient",
+     "repo": "Cascades-Community-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
+     "note": "Demonstrates the Invocation Framework of BlackBerry 10. This app acts as a client that can invoke target apps registered with the Invocation Framework. Easiest way to take it for a spin is to also download Invoke Target sample application",
+     "tags": [ "native", "client", "invocation", "bb10", "cascades" ]
+ },
+ "InvokeTarget1": {
+     "desc": "This app acts as a Target that can be invoked by InvokeClient",
+     "url": "https://github.com/blackberry/Cascades-Community-Samples/tree/master/InvokeTarget1",
+     "repo": "Cascades-Community-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
+     "note": "Demonstrates the Invocation Framework of BlackBerry 10. This app acts as a Target that can be invoked by InvokeClient",
+     "warning": "There is also an 'InvokeTarget2' application. We need to clarify the relationship between the two apps",
+     "tags": [ "native", "client", "invocation", "bb10", "cascades" ]
  }
 }
 

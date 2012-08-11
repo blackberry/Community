@@ -48,6 +48,7 @@ $.tablesorter.addWidget({
  *
  * showPortColumn - true, false
  * showSamplesColumn - true, false
+ * showTypeColumn - true, false
  *
  * portTag - "yes", "no", "any"
  * samplesTag - "yes", "no", "any"
@@ -74,6 +75,11 @@ function parseRepoData(data,
 	       '</thead>')
 
     $.each(data, function(key, val) {
+	/* The "_comment_" record is used to document the JSON format */
+	if ( key === "_comment_" ) {
+	    return true; /* skip this item */
+	}
+
 	if ( ( $.inArray("port", val.tags) < 0) && ( portTag === "yes") ) {
 	    return true; /* skip this item */
 	}
@@ -109,7 +115,6 @@ function parseRepoData(data,
 		   /* Repository */
 		   '<td><span style="white-space: nowrap;"><a href="' + val.url + '" target="_blank">' + key + '</a></span>' +
 
-		   ' <span style="white-space: nowrap;">'+
 		   ( ( (val.branches && val.branches.length > 1 ) || (val.branchinfo))
 		     ? ' <span class="question" tip="' +  val.branches +
 		     ( ( val.branchinfo )
@@ -127,7 +132,6 @@ function parseRepoData(data,
 		     ? ' <span class="question" tip="Repo has a Pages local site">P</span>'
 		     : ''
 		   ) +
-		   '</span>' +
 
 		   '</td>' +
 

@@ -22,12 +22,16 @@ $(document).ready(function(){
 		   '</thead>')
 
 	$.each(data, function(key, val) {
+	    /* The "_comment_" record is used to document the JSON format */
+	    if ( key === "_comment_" ) {
+		return true; /* skip this item */
+	    }
+
 	    items.push('<tr>' +
 
 		       /* Repository */
 		       '<td><span style="white-space: nowrap;"><a href="' + val.url + '" target="_blank">' + key + '</a></span>' +
 
-		       ' <span style="white-space: nowrap;">'+
 		          ( ( (val.branches && val.branches.length > 1 ) || (val.branchinfo))
 			    ? ' <span class="question" tip="' +  val.branches +
 			    ( ( val.branchinfo )
@@ -48,7 +52,6 @@ $(document).ready(function(){
 		          ( ( val.tags )
 			    ? ' <a href="' + val.url + '#readme"><span class="question" tip="' + val.tags + '">T</span></a>'
 			    : '' ) +
-		       '</span>' +
 
 		       '</td>' +
 
