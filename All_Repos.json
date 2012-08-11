@@ -5,7 +5,7 @@
      "type": "html5",
      "branches": ["master", "gh-pages", "0.2"],
      "branchinfo": "'master' is current version; 'gh-pages' is for online demo. '0.2' I think is obsolete",
-     "note": "Alice is a micro JavaScript library focused on using hardware-accelerated capabilities (in particular CSS3 features) in modern browsers for generating high-quality, high-end visual effects.<p> An online demo is available: point your browser to <a href='http://blackberry.github.com/Alice/'>blackberry.github.com/Alice/</a></p>",
+     "note": "Alice is a micro JavaScript library focused on using hardware-accelerated capabilities (in particular CSS3 features) in modern browsers for generating high-quality, high-end visual effects. An online demo is available: point your browser to <a href='http://blackberry.github.com/Alice/'>blackberry.github.com/Alice/</a>",
      "warning": "'0.2' branch should be deleted?",
      "tags": [ "html5", "bb10", "playbook", "pages" ]
  },

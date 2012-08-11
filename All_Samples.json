@@ -30,7 +30,7 @@
      "repo": "Cascades-Community-Samples",
      "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
      "note": "<p>This sample is extended from the original cascades cowbell sample in the <a href='https://github.com/blackberry/Cascades-Samples'>Cascades-Samples</a> repository.</p><p>The objective of this sample is to serve as a tutorial for setting up OpenAL and OggVorbis SDK to play compressed .ogg vorbis sound format. The sample also shows how to decode the regular .wav files without ALUT</p>",
-     "tags": [ "native", "audio", "cascades", "bb10" ]
+     "tags": [ "native", "audio", "cascades", "bb10", "oggvorbis" ]
  },
  "HelloVideoCamera": {
      "desc": "A minimalist Cascades-based video camera app",
@@ -39,22 +39,6 @@
      "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
      "note": "<p>HelloVideoCamera is a minimalist Cascades-based video camera app. It illustrates how to set up a Cascades foreign window and connect the Camera viewfinder to it.</p><p>HelloVideoCamera has functionality for starting and sotpping the camera, changing between front and back cameras, and recording video files which are saved to the camera roll.</p>",
      "tags": [ "native", "cascades", "client", "camera", "bb10", "video" ]
- },
- "NativeCamera": {
-     "desc": "A simple picture-taking app in C/C++ without Cascades" , 
-     "url": "https://github.com/blackberry/Cascades-Community-Samples/tree/master/NativeCamera",
-     "repo": "Cascades-Community-Samples",
-     "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
-     "note": "The sample shows:<ul><li>how to access the camera</li><li>how to start the viewfinder and acquire the corresponding viewfinder window handle</li><li>how to take a photo (non-blocking)</li><li>how to save a photo to the camera roll</li><li>how to pass argument data between the main thread and your callback threads</li><li>how to signal your main thread using user-defined bps events from your callback thread</li></ul>",
-     "tags": [ "native", "client", "camera", "bb10" ]
- },
- "VideoPlayerSample": {
-     "desc": "A simple video player application that uses the MediaPlayer API",
-     "url": "https://github.com/blackberry/Cascades-Community-Samples/tree/master/VideoPlayerSample",
-     "repo": "Cascades-Community-Samples",
-     "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
-     "note": "VideoPlayerSample is a simple video player application. It uses the new MediaPlayer API and showcases all the fundamentals to make other full fledged video player applications.",
-     "tags": [ "native", "client", "camera", "bb10", "video", "cascades"]
  },
  "InvokeClient": {
      "desc": "A simple client to invoke target apps in the Invocation Framework",
@@ -72,6 +56,47 @@
      "note": "Demonstrates the Invocation Framework of BlackBerry 10. This app acts as a Target that can be invoked by InvokeClient",
      "warning": "There is also an 'InvokeTarget2' application. We need to clarify the relationship between the two apps",
      "tags": [ "native", "client", "invocation", "bb10", "cascades" ]
+ },
+ "LocationDiagnostics": {
+     "desc": "Demonstrates the C++ Location APIs in Cascades" , 
+     "url": "https://github.com/blackberry/Cascades-Community-Samples/tree/master/LocationDiagnostics",
+     "repo": "Cascades-Community-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
+     "note": "Satelite information is not yet available and neither is Map access",
+     "tags": [ "native", "client", "location", "bb10", "cascades" ]
+ },
+ "NativeCamera": {
+     "desc": "A simple picture-taking app in C/C++ without Cascades" , 
+     "url": "https://github.com/blackberry/Cascades-Community-Samples/tree/master/NativeCamera",
+     "repo": "Cascades-Community-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
+     "note": "The sample shows:<ul><li>how to access the camera</li><li>how to start the viewfinder and acquire the corresponding viewfinder window handle</li><li>how to take a photo (non-blocking)</li><li>how to save a photo to the camera roll</li><li>how to pass argument data between the main thread and your callback threads</li><li>how to signal your main thread using user-defined bps events from your callback thread</li></ul>",
+     "tags": [ "native", "client", "camera", "bb10" ]
+ },
+ "NfcTool": {
+     "desc": "Shows how to use selected BlackBerry 10 NFC APIs",
+     "url": "https://github.com/blackberry/Cascades-Community-Samples/tree/master/NfcTool",
+     "repo": "Cascades-Community-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
+     "note": "Supports:<ul><li>Reading NDEF tags</li><li>Writing NDEF tags</li><li>Transfer vCard via SNEP</li></ul>",
+     "tags": [ "native", "client", "nfc", "bb10", "cascades" ]
+ },
+ "NothingButNet": {
+     "desc": "Macadamian Demo from BBJam Orlando 2012",
+     "url": "https://github.com/blackberry/Cascades-Community-Samples/tree/master/Macadamian/NothinButNet",
+     "repo": "Cascades-Community-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
+     "note": "See recording of demo at <a href='http://www.youtube.com/watch?v=3nX_AploVC8' target='_blank'>YouTube</a>",
+     "warning": "Location of sample will change within the repository",
+     "tags": [ "native", "client", "opengl", "bb10", "cascades" ]
+ },
+ "VideoPlayerSample": {
+     "desc": "A simple video player application that uses the MediaPlayer API",
+     "url": "https://github.com/blackberry/Cascades-Community-Samples/tree/master/VideoPlayerSample",
+     "repo": "Cascades-Community-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
+     "note": "VideoPlayerSample is a simple video player application. It uses the new MediaPlayer API and showcases all the fundamentals to make other full fledged video player applications.",
+     "tags": [ "native", "client", "camera", "bb10", "video", "cascades"]
  }
 }
 

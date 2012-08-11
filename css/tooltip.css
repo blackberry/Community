@@ -70,15 +70,15 @@ div.tooltip a:link, div.tooltipLeft a:link {
   color: #ffeeaa;
   background: #3D6199;
 }
-div.tooltip a:link, div.tooltipLeft a:active {
+div.tooltip a:active, div.tooltipLeft a:active {
   color: #ffeeaa;
   background: #3D6199;
 }
-div.tooltip a:link, div.tooltipLeft a:visited {
+div.tooltip a:visited, div.tooltipLeft a:visited {
   color: #ffeeaa;
   background: #3D6199;
 }
-div.tooltip a:link, div.tooltipLeft a:hover {
+div.tooltip a:hover, div.tooltipLeft a:hover {
   color: #ffeeaa;
   background: #3D6199;
 }
