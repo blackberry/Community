@@ -30,7 +30,7 @@ $.tablesorter.addWidget({
 	
 	// loop all tr elements and insert a copy of the "headers"     
 	for(var i=0; i < table.tBodies[0].rows.length; i++) { 
-	    // insert a copy of the table head every 10th row 
+	    // insert a copy of the table head every 20th row 
 	    if((i%20) == 19) { 
 		$("tbody tr:eq(" + i + ")",table).before( 
 		    $("<tr></tr>").addClass("repeated-header").html(this.headers.join(""))

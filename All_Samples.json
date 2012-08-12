@@ -8,7 +8,47 @@
      "warning": "optional warning",
      "tags": [ "an array of tags", "reserved tags are:", "html5", "native", "client" ]
  },
- "fileTransfer": {
+ "BatterySample": {
+     "desc": "A battery display app from a radio group and an image",
+     "url": "https://github.com/blackberry/Cascades-Samples/tree/master/BatterySample",
+     "repo": "Cascades-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Samples",
+     "note": "<p>A radio group and an image are used to display and describe the different battery states.</p><p>  The QML uses stackLayout</p>",
+     "tags": [ "native", "client", "bb10", "cascades", "battery", "stacklayout"]
+ },
+ "BucketList": {
+     "desc": "Multi-Select",
+     "url": "https://github.com/blackberry/Cascades-Samples/tree/master/bucketlist",
+     "repo": "Cascades-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Samples",
+     "note": "<p>How to use the MultiSelectHandler on a list.</p><p>Also shows how to load and save data from a JSON file",
+     "tags": [ "native", "client", "bb10", "cascades", "multiselecthandler", "json", "list" ]
+ },
+ "CascadesCookbookCpp": {
+     "desc": "Cookbook of the various controls in Cascades, written using C++",
+     "url": "https://github.com/blackberry/Cascades-Samples/tree/master/cascadescookbookcpp",
+     "repo": "Cascades-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Samples",
+     "note": "<p>Also see the companion CascadesCookbookQML",
+     "tags": [ "native", "client", "bb10", "cascades", "control", "c++" ]
+ },
+ "CascadesCookbookQML": {
+     "desc": "Cookbook of the various controls in Cascades, written using QML",
+     "url": "https://github.com/blackberry/Cascades-Samples/tree/master/cascadescookbookqml",
+     "repo": "Cascades-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Samples",
+     "note": "<p>Also see the companion CascadesCookbookCpp",
+     "tags": [ "native", "client", "bb10", "cascades", "control", "qml" ]
+ },
+ "CowBell": {
+     "desc": "Basic Sound Handling",
+     "url": "https://github.com/blackberry/Cascades-Samples/tree/master/cowbell",
+     "repo": "Cascades-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Samples",
+     "note": "<p>Basic rotation animations, AbsoluteLayout, and OpenAL sound</p><p>And, if you have never seen it, check the SNL sketch on <a href='http://en.wikipedia.org/wiki/More_cowbell'>More Cowbell</a></p>",
+     "tags": [ "native", "client", "bb10", "cascades", "audio", "openal", "absolutelayout" ]
+ },
+ "FileTransfer": {
      "desc": "Sample applications that demonstrate how to use the blackberry.io and blackberry.io.filetransfer APIs",
      "url": "https://github.com/blackberry/BB10-WebWorks-Samples/tree/master/fileTransfer",
      "repo": "BB10-WebWorks-Samples",
@@ -20,7 +60,7 @@
      "url": "http://github.com/blackberry/Cascades-Community-Samples/tree/master/GoodCitizenCascades",
      "repo": "Cascades-Community-Samples",
      "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
-     "note": "<p>This sample features best practices on how to properly structure the Open GL code and link it with Cascades, how to leverage Actions and the use of NavigatorPanes for multiple panels, as well as how to process touch events and use them to control a 3D scene rendered in OpenGL, using Qt objects and JavaScript</p>",
+     "note": "<p>This sample features best practices on how to properly structure the Open GL code and link it with Cascades.</p><p>The sample shows how to leverage Actions and the use of NavigatorPanes for multiple panels, as well as how to process touch events and use them to control a 3D scene rendered in OpenGL, using Qt objects and JavaScript</p>",
      "tags": [ "native", "cascades", "client", "opengl", "bb10" ]
  },
  "HelloCamera": {
@@ -30,6 +70,21 @@
      "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
      "note": "<p>HelloCamera is a slender little app showing how to set up a Cascades foreign window and connect the Camera viewfinder to it.</p><p>It has functionality for starting and stopping the camera service, changing between cameras and take photos that saves to the camera album</p>",
      "tags": [ "native", "cascades", "client", "camera", "bb10" ]
+ },
+ "HelloCascades": {
+     "desc": "Very basic Hello World in Cascades",
+     "url": "http://github.com/blackberry/Cascades-Community-Samples/tree/master/HelloCascades",
+     "repo": "Cascades-Community-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
+     "note": "<p>very basic example</p>",
+     "tags": [ "native", "cascades", "client", "bb10" ]
+ },
+ "HelloForeignWindow": {
+     "desc": "Introduction to using the ForeignWindow API",
+     "url": "http://github.com/blackberry/Cascades-Community-Samples/tree/master/HelloForeignWindow",
+     "repo": "Cascades-Community-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
+     "tags": [ "native", "cascades", "client", "bb10", "foreignwindow" ]
  },
  "HelloOggVorbis": {
      "desc": "Basic Ogg file handling using OpenAL and Ogg Vorbis" ,
@@ -47,7 +102,7 @@
      "note": "<p>HelloVideoCamera is a minimalist Cascades-based video camera app. It illustrates how to set up a Cascades foreign window and connect the Camera viewfinder to it.</p><p>HelloVideoCamera has functionality for starting and sotpping the camera, changing between front and back cameras, and recording video files which are saved to the camera roll.</p>",
      "tags": [ "native", "cascades", "client", "camera", "bb10", "video" ]
  },
- "invoke": {
+ "Invoke": {
      "desc": "Two sample applications that show how to use the blackberry.invoke API for WebWorks",
      "url": "https://github.com/blackberry/BB10-WebWorks-Samples/tree/master/invoke",
      "repo": "BB10-WebWorks-Samples",
@@ -60,7 +115,7 @@
      "url": "https://github.com/blackberry/Cascades-Community-Samples/tree/master/InvokeClient",
      "repo": "Cascades-Community-Samples",
      "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
-     "note": "Demonstrates the Invocation Framework of BlackBerry 10. This app acts as a client that can invoke target apps registered with the Invocation Framework. Easiest way to take it for a spin is to also download Invoke Target sample application",
+     "note": "<p>This app acts as a client that can invoke target apps registered with the Invocation Framework.</p><p>Easiest way to take it for a spin is to also download Invoke Target sample application</p>",
      "tags": [ "native", "client", "invocation", "bb10", "cascades" ]
  },
  "InvokeTarget1": {
@@ -68,9 +123,49 @@
      "url": "https://github.com/blackberry/Cascades-Community-Samples/tree/master/InvokeTarget1",
      "repo": "Cascades-Community-Samples",
      "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
-     "note": "Demonstrates the Invocation Framework of BlackBerry 10. This app acts as a Target that can be invoked by InvokeClient",
+     "note": "<p>This app acts as a Target that can be invoked by InvokeClient</p>",
      "warning": "There is also an 'InvokeTarget2' application. We need to clarify the relationship between the two apps",
      "tags": [ "native", "client", "invocation", "bb10", "cascades" ]
+ },
+ "Kakel": {
+     "desc": "Dynamic UI",
+     "url": "https://github.com/blackberry/Cascades-Samples/tree/master/kakel",
+     "repo": "Cascades-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Samples",
+     "note": "<p>Some decorative and interaction elements in QML, while actual game board and logics is in C++</p>",
+     "tags": [ "native", "client", "bb10", "cascades", "qml" ]
+ },
+ "LED": {
+     "desc": "The LED API",
+     "url": "https://github.com/blackberry/Cascades-Samples/tree/master/led",
+     "repo": "Cascades-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Samples",
+     "note": "Uses the LDE API, overlays images, creates custom components",
+     "tags": [ "native", "client", "bb10", "cascades", "led" ]
+ },
+ "LightningCrossfadeCpp": {
+     "desc": "Lightning Crossfade for Text and Image, usinc C++",
+     "url": "https://github.com/blackberry/Cascades-Samples/tree/master/lightningcrossfadecpp",
+     "repo": "Cascades-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Samples",
+     "note": "<p>Add images to a UI, use layouts and add a slider attached to it.</p><p>Do this in C++</p>",
+     "tags": [ "native", "client", "bb10", "cascades", "c++", "events" ]
+ },
+ "LightningCrossfadeQML": {
+     "desc": "Lightning Crossfade for Text and Image, usinc QML",
+     "url": "https://github.com/blackberry/Cascades-Samples/tree/master/lightningcrossfadecpp",
+     "repo": "Cascades-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Samples",
+     "note": "<p>Add images to a UI, use layouts and add a slider attached to it.</p><p>Do this in QML</p>",
+     "tags": [ "native", "client", "bb10", "cascades", "qml", "events" ]
+ },
+ "Loader": {
+     "desc": "Load and Unload Controls from the UI at runtime",
+     "url": "https://github.com/blackberry/Cascades-Samples/tree/master/loader",
+     "repo": "Cascades-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Samples",
+     "note": "<p>How to use QDeclarativeComponent to extend Cascades</p>",
+     "tags": [ "native", "client", "bb10", "cascades", "qdeclarativecomponent" ]
  },
  "LocationDiagnostics": {
      "desc": "Demonstrates the C++ Location APIs in Cascades" , 
@@ -105,7 +200,39 @@
      "warning": "Location of sample will change within the repository",
      "tags": [ "native", "client", "opengl", "bb10", "cascades" ]
  },
- "pushCapture": {
+ "PaymentSample": {
+     "desc": "Demonstrates how to use the Payment Service APIs",
+     "url": "https://github.com/blackberry/Cascades-Samples/tree/master/PaymentSample",
+     "repo": "Cascades-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Samples",
+     "note": "Shows how add features like a 'Buy' button and how to display purchase history and subscription terms.  Also shows several layouts and load data into a list using XmlDataModel",
+     "tags": [ "native", "client", "bb10", "cascades", "payment", "xmldatamodel"]
+ },
+ "PhotoBomber": {
+     "desc": "Camera App",
+     "url": "https://github.com/blackberry/Cascades-Samples/tree/master/photobomber",
+     "repo": "Cascades-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Samples",
+     "note": "<p>How to use the Cascades multimedia library with the Camera, take a picture, manipulate the image to be grayscale, and add an image over another image",
+     "tags": [ "native", "client", "bb10", "cascades", "camera", "image" ]
+ },
+ "PoemMaker": {
+     "desc": "Play Animations",
+     "url": "https://github.com/blackberry/Cascades-Samples/tree/master/poemmaker",
+     "repo": "Cascades-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Samples",
+     "note": "<p>The Poem Maker is a simple application with three lines of text (labels) and a button. Clicking the button will generate a random 'refrigerator' poem</p><p>Among others, the application shows how to use JavaScript functions in QML</p>",
+     "tags": [ "native", "client", "bb10", "cascades", "javascript", "qml" ]
+ },
+ "PullMyBeard": {
+     "desc": "Simple Drag and Drop",
+     "url": "https://github.com/blackberry/Cascades-Samples/tree/master/pullmybeard",
+     "repo": "Cascades-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Samples",
+     "note": "<p>This sample application illustrates how to set up a very basic touch interaction.</p><p>This is illustrated by moving an image in response to a touch event, and animating it back to position when the touch ends</p>",
+     "tags": [ "native", "client", "bb10", "cascades", "draganddrop" ]
+ },
+ "PushCapture": {
      "desc": "Demonstrates how to write a BlackBerry 10 WebWorks Application that can receive push events",
      "url": "https://github.com/blackberry/BB10-WebWorks-Samples/tree/master/pushCapture",
      "repo": "BB10-WebWorks-Samples",
@@ -113,13 +240,53 @@
      "note": "Consult the PushService and PushPayload classes from the <a href='https://developer.blackberry.com/html5/apis/'>API reference</a> for useful examples and a full description of how to use the push APIs",
      "tags": [ "html5", "client", "playbook", "bb10", "push", "webworks"]
  },
+ "Quotes": {
+     "desc": "List and SqlDataAccess",
+     "url": "https://github.com/blackberry/Cascades-Samples/tree/master/quotes",
+     "repo": "Cascades-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Samples",
+     "note": "<p>Shows how to deal with dynamic data in a list that is stored in a SQL database</p>",
+     "tags": [ "native", "client", "bb10", "cascades", "list", "listview", "sqldataaccess", "goupdatamodel" ]
+ },
+ "Repeater": {
+     "desc": "Using QDeclarativeComponent to extend Cascades",
+     "url": "https://github.com/blackberry/Cascades-Samples/tree/master/repeater",
+     "repo": "Cascades-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Samples",
+     "note": "<p>How to use QDeclarativeComponent to add a custom element</p><p>Load and unload controls from external QML file or internal component</p>",
+     "tags": [ "native", "client", "bb10", "cascades", "custom", "qdeclarativecomponent" ]
+ },
+ "SpeedWriter": {
+     "desc": "Text Input and Custom Control",
+     "url": "https://github.com/blackberry/Cascades-Samples/tree/master/speedwriter",
+     "repo": "Cascades-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Samples",
+     "note": "<p>Shows how to create a Custom Control in C++ and add it to a QML document.</p><p>Also shows how to monitor changes in a TextField and update a TextArea</p>",
+     "tags": [ "native", "client", "bb10", "cascades", "custom", "textfield", "textarea" ]
+ },
+ "StampCollector": {
+     "desc": "List with JSON and XML data",
+     "url": "https://github.com/blackberry/Cascades-Samples/tree/master/stampcollector",
+     "repo": "Cascades-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Samples",
+     "note": "How to create a simple list and trigger changes in the UI on selection",
+     "tags": [ "native", "client", "bb10", "cascades", "list", "json", "xml" ]
+ },
+ "StarshipSettings": {
+     "desc": "Demonstrates how to use persistent store",
+     "url": "https://github.com/blackberry/Cascades-Samples/tree/master/starshipsettings",
+     "repo": "Cascades-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Samples",
+     "note": "A simple control panel using QSettings API for persistent store",
+     "tags": [ "native", "client", "bb10", "cascades", "qsettings" ]
+ },
  "swipemenu.js": {
      "desc": "A swipe-down menu framework for BlackBerry WebWorks",
      "url": "https://github.com/blackberry/BB10-WebWorks-Samples/tree/master/swipemenu",
      "repo": "BB10-WebWorks-Samples",
      "repourl": "http://github.com/blackberry/BB10-WebWorks-Samples",
      "note": "Sample application that demonstrates swipemenu.js: A swipe-down menu framework for BlackBerry WebWorks SDK",
-     "tags": [ "html5", "client", "playbook", "bb10", "webworks"]
+     "tags": [ "html5", "client", "playbook", "bb10", "webworks" ]
  },
  "VideoPlayerSample": {
      "desc": "A simple video player application that uses the MediaPlayer API",
@@ -127,7 +294,15 @@
      "repo": "Cascades-Community-Samples",
      "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
      "note": "VideoPlayerSample is a simple video player application. It uses the new MediaPlayer API and showcases all the fundamentals to make other full fledged video player applications.",
-     "tags": [ "native", "client", "camera", "bb10", "video", "cascades"]
+     "tags": [ "native", "client", "camera", "bb10", "video", "cascades" ]
+ },
+ "WeatherGuesser": {
+     "desc": "Uses tabbed and navigation panes and loads data from SQL and nonlocal JSON feeds",
+     "url": "https://github.com/blackberry/Cascades-Samples/tree/master/weatherguesser",
+     "repo": "Cascades-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Samples",
+     "note": "Shows how to use NavigationPane and TabbedPane, and how to populate a list using GroupDataModel and JSON and SQL",
+     "tags": [ "native", "client", "bb10", "cascades", "navigationpane", "tabbedpane", "groupdatamodel", "json", "sql"]
  }
 }
 

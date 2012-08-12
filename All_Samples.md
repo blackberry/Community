@@ -29,11 +29,21 @@ The table uses the following tooltips:
 <span class="question" tip="(Repo column) A list of 'tags' characterizing this sample">T</span>, 
 <span class="question" tip="(Desc column) Extra details on the sample">?</span>
 and
-<span class="warning" tip="(Desc column) Issues to resolve">!</span>.
-Hover over the tips to learn their meaning.
+<span class="warning" tip="(Desc column) Issues to resolve">!</span>;
+hover over the tips to learn their meaning.
 
-<div id="tagsList"><p>The following <em>tags</em> are used to 
-describe different properties of the samples: </p></div>
+<div id="tagList"><p><strong>Tags: </strong> the samples are <em>tagged</em> to describe their properties.
+Below are all the tags used in the samples. To show only the samples that include a given tag, click on it;
+click on <span id="showAllSamples"><em>Show All</em></span> to restore
+(code needs some cleanup, but its useful).</p></div>
+<!-- additional content provided by JavaScript -->
+
+<div id="repoList"><p><strong>Repos: </strong> the samples are from several repositories.  The full list follows, but
+some names have been shortened in the tables for presentation purposes
+</p></div>
+<!-- additional content provided by JavaScript -->
+
+<div id="stats"><p><strong>Stats:</strong></p></div>
 <!-- additional content provided by JavaScript -->
 
 We welcome your feedback on how to best present information on the Samples.

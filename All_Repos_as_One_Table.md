@@ -23,8 +23,8 @@ The table uses the following tooltips:
 <span class="warning" tip="(Desc column) Issues to resolve">!</span>,
 <span class="question" tip="(in BB10 column) Ported to PlayBook but not yet tested on BB10">?</span>
 and
-<span class="question" tip="(in Port column) Extra information on porting">P</span>.
-Hover over the tips to learn their meaning.
+<span class="question" tip="(in Port column) Extra information on porting">P</span>;
+hover over the tips to learn their meaning.
 
 We welcome your feedback on how to best present information on our Repositories.
 

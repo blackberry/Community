@@ -1,18 +1,39 @@
-/* Code here should be shared with All_Repos2.js and All_Repos.js */
+/* TODO:
+ * Code here should be shared with All_Repos2.js and All_Repos.js
+ * Clean up the scoping of functions and variables (translateTable, etc)
+ * Clean up a bit the DOM manipulation as I learn better what's it doing
+ * Add style for taglist and repolist
+ * Cleanup the styles and classes for tag narrowing
+ */
+
+// initialize name translation table
+function initializeTranslateTable() {
+    return {
+	"BB10-WebWorks-Samples": "BB10-<em>ww</em>-Samples",
+	"Cascades-Samples": "Cascades-Samples",
+	"Cascades-Community-Samples": "Cascades-<em>c</em>-Samples"
+    };
+}
 
 // Utility function to shorten those very long repo names
-function shortName(name) {
-    if (name.length > 14) {
-	return name.slice(0, 7) + '...' + name.slice(-7);
+function shortName(name, tTable) {
+    var back;
+    if (back = tTable[name]) {
+	return back;
     }
     return name;
 }
 // Companion annotation for hyperlinks
-function explainShortName(name) {
-    if (name.length > 14) {
-	return " title='"+name+"' ";
-    }
-    return '';
+function explainShortName(name, tTable) {
+    return " title='"+name+"' ";
+}
+
+// Hide elements that have a given tag
+function hideByTag(tag) {
+    // go over the tree
+    // look for attribute "sampleTags"
+    // if it has the tag, call hide
+    alert("trying to hide on tag: "+tag);
 }
 
 
@@ -47,7 +68,7 @@ $.tablesorter.addWidget({
 	// loop all tr elements and insert a copy of the "headers"     
 	for(var i=0; i < table.tBodies[0].rows.length; i++) { 
 	    // insert a copy of the table head every 10th row 
-	    if((i%20) == 19) { 
+	    if((i%10) == 9) { 
 		$("tbody tr:eq(" + i + ")",table).before( 
 		    $("<tr></tr>").addClass("repeated-header").html(this.headers.join(""))
 		    
@@ -61,7 +82,6 @@ $.tablesorter.addWidget({
  * parseRepoData()
  *
  * data - from JASON parse
- * tagSet - map of tags used in the samples, if null, skip
  *
  * showTypeColumn - platform type
  * showBB10Column - tested / ported to bb10 
@@ -77,18 +97,20 @@ $.tablesorter.addWidget({
  */
 
 function parseRepoData(data,
-		       tagSet,
 		       showTypeColumn,
 		       showBB10Column, showNativeColumn,
 		       showTagsData,
 		       typeTag) {
-    var items = [];
-    
+
+    // Validate parameters
     if ( showBB10Column && showNativeColumn ) {
 	alert ("argh!"); // remove and leave below
 	showBB10Column = false; // force it
     }
 
+    var items = [];
+    var tTable = initializeTranslateTable();
+    
     /* total hack on the overlap; need to fix */
     items.push('<thead>' +
 	       '<tr>' +
@@ -132,7 +154,7 @@ function parseRepoData(data,
 	}
 
 
-	items.push('<tr>' +
+	items.push('<tr class="samplerow" tags=",'+val.tags.join(",")+',">' +
 
 		   /* Start Row */
 
@@ -166,8 +188,8 @@ function parseRepoData(data,
 		   '<td>' + 
 		   '<span style="white-space: nowrap;">' +
 		   ( ' <a href="' + val.repourl + '"' +
-		     explainShortName(val.repo) + '>' +
-		     shortName(val.repo) + '</a>'
+		     explainShortName(val.repo, tTable) + '>' +
+		     shortName(val.repo, tTable) + '</a>'
 		   ) +
 		   '</span>' +
 		   '</td>' +
@@ -206,40 +228,98 @@ function parseRepoData(data,
 
 $(document).ready(function(){
 
+    function plainText(text) {
+	return $.trim($('<div>').html(text).text());
+    }
+
     $.getJSON('/Community/All_Samples.json', function(data) {
 
-	/* ================= */
-	/* Process the tags  */
+	/* =========================== */
+	/* Stats */
 
-	allTags = new Object();
+	var tagCount = 0;    // embedded in collecting of tags
+	var sampleCount = 0; // embedded in collecting of tags
+	var repoCount = 0;   // embedded in collecting of repos
 
-	/* Collect tags */
+	/* =========================== */
+	/* Collect and present tags and repos  */
+
+	var allTags = new Object();
+	var allRepos = new Object();
+
+	/* Collect tags and repos */
 	$.each(data, function(key, val) {
 	    /* The "_comment_" record is used to document the JSON format */
 	    if ( key === "_comment_" ) {
 		return true; /* skip this item */
 	    }
 	    
-	    /* add all val.tags to tagSet */
+	    /* add all val.tags to allTags */
 	    $.each(val.tags, function(key,data) {
 		allTags[data] = true;
 	    });
+
+	    /* add repos to allRepos */
+	    allRepos[val.repo] = val.repourl;
+
+	    sampleCount += 1; // count samples
 	});
 
-	/* Insert tags */
+	/* Insert, sort and inject tags */
 	items = [];
 	$.each(allTags, function (key, val) {
-	    items.push('<em>' + key + '</em>');
+	    items.push('<span class="tagfilter"><em>' + key + '</em></span>');
 	});
 
-	/* Sort */
+	tagCount = items.length;
 	items.sort();
 
-	/* Inject */
-	$('#tagsList').append($('<p/>', {
+	$('#tagList').append($('<p/>', {
 	    html: items.join(', ')
 	})).addClass("taglist"); /* TODO: add style for taglist */
 
+	$('span.tagfilter').click(function() {
+	    var tag = ($(this).children("em").text()); // beats me if this is good code!
+
+	    $('tr.samplerow, tr.repeated-header').hide(); // hide them all
+	    $(document).attr("latestSampleTag", tag);
+
+	    $('tr.samplerow').each(function(){
+		var tags = $(this).attr("tags")
+		if (tags.indexOf(tag) >= 0) {
+		    $(this).show();
+		}
+	    });
+	});
+
+	// Restore
+	$('#showAllSamples').click(function() {
+	    $('tr.samplerow, tr.repeated-header').show();
+	});
+
+	/* Insert, sort and inject repos */
+	items = [];
+	var tTable = initializeTranslateTable(); // TODO: fix the scoping issues
+
+	$.each(allRepos, function (key, val) {
+	    items.push('<a href="' + val + '" title="shown in tables as '+
+		       ( "'" + plainText(shortName(key, tTable)) + "'" ) +
+		       '">' + key + '</a>');
+	});
+
+	repoCount = items.length;
+	items.sort();
+
+	$('#repoList').append($('<p/>', {
+	    html: items.join(', ')
+	})).addClass("repolist"); /* TODO: add style for repolist */
+
+
+	/* ===================== */
+	/* TODO: report counts */
+	$("#stats").html("<p><strong>Stats: </strong> there are " + sampleCount + " samples, "+
+		    "from " + repoCount + " repositories, " +
+		    "using " + tagCount + " tags.</p>");
 
 	/* ====================== */
 
@@ -247,7 +327,7 @@ $(document).ready(function(){
 
 	/* Parse JSON data into items
 	 * showTypeColumn, showBB10Column, showNativeColumn, showTagsData, typeTag */
-	items = parseRepoData(data, allTags, false, true, false, true, "html5");
+	items = parseRepoData(data, false, true, false, true, "html5");
 
 	if (items.length > 1) {
 	    /* Inject into page */
@@ -266,7 +346,7 @@ $(document).ready(function(){
 
 	/* Parse JSON data into items
 	 * showTypeColumn, showBB10Column, showNativeColumn, showTagsData, typeTag */
-	items = parseRepoData(data, allTags, false, false, true, true, "native");
+	items = parseRepoData(data, false, false, true, true, "native");
 
 	if (items.length > 1) {
 	    /* Inject into page */
@@ -285,7 +365,7 @@ $(document).ready(function(){
 
 	/* Parse JSON data into items
 	 * showTypeColumn, showBB10Column, showNativeColumn, showTagsData, typeTag */
-	items = parseRepoData(data, allTags, false, true, false, true, "otherclient");
+	items = parseRepoData(data, false, true, false, true, "otherclient");
 
 	if (items.length > 1) {
 	    /* Inject into page */
@@ -304,7 +384,7 @@ $(document).ready(function(){
 
 	/* Parse JSON data into items
 	 * showTypeColumn, showBB10Column, showNativeColumn, showTagsData, typeTag */
-	items = parseRepoData(data, allTags, false, false, false, true, "other");
+	items = parseRepoData(data, false, false, false, true, "other");
 
 	if (items.length > 1) {
 	    /* Inject into page */
