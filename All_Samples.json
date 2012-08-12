@@ -208,6 +208,14 @@
      "note": "Shows how add features like a 'Buy' button and how to display purchase history and subscription terms.  Also shows several layouts and load data into a list using XmlDataModel",
      "tags": [ "native", "client", "bb10", "cascades", "payment", "xmldatamodel"]
  },
+ "PeaksAndValleys": {
+     "desc": "Show how to navigate through a landscape using WebGL",
+     "url": "https://github.com/blackberry/WebGL-Samples/tree/master/PeaksAndValleys",
+     "repo": "WebGL-Samples",
+     "repourl": "http://github.com/blackberry/WebGL-Samples",
+     "note": "<p>Sample showcases rendering, textures, lighting, skybox and terrain generation and more</p><p>This game runs on the BlackBerry PlayBook and BlackBerry 10 as well as on desktop browsers.</p><p>There is no online version yet (unlike TunnelTilt)</p>",
+     "tags": [ "html5", "client", "bb10", "playbook", "webgl", "webworks" ]
+ },
  "PhotoBomber": {
      "desc": "Camera App",
      "url": "https://github.com/blackberry/Cascades-Samples/tree/master/photobomber",
@@ -287,6 +295,14 @@
      "repourl": "http://github.com/blackberry/BB10-WebWorks-Samples",
      "note": "Sample application that demonstrates swipemenu.js: A swipe-down menu framework for BlackBerry WebWorks SDK",
      "tags": [ "html5", "client", "playbook", "bb10", "webworks" ]
+ },
+ "TunnelTilt": {
+     "desc": "Demonstrates how to use WebGL and how to package it using WebWorks",
+     "url": "https://github.com/blackberry/WebGL-Samples/tree/master/tunneltilt",
+     "repo": "WebGL-Samples",
+     "repourl": "http://github.com/blackberry/WebGL-Samples",
+     "note": "<p>A playable race-the-tunnel game that runs on the BlackBerry PlayBook and BlackBerry 10 as well as on desktop browsers.</p><p>Usually packaged into a WebWorks App but for a browser experience, visit <a href='http://blackberry.github.com/WebGL-Samples/tunneltilt/'>here</a>",
+     "tags": [ "html5", "client", "bb10", "playbook", "webgl", "webworks" ]
  },
  "VideoPlayerSample": {
      "desc": "A simple video player application that uses the MediaPlayer API",
