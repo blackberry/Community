@@ -310,6 +310,7 @@ $(document).ready(function(){
 	// Restore
 	$('#showAllSamples').click(function() {
 	    $('tr.samplerow, tr.repeated-header').show();
+	    $('table.tablesorter').show();
 
 	    $('tr.oddX').each(function(){ $(this).removeClass("oddX").addClass("odd");  });
 	    $('tr.evenX').each(function(){ $(this).removeClass("evenX").addClass("even"); });
