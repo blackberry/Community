@@ -1,4 +1,5 @@
 /* TODO:
+ * Check on branches to NOT miss samples!
  * Code here should be shared with All_Repos2.js and All_Repos.js
  * Clean up the scoping of functions and variables (translateTable, etc)
  * Clean up a bit the DOM manipulation as I learn better what's it doing
@@ -6,14 +7,23 @@
  * Cleanup the styles and classes for tag narrowing
  *   Hide the full table if there are no visible rows.
  *   Maybe remove the zebra?
+ * Translation table should be a JSON file
  */
 
 // initialize name translation table
 function initializeTranslateTable() {
     return {
-	"BB10-WebWorks-Samples": "BB10-<em>ww</em>-Samples",
-	"Cascades-Samples": "Cascades-Samples",
-	"Cascades-Community-Samples": "Cascades-<em>c</em>-Samples"
+	"BB10-WebWorks-Samples": "BB10<em>...</em>Samples",
+	"Cascades-Community-Samples": "Cascades<em>...</em>Samples",
+	"OpenGLES2-ProgrammingGuide": "OpenGLES<em>...</em>Guide",
+	"ScoreloopIntegrationSample": "Scoreloop<em>...</em>",
+	"jQuery-Mobile-Samples": "jQuery-Mobile<em>...</em>",
+	"StarshipSettings(AIR-BB10)": "Starship<em>...</em>AIR-BB10",
+	"WeatherGuesser(AIR-BB10)": "Weather<em>...</em>AIR-BB10",
+	"PushSampleApp(AIR-BB10)": "PushSample<em>...</em>AIR-BB10",
+	"SampleBPSANE(AIR)": "SampleBPSANE<em>...</em>AIR",
+	"SampleApplication(AIR)": "SampleApp<em>...</em>AIR",
+	"SampleLibrary(AIR)": "SampleLib<em>...</em>AIR"
     };
 }
 
@@ -30,14 +40,19 @@ function explainShortName(name, tTable) {
     return " title='"+name+"' ";
 }
 
-// Hide elements that have a given tag
-function hideByTag(tag) {
-    // go over the tree
-    // look for attribute "sampleTags"
-    // if it has the tag, call hide
-    alert("trying to hide on tag: "+tag);
+// Combine the above to create a TD
+function shortTD(name, url, table) {
+    var back;
+    back = '<td>' + 
+	'<span style="white-space: nowrap;">' +
+	( ' <a href="' + url + '"' +
+	  explainShortName(name, table) + '>' +
+	  shortName(name, table) + '</a>'
+	) +
+	'</span>' +
+	'</td>';
+    return back;
 }
-
 
 // add new widget called repeatHeaders 
 $.tablesorter.addWidget({ 
@@ -161,12 +176,7 @@ function parseRepoData(data,
 		   /* Start Row */
 
 		   /* Repository */
-		   '<td>'+
-		   '<span style="white-space: nowrap;">' +
-		   '<a href="' + val.url + '" target="_blank">' + key + '</a>' +
-		   '</span>' +
-		    
-		   '</td>' +
+		   shortTD(key, val.url, tTable) +
 
 
 		   /* Description */
@@ -187,14 +197,8 @@ function parseRepoData(data,
 		   '</td>' +
 
 		   /* Repository */
-		   '<td>' + 
-		   '<span style="white-space: nowrap;">' +
-		   ( ' <a href="' + val.repourl + '"' +
-		     explainShortName(val.repo, tTable) + '>' +
-		     shortName(val.repo, tTable) + '</a>'
-		   ) +
-		   '</span>' +
-		   '</td>' +
+		   shortTD(val.repo, val.repourl, tTable) +
+
 
 		   /* Type */
 		   ( showTypeColumn

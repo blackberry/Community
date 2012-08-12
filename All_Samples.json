@@ -200,6 +200,22 @@
      "warning": "Location of sample will change within the repository",
      "tags": [ "native", "client", "opengl", "bb10", "cascades" ]
  },
+ "NutritutionTracker": {
+     "desc": "How to make a semi-complex list with rich formatting using jQuery Mobile",
+     "url": "https://github.com/blackberry/jQuery-Mobile-Samples/tree/master/NutritionTracker",
+     "repo": "jQuery-Mobile-Samples",
+     "repourl": "http://github.com/blackberry/jQuery-Mobile-Samples",
+     "note": "Samples are intended to be included in the jQuery Mobile Cookbook",
+     "tags": [ "html5", "client", "bb10", "jquery"]
+ },
+ "OpenGLES2-ProgrammingGuide": {
+     "desc": "Port of the samples from the OpenGL ES 2 Programming Guide",
+     "url": "https://github.com/blackberry/OpenGLES-samples/tree/master/OpenGLES2-ProgrammingGuide",
+     "repo": "OpenGL-Samples",
+     "repourl": "http://github.com/blackberry/OpenGLES-Samples",
+     "note": "<p>See the book website at <a href='http://www.opengles-book.com/'>http://www.opengles-book.com/</a></p>",
+     "tags": [ "native", "client", "bb10", "playbook", "opengl" ]
+ },
  "PaymentSample": {
      "desc": "Demonstrates how to use the Payment Service APIs",
      "url": "https://github.com/blackberry/Cascades-Samples/tree/master/PaymentSample",
@@ -223,6 +239,14 @@
      "repourl": "http://github.com/blackberry/Cascades-Samples",
      "note": "<p>How to use the Cascades multimedia library with the Camera, take a picture, manipulate the image to be grayscale, and add an image over another image",
      "tags": [ "native", "client", "bb10", "cascades", "camera", "image" ]
+ },
+ "PictureWall": {
+     "desc": "Control a collection of BlackBerry PlayBooks to display one or more images",
+     "url": "https://github.com/blackberry/PictureWall",
+     "repo": "PictureWall",
+     "repourl": "http://github.com/blackberry/PictureWall",
+     "note": "<p>Uses socket.io on the client and nodeJS on the server</p><p>Should run on BB10</p>",
+     "tags": [ "html5", "server", "client", "playbook", "webworks", "socketio", "nodejs" ]
  },
  "PoemMaker": {
      "desc": "Play Animations",
@@ -248,6 +272,14 @@
      "note": "Consult the PushService and PushPayload classes from the <a href='https://developer.blackberry.com/html5/apis/'>API reference</a> for useful examples and a full description of how to use the push APIs",
      "tags": [ "html5", "client", "playbook", "bb10", "push", "webworks"]
  },
+ "PushSampleApp(AIR-BB10)": {
+     "desc": "A BlackBerry 10 Adobe AIR App that can receive Push Events",
+     "url": "https://github.com/blackberry/Samples-for-AIR/tree/bb10/pushCapture",
+     "repo": "Samples-for-AIR",
+     "repourl": "http://github.com/blackberry/Samples-for-AIR",
+     "note": "<p>Note that there are two branches: <em>bb10</em> for BlackBerry 10 and <em>master</em> for PlayBook</p>",
+     "tags": [ "air", "client", "bb10", "push" ]
+ },
  "Quotes": {
      "desc": "List and SqlDataAccess",
      "url": "https://github.com/blackberry/Cascades-Samples/tree/master/quotes",
@@ -263,6 +295,47 @@
      "repourl": "http://github.com/blackberry/Cascades-Samples",
      "note": "<p>How to use QDeclarativeComponent to add a custom element</p><p>Load and unload controls from external QML file or internal component</p>",
      "tags": [ "native", "client", "bb10", "cascades", "custom", "qdeclarativecomponent" ]
+ },
+ "RestaurantLocator": {
+     "desc": "How to make a semi-complex list with rich formatting using jQuery Mobile",
+     "url": "https://github.com/blackberry/jQuery-Mobile-Samples/tree/master/RestaurantLocator",
+     "repo": "jQuery-Mobile-Samples",
+     "repourl": "http://github.com/blackberry/jQuery-Mobile-Samples",
+     "note": "Samples are intended to be included in the jQuery Mobile Cookbook",
+     "tags": [ "html5", "client", "bb10", "jquery"]
+ },
+ "SampleApplication(AIR)": {
+     "desc": "An App that uses the Adobe AIR SDK for PlayBook and the SampleLibrary",
+     "url": "https://github.com/blackberry/Samples-for-AIR/tree/master/SampleApp",
+     "repo": "Samples-for-AIR",
+     "repourl": "http://github.com/blackberry/Samples-for-AIR",
+     "note": "<p>Note that there are two branches: <em>bb10</em> for BlackBerry 10 and <em>master</em> for PlayBook</p>",
+     "tags": [ "air", "client", "playbook" ]
+ },
+ "SampleBPSANE(AIR)": {
+     "desc": "How to create an AIR Native Extension using the BPS system",
+     "url": "https://github.com/blackberry/Samples-for-AIR/tree/master/SampleBPSANE",
+     "repo": "Samples-for-AIR",
+     "repourl": "http://github.com/blackberry/Samples-for-AIR",
+     "note": "<p>Note that there are two branches: <em>bb10</em> for BlackBerry 10 and <em>master</em> for PlayBook</p>",
+     "warning": "This seems to be in the wrong branch!",
+     "tags": [ "air", "client", "bb10" ]
+ },
+ "SampleLibrary(AIR)": {
+     "desc": "Several component samples for the Adobe AIR SDK for PlayBook",
+     "url": "https://github.com/blackberry/Samples-for-AIR/tree/master/SampleLibrary",
+     "repo": "Samples-for-AIR",
+     "repourl": "http://github.com/blackberry/Samples-for-AIR",
+     "note": "<p>Note that there are two branches: <em>bb10</em> for BlackBerry 10 and <em>master</em> for PlayBook</p><p>Samples include Navigation Menu, Search, Download Manager, Media Playbar, Screen Animations, Cache, Scrolling Margee, Back button",
+     "tags": [ "air", "client", "playbook" ]
+ },
+ "ScoreloopIntegrationSample": {
+     "desc": "Integration of Scoreloop with the BPS event system",
+     "url": "https://github.com/blackberry/Scoreloop-Samples/tree/BB10.0.06/ScoreloopIntegrationSample",
+     "repo": "Scoreloop-Samples",
+     "repourl": "http://github.com/blackberry/Scoreloop-Samples",
+     "note": "<p>Two variations, with Makefile and Managed by IDE, showing integration of Scoreloop with a native App</p>",
+     "tags": [ "native", "client", "bb10", "scoreloop"]
  },
  "SpeedWriter": {
      "desc": "Text Input and Custom Control",
@@ -288,7 +361,15 @@
      "note": "A simple control panel using QSettings API for persistent store",
      "tags": [ "native", "client", "bb10", "cascades", "qsettings" ]
  },
- "swipemenu.js": {
+ "StarshipSettings(AIR-BB10)": {
+     "desc": "A port of the StarshipSettings application from Cascades to Adobe AIR",
+     "url": "https://github.com/blackberry/Samples-for-AIR/tree/bb10/starshipsettings",
+     "repo": "Samples-for-AIR",
+     "repourl": "http://github.com/blackberry/Samples-for-AIR",
+     "note": "<p>Note that there are two branches: <em>bb10</em> for BlackBerry 10 and <em>master</em> for PlayBook</p>",
+     "tags": [ "air", "client", "bb10", "storage" ]
+ },
+ "SwipeMenu.js": {
      "desc": "A swipe-down menu framework for BlackBerry WebWorks",
      "url": "https://github.com/blackberry/BB10-WebWorks-Samples/tree/master/swipemenu",
      "repo": "BB10-WebWorks-Samples",
@@ -319,6 +400,14 @@
      "repourl": "http://github.com/blackberry/Cascades-Samples",
      "note": "Shows how to use NavigationPane and TabbedPane, and how to populate a list using GroupDataModel and JSON and SQL",
      "tags": [ "native", "client", "bb10", "cascades", "navigationpane", "tabbedpane", "groupdatamodel", "json", "sql"]
+ },
+ "WeatherGuesser(AIR-BB10)": {
+     "desc": "A port of the WeatherGuesser application from Cascades to Adobe AIR",
+     "url": "https://github.com/blackberry/Samples-for-AIR/tree/bb10/weatherguesser",
+     "repo": "Samples-for-AIR",
+     "repourl": "http://github.com/blackberry/Samples-for-AIR",
+     "note": "<p>Note that there are two branches: <em>bb10</em> for BlackBerry 10 and <em>master</em> for PlayBook</p>",
+     "tags": [ "air", "client", "bb10", "sql", "json" ]
  }
 }
 
