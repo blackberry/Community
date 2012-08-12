@@ -4,6 +4,8 @@
  * Clean up a bit the DOM manipulation as I learn better what's it doing
  * Add style for taglist and repolist
  * Cleanup the styles and classes for tag narrowing
+ *   Hide the full table if there are no visible rows.
+ *   Maybe remove the zebra?
  */
 
 // initialize name translation table
@@ -281,20 +283,37 @@ $(document).ready(function(){
 	$('span.tagfilter').click(function() {
 	    var tag = ($(this).children("em").text()); // beats me if this is good code!
 
-	    $('tr.samplerow, tr.repeated-header').hide(); // hide them all
-	    $(document).attr("latestSampleTag", tag);
+	    // hide them all
+	    $('tr.samplerow, tr.repeated-header').hide();
+	    // mark all tables as not visible
+	    $('table.tablesorter').each(function() {
+		$(this).hide();
+	    });
 
+	    // show rows with the tag
 	    $('tr.samplerow').each(function(){
 		var tags = $(this).attr("tags")
 		if (tags.indexOf(tag) >= 0) {
-		    $(this).show();
+		    $(this).show(); // the row
+		    $(this).parents("table.tablesorter").each(function(){
+			$(this).show(); // the table it belongs to
+		    });
 		}
 	    });
+
+	    // remove zebra striping because non-hidden rows may not alternate properly
+	    $('tr.odd').each(function(){ $(this).removeClass("odd").addClass("oddX");  });
+	    $('tr.even').each(function(){ $(this).removeClass("even").addClass("evenX"); });
+
 	});
 
 	// Restore
 	$('#showAllSamples').click(function() {
 	    $('tr.samplerow, tr.repeated-header').show();
+
+	    $('tr.oddX').each(function(){ $(this).removeClass("oddX").addClass("odd");  });
+	    $('tr.evenX').each(function(){ $(this).removeClass("evenX").addClass("even"); });
+
 	});
 
 	/* Insert, sort and inject repos */
@@ -310,16 +329,16 @@ $(document).ready(function(){
 	repoCount = items.length;
 	items.sort();
 
-	$('#repoList').append($('<p/>', {
-	    html: items.join(', ')
+	$('#repoList').append($('<span/>', {
+	    html: items.join(', ') + "."
 	})).addClass("repolist"); /* TODO: add style for repolist */
 
 
 	/* ===================== */
-	/* TODO: report counts */
-	$("#stats").html("<p><strong>Stats: </strong> there are " + sampleCount + " samples, "+
-		    "from " + repoCount + " repositories, " +
-		    "using " + tagCount + " tags.</p>");
+
+	$("#stats-samplecount").html(sampleCount);
+	$("#stats-tagcount").html(tagCount);
+	$("#stats-repocount").html(repoCount);
 
 	/* ====================== */
 

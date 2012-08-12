@@ -19,7 +19,7 @@ jsfile: All_Repos.js
 </div>
 
 This page contains several tables cover all the repositories in our [GitHub Organization](http://github.com/blackberry),
-generated from a backing [JSON file](All_Repos.json). As an alternative presentation see [All Repos as One Table].
+generated from a [JSON file](All_Repos.json). As an alternative presentation see [All Repos as One Table].
 Also see the list of [All Samples].
 
 The tables can be sorted on one or more columns.  To select additional
@@ -34,8 +34,7 @@ The table uses the following tooltips:
 <span class="warning" tip="(Desc column) Issues to resolve">!</span>,
 <span class="question" tip="(in BB10 column) Ported to PlayBook but not yet tested on BB10">?</span>
 and
-<span class="question" tip="(in Port column) Extra information on porting">P</span>;
-hover over the tips to learn their meaning.
+<span class="question" tip="(in Port column) Extra information on porting">P</span>.
 
 We welcome your feedback on how to best present information on our Repositories.
 

@@ -17,36 +17,35 @@ jsfile: All_Samples.js
 </ul>
 </div>
 
-This page contains several tables cover all the samples in RIM's
-[GitHub Organization](http://github.com/blackberry),
-generated from a backing [JSON file](All_Samples.json).
+This page catalogs all the samples in RIM's
+[GitHub Organization](http://github.com/blackberry)
+through several tables generated from a [JSON file](All_Samples.json).
 Also see the list of [All Repos].
 
-The table can be sorted on one or more columns.  To select additional
-columns select the next column while pressing the 'SHIFT' (on mac) key.
-
-The table uses the following tooltips:
-<span class="question" tip="(Repo column) A list of 'tags' characterizing this sample">T</span>, 
-<span class="question" tip="(Desc column) Extra details on the sample">?</span>
+<p>There are <span id="stats-samplecount"><!-- dynamic content --></span> samples
+optionally annotated with
+<span class="question" tip="A list of 'tags' characterizing this sample">T</span>, 
+<span class="question" tip="Extra details on the sample">?</span>
 and
-<span class="warning" tip="(Desc column) Issues to resolve">!</span>;
-hover over the tips to learn their meaning.
+<span class="warning" tip="Issues to resolve">!</span> tooltips
+and organized into 4 tables.
+The tables can be sorted on one or more columns: to select multiple
+columns select the next column while pressing the 'SHIFT' (on mac) key.
+</p>
 
-<div id="tagList"><p><strong>Tags: </strong> the samples are <em>tagged</em> to describe their properties.
-Below are all the tags used in the samples. To show only the samples that include a given tag, click on it;
-click on <span id="showAllSamples"><em>Show All</em></span> to restore
-(code needs some cleanup, but its useful).</p></div>
-<!-- additional content provided by JavaScript -->
 
-<div id="repoList"><p><strong>Repos: </strong> the samples are from several repositories.  The full list follows, but
-some names have been shortened in the tables for presentation purposes
-</p></div>
-<!-- additional content provided by JavaScript -->
+<div id="tagList"><p>The set of samples shown can be narrowed by clicking on one of these
+<span id="stats-tagcount"><!-- dynamic content --></span> tags: </p><!-- dynamic content --></div>
 
-<div id="stats"><p><strong>Stats:</strong></p></div>
-<!-- additional content provided by JavaScript -->
+<p>The full set of samples can be restored clicking on <span id="showAllSamples"><em>Show All</em></span>.</p>
 
-We welcome your feedback on how to best present information on the Samples.
+<p><div id="repoList">The tables list the repository hosting each sample, in some cases
+shortening the name for presentation purposes.
+Samples come from <span id="stats-repocount"><!-- dynamic content --></span> repos:
+</div><!-- dynamic content --></p>
+
+We always welcome your feedback on how to best present information on the Samples.
+If you like the samples, go ahead and [Star them on GitHub](https://github.com/blog/1204-notifications-stars).
 
 <div id="samplesHtml5">
 <a name="samplesHtml5"><h2>HTML5 Samples</h2></a>
