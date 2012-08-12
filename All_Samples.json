@@ -127,6 +127,14 @@
      "warning": "There is also an 'InvokeTarget2' application. We need to clarify the relationship between the two apps",
      "tags": [ "native", "client", "invocation", "bb10", "cascades" ]
  },
+ "JDE-Samples": {
+     "desc": "A collection of samples included in the Java Development Environment.  Each release has a repository branch with its code",
+     "url": "https://github.com/blackberry/JDE-Samples",
+     "repo": "JDE-Samples",
+     "repourl": "http://github.com/blackberry/JDE-Samples",
+     "note": "<p>For 7.1, there are 71 'device' samples and 10 'server' samples, as wel as several desktop samples</p>",
+     "tags": [ "java", "server", "client", "bbos" ]
+ },
  "Kakel": {
      "desc": "Dynamic UI",
      "url": "https://github.com/blackberry/Cascades-Samples/tree/master/kakel",
@@ -320,6 +328,20 @@
      "note": "<p>Note that there are two branches: <em>bb10</em> for BlackBerry 10 and <em>master</em> for PlayBook</p>",
      "warning": "This seems to be in the wrong branch!",
      "tags": [ "air", "client", "bb10" ]
+ },
+ "SampleBwsClient(C#)": {
+     "desc": "A C# program that uses the BlackBerry Web Services (BWS) for Enterprise Administration APIs",
+     "url": "https://github.com/blackberry/BWS-Samples/tree/master/SampleBwsClient.cs",
+     "repo": "BWS-Samples",
+     "repourl": "http://github.com/blackberry/BWS-Samples",
+     "tags": [ "c#", "server", "bws" ]
+ },
+ "SampleBwsClient(Java)": {
+     "desc": "A Java program that uses the BlackBerry Web Services (BWS) for Enterprise Administration APIs",
+     "url": "https://github.com/blackberry/BWS-Samples/tree/master/SampleBwsClient.java",
+     "repo": "BWS-Samples",
+     "repourl": "http://github.com/blackberry/BWS-Samples",
+     "tags": [ "java", "server", "bws" ]
  },
  "SampleLibrary(AIR)": {
      "desc": "Several component samples for the Adobe AIR SDK for PlayBook",

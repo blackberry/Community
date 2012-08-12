@@ -45,7 +45,7 @@ Samples come from <span id="stats-repocount"><!-- dynamic content --></span> rep
 </div><!-- dynamic content --></p>
 
 We always welcome your feedback on how to best present information on the Samples.
-If you like the samples, go ahead and [Star them on GitHub](https://github.com/blog/1204-notifications-stars).
+And, if you like the samples, go and [Star them on GitHub](https://github.com/blog/1204-notifications-stars).
 
 <div id="samplesHtml5">
 <a name="samplesHtml5"><h2>HTML5 Samples</h2></a>

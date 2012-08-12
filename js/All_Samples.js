@@ -4,9 +4,7 @@
  * Clean up the scoping of functions and variables (translateTable, etc)
  * Clean up a bit the DOM manipulation as I learn better what's it doing
  * Add style for taglist and repolist
- * Cleanup the styles and classes for tag narrowing
- *   Hide the full table if there are no visible rows.
- *   Maybe remove the zebra?
+ * Report on number of samples currently shown
  * Translation table should be a JSON file
  */
 
