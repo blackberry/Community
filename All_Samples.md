@@ -44,6 +44,8 @@ shortening the name for presentation purposes.
 Samples come from <span id="stats-repocount"><!-- dynamic content --></span> repos:
 </div><!-- dynamic content --></p>
 
+(**TODO** The following repos still need to be processed: Samples-for-Java, NDK-Samples and Qt2Cascades-Samples.  Also still to do is some final styling and UI work)
+
 We always welcome your feedback on how to best present information on the Samples.
 And, if you like the samples, go and [Star them on GitHub](https://github.com/blog/1204-notifications-stars).
 
