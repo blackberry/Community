@@ -234,6 +234,8 @@ function parseRepoData(data,
 
 // process the Samples JSON and generate dynamic content
 $(document).ready(function(){
+    var narrowSampleCount = 0;
+    var narrowCurrentTag = "any tag";
 
     function plainText(text) {
 	return $.trim($('<div>').html(text).text());
@@ -288,6 +290,10 @@ $(document).ready(function(){
 	$('span.tagfilter').click(function() {
 	    var tag = ($(this).children("em").text()); // beats me if this is good code!
 
+	    // to display the results of narrow
+	    narrowSampleCount = 0;
+	    narrowCurrentTag = tag;
+	    
 	    // hide all rows
 	    $('tr.samplerow, tr.repeated-header').hide();
 	    // hide enclosing DIVs
@@ -300,12 +306,18 @@ $(document).ready(function(){
 
 		// TagList is ","-separated with an extra "," at front and another at end
 		if ( $(this).attr("tags").indexOf(","+tag+",") >= 0 ) {
+
+		    narrowSampleCount += 1;
 		    $(this).show(); // the row...
 		    $(this).parents("div.dynContent").each(function(){
 			$(this).show(); // ... and the DIV it belongs to
 		    });
 		}
 	    });
+
+	    // Inject narrow data
+	    $("#narrow-samplecount").html(narrowSampleCount);
+	    $("#narrow-currenttag").html(narrowCurrentTag);
 
 	    // remove zebra striping because non-hidden rows may not alternate properly
 	    $('tr.odd').each(function(){ $(this).removeClass("odd").addClass("oddX");  });
@@ -321,6 +333,12 @@ $(document).ready(function(){
 	    $('tr.oddX').each(function(){ $(this).removeClass("oddX").addClass("odd");  });
 	    $('tr.evenX').each(function(){ $(this).removeClass("evenX").addClass("even"); });
 
+	    narrowCurrentTag = "any tag";
+	    narrowSampleCount = sampleCount;
+
+	    // Adjust narrow data
+	    $("#narrow-samplecount").html(narrowSampleCount);
+	    $("#narrow-currenttag").html(narrowCurrentTag);
 	});
 
 	/* Insert, sort and inject repos */
@@ -346,6 +364,9 @@ $(document).ready(function(){
 	$("#stats-samplecount").html(sampleCount);
 	$("#stats-tagcount").html(tagCount);
 	$("#stats-repocount").html(repoCount);
+	narrowSampleCount = sampleCount;
+	$("#narrow-samplecount").html(narrowSampleCount);
+	$("#narrow-currenttag").html(narrowCurrentTag);
 
 	/* ====================== */
 
