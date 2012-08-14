@@ -60,9 +60,12 @@ Samples come from <span id='stats-repocount'><!-- dynamic content --></span> rep
 <div style="margin-top:2px; margin-left:30px;">
 <ul>
 <li>Complete NFC and Advanced LIbrary from Samples-for-Java</li>
-<li>Improve presentation of collapse/expand</li>
-<li>Improve the reporting and presentation of narrow-to-tag section</li>
+<li>Record Qt2Cascades-Samples and NDK-Samples</li>
+<li>Adjust SampleBPSANE</li>
 <li>Incorporate Libraries and Frameworks</li>
+<li>Improve presentation of collapse/expand</li>
+<li>Improve the reporting (# hits on tag) and presentation of narrow-to-tag section</li>
+<li>Consolidate the number of tags</li>
 </ul>
 </div>
 

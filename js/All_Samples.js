@@ -6,7 +6,6 @@
  * Add style for taglist and repolist
  * Report on number of samples currently shown
  * Translation table should be a JSON file
- * Selectively show/hide Narrow-to-tag and List-of-Repos sections
  */
 
 // initialize name translation table
