@@ -8,6 +8,13 @@
      "warning": "optional warning",
      "tags": [ "an array of tags", "reserved tags are:", "html5", "native", "client" ]
  },
+ "Analytics": {
+     "desc": "Sample from the Analytics SDK",
+     "url": "https://github.com/blackberry/Samples-for-Java/tree/master/Analytics",
+     "repo": "Samples-for-Java",
+     "repourl": "http://github.com/blackberry/Samples-for-Java",
+     "tags": [ "java", "client", "analytics" ]
+ },
  "BatterySample": {
      "desc": "A battery display app from a radio group and an image",
      "url": "https://github.com/blackberry/Cascades-Samples/tree/master/BatterySample",
@@ -128,7 +135,7 @@
      "tags": [ "native", "client", "invocation", "bb10", "cascades" ]
  },
  "JDE-Samples": {
-     "desc": "A collection of samples included in the Java Development Environment.  Each release has a repository branch with its code",
+     "desc": "A <span style='text-decoration:underline;'>collection</span> of samples included in the BlackBerry JDE.  There is one branch per JDE release",
      "url": "https://github.com/blackberry/JDE-Samples",
      "repo": "JDE-Samples",
      "repourl": "http://github.com/blackberry/JDE-Samples",
@@ -359,6 +366,21 @@
      "note": "<p>Two variations, with Makefile and Managed by IDE, showing integration of Scoreloop with a native App</p>",
      "tags": [ "native", "client", "bb10", "scoreloop"]
  },
+ "SimpleLocationAPI": {
+     "desc": "Simplified version of the Location API packages for the Java-based BlackBerry Smartphones",
+     "url": "https://github.com/blackberry/Samples-for-Java/tree/master/Simple%20Location%20API",
+     "repo": "Samples-for-Java",
+     "repourl": "http://github.com/blackberry/Samples-for-Java",
+     "note": "<p>Note the whitespace embedded in the URL!</p>",
+     "tags": [ "java", "client", "location"]
+ },
+ "SocialApp": {
+     "desc": "Shows integration with Social Apps like FaceBook, Twitter, etc",
+     "url": "https://github.com/blackberry/Samples-for-Java/tree/master/SocialApp",
+     "repo": "Samples-for-Java",
+     "repourl": "http://github.com/blackberry/Samples-for-Java",
+     "tags": [ "java", "client", "facebook", "twitter"]
+ },
  "SpeedWriter": {
      "desc": "Text Input and Custom Control",
      "url": "https://github.com/blackberry/Cascades-Samples/tree/master/speedwriter",
@@ -397,7 +419,15 @@
      "repo": "BB10-WebWorks-Samples",
      "repourl": "http://github.com/blackberry/BB10-WebWorks-Samples",
      "note": "Sample application that demonstrates swipemenu.js: A swipe-down menu framework for BlackBerry WebWorks SDK",
-     "tags": [ "html5", "client", "playbook", "bb10", "webworks" ]
+     "tags": [ "html5", "client", "playbook", "bb10", "webworks", "framework" ]
+ },
+ "Titlebar": {
+     "desc": "Titlebar API for BlackBerry OS 4.2.1 and above",
+     "url": "https://github.com/blackberry/Samples-for-Java/tree/master/Titlebar",
+     "repo": "Samples-for-Java",
+     "repourl": "http://github.com/blackberry/Samples-for-Java",
+     "note": "<p>Note there is a TitleBar API for BlackBerry OS 6.0 and above</p>",
+     "tags": [ "java", "client", "titlebar"]
  },
  "TunnelTilt": {
      "desc": "Demonstrates how to use WebGL and how to package it using WebWorks",
@@ -430,6 +460,14 @@
      "repourl": "http://github.com/blackberry/Samples-for-AIR",
      "note": "<p>Note that there are two branches: <em>bb10</em> for BlackBerry 10 and <em>master</em> for PlayBook</p>",
      "tags": [ "air", "client", "bb10", "sql", "json" ]
+ },
+ "YouTubeClient": {
+     "desc": "How to use the Communication API in BlackBerry 6.0 with YouTube Data API",
+     "url": "https://github.com/blackberry/Samples-for-Java/tree/master/YouTube%20Client",
+     "repo": "Samples-for-Java",
+     "repourl": "http://github.com/blackberry/Samples-for-Java",
+     "note": "Note the white space in the URL",
+     "tags": [ "java", "client", "youtube" ]
  }
 }
 

@@ -6,6 +6,7 @@
  * Add style for taglist and repolist
  * Report on number of samples currently shown
  * Translation table should be a JSON file
+ * Selectively show/hide Narrow-to-tag and List-of-Repos sections
  */
 
 // initialize name translation table
@@ -230,6 +231,8 @@ function parseRepoData(data,
 }
     
 
+
+// process the Samples JSON and generate dynamic content
 $(document).ready(function(){
 
     function plainText(text) {
@@ -285,10 +288,10 @@ $(document).ready(function(){
 	$('span.tagfilter').click(function() {
 	    var tag = ($(this).children("em").text()); // beats me if this is good code!
 
-	    // hide them all
+	    // hide all rows
 	    $('tr.samplerow, tr.repeated-header').hide();
-	    // mark all tables as not visible
-	    $('table.tablesorter').each(function() {
+	    // hide enclosing DIVs
+	    $('div.dynContent').each(function() {
 		$(this).hide();
 	    });
 
@@ -296,9 +299,9 @@ $(document).ready(function(){
 	    $('tr.samplerow').each(function(){
 		var tags = $(this).attr("tags")
 		if (tags.indexOf(tag) >= 0) {
-		    $(this).show(); // the row
-		    $(this).parents("table.tablesorter").each(function(){
-			$(this).show(); // the table it belongs to
+		    $(this).show(); // the row...
+		    $(this).parents("div.dynContent").each(function(){
+			$(this).show(); // ... and the DIV it belongs to
 		    });
 		}
 	    });
@@ -312,7 +315,7 @@ $(document).ready(function(){
 	// Restore
 	$('#showAllSamples').click(function() {
 	    $('tr.samplerow, tr.repeated-header').show();
-	    $('table.tablesorter').show();
+	    $('div.dynContent').show();
 
 	    $('tr.oddX').each(function(){ $(this).removeClass("oddX").addClass("odd");  });
 	    $('tr.evenX').each(function(){ $(this).removeClass("evenX").addClass("even"); });
@@ -442,3 +445,31 @@ $(document).ready(function(){
     });
 });
 
+// Process the hide/expand sections
+$(document).ready(function(){
+    function collapse(o) {
+	o.removeClass("expanded");
+	o.next().hide();
+	o.addClass("collapsed");
+	o.html("<strong>+" + o.attr("label") + "</strong>");
+    }
+    function expand(o) {
+	o.removeClass("collapsed");
+	o.next().show();
+	o.addClass("expanded");
+	o.html("<strong>-" + o.attr("label") + "</strong>");
+    }
+
+    $('div.collapsable').each(function() {
+	collapse($(this));
+    });
+
+    $('div.collapsable').click(function() {
+	if ($(this).hasClass("collapsed")) {
+	    expand($(this));
+	} else {
+	    collapse($(this));
+	}
+    });
+
+});
