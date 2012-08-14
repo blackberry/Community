@@ -169,6 +169,7 @@ function parseRepoData(data,
 	}
 
 
+	// list of tags is ","-separated with additional "," at front and back
 	items.push('<tr class="samplerow" tags=",'+val.tags.join(",")+',">' +
 
 		   /* Start Row */
@@ -180,7 +181,7 @@ function parseRepoData(data,
 		   /* Description */
 		   '<td>' + val.desc +
 		   ( showTagsData
-		     ? ' <span class="question" left="yes" tip="' + val.tags.join(", ") + '">T</span>'
+		     ? ' <span class="question" left="yes" tip=",' + val.tags.join(", ") + ',">T</span>'
 		     : ''
 		   ) +
 		   ( ( val.note )
@@ -296,8 +297,9 @@ $(document).ready(function(){
 
 	    // show rows with the tag
 	    $('tr.samplerow').each(function(){
-		var tags = $(this).attr("tags")
-		if (tags.indexOf(tag) >= 0) {
+
+		// TagList is ","-separated with an extra "," at front and another at end
+		if ( $(this).attr("tags").indexOf(","+tag+",") >= 0 ) {
 		    $(this).show(); // the row...
 		    $(this).parents("div.dynContent").each(function(){
 			$(this).show(); // ... and the DIV it belongs to
