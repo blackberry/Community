@@ -170,7 +170,7 @@ h4 {
   width: 100%;
 }
 
-#right caption {
+#right caption, #right div.caption {
   text-align: center;
   font-size: 12pt;
   margin-bottom: 10px;
