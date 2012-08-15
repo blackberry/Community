@@ -21,6 +21,13 @@ title="convert to your time zone">2pm ET</a>
 These news are archived on a regular basis; look at [All News] for older news,
 or use [this News feed](http:atom.xml).
 
+### VideoPlayerSample Relocation Within Cascades-Community-Samples
+[Shadab Rashid] has relocated VideoPlayerSample so it is a top-level directory for consistency within the
+[Cascades-Community-Samples](http://github.com/blackberry/Cascades-Community-Samples) repository.
+
+_Source_: [Shadab Rashid], on August 3, 2012
+
+
 <!-- RECORDED UNTIL HERE -->
 <!-- Pass from OpenBBNews - next is Elsewhere from March 25, 2012 -->
 
