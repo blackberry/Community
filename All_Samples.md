@@ -45,26 +45,35 @@ The tables can be sorted on one or more columns: to select multiple
 columns select the next column while pressing the 'SHIFT' (on mac) key.
 </div>
 
-<div style="margin-top:10px;" class="collapsable" label="Find using Tags">
+<div label='Find using Tags' class='collapsable' style='margin-top:10px;'>
 </div>
-<div style="margin-top: 2px; margin-left:30px;">
-The set of samples shown can be narrowed via tags; try clicking on these:
-<span class="tagfilter">native</span>,
-<span class="tagfilter">cascade</span>,
-<span class="tagfilter">html5</span>,
-<span class="tagfilter">air</span>
+<div style='margin-top: 2px; margin-left:30px;'>
+The set of samples displayed can be narrowed via tags; try clicking on these:
+<span class='tagfilter'><em>native</em></span>,
+<span class='tagfilter'><em>cascades</em></span>,
+<span class='tagfilter'><em>html5</em></span>,
+<span class='tagfilter'><em>air</em></span>,
+<span class='tagfilter'><em>java</em></span>
+<span class='tagfilter'><em>playbook</em></span>,
+<span class='tagfilter'><em>bb10</em></span>,
 and
-<span class="tagfilter">java</span>.
+<span class='tagfilter'><em>extension</em></span>.
 To go back to showing all the samples click on on <span id='showAllSamples'><em>Show All</em></span>.
-
-<div id='tagList'>The samples use
-<span id='stats-tagcount'><!-- dynamic content --></span> other tags:</div>
 
 <p><em>Currently Displaying
 <span id='narrow-samplecount'><!-- dynamic content --></span> samples
-containing "<span id="narrow-currenttag"><!-- dynamic content --></span>"</em>
+containing "<span id='narrow-currenttag'><!-- dynamic content --></span>"</em>
 </p>
 
+<div label="Using Additional Tags" class="collapsable" style="margin-top:10px;">
+</div>
+<div style="margin-left:+10px;">
+<p>
+The samples use
+<span id='stats-tagcount'><!-- dynamic content --></span> other tags you can use to further refine your search:<div id='tagList'>
+</div>
+</p>
+</div>
 </div>
 
 <div style="margin-top:10px;" class='collapsable' label="Repositories">
