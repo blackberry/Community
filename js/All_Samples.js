@@ -11,7 +11,7 @@
 // initialize name translation table
 function initializeTranslateTable() {
     return {
-	"BB10-WebWorks-Samples": "BB10<em>...</em>Samples",
+	"BB10-WebWorks-Samples": "BB10-Web<em>...</em>Samples",
 	"Cascades-Community-Samples": "Cascades-Comm<em>...</em>",
 	"jQuery-Mobile-Samples": "jQuery-Mobile<em>...</em>",
 	"OpenGLES2-ProgrammingGuide": "OpenGLES<em>...</em>Guide",
@@ -21,12 +21,18 @@ function initializeTranslateTable() {
 	"Qt2Cascades.Network": "Qt2<em>...</em>.Network",
 	"Qt2Cascades.Threads": "Qt2<em>...</em>.Threads",
 	"Qt2Cascades.QtConcurrency": "Qt2<em>...</em>.QtConcurrency",
+	"Qt2Cascades.Script": "Qt2<em>...</em>.Script",
+	"Qt2Cascades.StateMachine": "Qt2<em>...</em>.StateMachine",
+	"Qt2Cascades.SQL": "Qt2<em>...</em>.SQL",
+	"Qt2Cascades.Tools": "Qt2<em>...</em>.Tools",
+	"Qt2Cascades.XML": "Qt2<em>...</em>.XML",
 	"SampleBPSANE(AIR)": "SampleBPSANE<em>...</em>AIR",
 	"SampleApplication(AIR)": "SampleApp<em>...</em>AIR",
 	"SampleLibrary(AIR)": "SampleLib<em>...</em>AIR",
 	"ScoreloopIntegrationSample": "Scoreloop<em>...</em>",
 	"StarshipSettings(AIR-BB10)": "Starship<em>...</em>AIR-BB10",
-	"WeatherGuesser(AIR-BB10)": "Weather<em>...</em>AIR-BB10"
+	"WeatherGuesser(AIR-BB10)": "Weather<em>...</em>AIR-BB10",
+	"WebWorks-Community-APIs": "WebWorks-<em>...</em>APIs"
     };
 }
 
@@ -109,7 +115,8 @@ $.tablesorter.addWidget({
  * showTagsData
  *      -- only one of showNativeColumn and showBB10Column can be true
  *
- * typeTag - "html5", "native", "otherclient", "other"
+ * typeTag - "html5", "native", "air", "java", "otherclient", "other",
+ * extensionTag - true/false
  *
  * return - items
  *
@@ -120,7 +127,7 @@ function parseRepoData(data,
 		       showTypeColumn,
 		       showBB10Column, showNativeColumn,
 		       showTagsData,
-		       typeTag) {
+		       typeTag, extensionTag) {
 
     // Validate parameters
     if ( showBB10Column && showNativeColumn ) {
@@ -151,26 +158,48 @@ function parseRepoData(data,
 
 	/* special tags */
 
-	var isHtml5    = ($.inArray("html5", val.tags) >= 0);
-	var isNative   = ($.inArray("native", val.tags) >= 0);
-	var isClient   = ($.inArray("client", val.tags) >= 0);
-	var isCascades = ($.inArray("cascades", val.tags) >= 0);
-	var isBB10     = ($.inArray("bb10", val.tags) >= 0);
-	var isPlayBook = ($.inArray("playbook", val.tags) >= 0);
+	var isExtension = ($.inArray("extension", val.tags) >= 0);
+	var isClient    = ($.inArray("client", val.tags) >= 0);
 
+	var isHtml5     = ($.inArray("html5", val.tags) >= 0);
+	var isNative    = ($.inArray("native", val.tags) >= 0);
+	var isJava      = ($.inArray("java", val.tags) >= 0);
+	var isAir       = ($.inArray("air", val.tags) >= 0);
+	var isCascades  = ($.inArray("cascades", val.tags) >= 0);
+
+	var isBB10      = ($.inArray("bb10", val.tags) >= 0);
+	var isPlayBook  = ($.inArray("playbook", val.tags) >= 0);
+
+	// Extensions
+	if ( (extensionTag) && (! isExtension) ) {
+	    return true; // skip
+	}
+	if ( (!extensionTag) && (isExtension) ) {
+	    return true; // skip
+	}
+
+	// Client types
 	if ( (typeTag === "html5") && (! isHtml5) ) {
-	    return true; /* skip this item */
+	    return true; // skip
 	}
 	if ( (typeTag === "native") && (! isNative) ) {
-	    return true; /* skip this item */
+	    return true; // skip
+	}
+	if ( (typeTag === "java") && (! isJava) ) {
+	    return true; // skip
+	}
+	if ( (typeTag === "air") && (! isAir) ) {
+	    return true; // skip
 	}
 	if ( (typeTag == "otherclient") &&
-	     ((! isClient) || isHtml5 || isNative)) {
-	    return true; /* skip this item */
+	     ((! isClient) || isHtml5 || isNative || isJava || isAir )) {
+	    return true; // skip
 	}
+
+	// Other, non-client, samples
 	if ( (typeTag === "other") &&
-	     (isClient || isHtml5 || isNative)) {
-	    return true; /* skip this item */
+	     (isClient || isExtension || isHtml5 || isNative || isJava || isAir )) {
+	    return true; // skip
 	}
 
 
@@ -305,6 +334,7 @@ $(document).ready(function(){
 	})).addClass("taglist"); /* TODO: add style for taglist */
 
 	$('span.tagfilter').click(function() {
+	    // TODO - that "em" is brittle like...!
 	    var tag = ($(this).children("em").text()); // beats me if this is good code!
 
 	    // to display the results of narrow
@@ -391,81 +421,63 @@ $(document).ready(function(){
 
 	/* ====================== */
 
-	/* Table of HTML5 Samples */
-
-	/* Parse JSON data into items
-	 * showTypeColumn, showBB10Column, showNativeColumn, showTagsData, typeTag */
-	items = parseRepoData(data, false, true, false, true, "html5");
-
-	if (items.length > 1) {
-	    /* Inject into page */
-	    $('<table/>', {
-		'id': 'samplesHtml5Table',
-		html: items.join('')
-	    }).appendTo('#samplesHtml5').addClass("tablesorter");
-
-	    $("#samplesHtml5Table").tablesorter({
-		widgets: ['zebra', 'repeatHeaders']     // Stripping looking
-
-	    });
-	}
-
-	/* Table of Native Samples */
-
-	/* Parse JSON data into items
-	 * showTypeColumn, showBB10Column, showNativeColumn, showTagsData, typeTag */
-	items = parseRepoData(data, false, false, true, true, "native");
-
-	if (items.length > 1) {
-	    /* Inject into page */
-	    $('<table/>', {
-		'id': 'samplesNativeTable',
-		html: items.join('')
-	    }).appendTo('#samplesNative').addClass("tablesorter");
-
-	    $("#samplesNativeTable").tablesorter({
-		widgets: ['zebra', 'repeatHeaders']     // Stripping looking
-
-	    });
-	}
-
-	/* Table of Other Client Samples */
-
-	/* Parse JSON data into items
-	 * showTypeColumn, showBB10Column, showNativeColumn, showTagsData, typeTag */
-	items = parseRepoData(data, false, true, false, true, "otherclient");
-
-	if (items.length > 1) {
-	    /* Inject into page */
-	    $('<table/>', {
-		'id': 'samplesOtherClientTable',
-		html: items.join('')
-	    }).appendTo('#samplesOtherClient').addClass("tablesorter");
-	    
-	    $("#samplesOtherClientTable").tablesorter({
-		widgets: ['zebra', 'repeatHeaders']     // Stripping looking
+	function injectAndSort(items, name) {
+	    if (items.length > 1) {
+		// Inject into page
+		$('<table/>', {  
+		    'id': name+'Table',
+		    html: items.join('')
+		}).appendTo('#'+name).addClass("tablesorter");
 		
-	    });
+		$("#"+name+"Table").tablesorter({
+		    widgets: ['zebra', 'repeatHeaders']     // Stripping looking
+		});
+	    }
 	}
 
-	/* Table of Other Samples */
+	/* HTML5 */
 
-	/* Parse JSON data into items
-	 * showTypeColumn, showBB10Column, showNativeColumn, showTagsData, typeTag */
-	items = parseRepoData(data, false, false, false, true, "other");
+	injectAndSort(parseRepoData(data, false, true, false, true, "html5", false),
+		      // showTypeColumn, showBB10Column, showNativeColumn, showTagsData, typeTag
+		      "samplesHtml5");
 
-	if (items.length > 1) {
-	    /* Inject into page */
-	    $('<table/>', {
-		'id': 'samplesOtherTable',
-		html: items.join('')
-	    }).appendTo('#samplesOther').addClass("tablesorter");
-	    
-	    $("#samplesOtherTable").tablesorter({
-		widgets: ['zebra', 'repeatHeaders']     // Stripping looking
-		
-	    });
-	}
+	injectAndSort(parseRepoData(data, false, true, false, true, "html5", true),
+		      // showTypeColumn, showBB10Column, showNativeColumn, showTagsData, typeTag
+		      "extensionsHtml5");
+
+	/* Native */
+
+	injectAndSort(parseRepoData(data, false, false, true, true, "native", false),
+		      // showTypeColumn, showBB10Column, showNativeColumn, showTagsData, typeTag
+		      "samplesNative");
+
+	/* AIR */
+
+	injectAndSort(parseRepoData(data, false, false, false, true, "air", false),
+		      // showTypeColumn, showBB10Column, showNativeColumn, showTagsData, typeTag
+		      "samplesAir");
+
+	injectAndSort(parseRepoData(data, false, false, false, true, "air", true),
+		      // showTypeColumn, showBB10Column, showNativeColumn, showTagsData, typeTag
+		      "extensionsAir");
+
+	/* Java */
+
+	injectAndSort(parseRepoData(data, false, false, false, true, "java", false),
+		      // showTypeColumn, showBB10Column, showNativeColumn, showTagsData, typeTag
+		      "samplesJava");
+
+	/* Other Client */
+
+	injectAndSort(parseRepoData(data, false, true, false, true, "otherclient", false),
+		      // showTypeColumn, showBB10Column, showNativeColumn, showTagsData, typeTag
+		      "samplesOtherClient");
+
+	/* Other */
+
+	injectAndSort(parseRepoData(data, false, false, false, true, "other", false),
+		      // showTypeColumn, showBB10Column, showNativeColumn, showTagsData, typeTag
+		      "samplesOther");
 
 	/* ========= */
 

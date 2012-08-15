@@ -11,8 +11,14 @@ jsfile: All_Samples.js
 <div class='caption'>Samples Catalog</div>
 <ul>
 <li><a href="#samplesHtml5">HTML5 Samples</a></li>
+<li><a href="#extensionsHtml5">HTML5 Extensions</a></li>
 <li><a href="#samplesNative">Native Samples</a></li>
+<li><a href="#samplesAir">AIR Samples</a></li>
+<li><a href="#extensionsAir">AIR Extensions</a></li>
+<li><a href="#samplesJava">Java Samples</a></li>
+<!-- REMOVE start
 <li><a href="#samplesOtherClient">Other Client Samples</a></li>
+REMOVE end -->
 <li><a href="#samplesServer">Other Samples</a></li>
 </ul>
 </div>
@@ -42,9 +48,17 @@ columns select the next column while pressing the 'SHIFT' (on mac) key.
 <div style="margin-top:10px;" class="collapsable" label="Find using Tags">
 </div>
 <div style="margin-top: 2px; margin-left:30px;">
-<div id='tagList'>The set of samples shown can be narrowed by clicking on one of these
-<span id='stats-tagcount'><!-- dynamic content --></span> tags:</div>
-<p>The full set of samples can be restored clicking on <span id='showAllSamples'><em>Show All</em></span>.</p>
+The set of samples shown can be narrowed via tags; try clicking on these:
+<span class="tagfilter">native</span>,
+<span class="tagfilter">cascade</span>,
+<span class="tagfilter">html5</span>,
+<span class="tagfilter">air</span>
+and
+<span class="tagfilter">java</span>.
+To go back to showing all the samples click on on <span id='showAllSamples'><em>Show All</em></span>.
+
+<div id='tagList'>The samples use
+<span id='stats-tagcount'><!-- dynamic content --></span> other tags:</div>
 
 <p><em>Currently Displaying
 <span id='narrow-samplecount'><!-- dynamic content --></span> samples
@@ -52,7 +66,6 @@ containing "<span id="narrow-currenttag"><!-- dynamic content --></span>"</em>
 </p>
 
 </div>
-
 
 <div style="margin-top:10px;" class='collapsable' label="Repositories">
 </div>
@@ -69,14 +82,15 @@ Samples come from <span id='stats-repocount'><!-- dynamic content --></span> rep
 </div>
 <div style="margin-top:2px; margin-left:30px;">
 <ul>
-<li>Complete NFC and Advanced LIbrary from Samples-for-Java</li>
-<li>Record Qt2Cascades-Samples and NDK-Samples</li>
-<li>Adjust SampleBPSANE</li>
-<li>Incorporate Libraries and Frameworks</li>
-<li>Improve presentation of collapse/expand; maybe use down/right icons</li>
-<li>Improve the reporting (# hits on tag) and presentation of narrow-to-tag section</li>
+<li>Process WebWorks-Samples</li>
+<li>Need different tags for "playbook, may run on bb10" from "playbook only"</li>
 <li>Consolidate the number of tags</li>
+<li>Decide whether to split Native into Cascades vs the rest</li>
+<li>Improve presentation of collapse/expand; maybe use down/right icons</li>
+<li>Make Zebra striping work after narrowing</li>
 <li>Use $(location).attr('href') to get at URL, then extract argument as narrow-to-tag</li>
+<li>The way "the rest" of samples is processed is fragile</li>
+<li>Decide how to hande Wiki links</li>
 </ul>
 
 <p>
@@ -94,6 +108,14 @@ We always welcome your feedback on how to best present information in this and r
 </div>
 
 <div class="dynContent">
+<div id="extensionsHtml5">
+<a name="extensionsHtml5"><h2>HTML5 Extensions</h2></a>
+</div>
+
+<a href="#top">Back to top</a>
+</div>
+
+<div class="dynContent">
 <div id="samplesNative">
 <a href="samplesNative"><h2>Native Samples</h2></a>
 </div>
@@ -102,12 +124,41 @@ We always welcome your feedback on how to best present information in this and r
 </div>
 
 <div class="dynContent">
+<div id="samplesAir">
+<a href="samplesAir"><h2>AIR Samples</h2></a>
+</div>
+
+<a href="#top">Back to top</a>
+</div>
+
+<div class="dynContent">
+<div id="extensionsAir">
+<a href="extensionsAir"><h2>AIR Extensions</h2></a>
+</div>
+
+<a href="#top">Back to top</a>
+</div>
+
+<div class="dynContent">
+<div id="samplesJava">
+<a href="samplesJava"><h2>Java Samples</h2></a>
+</div>
+
+<a href="#top">Back to top</a>
+</div>
+
+<!-- REMOVE for now, no entries
+
+<div class="dynContent">
 <div id="samplesOtherClient">
 <a href="samplesOtherClient"><h2>Other Client Samples</h2></a>
 </div>
 
 <a href="#top">Back to top</a>
 </div>
+
+REMOVE until here -->
+
 
 <div class="dynContent">
 <div id="samplesOther">
