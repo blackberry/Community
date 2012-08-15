@@ -8,6 +8,14 @@
      "warning": "optional warning",
      "tags": [ "an array of tags", "reserved tags are:", "html5", "native", "client" ]
  },
+ "Accelerometer": {
+     "desc": "How to handle updates from the accelerometer sensor",
+     "url": "https://github.com/blackberry/NDK-Samples/tree/master/Accelerometer",
+     "repo": "NDK-Samples",
+     "repourl": "http://github.com/blackberry/NDK-Samples",
+     "note": "<p>There are several branches: 'ndk1' is for PlayBook 1, 'master' is for PlayBook 2 and 'next' is for BlackBerry 10</p>",
+     "tags": [ "native", "client", "bb10", "playbook", "accelerometer" ]
+ },
  "AdvancedUI": {
      "desc": "Advanced Buttons, Fields and Managers for Java-based BlackBerry Smartphones",
      "url": "https://github.com/blackberry/Samples-for-Java/tree/master/Advanced%20UI",
@@ -23,6 +31,14 @@
      "repourl": "http://github.com/blackberry/Samples-for-Java",
      "tags": [ "java", "client", "analytics", "bbos" ]
  },
+ "AudioControl": {
+     "desc": "Determine audio control settings",
+     "url": "https://github.com/blackberry/NDK-Samples/tree/master/AudioControl",
+     "repo": "NDK-Samples",
+     "repourl": "http://github.com/blackberry/NDK-Samples",
+     "note": "<p>There are several branches: 'ndk1' is for PlayBook 1, 'master' is for PlayBook 2 and 'next' is for BlackBerry 10</p>",
+     "tags": [ "native", "client", "bb10", "playbook", "audio" ]
+ },
  "BatterySample": {
      "desc": "A battery display app from a radio group and an image",
      "url": "https://github.com/blackberry/Cascades-Samples/tree/master/BatterySample",
@@ -30,6 +46,14 @@
      "repourl": "http://github.com/blackberry/Cascades-Samples",
      "note": "<p>A radio group and an image are used to display and describe the different battery states.</p><p>  The QML uses stackLayout</p>",
      "tags": [ "native", "client", "bb10", "cascades", "battery", "stacklayout"]
+ },
+ "BelligerentBlocks": {
+     "desc": "Simple Game that uses Scoreloop, 2D graphics, Box2D, SQLite3 and other features",
+     "url": "https://github.com/blackberry/NDK-Samples/tree/master/BelligerentBlocks",
+     "repo": "NDK-Samples",
+     "repourl": "http://github.com/blackberry/NDK-Samples",
+     "note": "<p>There are several branches: 'ndk1' is for PlayBook 1, 'master' is for PlayBook 2 and 'next' is for BlackBerry 10</p>",
+     "tags": [ "native", "client", "bb10", "playbook", "scoreloop", "graphics", "box2d", "sqlite" ]
  },
  "BucketList": {
      "desc": "Multi-Select",
@@ -63,12 +87,86 @@
      "note": "<p>Basic rotation animations, AbsoluteLayout, and OpenAL sound</p><p>And, if you have never seen it, check the SNL sketch on <a href='http://en.wikipedia.org/wiki/More_cowbell'>More Cowbell</a></p>",
      "tags": [ "native", "client", "bb10", "cascades", "audio", "openal", "absolutelayout" ]
  },
+ "Channels": {
+     "desc": "How two different threads can communicate sending events through channels. Uses LocationData as example",
+     "url": "https://github.com/blackberry/NDK-Samples/tree/master/Channels",
+     "repo": "NDK-Samples",
+     "repourl": "http://github.com/blackberry/NDK-Samples",
+     "note": "<p>There are several branches: 'ndk1' is for PlayBook 1, 'master' is for PlayBook 2 and 'next' is for BlackBerry 10</p>",
+     "tags": [ "native", "client", "bb10", "playbook", "channels", "location" ]
+ },
+ "CubeRotate": {
+     "desc": "How to create a 3D multi-colored cube using OpenGL ES",
+     "url": "https://github.com/blackberry/NDK-Samples/tree/master/CubeRotate",
+     "repo": "NDK-Samples",
+     "repourl": "http://github.com/blackberry/NDK-Samples",
+     "note": "<p>There are several branches: 'ndk1' is for PlayBook 1, 'master' is for PlayBook 2 and 'next' is for BlackBerry 10</p>",
+     "tags": [ "native", "client", "bb10", "playbook", "opengl" ]
+ },
+ "Dialog": {
+     "desc": "How to display a dialog using the dialog service",
+     "url": "https://github.com/blackberry/NDK-Samples/tree/master/dialog",
+     "repo": "NDK-Samples",
+     "repourl": "http://github.com/blackberry/NDK-Samples",
+     "note": "<p>There are several branches: 'ndk1' is for PlayBook 1, 'master' is for PlayBook 2 and 'next' is for BlackBerry 10</p>",
+     "tags": [ "native", "client", "bb10", "playbook", "dialog" ]
+ },
+ "FallingBlocks": {
+     "desc": "Shows colored blocks falling on screen",
+     "url": "https://github.com/blackberry/NDK-Samples/tree/master/FallingBlocks",
+     "repo": "NDK-Samples",
+     "repourl": "http://github.com/blackberry/NDK-Samples",
+     "note": "<p>There are several branches: 'ndk1' is for PlayBook 1, 'master' is for PlayBook 2 and 'next' is for BlackBerry 10</p>",
+     "tags": [ "native", "client", "bb10", "playbook", "accelerometer"]
+ },
  "FileTransfer": {
      "desc": "Sample applications that demonstrate how to use the blackberry.io and blackberry.io.filetransfer APIs",
      "url": "https://github.com/blackberry/BB10-WebWorks-Samples/tree/master/fileTransfer",
      "repo": "BB10-WebWorks-Samples",
      "repourl": "http://github.com/blackberry/BB10-WebWorks-Samples",
      "tags": [ "html5", "client", "playbook", "bb10", "webworks", "filetransfer" ]
+ },
+ "GoodCitizen": {
+     "desc": "Introduction to a number of common development practices",
+     "url": "https://github.com/blackberry/NDK-Samples/tree/master/GoodCitizen",
+     "repo": "NDK-Samples",
+     "repourl": "http://github.com/blackberry/NDK-Samples",
+     "note": "<p>Showcases lighting, textures, orientation and touch events, swipe downs, saving application state, clean termination, etc</p><p>There are several branches: 'ndk1' is for PlayBook 1, 'master' is for PlayBook 2 and 'next' is for BlackBerry 10</p>",
+     "tags": [ "native", "client", "bb10", "playbook", "accelerometer", "image", "lighting", "opengl", "textures"]
+ },
+ "GeoLocation": {
+     "desc": "Display current location data",
+     "url": "https://github.com/blackberry/NDK-Samples/tree/master/Geolocation",
+     "repo": "NDK-Samples",
+     "repourl": "http://github.com/blackberry/NDK-Samples",
+     "note": "<p>There are several branches: 'ndk1' is for PlayBook 1, 'master' is for PlayBook 2 and 'next' is for BlackBerry 10</p>",
+     "tags": [ "native", "client", "bb10", "playbook", "location" ]
+ },
+ "Gesture": {
+     "desc": "How to handle gestures on the screen",
+     "url": "https://github.com/blackberry/NDK-Samples/tree/master/Gesture",
+     "repo": "NDK-Samples",
+     "repourl": "http://github.com/blackberry/NDK-Samples",
+     "note": "<p>There are several branches: 'ndk1' is for PlayBook 1, 'master' is for PlayBook 2 and 'next' is for BlackBerry 10</p>",
+     "tags": [ "native", "client", "bb10", "playbook", "touch", "gesture" ]
+ },
+ "GLES11Template": {
+     "desc": "Template showing how to set up the BPS infrastructure and  OpenGL ES 1.1",
+     "url": "https://github.com/blackberry/NDK-Samples/tree/master/GLES11Template",
+     "repo": "NDK-Samples",
+     "repourl": "http://github.com/blackberry/NDK-Samples",
+     "note": "<p>There are several branches: 'ndk1' is for PlayBook 1, 'master' is for PlayBook 2 and 'next' is for BlackBerry 10</p>",
+     "warning": "Verify my interpretattion about 1.1",
+     "tags": [ "native", "client", "bb10", "playbook", "bps", "opengl", "libscreen" ]
+ },
+ "GLES20Template": {
+     "desc": "Template showing how to set up the BPS infrastructure and  OpenGL ES 2.0",
+     "url": "https://github.com/blackberry/NDK-Samples/tree/master/GLES11Template",
+     "repo": "NDK-Samples",
+     "repourl": "http://github.com/blackberry/NDK-Samples",
+     "note": "<p>There are several branches: 'ndk1' is for PlayBook 1, 'master' is for PlayBook 2 and 'next' is for BlackBerry 10</p>",
+     "warning": "Verify my interpretattion about 1.1",
+     "tags": [ "native", "client", "bb10", "playbook", "bps", "opengl", "libscreen" ]
  },
  "GoodCitizenCascades": {
      "desc": "The Cascades version of the NDK Sample App named 'Good Citizen'",
@@ -116,6 +214,30 @@
      "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
      "note": "<p>HelloVideoCamera is a minimalist Cascades-based video camera app. It illustrates how to set up a Cascades foreign window and connect the Camera viewfinder to it.</p><p>HelloVideoCamera has functionality for starting and sotpping the camera, changing between front and back cameras, and recording video files which are saved to the camera roll.</p>",
      "tags": [ "native", "cascades", "client", "camera", "bb10", "video" ]
+ },
+ "HelloWorldConsole": {
+     "desc": "Print a string",
+     "url": "https://github.com/blackberry/NDK-Samples/tree/master/HelloWorldConsole",
+     "repo": "NDK-Samples",
+     "repourl": "http://github.com/blackberry/NDK-Samples",
+     "note": "<p>There are several branches: 'ndk1' is for PlayBook 1, 'master' is for PlayBook 2 and 'next' is for BlackBerry 10</p>",
+     "tags": [ "native", "client", "bb10", "playbook" ]
+ },
+ "HelloWorldDisplay": {
+     "desc": "Print customized text",
+     "url": "https://github.com/blackberry/NDK-Samples/tree/master/HelloWorldDisplay",
+     "repo": "NDK-Samples",
+     "repourl": "http://github.com/blackberry/NDK-Samples",
+     "note": "<p>There are several branches: 'ndk1' is for PlayBook 1, 'master' is for PlayBook 2 and 'next' is for BlackBerry 10</p>",
+     "tags": [ "native", "client", "bb10", "playbook", "text", "font" ]
+ },
+ "HttpProxy": {
+     "desc": "Retrieve the proxy information of the device, and query a URL",
+     "url": "https://github.com/blackberry/NDK-Samples/tree/master/HttpProxy",
+     "repo": "NDK-Samples",
+     "repourl": "http://github.com/blackberry/NDK-Samples",
+     "note": "<p>There are several branches: 'ndk1' is for PlayBook 1, 'master' is for PlayBook 2 and 'next' is for BlackBerry 10</p>",
+     "tags": [ "native", "client", "bb10", "playbook", "http" ]
  },
  "Invoke": {
      "desc": "Two sample applications that show how to use the blackberry.invoke API for WebWorks",
@@ -176,6 +298,14 @@
      "note": "<p>Some decorative and interaction elements in QML, while actual game board and logics is in C++</p>",
      "tags": [ "native", "client", "bb10", "cascades", "qml" ]
  },
+ "Keyboard": {
+     "desc": "How to handle key presses on the virtual keyboard",
+     "url": "https://github.com/blackberry/NDK-Samples/tree/master/Keyboard",
+     "repo": "NDK-Samples",
+     "repourl": "http://github.com/blackberry/NDK-Samples",
+     "note": "<p>There are several branches: 'ndk1' is for PlayBook 1, 'master' is for PlayBook 2 and 'next' is for BlackBerry 10</p>",
+     "tags": [ "native", "client", "bb10", "playbook", "keyboard"]
+ },
  "LED": {
      "desc": "The LED API",
      "url": "https://github.com/blackberry/Cascades-Samples/tree/master/led",
@@ -216,6 +346,14 @@
      "note": "<p>How to use QDeclarativeComponent to extend Cascades</p>",
      "tags": [ "native", "client", "bb10", "cascades", "qdeclarativecomponent" ]
  },
+ "LocaleSample": {
+     "desc": "How to retrieve locale information from the device",
+     "url": "https://github.com/blackberry/NDK-Samples/tree/master/LocaleSample",
+     "repo": "NDK-Samples",
+     "repourl": "http://github.com/blackberry/NDK-Samples",
+     "note": "<p>There are several branches: 'ndk1' is for PlayBook 1, 'master' is for PlayBook 2 and 'next' is for BlackBerry 10</p>",
+     "tags": [ "native", "client", "bb10", "playbook", "locale" ]
+ },
  "LocationDiagnostics": {
      "desc": "Demonstrates the C++ Location APIs in Cascades" , 
      "url": "https://github.com/blackberry/Cascades-Community-Samples/tree/master/LocationDiagnostics",
@@ -231,6 +369,14 @@
      "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
      "note": "The sample shows:<ul><li>how to access the camera</li><li>how to start the viewfinder and acquire the corresponding viewfinder window handle</li><li>how to take a photo (non-blocking)</li><li>how to save a photo to the camera roll</li><li>how to pass argument data between the main thread and your callback threads</li><li>how to signal your main thread using user-defined bps events from your callback thread</li></ul>",
      "tags": [ "native", "client", "camera", "bb10" ]
+ },
+ "NetworkStatus": {
+     "desc": "How to retrieve the network status of the device",
+     "url": "https://github.com/blackberry/NDK-Samples/tree/master/NetworkStatus",
+     "repo": "NDK-Samples",
+     "repourl": "http://github.com/blackberry/NDK-Samples",
+     "note": "<p>There are several branches: 'ndk1' is for PlayBook 1, 'master' is for PlayBook 2 and 'next' is for BlackBerry 10</p>",
+     "tags": [ "native", "client", "bb10", "playbook", "network" ]
  },
  "NfcMidlet2": {
      "desc": "MIDlet that can receive HCI transaction notifications relating NFC card emulation activity",
@@ -313,6 +459,14 @@
      "note": "<p>See the book website at <a href='http://www.opengles-book.com/'>http://www.opengles-book.com/</a></p>",
      "tags": [ "native", "client", "bb10", "playbook", "opengl" ]
  },
+ "PaymentService": {
+     "desc": "How to support purchase requests in your application using the Payment Service",
+     "url": "https://github.com/blackberry/NDK-Samples/tree/master/PaymentService",
+     "repo": "NDK-Samples",
+     "repourl": "http://github.com/blackberry/NDK-Samples",
+     "note": "<p>There are several branches: 'ndk1' is for PlayBook 1, 'master' is for PlayBook 2 and 'next' is for BlackBerry 10</p>",
+     "tags": [ "native", "client", "bb10", "playbook", "payment" ]
+ },
  "PaymentSample": {
      "desc": "Demonstrates how to use the Payment Service APIs",
      "url": "https://github.com/blackberry/Cascades-Samples/tree/master/PaymentSample",
@@ -344,6 +498,22 @@
      "repourl": "http://github.com/blackberry/PictureWall",
      "note": "<p>Uses socket.io on the client and nodeJS on the server</p><p>Should run on BB10</p>",
      "tags": [ "html5", "server", "client", "playbook", "webworks", "socketio", "nodejs" ]
+ },
+ "PlayAudio": {
+     "desc": "How to play an MP3 file",
+     "url": "https://github.com/blackberry/NDK-Samples/tree/master/PlayAudio",
+     "repo": "NDK-Samples",
+     "repourl": "http://github.com/blackberry/NDK-Samples",
+     "note": "<p>There are several branches: 'ndk1' is for PlayBook 1, 'master' is for PlayBook 2 and 'next' is for BlackBerry 10</p>",
+     "tags": [ "native", "client", "bb10", "playbook", "audio", "mp3" ]
+ },
+ "PlayWav": {
+     "desc": "How to play a WAV file",
+     "url": "https://github.com/blackberry/NDK-Samples/tree/master/PlayWav",
+     "repo": "NDK-Samples",
+     "repourl": "http://github.com/blackberry/NDK-Samples",
+     "note": "<p>There are several branches: 'ndk1' is for PlayBook 1, 'master' is for PlayBook 2 and 'next' is for BlackBerry 10</p>",
+     "tags": [ "native", "client", "bb10", "playbook", "audio", "wav" ]
  },
  "PoemMaker": {
      "desc": "Play Animations",
@@ -448,6 +618,14 @@
      "note": "<p>Two variations, with Makefile and Managed by IDE, showing integration of Scoreloop with a native App</p>",
      "tags": [ "native", "client", "bb10", "scoreloop"]
  },
+ "ScreenTemplate": {
+     "desc": "Template you can use to set your application to start using the BPS infrastructure",
+     "url": "https://github.com/blackberry/NDK-Samples/tree/master/ScreenTemplate",
+     "repo": "NDK-Samples",
+     "repourl": "http://github.com/blackberry/NDK-Samples",
+     "note": "<p>There are several branches: 'ndk1' is for PlayBook 1, 'master' is for PlayBook 2 and 'next' is for BlackBerry 10</p>",
+     "tags": [ "native", "client", "bb10", "playbook", "screen", "bps" ]
+ },
  "SimpleLocationAPI": {
      "desc": "Simplified version of the Location API packages for the Java-based BlackBerry Smartphones",
      "url": "https://github.com/blackberry/Samples-for-Java/tree/master/Simple%20Location%20API",
@@ -519,6 +697,14 @@
      "note": "<p>A playable race-the-tunnel game that runs on the BlackBerry PlayBook and BlackBerry 10 as well as on desktop browsers.</p><p>Usually packaged into a WebWorks App but for a browser experience, visit <a href='http://blackberry.github.com/WebGL-Samples/tunneltilt/'>here</a>",
      "tags": [ "html5", "client", "bb10", "playbook", "webgl", "webworks" ]
  },
+ "VideoPlayback": {
+     "desc": "How to use the multimedia capabilities of the native SDK",
+     "url": "https://github.com/blackberry/NDK-Samples/tree/master/VideoPlayback",
+     "repo": "NDK-Samples",
+     "repourl": "http://github.com/blackberry/NDK-Samples",
+     "note": "<p>There are several branches: 'ndk1' is for PlayBook 1, 'master' is for PlayBook 2 and 'next' is for BlackBerry 10</p>",
+     "tags": [ "native", "client", "bb10", "playbook", "video" ]
+ },
  "VideoPlayerSample": {
      "desc": "A simple video player application that uses the MediaPlayer API",
      "url": "https://github.com/blackberry/Cascades-Community-Samples/tree/master/VideoPlayerSample",
@@ -526,6 +712,14 @@
      "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
      "note": "VideoPlayerSample is a simple video player application. It uses the new MediaPlayer API and showcases all the fundamentals to make other full fledged video player applications.",
      "tags": [ "native", "client", "camera", "bb10", "video", "cascades" ]
+ },
+ "VideoWindow": {
+     "desc": "How to use the multimedia capabilities of the native SDK in concert with OpenGL ES 2.0",
+     "url": "https://github.com/blackberry/NDK-Samples/tree/master/VideoWindow",
+     "repo": "NDK-Samples",
+     "repourl": "http://github.com/blackberry/NDK-Samples",
+     "note": "<p>There are several branches: 'ndk1' is for PlayBook 1, 'master' is for PlayBook 2 and 'next' is for BlackBerry 10</p>",
+     "tags": [ "native", "client", "bb10", "playbook", "video", "opengl" ]
  },
  "WeatherGuesser": {
      "desc": "Uses tabbed and navigation panes and loads data from SQL and nonlocal JSON feeds",
