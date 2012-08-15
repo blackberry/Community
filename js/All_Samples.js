@@ -170,7 +170,10 @@ function parseRepoData(data,
 
 
 	// list of tags is ","-separated with additional "," at front and back
-	items.push('<tr class="samplerow" tags=",'+val.tags.join(",")+',">' +
+	items.push('<tr class="samplerow" '+
+		   'tags=",'+val.tags.join(",")+'," '+
+		   ( val.collection ? 'collection="'+val.collection+'" ' : '') +
+		   '>' +
 
 		   /* Start Row */
 
@@ -181,11 +184,15 @@ function parseRepoData(data,
 		   /* Description */
 		   '<td>' + val.desc +
 		   ( showTagsData
-		     ? ' <span class="question" left="yes" tip=",' + val.tags.join(", ") + ',">T</span>'
+		     ? ' <span class="question" left="yes" tip="' + val.tags.join(", ") + '">T</span>'
 		     : ''
 		   ) +
 		   ( ( val.note )
 		     ? ' <span class="question" tip="' + val.note + '">?</span>'
+		     : ''
+		   ) +
+		   ( ( val.collection )
+		     ? ' <span class="question" tip="This entry stands for a collection of ' + parseInt(val.collection) + ' samples">C</span>'
 		     : ''
 		   ) +
 		   ( ( val.warning )
@@ -271,7 +278,12 @@ $(document).ready(function(){
 	    /* add repos to allRepos */
 	    allRepos[val.repo] = val.repourl;
 
-	    sampleCount += 1; // count samples
+	    /* count but treat "collections" differently */
+	    if (val.collection) {
+		sampleCount += parseInt(val.collection);
+	    } else {
+		sampleCount += 1;
+	    }
 	});
 
 	/* Insert, sort and inject tags */
@@ -307,7 +319,11 @@ $(document).ready(function(){
 		// TagList is ","-separated with an extra "," at front and another at end
 		if ( $(this).attr("tags").indexOf(","+tag+",") >= 0 ) {
 
-		    narrowSampleCount += 1;
+		    if ( $(this).attr("collection") ) {
+			narrowSampleCount += parseInt($(this).attr("collection"));
+		    } else {
+			narrowSampleCount += 1;
+		    }
 		    $(this).show(); // the row...
 		    $(this).parents("div.dynContent").each(function(){
 			$(this).show(); // ... and the DIV it belongs to

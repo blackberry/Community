@@ -142,13 +142,31 @@
      "warning": "There is also an 'InvokeTarget2' application. We need to clarify the relationship between the two apps",
      "tags": [ "native", "client", "invocation", "bb10", "cascades" ]
  },
- "JDE-Samples": {
-     "desc": "A <span style='text-decoration:underline;'>collection</span> of samples included in the BlackBerry JDE.  There is one branch per JDE release",
-     "url": "https://github.com/blackberry/JDE-Samples",
+ "JDE-Samples.client": {
+     "desc": "A collection of samples included in the BlackBerry JDE.  There is one branch per JDE release",
+     "url": "https://github.com/blackberry/JDE-Samples/tree/master/com/rim/samples/device",
      "repo": "JDE-Samples",
      "repourl": "http://github.com/blackberry/JDE-Samples",
-     "note": "<p>For 7.1, there are 71 'device' samples and 10 'server' samples, as wel as several desktop samples</p>",
-     "tags": [ "java", "server", "client", "bbos" ]
+     "note": "<p>For 7.1, there are 71 'device' samples</p>",
+     "collection": "71",
+     "tags": [ "java", "client", "bbos" ]
+ },
+ "JDE-Samples.server": {
+     "desc": "A collection of samples included in the BlackBerry JDE.  There is one branch per JDE release",
+     "url": "https://github.com/blackberry/JDE-Samples/tree/master/com/rim/samples/server",
+     "repo": "JDE-Samples",
+     "repourl": "http://github.com/blackberry/JDE-Samples",
+     "note": "<p>For 7.1, there are 10 'server' samples, as wel as several desktop samples</p>",
+     "collection": "10",
+     "tags": [ "java", "server",  "bbos" ]
+ },
+ "JDE-Samples.desktop": {
+     "desc": "A collection of samples included in the BlackBerry JDE.  There is one branch per JDE release",
+     "url": "https://github.com/blackberry/JDE-Samples/tree/master/desktop",
+     "repo": "JDE-Samples",
+     "repourl": "http://github.com/blackberry/JDE-Samples",
+     "note": "<p>Companion to the client and server samples</p>",
+     "tags": [ "c++", "desktop" ]
  },
  "Kakel": {
      "desc": "Dynamic UI",

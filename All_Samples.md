@@ -31,6 +31,7 @@ There are <span id="stats-samplecount"><!-- dynamic content --></span> samples
 optionally annotated with
 <span class="question" tip="A list of 'tags' characterizing this sample">T</span>, 
 <span class="question" tip="Extra details on the sample">?</span>
+<span class="question" tip="This entry stands for a collection of samples">C</span>
 and
 <span class="warning" tip="Issues to resolve">!</span> tooltips
 and organized into 4 tables.
