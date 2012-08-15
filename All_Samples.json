@@ -547,6 +547,87 @@
      "note": "<p>Note that there are two branches: <em>bb10</em> for BlackBerry 10 and <em>master</em> for PlayBook</p>",
      "tags": [ "air", "client", "bb10", "push" ]
  },
+ "Qt2Cascades.IPC": {
+     "desc": "Adaptations of the IPC samples of the <a href='http://doc.qt.nokia.com/4.7-snapshot/all-examples.html'>Qt Example Projects</a> to Cascades",
+     "url": "http://github.com/blackberry/Qt2Cascades-Samples/tree/master/ipc",
+     "repo": "Qt2Cascades-Samples",
+     "repourl": "http://github.com/blackberry/Qt2Cascades-Samples",
+     "note": "<p>There are several branches: 'ndk1' is for PlayBook 1, 'master' is for PlayBook 2 and 'next' is for BlackBerry 10</p><p>Documentation of the samples is in the <a href='http://blackberry.github.com/Qt2Cascades-Samples/docs/'>Local Pages</a>",
+     "collection": "2",
+     "tags": [ "native", "client", "bb10", "playbook", "ipc", "qt", "cascades" ]
+ },
+ "Qt2Cascades.Network": {
+     "desc": "Adaptations of the Network samples of the <a href='http://doc.qt.nokia.com/4.7-snapshot/all-examples.html'>Qt Example Projects</a> to Cascades",
+     "url": "http://github.com/blackberry/Qt2Cascades-Samples/tree/master/network",
+     "repo": "Qt2Cascades-Samples",
+     "repourl": "http://github.com/blackberry/Qt2Cascades-Samples",
+     "note": "<p>There are several branches: 'ndk1' is for PlayBook 1, 'master' is for PlayBook 2 and 'next' is for BlackBerry 10</p><p>Documentation of the samples is in the <a href='http://blackberry.github.com/Qt2Cascades-Samples/docs/'>Local Pages</a>",
+     "collection": "9",
+     "tags": [ "native", "client", "bb10", "playbook", "network", "qt", "cascades" ]
+ },
+ "Qt2Cascades.Threads": {
+     "desc": "Adaptations of the Multi-Threading samples of the <a href='http://doc.qt.nokia.com/4.7-snapshot/all-examples.html'>Qt Example Projects</a> to Cascades",
+     "url": "http://github.com/blackberry/Qt2Cascades-Samples/tree/master/threads",
+     "repo": "Qt2Cascades-Samples",
+     "repourl": "http://github.com/blackberry/Qt2Cascades-Samples",
+     "note": "<p>There are several branches: 'ndk1' is for PlayBook 1, 'master' is for PlayBook 2 and 'next' is for BlackBerry 10</p><p>Documentation of the samples is in the <a href='http://blackberry.github.com/Qt2Cascades-Samples/docs/'>Local Pages</a>",
+     "collection": "3",
+     "tags": [ "native", "client", "bb10", "playbook", "threads", "qt", "cascades" ]
+ },
+ "Qt2Cascades.QtConcurrency": {
+     "desc": "Adaptations of the Advanced Multi-Threading samples of the <a href='http://doc.qt.nokia.com/4.7-snapshot/all-examples.html'>Qt Example Projects</a> to Cascades",
+     "url": "http://github.com/blackberry/Qt2Cascades-Samples/tree/master/qtconcurrent",
+     "repo": "Qt2Cascades-Samples",
+     "repourl": "http://github.com/blackberry/Qt2Cascades-Samples",
+     "note": "<p>There are several branches: 'ndk1' is for PlayBook 1, 'master' is for PlayBook 2 and 'next' is for BlackBerry 10</p><p>Documentation of the samples is in the <a href='http://blackberry.github.com/Qt2Cascades-Samples/docs/'>Local Pages</a>",
+     "collection": "2",
+     "tags": [ "native", "client", "bb10", "playbook", "threads", "qt", "cascades" ]
+ },
+ "Qt2Cascades.Script": {
+     "desc": "Adaptations of the Qt Script samples of the <a href='http://doc.qt.nokia.com/4.7-snapshot/all-examples.html'>Qt Example Projects</a> to Cascades",
+     "url": "http://github.com/blackberry/Qt2Cascades-Samples/tree/master/script",
+     "repo": "Qt2Cascades-Samples",
+     "repourl": "http://github.com/blackberry/Qt2Cascades-Samples",
+     "note": "<p>There are several branches: 'ndk1' is for PlayBook 1, 'master' is for PlayBook 2 and 'next' is for BlackBerry 10</p><p>Documentation of the samples is in the <a href='http://blackberry.github.com/Qt2Cascades-Samples/docs/'>Local Pages</a>",
+     "collection": "1",
+     "tags": [ "native", "client", "bb10", "playbook", "script", "qt", "cascades" ]
+ },
+ "Qt2Cascades.StateMachine": {
+     "desc": "Adaptations of the State Machine samples of the <a href='http://doc.qt.nokia.com/4.7-snapshot/all-examples.html'>Qt Example Projects</a> to Cascades",
+     "url": "http://github.com/blackberry/Qt2Cascades-Samples/tree/master/statemachine",
+     "repo": "Qt2Cascades-Samples",
+     "repourl": "http://github.com/blackberry/Qt2Cascades-Samples",
+     "note": "<p>There are several branches: 'ndk1' is for PlayBook 1, 'master' is for PlayBook 2 and 'next' is for BlackBerry 10</p><p>Documentation of the samples is in the <a href='http://blackberry.github.com/Qt2Cascades-Samples/docs/'>Local Pages</a>",
+     "collection": "3",
+     "tags": [ "native", "client", "bb10", "playbook", "statemachine", "qt", "cascades" ]
+ },
+ "Qt2Cascades.SQL": {
+     "desc": "Adaptations of the SQL samples of the <a href='http://doc.qt.nokia.com/4.7-snapshot/all-examples.html'>Qt Example Projects</a> to Cascades",
+     "url": "http://github.com/blackberry/Qt2Cascades-Samples/tree/master/sql",
+     "repo": "Qt2Cascades-Samples",
+     "repourl": "http://github.com/blackberry/Qt2Cascades-Samples",
+     "note": "<p>There are several branches: 'ndk1' is for PlayBook 1, 'master' is for PlayBook 2 and 'next' is for BlackBerry 10</p><p>Documentation of the samples is in the <a href='http://blackberry.github.com/Qt2Cascades-Samples/docs/'>Local Pages</a>",
+     "collection": "1",
+     "tags": [ "native", "client", "bb10", "playbook", "sql", "qt", "cascades" ]
+ },
+ "Qt2Cascades.Tools": {
+     "desc": "Adaptations of the Tools samples of the <a href='http://doc.qt.nokia.com/4.7-snapshot/all-examples.html'>Qt Example Projects</a> to Cascades",
+     "url": "http://github.com/blackberry/Qt2Cascades-Samples/tree/master/tools",
+     "repo": "Qt2Cascades-Samples",
+     "repourl": "http://github.com/blackberry/Qt2Cascades-Samples",
+     "note": "<p>There are several branches: 'ndk1' is for PlayBook 1, 'master' is for PlayBook 2 and 'next' is for BlackBerry 10</p><p>Documentation of the samples is in the <a href='http://blackberry.github.com/Qt2Cascades-Samples/docs/'>Local Pages</a>",
+     "collection": "5",
+     "tags": [ "native", "client", "bb10", "playbook", "tools", "qt", "cascades", "codec", "i18n", "undo", "regex" ]
+ },
+ "Qt2Cascades.XML": {
+     "desc": "Adaptations of the XML samples of the <a href='http://doc.qt.nokia.com/4.7-snapshot/all-examples.html'>Qt Example Projects</a> to Cascades",
+     "url": "http://github.com/blackberry/Qt2Cascades-Samples/tree/master/xml",
+     "repo": "Qt2Cascades-Samples",
+     "repourl": "http://github.com/blackberry/Qt2Cascades-Samples",
+     "note": "<p>There are several branches: 'ndk1' is for PlayBook 1, 'master' is for PlayBook 2 and 'next' is for BlackBerry 10</p><p>Documentation of the samples is in the <a href='http://blackberry.github.com/Qt2Cascades-Samples/docs/'>Local Pages</a>",
+     "collection": "6",
+     "tags": [ "native", "client", "bb10", "playbook", "xml", "qt", "cascades" ]
+ },
  "Quotes": {
      "desc": "List and SqlDataAccess",
      "url": "https://github.com/blackberry/Cascades-Samples/tree/master/quotes",

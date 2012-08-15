@@ -12,16 +12,21 @@
 function initializeTranslateTable() {
     return {
 	"BB10-WebWorks-Samples": "BB10<em>...</em>Samples",
-	"Cascades-Community-Samples": "Cascades<em>...</em>Samples",
-	"OpenGLES2-ProgrammingGuide": "OpenGLES<em>...</em>Guide",
-	"ScoreloopIntegrationSample": "Scoreloop<em>...</em>",
+	"Cascades-Community-Samples": "Cascades-Comm<em>...</em>",
 	"jQuery-Mobile-Samples": "jQuery-Mobile<em>...</em>",
-	"StarshipSettings(AIR-BB10)": "Starship<em>...</em>AIR-BB10",
-	"WeatherGuesser(AIR-BB10)": "Weather<em>...</em>AIR-BB10",
+	"OpenGLES2-ProgrammingGuide": "OpenGLES<em>...</em>Guide",
 	"PushSampleApp(AIR-BB10)": "PushSample<em>...</em>AIR-BB10",
+	"Qt2Cascades-Samples": "Qt2Cascades<em>...</em>",
+	"Qt2Cascades.IPC": "Qt2<em>...</em>.IPC",
+	"Qt2Cascades.Network": "Qt2<em>...</em>.Network",
+	"Qt2Cascades.Threads": "Qt2<em>...</em>.Threads",
+	"Qt2Cascades.QtConcurrency": "Qt2<em>...</em>.QtConcurrency",
 	"SampleBPSANE(AIR)": "SampleBPSANE<em>...</em>AIR",
 	"SampleApplication(AIR)": "SampleApp<em>...</em>AIR",
-	"SampleLibrary(AIR)": "SampleLib<em>...</em>AIR"
+	"SampleLibrary(AIR)": "SampleLib<em>...</em>AIR",
+	"ScoreloopIntegrationSample": "Scoreloop<em>...</em>",
+	"StarshipSettings(AIR-BB10)": "Starship<em>...</em>AIR-BB10",
+	"WeatherGuesser(AIR-BB10)": "Weather<em>...</em>AIR-BB10"
     };
 }
 
