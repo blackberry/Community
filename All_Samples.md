@@ -22,6 +22,8 @@ This page catalogs all the samples in RIM's
 through several tables generated from a [JSON file](All_Samples.json).
 Also see the list of [All Repos].
 
+If you like the samples, go and [Star them on GitHub](https://github.com/blog/1204-notifications-stars).
+
 <div style="margin-top:10px;" class="collapsable" label="Table, Tooltips and Sorting">
 </div>
 <div style="margin-top: 2px; margin-left:30px;">
@@ -42,19 +44,26 @@ columns select the next column while pressing the 'SHIFT' (on mac) key.
 <div id='tagList'>The set of samples shown can be narrowed by clicking on one of these
 <span id='stats-tagcount'><!-- dynamic content --></span> tags:</div>
 <p>The full set of samples can be restored clicking on <span id='showAllSamples'><em>Show All</em></span>.</p>
+
+<p><em>Currently Displaying
+<span id='narrow-samplecount'><!-- dynamic content --></span> samples
+containing "<span id="narrow-currenttag"><!-- dynamic content --></span>"</em>
+</p>
+
 </div>
 
 
 <div style="margin-top:10px;" class='collapsable' label="Repositories">
 </div>
 <div style="margin-top: 2px; margin-left:30px;">
-<div id='repoList'>The tables list the repository hosting each sample, in some cases
+<p style="margin-top: 2px;">The tables list the repository hosting each sample, in some cases
 shortening the name for presentation purposes.
 Samples come from <span id='stats-repocount'><!-- dynamic content --></span> repos:
-</div><!-- dynamic content -->
+</p>
+<p><div id='repoList'><!-- dynamic content --></div></p>
 </div>
 
-<div style="margin-top:10px;" class='collapsable' id='#todo' label="Todo">
+<div style="margin-top:10px;" class='collapsable' label="Feedback and Todo">
 <!-- dynamic content -->
 </div>
 <div style="margin-top:2px; margin-left:30px;">
@@ -63,14 +72,16 @@ Samples come from <span id='stats-repocount'><!-- dynamic content --></span> rep
 <li>Record Qt2Cascades-Samples and NDK-Samples</li>
 <li>Adjust SampleBPSANE</li>
 <li>Incorporate Libraries and Frameworks</li>
-<li>Improve presentation of collapse/expand</li>
+<li>Improve presentation of collapse/expand; maybe use down/right icons</li>
 <li>Improve the reporting (# hits on tag) and presentation of narrow-to-tag section</li>
 <li>Consolidate the number of tags</li>
 </ul>
+
+<p>
+We always welcome your feedback on how to best present information in this and related pages.
+</p>
 </div>
 
-We always welcome your feedback on how to best present information on the Samples.
-And, if you like the samples, go and [Star them on GitHub](https://github.com/blog/1204-notifications-stars).
 
 <div class="dynContent">
 <div id="samplesHtml5">
