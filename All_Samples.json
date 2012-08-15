@@ -8,12 +8,20 @@
      "warning": "optional warning",
      "tags": [ "an array of tags", "reserved tags are:", "html5", "native", "client" ]
  },
+ "AdvancedUI": {
+     "desc": "Advanced Buttons, Fields and Managers for Java-based BlackBerry Smartphones",
+     "url": "https://github.com/blackberry/Samples-for-Java/tree/master/Advanced%20UI",
+     "repo": "Samples-for-Java",
+     "repourl": "http://github.com/blackberry/Samples-for-Java",
+     "note": "<p>More details on the functionality in this <a href='http://supportforums.blackberry.com/t5/Java-Development/Implement-advanced-buttons-fields-and-managers/ta-p/488276'>DevZone Article</a></p><p>Note the whitespace in the URL to the sample</p>",
+     "tags": [ "java", "client", "analytics", "bbos" ]
+ },
  "Analytics": {
      "desc": "Sample from the Analytics SDK",
      "url": "https://github.com/blackberry/Samples-for-Java/tree/master/Analytics",
      "repo": "Samples-for-Java",
      "repourl": "http://github.com/blackberry/Samples-for-Java",
-     "tags": [ "java", "client", "analytics" ]
+     "tags": [ "java", "client", "analytics", "bbos" ]
  },
  "BatterySample": {
      "desc": "A battery display app from a radio group and an image",
@@ -174,6 +182,14 @@
      "note": "<p>Add images to a UI, use layouts and add a slider attached to it.</p><p>Do this in QML</p>",
      "tags": [ "native", "client", "bb10", "cascades", "qml", "events" ]
  },
+ "LLCPDemo": {
+     "desc": "Shows how to transfer data between two NFC-enabled BlackBerry Smartphones using the NFC Logical Link Control Protocol",
+     "url": "http://github.com/blackberry/Samples-for-Java/tree/master/NFC/LLCPDemo",
+     "repo": "Samples-for-Java",
+     "repourl": "http://github.com/blackberry/Samples-for-Java",
+     "note": "<p>For Java-based Smartphones.  Requires BB7.1</p><p>Also see the <a href='NFC.html'>NFC</a> Wiki page</p>",
+     "tags": [ "java", "client", "bbos", "nfc" ]
+ },
  "Loader": {
      "desc": "Load and Unload Controls from the UI at runtime",
      "url": "https://github.com/blackberry/Cascades-Samples/tree/master/loader",
@@ -198,13 +214,61 @@
      "note": "The sample shows:<ul><li>how to access the camera</li><li>how to start the viewfinder and acquire the corresponding viewfinder window handle</li><li>how to take a photo (non-blocking)</li><li>how to save a photo to the camera roll</li><li>how to pass argument data between the main thread and your callback threads</li><li>how to signal your main thread using user-defined bps events from your callback thread</li></ul>",
      "tags": [ "native", "client", "camera", "bb10" ]
  },
+ "NfcMidlet2": {
+     "desc": "MIDlet that can receive HCI transaction notifications relating NFC card emulation activity",
+     "url": "https://github.com/blackberry/Samples-for-Java/tree/master/NfcMidlet2",
+     "repo": "Samples-for-Java",
+     "repourl": "http://github.com/blackberry/Samples-for-Java",
+     "note": "<p>For Java-based BlackBerry Smartphones; requires BB 7.0 or above</p><p>Also see the <a href='NFC.html'>NFC</a> Wiki page</p>",
+     "tags": [ "java", "client", "nfc", "bbos" ]
+ },
+ "NfcReadNdefSmartTag": {
+     "desc": "Show how to receive NDEF messages from tags and how to process them",
+     "url": "https://github.com/blackberry/Samples-for-Java/tree/master/NfcReadNdefSmartTag",
+     "repo": "Samples-for-Java",
+     "repourl": "http://github.com/blackberry/Samples-for-Java",
+     "note": "<p>For Java-based BlackBerry Smartphones; requires BB 7.1 or above</p><p>Also see the <a href='NFC.html'>NFC</a> Wiki page</p>",
+     "tags": [ "java", "client", "nfc", "bbos" ]
+ },
+ "NfcWriteNdefSmartTag": {
+     "desc": "Show how to write various sorts of NDEF messages to NFC tags",
+     "url": "https://github.com/blackberry/Samples-for-Java/tree/master/NfcWriteNdefSmartTag",
+     "repo": "Samples-for-Java",
+     "repourl": "http://github.com/blackberry/Samples-for-Java",
+     "note": "<p>For Java-based BlackBerry Smartphones; requires BB 7.1 or above</p><p>Also see the <a href='NFC.html'>NFC</a> Wiki page</p>",
+     "tags": [ "java", "client", "nfc", "bbos" ]
+ },
+ "NfcVirtualTargetFun": {
+     "desc": "Shows the emulation and reading of NFC virtual tags",
+     "url": "https://github.com/blackberry/Samples-for-Java/tree/master/NfcVirtualTargetFun",
+     "repo": "Samples-for-Java",
+     "repourl": "http://github.com/blackberry/Samples-for-Java",
+     "note": "<p>For Java-based BlackBerry Smartphones; requires BB 7.0 or above</p><p>Also see the <a href='NFC.html'>NFC</a> Wiki page</p>",
+     "tags": [ "java", "client", "nfc", "bbos" ]
+ },
+ "NfcSnepResponder": {
+     "desc": "Shows how to transfer NDEF messages between NFC-enabled BlackBerry smartphones using the Simple NDEF Exchange Protocol (SNEP)",
+     "url": "https://github.com/blackberry/Cascades-Community-Samples/tree/master/NfcSnepResponder",
+     "repo": "Samples-for-Java",
+     "repourl": "http://github.com/blackberry/Samples-for-Java",
+     "note": "<p>For Java-based BlackBerry Smartphones; requires BB 7.1 or above</p><p>Also see the <a href='NFC.html'>NFC</a> Wiki page</p>",
+     "tags": [ "java", "client", "nfc", "bbos" ]
+ },
  "NfcTool": {
      "desc": "Shows how to use selected BlackBerry 10 NFC APIs",
      "url": "https://github.com/blackberry/Cascades-Community-Samples/tree/master/NfcTool",
      "repo": "Cascades-Community-Samples",
      "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
-     "note": "Supports:<ul><li>Reading NDEF tags</li><li>Writing NDEF tags</li><li>Transfer vCard via SNEP</li></ul>",
+     "note": "<p>Supports:<ul><li>Reading NDEF tags</li><li>Writing NDEF tags</li><li>Transfer vCard via SNEP</li></ul></p><p>Also see the <a href='NFC.html'>NFC</a> Wiki page</p>",
      "tags": [ "native", "client", "nfc", "bb10", "cascades" ]
+ },
+ "NfcTransactionHandler": {
+     "desc": "Shows key aspects of an application working in NFC card emulation mode",
+     "url": "https://github.com/blackberry/Samples-for-Java/tree/master/NfcTransactionHandler",
+     "repo": "Samples-for-Java",
+     "repourl": "http://github.com/blackberry/Samples-for-Java",
+     "note": "<p>For Java-based BlackBerry Smartphones; requires BB 7.1 or above</p><p>Also see the <a href='NFC.html'>NFC</a> Wiki page</p>",
+     "tags": [ "java", "client", "nfc", "bbos" ]
  },
  "NothingButNet": {
      "desc": "Macadamian Demo from BBJam Orlando 2012",
@@ -372,14 +436,14 @@
      "repo": "Samples-for-Java",
      "repourl": "http://github.com/blackberry/Samples-for-Java",
      "note": "<p>Note the whitespace embedded in the URL!</p>",
-     "tags": [ "java", "client", "location"]
+     "tags": [ "java", "client", "location", "bbos"]
  },
  "SocialApp": {
      "desc": "Shows integration with Social Apps like FaceBook, Twitter, etc",
      "url": "https://github.com/blackberry/Samples-for-Java/tree/master/SocialApp",
      "repo": "Samples-for-Java",
      "repourl": "http://github.com/blackberry/Samples-for-Java",
-     "tags": [ "java", "client", "facebook", "twitter"]
+     "tags": [ "java", "client", "facebook", "twitter", "bbos"]
  },
  "SpeedWriter": {
      "desc": "Text Input and Custom Control",
@@ -427,7 +491,7 @@
      "repo": "Samples-for-Java",
      "repourl": "http://github.com/blackberry/Samples-for-Java",
      "note": "<p>Note there is a TitleBar API for BlackBerry OS 6.0 and above</p>",
-     "tags": [ "java", "client", "titlebar"]
+     "tags": [ "java", "client", "titlebar", "bbos"]
  },
  "TunnelTilt": {
      "desc": "Demonstrates how to use WebGL and how to package it using WebWorks",
@@ -467,7 +531,7 @@
      "repo": "Samples-for-Java",
      "repourl": "http://github.com/blackberry/Samples-for-Java",
      "note": "Note the white space in the URL",
-     "tags": [ "java", "client", "youtube" ]
+     "tags": [ "java", "client", "youtube", "bbos" ]
  }
 }
 

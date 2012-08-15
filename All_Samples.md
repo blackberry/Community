@@ -75,6 +75,7 @@ Samples come from <span id='stats-repocount'><!-- dynamic content --></span> rep
 <li>Improve presentation of collapse/expand; maybe use down/right icons</li>
 <li>Improve the reporting (# hits on tag) and presentation of narrow-to-tag section</li>
 <li>Consolidate the number of tags</li>
+<li>Use $(location).attr('href') to get at URL, then extract argument as narrow-to-tag</li>
 </ul>
 
 <p>
