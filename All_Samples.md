@@ -91,15 +91,15 @@ Samples come from <span id='stats-repocount'><!-- dynamic content --></span> rep
 </div>
 <div style="margin-top:2px; margin-left:30px;">
 <ul>
-<li>Process WebWorks-Samples</li>
-<li>Need different tags for "playbook, may run on bb10" from "playbook only"</li>
-<li>Consolidate the number of tags</li>
+<li>Need different tags for "playbook, may run on bb10 but have not yet tested" from "playbook only"</li>
+<li>Should consolidate the number of tags</li>
 <li>Decide whether to split Native into Cascades vs the rest</li>
-<li>Improve presentation of collapse/expand; maybe use down/right icons</li>
+<li>Improve visual presentation of collapse/expand; maybe use down/right icons</li>
 <li>Make Zebra striping work after narrowing</li>
-<li>Use $(location).attr('href') to get at URL, then extract argument as narrow-to-tag</li>
-<li>The way "the rest" of samples is processed is fragile</li>
 <li>Decide how to hande Wiki links</li>
+<li>Use $(location).attr('href') to get at URL, then extract argument as narrow-to-tag so we can let people share URLs to narrowed catalogs</li>
+<li>The code that decides on "other" samples is fragile</li>
+<li>The JavaScript code needs cleanup</li>
 </ul>
 
 <p>

@@ -975,6 +975,14 @@
      "repourl": "http://github.com/blackberry/WebWorks-Community-APIs",
      "tags": [ "html5", "client", "bbos", "extension", "logging" ]
  },
+ "TouchTicTacToe": {
+     "desc": "Demonstrates how to use NFC in a simple game of Tic-Tac-Toe",
+     "url": "https://github.com/blackberry/Samples-for-Java/tree/master/TouchTicTacToe",
+     "repo": "Samples-for-Java",
+     "repourl": "http://github.com/blackberry/Samples-for-Java",
+     "note": "<p>For Java-based BlackBerry Smartphones; requires BB 7.1 or above</p><p>Also see the <a href='NFC.html'>NFC</a> Wiki page</p>",
+     "tags": [ "java", "client", "nfc", "bbos" ]
+ },
  "Titlebar": {
      "desc": "Titlebar API for BlackBerry OS 4.2.1 and above",
      "url": "https://github.com/blackberry/Samples-for-Java/tree/master/Titlebar",
