@@ -63,6 +63,53 @@ function shortTD(name, url, table) {
     return back;
 }
 
+// Narrow the doc to a given tag
+
+function narrowToTag(tag) {
+    if (! tag ) {
+	return
+    }
+
+    // to display the results of narrow
+    narrowSampleCount = 0;
+    narrowCurrentTag = tag;
+    
+    // hide all rows
+    $('tr.samplerow, tr.repeated-header').hide();
+    // hide enclosing DIVs
+    $('div.dynContent').each(function() {
+	$(this).hide();
+    });
+
+    // show rows with the tag
+    $('tr.samplerow').each(function(){
+
+	// TagList is ","-separated with an extra "," at front and another at end
+	if ( $(this).attr("tags").indexOf(","+tag+",") >= 0 ) {
+
+	    if ( $(this).attr("collection") ) {
+		narrowSampleCount += parseInt($(this).attr("collection"));
+	    } else {
+		narrowSampleCount += 1;
+	    }
+	    $(this).show(); // the row...
+	    $(this).parents("div.dynContent").each(function(){
+		$(this).show(); // ... and the DIV it belongs to
+	    });
+	}
+    });
+
+    // Inject narrow data
+    $("#narrow-samplecount").html(narrowSampleCount);
+    $("#narrow-currenttag").html(narrowCurrentTag);
+
+    // remove zebra striping because non-hidden rows may not alternate properly
+    $('tr.odd').each(function(){ $(this).removeClass("odd").addClass("oddX");  });
+    $('tr.even').each(function(){ $(this).removeClass("even").addClass("evenX"); });
+
+}
+
+
 // add new widget called repeatHeaders 
 $.tablesorter.addWidget({ 
     // give the widget a id 
@@ -273,8 +320,38 @@ function parseRepoData(data,
     
 
 
-// process the Samples JSON and generate dynamic content
+// Main Ready Action
 $(document).ready(function(){
+
+    // Process the hide/expand sections
+
+    function collapse(o) {
+	o.removeClass("expanded");
+	o.next().hide();
+	o.addClass("collapsed");
+	o.html("<strong>+" + o.attr("label") + "</strong>");
+    }
+    function expand(o) {
+	o.removeClass("collapsed");
+	o.next().show();
+	o.addClass("expanded");
+	o.html("<strong>-" + o.attr("label") + "</strong>");
+    }
+
+    $('div.collapsable').each(function() {
+	collapse($(this));
+    });
+
+    $('div.collapsable').click(function() {
+	if ($(this).hasClass("collapsed")) {
+	    expand($(this));
+	} else {
+	    collapse($(this));
+	}
+    });
+
+    // process the Samples JSON and generate dynamic content
+
     var narrowSampleCount = 0;
     var narrowCurrentTag = "any tag";
 
@@ -337,43 +414,7 @@ $(document).ready(function(){
 	    // TODO - that "em" is brittle like...!
 	    var tag = ($(this).children("em").text()); // beats me if this is good code!
 
-	    // to display the results of narrow
-	    narrowSampleCount = 0;
-	    narrowCurrentTag = tag;
-	    
-	    // hide all rows
-	    $('tr.samplerow, tr.repeated-header').hide();
-	    // hide enclosing DIVs
-	    $('div.dynContent').each(function() {
-		$(this).hide();
-	    });
-
-	    // show rows with the tag
-	    $('tr.samplerow').each(function(){
-
-		// TagList is ","-separated with an extra "," at front and another at end
-		if ( $(this).attr("tags").indexOf(","+tag+",") >= 0 ) {
-
-		    if ( $(this).attr("collection") ) {
-			narrowSampleCount += parseInt($(this).attr("collection"));
-		    } else {
-			narrowSampleCount += 1;
-		    }
-		    $(this).show(); // the row...
-		    $(this).parents("div.dynContent").each(function(){
-			$(this).show(); // ... and the DIV it belongs to
-		    });
-		}
-	    });
-
-	    // Inject narrow data
-	    $("#narrow-samplecount").html(narrowSampleCount);
-	    $("#narrow-currenttag").html(narrowCurrentTag);
-
-	    // remove zebra striping because non-hidden rows may not alternate properly
-	    $('tr.odd').each(function(){ $(this).removeClass("odd").addClass("oddX");  });
-	    $('tr.even').each(function(){ $(this).removeClass("even").addClass("evenX"); });
-
+	    narrowToTag(tag);
 	});
 
 	// Restore
@@ -497,34 +538,11 @@ $(document).ready(function(){
 	    $("div.tooltipLeft").remove();
 	});
 
-    });
-});
 
-// Process the hide/expand sections
-$(document).ready(function(){
-    function collapse(o) {
-	o.removeClass("expanded");
-	o.next().hide();
-	o.addClass("collapsed");
-	o.html("<strong>+" + o.attr("label") + "</strong>");
-    }
-    function expand(o) {
-	o.removeClass("collapsed");
-	o.next().show();
-	o.addClass("expanded");
-	o.html("<strong>-" + o.attr("label") + "</strong>");
-    }
-
-    $('div.collapsable').each(function() {
-	collapse($(this));
+	// Narrow if there is a tag
+	narrowToTag($.url().param('tag'));  // Handle narrows in URLs
     });
 
-    $('div.collapsable').click(function() {
-	if ($(this).hasClass("collapsed")) {
-	    expand($(this));
-	} else {
-	    collapse($(this));
-	}
-    });
+    // That's all!
 
 });
