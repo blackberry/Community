@@ -28,12 +28,13 @@ This page catalogs all the samples in RIM's
 through several tables generated from a [JSON file](All_Samples.json).
 Also see the list of [All Repos].
 
-<p><em>Currently Displaying
-<span id='narrow-samplecount'><!-- dynamic content --></span> samples
-containing "<span id='narrow-currenttag'><!-- dynamic content --></span>"</em>
+<p style="margin-left: 20px;"><em>Currently Displaying
+<span style='font-size:140%;' id='narrow-samplecount'><!-- dynamic content --></span> samples
+containing
+<span style='font-size:140%;' id='narrow-currenttag'><!-- dynamic content --></span></em>
 </p>
 
-If you like the samples, go and [Star them on GitHub](https://github.com/blog/1204-notifications-stars).
+If you like the samples [star them](https://github.com/blog/1204-notifications-stars).
 
 <div style="margin-top:10px;" class="collapsable" label="Table, Tooltips and Sorting">
 </div>
