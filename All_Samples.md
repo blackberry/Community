@@ -28,6 +28,11 @@ This page catalogs all the samples in RIM's
 through several tables generated from a [JSON file](All_Samples.json).
 Also see the list of [All Repos].
 
+<p><em>Currently Displaying
+<span id='narrow-samplecount'><!-- dynamic content --></span> samples
+containing "<span id='narrow-currenttag'><!-- dynamic content --></span>"</em>
+</p>
+
 If you like the samples, go and [Star them on GitHub](https://github.com/blog/1204-notifications-stars).
 
 <div style="margin-top:10px;" class="collapsable" label="Table, Tooltips and Sorting">
@@ -60,10 +65,7 @@ and
 <span class='tagfilter'><em>extension</em></span>.
 To go back to showing all the samples click on on <span id='showAllSamples'><em>Show All</em></span>.
 
-<p><em>Currently Displaying
-<span id='narrow-samplecount'><!-- dynamic content --></span> samples
-containing "<span id='narrow-currenttag'><!-- dynamic content --></span>"</em>
-</p>
+<!-- displaying was here -->
 
 <div label="Using Additional Tags" class="collapsable" style="margin-top:10px;">
 </div>
@@ -97,7 +99,6 @@ Samples come from <span id='stats-repocount'><!-- dynamic content --></span> rep
 <li>Improve visual presentation of collapse/expand; maybe use down/right icons</li>
 <li>Make Zebra striping work after narrowing</li>
 <li>Decide how to hande Wiki links</li>
-<li>Use $(location).attr('href') to get at URL, then extract argument as narrow-to-tag so we can let people share URLs to narrowed catalogs</li>
 <li>The code that decides on "other" samples is fragile</li>
 <li>The JavaScript code needs cleanup</li>
 </ul>
