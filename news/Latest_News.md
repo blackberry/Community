@@ -21,6 +21,20 @@ title="convert to your time zone">2pm ET</a>
 These news are archived on a regular basis; look at [All News] for older news,
 or use [this News feed](http:atom.xml).
 
+### New User Agent String for BlackBerry 10
+The BlackBerry 10 browser will be using a new User Agent String to identify itself.  See the details at
+[DevBlog](http://devblog.blackberry.com/2012/08/blackberry-10-user-agent-string/).
+
+_Source_: [Alex Kinsella] via [DevBlog](http://devblog.blackberry.com/2012/08/blackberry-10-user-agent-string/) on August 16, 2012
+
+### Early Sighting: Ruby on QNX
+[Jose Luis Bencosme](http://twitter.com/jlbenc) reports initial success in cross-compiling Ruby onto
+the BlackBerry 10 Simulator; see [screenshot](https://twitter.com/Jlbenc/status/231741925529624576/photo/1/large).
+
+_Source_: [Jose Luis Bencosme](http://twitter.com/jlbenc), via
+[@gordtanner](https://twitter.com/gordtanner/status/231781955144916992) on August 4, 2012
+
+
 ### VideoPlayerSample Relocation Within Cascades-Community-Samples
 [Shadab Rashid] has relocated VideoPlayerSample so it is a top-level directory for consistency within the
 [Cascades-Community-Samples](http://github.com/blackberry/Cascades-Community-Samples) repository.
