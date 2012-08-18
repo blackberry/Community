@@ -28,6 +28,7 @@ its not (currently) on BB10 device.  Also add [DevBlog post](http://devblog.blac
 * GNU tools pages - [forums](http://supportforums.blackberry.com/t5/Native-Development/Where-is-the-source-for-the-GPL-d-NDK-tools/m-p/1845039)
 * Ruby on BB10 - [Tweet](http://twitter.com/Jlbenc/status/231741925529624576)
 * PKZip port.
+* Invocation Framework.  Link to samples and to [DevBlog Post](http://devblog.blackberry.com/2012/08/blackberry-10-invocation-framework/)
 
 ### Pages
 * [Android](Android.html)
