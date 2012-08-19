@@ -415,6 +415,11 @@ $(document).ready(function(){
 	    var tag = ($(this).children("em").text()); // beats me if this is good code!
 
 	    narrowToTag(tag);
+	    // TODO?  Adjust the page location to allow correct bookmarking
+	    // The next line forces a reload.
+	    // We could work after the anchor, or maybe use history.js or the such.
+	    //
+	    // window.location = $.url().attr('path') + "?tag=" + tag; -- not doing 
 	});
 
 	// Restore
