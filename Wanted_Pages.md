@@ -15,7 +15,8 @@ As you complete a page, remember to remove it from here and add it to All Pages,
 * Update slides with links to http://www.blackberryjamworldtour.com/presentations
 * BB10 Apps Screencasts - smugrik: @BlackBerryDev what about a video?? this is an alpha demo of my app, a monome arc controller for #BB10 http://t.co/hPRmKmj0
 * NFC - add http://helpblog.blackberry.com/2012/03/create-and-share-nfc-smart-tags/
-* OggVorbis - Explain that Gameplay supports it, that its repo is available, and that its not (currently) on BB10 device.
+* OggVorbis - Explain that Gameplay supports it, that its repo is available, and that
+its not (currently) on BB10 device.  Also add [DevBlog post](http://devblog.blackberry.com/2012/08/hello-oggvorbis/)
 * Mono - Point to [@rockpiper](http://twitter.com/rockpiper), [rockpiper@github](https://github.com/rockpiper), [monoberry](https://github.com/rockpiper/monoberry) and [fork of mono](https://github.com/rockpiper/mono)
 * libKML -
 * Tutorials - [n4bb p1](http://n4bb.com/absolute-beginners-guide-to-developing-a-blackberry-10-app-part-1/) and
@@ -27,6 +28,7 @@ As you complete a page, remember to remove it from here and add it to All Pages,
 * GNU tools pages - [forums](http://supportforums.blackberry.com/t5/Native-Development/Where-is-the-source-for-the-GPL-d-NDK-tools/m-p/1845039)
 * Ruby on BB10 - [Tweet](http://twitter.com/Jlbenc/status/231741925529624576)
 * PKZip port.
+* Invocation Framework.  Link to samples and to [DevBlog Post](http://devblog.blackberry.com/2012/08/blackberry-10-invocation-framework/)
 
 ### Pages
 * [Android](Android.html)
