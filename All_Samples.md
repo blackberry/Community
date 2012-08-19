@@ -28,17 +28,17 @@ This page catalogs all the samples in RIM's
 through several tables generated from a [JSON file](All_Samples.json).
 Also see the list of [All Repos].
 
-<p style="margin-left: 20px;"><em>Currently Displaying
+<p style="margin-left: 20px;"><em>Displaying
 <span style='font-size:140%;' id='narrow-samplecount'><!-- dynamic content --></span> samples
-containing
-<span style='font-size:140%;' id='narrow-currenttag'><!-- dynamic content --></span></em>
+with
+<span style='font-size:140%;'><span id='narrow-currenttag'><!-- dynamic content --></span>.&nbsp;&nbsp;<span id='showAllSamples'>[Reset]</span></span></em>
 </p>
 
-If you like the samples [star them](https://github.com/blog/1204-notifications-stars).
+If you like the samples please [star them](https://github.com/blog/1204-notifications-stars).
 
 <div style="margin-top:10px;" class="collapsable" label="Table, Tooltips and Sorting">
 </div>
-<div style="margin-top: 2px; margin-left:30px;">
+<div style="margin-top: 2px; margin-left:20px;">
 There are <span id="stats-samplecount"><!-- dynamic content --></span> samples
 optionally annotated with
 <span class="question" tip="A list of 'tags' characterizing this sample">T</span>, 
@@ -53,22 +53,20 @@ columns select the next column while pressing the 'SHIFT' (on mac) key.
 
 <div label='Find using Tags' class='collapsable' style='margin-top:10px;'>
 </div>
-<div style='margin-top: 2px; margin-left:30px;'>
-The set of samples displayed can be narrowed via tags; try clicking on these:
-<span class='tagfilter'><em>native</em></span>,
-<span class='tagfilter'><em>cascades</em></span>,
-<span class='tagfilter'><em>html5</em></span>,
-<span class='tagfilter'><em>air</em></span>,
-<span class='tagfilter'><em>java</em></span>
-<span class='tagfilter'><em>playbook</em></span>,
-<span class='tagfilter'><em>bb10</em></span>,
-and
-<span class='tagfilter'><em>extension</em></span>.
-To go back to showing all the samples click on on <span id='showAllSamples'><em>Show All</em></span>.
-
+<div style='margin-top: 2px; margin-left:20px;'>
+<em>Common tags:
+<span class='tagfilter' style='font-size:140%'><em>native</em></span>,
+<span class='tagfilter' style='font-size:140%'><em>cascades</em></span>,
+<span class='tagfilter' style='font-size:140%'><em>html5</em></span>,
+<span class='tagfilter' style='font-size:140%'><em>air</em></span>,
+<span class='tagfilter' style='font-size:140%'><em>java</em></span>,
+<span class='tagfilter' style='font-size:140%'><em>playbook</em></span>,
+<span class='tagfilter' style='font-size:140%'><em>bb10</em></span>,
+<span class='tagfilter' style='font-size:140%'><em>extension</em></span>
+</em>
 <!-- displaying was here -->
 
-<div label="Using Additional Tags" class="collapsable" style="margin-top:10px;">
+<div label="More Tags" class="collapsable" style="margin-top:10px;">
 </div>
 <div style="margin-left:+10px;">
 <p>
@@ -81,7 +79,7 @@ The samples use
 
 <div style="margin-top:10px;" class='collapsable' label="Repositories">
 </div>
-<div style="margin-top: 2px; margin-left:30px;">
+<div style="margin-top: 2px; margin-left:20px;">
 <p style="margin-top: 2px;">The tables list the repository hosting each sample, in some cases
 shortening the name for presentation purposes.
 Samples come from <span id='stats-repocount'><!-- dynamic content --></span> repos:
@@ -92,16 +90,18 @@ Samples come from <span id='stats-repocount'><!-- dynamic content --></span> rep
 <div style="margin-top:10px;" class='collapsable' label="Feedback and Todo">
 <!-- dynamic content -->
 </div>
-<div style="margin-top:2px; margin-left:30px;">
+<div style="margin-top:2px; margin-left:20px;">
 <ul>
+<li>Need better visuals on what elements are clickable (Reset and tag names)</li>
 <li>Need different tags for "playbook, may run on bb10 but have not yet tested" from "playbook only"</li>
 <li>Should consolidate the number of tags</li>
 <li>Decide whether to split Native into Cascades vs the rest</li>
 <li>Improve visual presentation of collapse/expand; maybe use down/right icons</li>
 <li>Make Zebra striping work after narrowing</li>
-<li>Decide how to hande Wiki links</li>
+<li>Decide how to hande Wiki pages in samples repo</li>
 <li>The code that decides on "other" samples is fragile</li>
 <li>The JavaScript code needs cleanup</li>
+<li>Consider more correctly tracking history; anchors from box break it and so do tags.  Something like history.js?</li>
 </ul>
 
 <p>
