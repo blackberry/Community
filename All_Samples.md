@@ -34,8 +34,6 @@ with
 <span style='font-size:140%;'><span id='narrow-currenttag'><!-- dynamic content --></span>.&nbsp;&nbsp;<span id='showAllSamples'>[Reset]</span></span></em>
 </p>
 
-If you like the samples please [star them](https://github.com/blog/1204-notifications-stars).
-
 <div style="margin-top:10px;" class="collapsable" label="Table, Tooltips and Sorting">
 </div>
 <div style="margin-top: 2px; margin-left:20px;">
@@ -108,6 +106,8 @@ Samples come from <span id='stats-repocount'><!-- dynamic content --></span> rep
 We always welcome your feedback on how to best present information in this and related pages.
 </p>
 </div>
+
+<p style='margin-left: 20px;'>If you like the samples please <a href='https://github.com/blog/1204-notifications-stars'>star them</a>.</p>
 
 
 <div class="dynContent">
