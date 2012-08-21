@@ -102,6 +102,18 @@ $(document).ready(function(){
 		       '</tr>');
 	});
     
+	/* Stats */
+	var repoCount = 0;
+	$.each(data, function(key, val) {
+	    /* The "_comment_" record is used to document the JSON format */
+	    if ( key === "_comment_" ) {
+		return true; /* skip this item */
+	    }
+	    repoCount += 1;
+	});
+	$("#stats-repocount").html(repoCount); // Inject
+	    
+
 	$('<table/>', {
 	    'id': 'allrepos',
 	    html: items.join('')

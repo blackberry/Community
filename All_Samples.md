@@ -92,6 +92,7 @@ Samples come from <span id='stats-repocount'><!-- dynamic content --></span> rep
 <ul>
 <li>Need better visuals on what elements are clickable (Reset and tag names)</li>
 <li>Need different tags for "playbook, may run on bb10 but have not yet tested" from "playbook only"</li>
+<li>At the same time, fix the BB10 column in Samples so it can be sorted</li>
 <li>Should consolidate the number of tags</li>
 <li>Decide whether to split Native into Cascades vs the rest</li>
 <li>Improve visual presentation of collapse/expand; maybe use down/right icons</li>
