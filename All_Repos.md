@@ -22,6 +22,10 @@ This page contains several tables cover all the repositories in our [GitHub Orga
 generated from a [JSON file](All_Repos.json). As an alternative presentation see [All Repos as One Table].
 Also see the list of [All Samples].
 
+<p>
+There are <span style='font-size:140%;' id='stats-repocount'><!-- dynamic content --></span> repositories.
+</p>
+
 The tables can be sorted on one or more columns.  To select additional
 columns select the next column while pressing the 'SHIFT' (on mac) key.
 

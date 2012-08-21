@@ -1,4 +1,14 @@
 {
+ "_comment_": {
+     "desc": "description",
+     "url": "URL to sample",
+     "type": "options are html5, native, air, java or docs",
+     "branches": ["a", "list", "of", "the", "branches"],
+     "branchinfo": "A description of the branches",
+     "note": "More details about the repository",
+     "warning": "Special considerations",
+     "tags": [ "an array of tags", "reserved tags are:", "extension", "html5", "native", "java", "air", "cascades", "bb10", "playbook", "client", "server" ]
+ },
  "Alice": {
      "desc": "A Lightweight Independent CSS Engine",
      "url": "http://github.com/blackberry/Alice",
@@ -236,6 +246,22 @@
      "note": "Arguably these samples should be elsewhere, but there is a (temporary?) technical reason to keep them in this separate repository",
      "tags": [ "native", "samples", "bb10" ]
  },
+ "OpenDataSpace-BBJava": {
+     "desc": "The OpenSource Edition of the java-based client for SSP Europe's SecureDataSpace",
+     "url": "http://github.com/blackberry/opendataspace-cascades",
+     "type": "java",
+     "branches": ["master"],
+     "note": "This repo is not led by Research in Motion but by SSP Europe",
+     "tags": [ "java", "samples", "application" ]
+ },
+ "OpenDataSpace-Cascades": {
+     "desc": "The OpenSource Edition of the Cascades-based client for SSP Europe's SecureDataSpace",
+     "url": "http://github.com/blackberry/opendataspace-cascades",
+     "type": "native",
+     "branches": ["master"],
+     "note": "This repo is not led by Research in Motion but by SSP Europe",
+     "tags": [ "native", "samples", "application", "cascades", "bb10" ]
+ },
  "OggVorbis": {
      "desc": "Ogg Vorbis encoder and container",
      "url": "http://github.com/blackberry/OggVorbis",
@@ -397,6 +423,15 @@
      "type": "html5",
      "branches": ["master"],
      "tags": [ "html5", "native", "bb10", "playbook", "port" ]
+ },
+ "Thrift": {
+     "desc": "Port of Apache Thrift",
+     "url": "http://github.com/blackberry/Thrift",
+     "type": "native",
+     "branches": ["master"],
+     "note": "<p><a href='http://github.com/mthistle'>Mark Thistle</a> is working on the port; no estimates yet on commit into repo.</p><p>Implementation includes a Unix Domain Socket Asynchronous IO implementation</p>",
+     "warning": "Code is not yet available",
+     "tags": [ "native" ]
  },
  "TouchControlOverlay": {
      "desc": "Translation Layer from touch inputs to mouse and keyboard events",

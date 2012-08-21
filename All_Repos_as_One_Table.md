@@ -11,6 +11,10 @@ This is a single-table version of [All Repos].
 It provides sortable table with all the repositories in our [GitHub Organization](http://github.com/blackberry),
 generated from a [JSON file](All_Repos.json).  Also see the list of [All Samples].
 
+<p>
+There are <span style='font-size:140%;' id='stats-repocount'><!-- dynamic content --></span> repositories.
+</p>
+
 The table can be sorted on one or more columns.  To select additional
 columns select the next column while pressing the 'SHIFT' (on mac) key.
 
