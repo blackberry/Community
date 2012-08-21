@@ -29,6 +29,7 @@ its not (currently) on BB10 device.  Also add [DevBlog post](http://devblog.blac
 * Ruby on BB10 - [Tweet](http://twitter.com/Jlbenc/status/231741925529624576)
 * PKZip port.
 * Invocation Framework.  Link to samples and to [DevBlog Post](http://devblog.blackberry.com/2012/08/blackberry-10-invocation-framework/)
+* OpenVG - see [Vinnie Simonetti](http://twitter.com/rcmaniac25) relevant [tweet](http://bit.ly/PDemBr)
 
 ### Pages
 * [Android](Android.html)

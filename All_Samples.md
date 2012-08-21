@@ -20,6 +20,7 @@ jsfile: All_Samples.js
 <li><a href="#samplesOtherClient">Other Client Samples</a></li>
 REMOVE end -->
 <li><a href="#samplesServer">Other Samples</a></li>
+<li><a href="#allApps">Applications</a></li>
 </ul>
 </div>
 
@@ -171,11 +172,24 @@ We always welcome your feedback on how to best present information in this and r
 
 REMOVE until here -->
 
-
 <div class="dynContent">
 <div id="samplesOther">
 <a href="samplesOther"><h2>Other Samples</h2></a>
 </div>
+
+<a href="#top">Back to top</a>
+</div>
+
+<div class="dynContent">
+<div id="allApps">
+<a href="allApps"><h2>Applications</h2></a>
+
+<p>
+The samples listed in this table are actually production-ready applications.
+</p>
+
+</div>
+
 
 <a href="#top">Back to top</a>
 </div>

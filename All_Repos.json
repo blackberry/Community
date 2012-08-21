@@ -7,7 +7,7 @@
      "branchinfo": "A description of the branches",
      "note": "More details about the repository",
      "warning": "Special considerations",
-     "tags": [ "an array of tags", "reserved tags are:", "extension", "html5", "native", "java", "air", "cascades", "bb10", "playbook", "client", "server" ]
+     "tags": [ "an array of tags", "reserved tags are:", "extension", "html5", "native", "java", "air", "cascades", "bb10", "playbook", "client", "server", "notrim" ]
  },
  "Alice": {
      "desc": "A Lightweight Independent CSS Engine",
@@ -248,11 +248,11 @@
  },
  "OpenDataSpace-BBJava": {
      "desc": "The OpenSource Edition of the java-based client for SSP Europe's SecureDataSpace",
-     "url": "http://github.com/blackberry/opendataspace-cascades",
+     "url": "http://github.com/blackberry/opendataspace-bbjava",
      "type": "java",
      "branches": ["master"],
      "note": "This repo is not led by Research in Motion but by SSP Europe",
-     "tags": [ "java", "samples", "application" ]
+     "tags": [ "java", "samples", "application", "notrim" ]
  },
  "OpenDataSpace-Cascades": {
      "desc": "The OpenSource Edition of the Cascades-based client for SSP Europe's SecureDataSpace",
@@ -260,7 +260,7 @@
      "type": "native",
      "branches": ["master"],
      "note": "This repo is not led by Research in Motion but by SSP Europe",
-     "tags": [ "native", "samples", "application", "cascades", "bb10" ]
+     "tags": [ "native", "samples", "application", "cascades", "bb10", "notrim" ]
  },
  "OggVorbis": {
      "desc": "Ogg Vorbis encoder and container",
