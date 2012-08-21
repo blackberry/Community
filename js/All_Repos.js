@@ -193,6 +193,19 @@ $(document).ready(function(){
 	 * column: port, samples, type / tags: port, samples, type */
 	items = parseRepoData(data, false, false, true, "yes", "any", "any");
 
+
+	/* Stats */
+	var repoCount = 0;
+	$.each(data, function(key, val) {
+	    /* The "_comment_" record is used to document the JSON format */
+	    if ( key === "_comment_" ) {
+		return true; /* skip this item */
+	    }
+	    repoCount += 1;
+	});
+	$("#stats-repocount").html(repoCount); // Inject
+	    
+
 	/* Inject into page */
 	$('<table/>', {
 	    'id': 'repoPortsTable',

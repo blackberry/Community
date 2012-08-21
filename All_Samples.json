@@ -149,7 +149,7 @@
  },
  "Dialog": {
      "desc": "How to display a dialog using the dialog service",
-     "url": "https://github.com/blackberry/NDK-Samples/tree/master/dialog",
+     "url": "https://github.com/blackberry/NDK-Samples/tree/master/Dialog",
      "repo": "NDK-Samples",
      "repourl": "http://github.com/blackberry/NDK-Samples",
      "note": "<p>There are several branches: 'ndk1' is for PlayBook 1, 'master' is for PlayBook 2 and 'next' is for BlackBerry 10</p>",
@@ -265,9 +265,9 @@
  },
  "HelloCascades": {
      "desc": "Very basic Hello World in Cascades",
-     "url": "http://github.com/blackberry/Cascades-Community-Samples/tree/master/HelloCascades",
-     "repo": "Cascades-Community-Samples",
-     "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
+     "url": "http://github.com/blackberry/Cascades-Samples/tree/master/hellocascades",
+     "repo": "Cascades-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Samples",
      "note": "<p>very basic example</p>",
      "tags": [ "native", "cascades", "client", "bb10" ]
  },
