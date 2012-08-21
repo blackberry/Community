@@ -52,7 +52,7 @@ $.tablesorter.addWidget({
  *
  * portTag - "yes", "no", "any"
  * samplesTag - "yes", "no", "any"
- * typeTag - "html5", "native", "air", "other", "any"
+ * typeTag - "html5", "native", "air", "java", "other", "any", "notrim"
  *
  * Should rewrite with callback funtions on columns and tags
  */
@@ -94,6 +94,7 @@ function parseRepoData(data,
 	    return true; /* skip this item */
 	}
 
+
 	if ( ( $.inArray("html5", val.tags) < 0) && ( typeTag === "html5") ) {
 	    return true; /* skip this item */
 	}
@@ -103,9 +104,17 @@ function parseRepoData(data,
 	if ( ( $.inArray("air", val.tags) < 0) && (typeTag === "air") ) {
 	    return true; /* skip this item */
 	}
+	if ( ( $.inArray("java", val.tags) < 0) && (typeTag === "java") ) {
+	    return true; /* skip this item */
+	}
 	if ( ( ( $.inArray("air", val.tags) >= 0) ||
 	       ( $.inArray("html5", val.tags) >= 0) ||
+	       ( $.inArray("java", val.tags) >= 0) ||
 	       ( $.inArray("native", val.tags) >= 0) ) && (typeTag === "other") ) {
+	    return true; /* skip this item */
+	}
+
+	if ( ( $.inArray("notrim", val.tags) < 0) && (typeTag === "notrim") ) {
 	    return true; /* skip this item */
 	}
 
@@ -187,12 +196,6 @@ $(document).ready(function(){
 
     $.getJSON('/Community/All_Repos.json', function(data) {
 
-	/* Table of Port Repos */
-
-	/* Parse JSON data into items
-	 * column: port, samples, type / tags: port, samples, type */
-	items = parseRepoData(data, false, false, true, "yes", "any", "any");
-
 
 	/* Stats */
 	var repoCount = 0;
@@ -206,81 +209,68 @@ $(document).ready(function(){
 	$("#stats-repocount").html(repoCount); // Inject
 	    
 
-	/* Inject into page */
-	$('<table/>', {
-	    'id': 'repoPortsTable',
-	    html: items.join('')
-	}).appendTo('#repoPorts').addClass("tablesorter");
+	/* Common actions per table */
 
-	$("#repoPortsTable").tablesorter({
-	    widgets: ['zebra', 'repeatHeaders']     // Stripping looking
+	function injectAndSort(items, name) {
+	    if (items.length > 1) {
+		// Inject into page
+		$('<table/>', {  
+		    'id': name+'Table',
+		    html: items.join('')
+		}).appendTo('#'+name).addClass("tablesorter");
+		
+		$("#"+name+"Table").tablesorter({
+		    widgets: ['zebra', 'repeatHeaders']     // Stripping looking
+		});
+	    }
+	}
 
-	});
+
+	/* Table of Port Repos */
+
+	injectAndSort(parseRepoData(data, false, false, true, "yes", "any", "any"),
+		      // port, samples, type / tags: port, samples, type
+		      "repoPorts");
 
 	/* Table of HTML5 Repos */
 
-	/* Parse JSON data into items
-	 * column: port, samples, type / tags: port, samples, type */
-	items = parseRepoData(data, true, true, false, "any", "any", "html5");
-
-	/* Inject into page */
-	$('<table/>', {
-	    'id': 'repoHtml5Table',
-	    html: items.join('')
-	}).appendTo('#repoHtml5').addClass("tablesorter");
-
-	$("#repoHtml5Table").tablesorter({
-	    widgets: ['zebra', 'repeatHeaders']     // Stripping looking
-	});
-
+	injectAndSort(parseRepoData(data, true, true, false, "any", "any", "html5"),
+		      // port, samples, type / tags: port, samples, type
+		      "repoHtml5");
+	
 	/* Table of Native Repos */
 
-	/* Parse JSON data into items
-	 * column: port, samples, type / tags: port, samples, type */
-	items = parseRepoData(data, true, true, false, "any", "any", "native");
-
-	/* Inject into page */
-	$('<table/>', {
-	    'id': 'repoNativeTable',
-	    html: items.join('')
-	}).appendTo('#repoNative').addClass("tablesorter");
-
-	$("#repoNativeTable").tablesorter({
-	    widgets: ['zebra', 'repeatHeaders']     // Stripping looking
-	});
+	injectAndSort(parseRepoData(data, true, true, false, "any", "any", "native"),
+		      // port, samples, type / tags: port, samples, type
+		      "repoNative");
 
 	/* Table of AIR Repos */
 
-	/* Parse JSON data into items
-	 * column: port, samples, type / tags: port, samples, type */
-	items = parseRepoData(data, true, true, false, "any", "any", "air");
+	injectAndSort(parseRepoData(data, true, true, false, "any", "any", "air"),
+		      // port, samples, type / tags: port, samples, type
+		      "repoAir");
 
-	/* Inject into page */
-	$('<table/>', {
-	    'id': 'repoAirTable',
-	    html: items.join('')
-	}).appendTo('#repoAir').addClass("tablesorter");
+	/* Table of Java Repos */
 
-	$("#repoAirTable").tablesorter({
-	    widgets: ['zebra', 'repeatHeaders']     // Stripping looking
-	});
+	injectAndSort(parseRepoData(data, true, true, false, "any", "any", "java"),
+		      // port, samples, type / tags: port, samples, type
+		      "repoJava");
 
 	/* Table of Other Repos */
 
-	/* Parse JSON data into items
-	 * column: port, samples, type / tags: port, samples, type */
-	items = parseRepoData(data, true, true, true, "any", "any", "other");
+	injectAndSort(parseRepoData(data, true, true, true, "any", "any", "other"),
+		      // port, samples, type / tags: port, samples, type
+		      "repoOther");
 
-	/* Inject into page */
-	$('<table/>', {
-	    'id': 'repoOtherTable',
-	    html: items.join('')
-	}).appendTo('#repoOther').addClass("tablesorter");
+	/* Table of Repos not led by RIM */
 
-	/* Sort the tables */
-	$("#repoOtherTable").tablesorter({
-	    widgets: ['zebra', 'repeatHeaders']     // Stripping looking
-	});
+	injectAndSort(parseRepoData(data, true, true, true, "any", "any", "notrim"),
+		      // port, samples, type / tags: port, samples, type
+		      "repoNotRim");
+
+
+
+	/* ============ */
 
 	/* Add the tooltips */
 	$("span.question, span.warning").hover(function() {
