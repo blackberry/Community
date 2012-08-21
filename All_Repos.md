@@ -14,7 +14,9 @@ jsfile: All_Repos.js
 <li><a href="#repoHtml5">HTML5 Repos</a></li>
 <li><a href="#repoNative">Native Repos</a></li>
 <li><a href="#repoAir">Adobe AIR Repos</a></li>
+<li><a href="#repoJava">Java Repos</a></li>
 <li><a href="#repoOther">Other Repos</a></li>
+<li><a href="#repoNotRim">Not by RIM</a></li>
 </ul>
 </div>
 
@@ -66,8 +68,20 @@ We welcome your feedback on how to best present information on our Repositories.
 
 <a href="#top">Back to top</a>
 
+<div id="repoJava">
+<a href="repoJava"><h2>Java Repositories</h2></a>
+</div>
+
+<a href="#top">Back to top</a>
+
 <div id="repoOther">
 <a href="repoOther"><h2>Other Repositories</h2></a>
+</div>
+
+<a href="#top">Back to top</a>
+
+<div id="repoNotRim">
+<a href="repoNotRim"><h2>Repositories Not led by RIM</h2></a>
 </div>
 
 <a href="#top">Back to top</a>

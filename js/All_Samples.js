@@ -162,7 +162,7 @@ $.tablesorter.addWidget({
  * showTagsData
  *      -- only one of showNativeColumn and showBB10Column can be true
  *
- * typeTag - "html5", "native", "air", "java", "otherclient", "other",
+ * typeTag - "html5", "native", "air", "java", "otherclient", "app", "other",
  * extensionTag - true/false
  *
  * return - items
@@ -214,6 +214,9 @@ function parseRepoData(data,
 	var isAir       = ($.inArray("air", val.tags) >= 0);
 	var isCascades  = ($.inArray("cascades", val.tags) >= 0);
 
+	var isApp       = ($.inArray("app", val.tags) >= 0);
+	var isNotRIM    = ($.inArray("notrim", val.tags) >= 0);
+
 	var isBB10      = ($.inArray("bb10", val.tags) >= 0);
 	var isPlayBook  = ($.inArray("playbook", val.tags) >= 0);
 
@@ -245,7 +248,12 @@ function parseRepoData(data,
 
 	// Other, non-client, samples
 	if ( (typeTag === "other") &&
-	     (isClient || isExtension || isHtml5 || isNative || isJava || isAir )) {
+	     (isClient || isExtension || isHtml5 || isNative || isJava || isAir || isApp )) {
+	    return true; // skip
+	}
+
+	// Special Categories
+	if ( (typeTag === "app") && (! isApp) ) {
 	    return true; // skip
 	}
 
@@ -524,6 +532,12 @@ $(document).ready(function(){
 	injectAndSort(parseRepoData(data, false, false, false, true, "other", false),
 		      // showTypeColumn, showBB10Column, showNativeColumn, showTagsData, typeTag
 		      "samplesOther");
+
+	/* Applications */
+
+	injectAndSort(parseRepoData(data, false, false, false, true, "app", false),
+		      // showTypeColumn, showBB10Column, showNativeColumn, showTagsData, typeTag
+		      "allApps");
 
 	/* ========= */
 

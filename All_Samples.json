@@ -8,7 +8,7 @@
      "warning": "optional warning",
      "collection": "number of samples in the collection",
      "wiki": "wiki page with more details - still being discussed",
-     "tags": [ "an array of tags", "reserved tags are:", "extension", "html5", "native", "java", "air", "cascades", "bb10", "playbook", "client", "server" ]
+     "tags": [ "an array of tags", "reserved tags are:", "extension", "html5", "native", "java", "air", "cascades", "bb10", "playbook", "client", "server", "app", "notrim", "rim" ]
  },
  "Accelerometer": {
      "desc": "How to handle updates from the accelerometer sensor",
@@ -586,6 +586,22 @@
      "repourl": "http://github.com/blackberry/jQuery-Mobile-Samples",
      "note": "Samples are intended to be included in the jQuery Mobile Cookbook",
      "tags": [ "html5", "client", "bb10", "jquery"]
+ },
+ "OpenDataSpace-BBJava": {
+     "desc": "The OpenSource Edition of the java-based client for SSP Europe's SecureDataSpace",
+     "url": "http://github.com/blackberry/opendataspace-bbjava",
+     "repo": "OpenDataSpace-BBJava",
+     "repourl": "http://github.com/blackberry/opendataspace-bbjava",
+     "note": "<p>This is a production-ready application</p><p>This project is led by SPP Europe</p>",
+     "tags": [ "java", "client", "bbos", "app", "notrim" ]
+ },
+ "OpenDataSpace-Cascades": {
+     "desc": "The OpenSource Edition of the Cascades-based client for SSP Europe's SecureDataSpace",
+     "url": "http://github.com/blackberry/opendataspace-cascades",
+     "repo": "OpenDataSpace-Cascades",
+     "repourl": "http://github.com/blackberry/opendataspace-cascades",
+     "note": "<p>This is a production-ready application</p><p>This project is led by SPP Europe</p>",
+     "tags": [ "cascades", "client", "bb10", "app", "notrim" ]
  },
  "OpenGLES2-ProgrammingGuide": {
      "desc": "Port of the samples from the OpenGL ES 2 Programming Guide",
