@@ -21,6 +21,14 @@ title="convert to your time zone">2pm ET</a>
 These news are archived on a regular basis; look at [All News] for older news,
 or use [this News feed](http:atom.xml).
 
+### Stump the BlackBerry Devs
+After a call to action from [Brian Zubert] to
+[Stump the BlackBerry Devs](http://devblog.blackberry.com/2012/08/stump-blackberry-devs/),
+we are going to start collecting challenges and solutions in the _StumpTheDevs_ section of the
+[Cascades-Community-Samples](http://github.com/blackberry/Cascades-Community-Samples).
+
+_Source_: [Brian Zubert] via [DevBlog](http://devblog.blackberry.com/2012/08/stump-blackberry-devs/) on August 10, 2012, and [Eduardo Pelegri-Llopart] on August 22, 2012
+
 ### Roadmaps for all 
 We have released fairly detailed roadmaps for all our technologies; check the pages for
 [Cascdes](https://developer.blackberry.com/cascades/download/roadmap),
@@ -33,10 +41,9 @@ We intend to keep these roadmaps up-to-date.
 _Source_: [Tim Neil] via [DevBlog](http://devblog.blackberry.com/2012/08/flight-arrival-boards/) on August 22, 2012
 
 ### On Nokia, Qt and Cascades
-Digia
-[has announced](http://www.digia.com/Qt/About-us/News/Digia-to-Acquire-Qt-from-Nokia/)
-that it has signed an agreement to acquire Qt software technologies and Qt busines from Nokia.
-Tim wrote a [note at DevBlog](http://devblog.blackberry.com/2012/08/qt-cascades/) expanding on this,
+Tim wrote a [note at DevBlog](http://devblog.blackberry.com/2012/08/qt-cascades/) expanding on
+[Digia acquisition](http://www.digia.com/Qt/About-us/News/Digia-to-Acquire-Qt-from-Nokia/)
+of Qt software technologies and Qt busines from Nokia,
 on the relationship between Qt and Cascades, and on RIM's strategy.
 
 _Source_: [Tim Neil] via [DevBlog](http://devblog.blackberry.com/2012/08/qt-cascades/) on August 22, 2012
@@ -52,7 +59,8 @@ on August 16, 2012
 We now have new online catalogs for [All Repositories](http://blackberry.github.com/Community/All_Repos.html)
 and
 [All Samples](http://blackberry.github.com/Community/All_Samples.html).
-The Samples catalog supports narrowing based on tags.
+We currently have over 238 samples and over 60 repositories.
+Note that the Samples catalog supports narrowing based on tags to help you navigate through all the samples.
 
 _Source_: [Eduardo Pelegri-Llopart] on August 15, 2012
 
