@@ -81,6 +81,13 @@ _Source_: [Ken Wallis] and [Russell Andrade] via [DevBlog](http://devblog.blackb
 _Source_: [Tim Neil via [DevBlog](http://devblog.blackberry.com/2012/08/blackberry-10-screen-resolutions/)
 on August 15, 2012
 
+### The OSBBx bbUI.js Contest
+The OSBBx group has started a contest to create bbUI.js-based Applications.  Check it out at
+[OpenSourceBB blog](http://opensourcebb.com/2012/08/introducing-the-osbbx-bbui-js-contest/).
+
+_Source_: [Shane Cridlebaugh] via [OpenSourceBB blog](http://opensourcebb.com/2012/08/introducing-the-osbbx-bbui-js-contest/)
+on August 13, 2012
+
 ### Digia Acquires Qt from Nokia
 [Digia](http://www.digia.com/) has acquired the Qt software technologies and Qt business from
 [Nokia](http://www.nokia.com).
