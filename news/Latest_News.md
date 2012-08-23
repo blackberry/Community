@@ -21,6 +21,26 @@ title="convert to your time zone">2pm ET</a>
 These news are archived on a regular basis; look at [All News] for older news,
 or use [this News feed](http:atom.xml).
 
+### Roadmaps for all 
+We have released fairly detailed roadmaps for all our technologies; check the pages for
+[Cascdes](https://developer.blackberry.com/cascades/download/roadmap),
+[HTML5](https://developer.blackberry.com/html5/download/roadmap/),
+[Native](https://developer.blackberry.com/native/beta/download/roadmap),
+[Adobe AIR](https://developer.blackberry.com/air/beta/download/roadmap),
+[Android Runtime](https://developer.blackberry.com/android/tools/roadmap).
+We intend to keep these roadmaps up-to-date.
+
+_Source_: [Tim Neil] via [DevBlog](http://devblog.blackberry.com/2012/08/flight-arrival-boards/) on August 22, 2012
+
+### On Nokia, Qt and Cascades
+Digia
+[has announced](http://www.digia.com/Qt/About-us/News/Digia-to-Acquire-Qt-from-Nokia/)
+that it has signed an agreement to acquire Qt software technologies and Qt busines from Nokia.
+Tim wrote a [note at DevBlog](http://devblog.blackberry.com/2012/08/qt-cascades/) expanding on this,
+on the relationship between Qt and Cascades, and on RIM's strategy.
+
+_Source_: [Tim Neil] via [DevBlog](http://devblog.blackberry.com/2012/08/qt-cascades/) on August 22, 2012
+
 ### New User Agent String for BlackBerry 10
 The BlackBerry 10 browser will be using a new User Agent String to identify itself.  See the details at
 [DevBlog](http://devblog.blackberry.com/2012/08/blackberry-10-user-agent-string/).
