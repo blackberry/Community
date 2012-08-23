@@ -5,17 +5,11 @@ title: Latest Community News
 {% include news-defs.md %}
 
 <div style="background-color: ghostwhite; border-style: solid; border-width: 1px; padding: 10px; margin-top: 10px; font-size: 105%; text-align: center; line-height: 180%;">
-New Webinars on July 19t for the BlackBerry Dev Alpha Community
-<br/>
-<a href="http://www.blackberrydeveloperevents.com/events/webcast/registration/register.html?scoid=1052571652">WebWorks SDK</a>
+New Webinar on September 5th on
+<a href="hhttp://www.blackberrydeveloperevents.com/events/webcast/registration/register.html?scoid=1060802208">Using bbUI.js</a>
 at
-<a href="http://www.timeanddate.com/worldclock/fixedtime.html?iso=20120719T1500"
+<a href="http://www.timeanddate.com/worldclock/fixedtime.html?iso=20120905T1500"
 title="convert to your time zone">11am ET</a>
-and
-<a href="http://www.blackberrydeveloperevents.com/events/webcast/registration/register.html?scoid=1052539763">Native SDK</a>
-at
-<a href="http://www.timeanddate.com/worldclock/fixedtime.html?iso=20120719T1800"
-title="convert to your time zone">2pm ET</a>
 </div>
 
 These news are archived on a regular basis; look at [All News] for older news,
