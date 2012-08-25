@@ -8,7 +8,7 @@
      "warning": "optional warning",
      "collection": "number of samples in the collection",
      "wiki": "wiki page with more details - still being discussed",
-     "tags": [ "an array of tags", "reserved tags are:", "extension", "html5", "native", "java", "air", "cascades", "bb10", "playbook", "client", "server", "app", "notrim", "rim" ]
+     "tags": [ "an array of tags", "reserved tags are:", "extension", "html5", "native", "java", "air", "cascades", "bb10", "playbook", "client", "server", "app", "notrim", "rim", "puzzler" ]
  },
  "Accelerometer": {
      "desc": "How to handle updates from the accelerometer sensor",
@@ -197,6 +197,13 @@
      "repo": "BB10-WebWorks-Samples",
      "repourl": "http://github.com/blackberry/BB10-WebWorks-Samples",
      "tags": [ "html5", "client", "playbook", "bb10", "webworks", "filetransfer" ]
+ },
+ "FunWithSensors": {
+     "desc": "How to activate and listen to the sensors in the device",
+     "url": "http://github.com/blackberry/Cascades-Community-Samples/tree/master/FunWithSensors",
+     "repo": "Cascades-Community-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
+     "tags": [ "native", "cascades", "bb10", "sensors", "temperature", "light", "magnetometer", "accelerometer", "gyroscope"]
  },
  "GlobalEvent(ext,bbos)": {
      "desc": "WebWorks Java-based Smartphone extension to listen for Global Events (given a GUID)",
@@ -483,6 +490,14 @@
      "repourl": "http://github.com/blackberry/WebWorks-Community-APIs",
      "warning": "work in progress",
      "tags": [ "html5", "client", "bbos", "extension", "message" ]
+ },
+ "MakeThis!": {
+     "desc": "An informal Post-It Kick-Starting the 'Stump The BlackBerry Dev' Program",
+     "url": "http://github.com/pelegri/Cascades-Community-Samples/tree/stumpers/StumpTheDevs",
+     "repo": "Cascades-Community-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
+     "warning": "Just staged for now!",
+     "tags": [ "natvie", "cascades", "bb10", "puzzler" ]
  },
  "NativeCamera": {
      "desc": "A simple picture-taking app in C/C++ without Cascades" , 
