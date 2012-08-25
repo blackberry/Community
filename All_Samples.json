@@ -316,6 +316,14 @@
      "note": "<p>There are several branches: 'ndk1' is for PlayBook 1, 'master' is for PlayBook 2 and 'next' is for BlackBerry 10</p>",
      "tags": [ "native", "client", "bb10", "playbook" ]
  },
+ "HelloWorldDataModel": {
+     "desc": "Use your own DataModel with ListView",
+     "url": "http://github.com/blackberry/Cascades-Samples/tree/master/HelloWorldDataModel",
+     "repo": "Cascades-Samples",
+     "note": "For more details, refer to the companion <a href='http://supportforums.blackberry.com/t5/Cascades-Development-Knowledge/Using-your-own-DataModel/ta-p/1755893'>KB Article</a>",
+     "repourl": "http://github.com/blackberry/Cascades-Samples",
+     "tags": [ "native", "cascades", "bb10", "list" ]
+ },
  "HelloWorldDisplay": {
      "desc": "Print customized text",
      "url": "https://github.com/blackberry/NDK-Samples/tree/master/HelloWorldDisplay",
@@ -756,6 +764,14 @@
      "note": "<p>Note that there are two branches: <em>bb10</em> for BlackBerry 10 and <em>master</em> for PlayBook</p>",
      "tags": [ "air", "client", "bb10", "push" ]
  },
+ "QImageScratchPad": {
+     "desc": "How to use QImage and QPainter to prepare a cascades::Image",
+     "url": "http://github.com/blackberry/Cascades-Samples/tree/master/QImageScratchPad",
+     "repo": "Cascades-Samples",
+     "note": "For more details, refer to the companion <a href='http://supportforums.blackberry.com/t5/Cascades-Development-Knowledge/Using-QImage-and-QPainter-to-Prepare-a-cascades-Image/ta-p/1809841'>KB Article</a>",
+     "repourl": "http://github.com/blackberry/Cascades-Samples",
+     "tags": [ "native", "cascades", "bb10", "image" ]
+ },
  "Qt2Cascades.IPC": {
      "desc": "Adaptations of the IPC samples of the <a href='http://doc.qt.nokia.com/4.7-snapshot/all-examples.html'>Qt Example Projects</a> to Cascades",
      "url": "http://github.com/blackberry/Qt2Cascades-Samples/tree/master/ipc",
@@ -958,6 +974,13 @@
      "repo": "WebWorks-Community-APIs",
      "repourl": "http://github.com/blackberry/WebWorks-Community-APIs",
      "tags": [ "html5", "client", "playbook", "sleep", "extension" ]
+ },
+ "ScrollableLists": {
+     "desc": "A UI that scrolls horizontally in Cascades",
+     "url": "http://github.com/blackberry/Cascades-Samples/tree/master/ScrollableLists",
+     "repo": "Cascades-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Samples",
+     "tags": [ "native", "cascades", "bb10", "list" ]
  },
  "SoapXMLSample": {
      "desc": "How to access a SOAP service using QTSoap, and how to handle the XML Response",
