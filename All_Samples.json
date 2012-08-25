@@ -332,6 +332,13 @@
      "note": "<p>There are several branches: 'ndk1' is for PlayBook 1, 'master' is for PlayBook 2 and 'next' is for BlackBerry 10</p>",
      "tags": [ "native", "client", "bb10", "playbook", "http" ]
  },
+ "HttpTestSample": {
+     "desc": "How to use HTTP Post and Get to communicate with a remote server",
+     "url": "http://github.com/blackberry/Cascades-Samples/tree/master/HttpTestSample",
+     "repo": "Cascades-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Samples",
+     "tags": [ "native", "cascades", "bb10", "rest", "xml", "http" ]
+ },
  "Internationalization": {
      "desc": "How to use the built-in Internationalization engine to deliver your app in multiple languages",
      "url": "http://github.com/blackberry/Cascades-Samples/tree/master/Internationalization",
@@ -489,6 +496,13 @@
      "repo": "WebWorks-Community-APIs",
      "repourl": "http://github.com/blackberry/WebWorks-Community-APIs",
      "tags": [ "html5", "client", "bbos", "extension", "location" ]
+ },
+ "LogExceptionSample": {
+     "desc": "How to handle an exception, log it, and display meaningful data back to the user",
+     "url": "http://github.com/blackberry/Cascades-Samples/tree/master/LogExceptionSample",
+     "repo": "Cascades-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Samples",
+     "tags": [ "native", "cascades", "bb10", "logging" ]
  },
  "MessageList(ext,bbos)": {
      "desc": "WebWorks Java-based Smartphone extension to add items to the main mesage list",
@@ -945,6 +959,13 @@
      "repourl": "http://github.com/blackberry/WebWorks-Community-APIs",
      "tags": [ "html5", "client", "playbook", "sleep", "extension" ]
  },
+ "SoapXMLSample": {
+     "desc": "How to access a SOAP service using QTSoap, and how to handle the XML Response",
+     "url": "http://github.com/blackberry/Cascades-Samples/tree/master/SoapXMLSample",
+     "repo": "Cascades-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Samples",
+     "tags": [ "native", "cascades", "bb10", "soap", "xml" ]
+ },
  "SocialApp": {
      "desc": "Shows integration with Social Apps like FaceBook, Twitter, etc",
      "url": "https://github.com/blackberry/Samples-for-Java/tree/master/SocialApp",
@@ -1057,6 +1078,13 @@
      "repourl": "http://github.com/blackberry/WebGL-Samples",
      "note": "<p>A playable race-the-tunnel game that runs on the BlackBerry PlayBook and BlackBerry 10 as well as on desktop browsers.</p><p>Usually packaged into a WebWorks App but for a browser experience, visit <a href='http://blackberry.github.com/WebGL-Samples/tunneltilt/'>here</a>",
      "tags": [ "html5", "client", "bb10", "playbook", "webgl", "webworks" ]
+ },
+ "TwitterTimeline": {
+     "desc": "Accesses the Twitter RESTful service an duses the JSON responde to display a list of tweets on screen",
+     "url": "http://github.com/blackberry/Cascades-Samples/tree/master/TwitterTimeline",
+     "repo": "Cascades-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Samples",
+     "tags": [ "native", "cascades", "bb10", "rest", "http", "json", "twitter" ]
  },
  "UIExamples": {
      "desc": "Shows how to replicated some common types of BlackBerry UI concepts.  Use bbUI.js instead",
