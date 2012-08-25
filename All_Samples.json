@@ -497,7 +497,21 @@
      "repo": "Cascades-Community-Samples",
      "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
      "warning": "Just staged for now!",
-     "tags": [ "natvie", "cascades", "bb10", "puzzler" ]
+     "tags": [ "native", "cascades", "bb10", "puzzler" ]
+ },
+ "Multithreading 101": {
+     "desc": "Demonstrates how four different threads can process data in a thread and update the UI independently",
+     "url": "http://github.com/blackberry/Cascades-Community-Samples/tree/master/MultithreadingCallbacks101",
+     "repo": "Cascades-Community-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
+     "tags": [ "native", "cascades", "bb10", "threads" ]
+ },
+ "Multithreading 102": {
+     "desc": "Shows the proper method of breaking a network call into a separate class and have the interface bring back the response into the UI",
+     "url": "http://github.com/blackberry/Cascades-Community-Samples/tree/master/MultithreadingCallbacks102",
+     "repo": "Cascades-Community-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
+     "tags": [ "native", "cascades", "bb10", "threads" ]
  },
  "NativeCamera": {
      "desc": "A simple picture-taking app in C/C++ without Cascades" , 
