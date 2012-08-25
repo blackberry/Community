@@ -5,21 +5,42 @@ title: Latest Community News
 {% include news-defs.md %}
 
 <div style="background-color: ghostwhite; border-style: solid; border-width: 1px; padding: 10px; margin-top: 10px; font-size: 105%; text-align: center; line-height: 180%;">
-New Webinars on July 19t for the BlackBerry Dev Alpha Community
-<br/>
-<a href="http://www.blackberrydeveloperevents.com/events/webcast/registration/register.html?scoid=1052571652">WebWorks SDK</a>
+New Webinar on September 5th on
+<a href="hhttp://www.blackberrydeveloperevents.com/events/webcast/registration/register.html?scoid=1060802208">Using bbUI.js</a>
 at
-<a href="http://www.timeanddate.com/worldclock/fixedtime.html?iso=20120719T1500"
+<a href="http://www.timeanddate.com/worldclock/fixedtime.html?iso=20120905T1500"
 title="convert to your time zone">11am ET</a>
-and
-<a href="http://www.blackberrydeveloperevents.com/events/webcast/registration/register.html?scoid=1052539763">Native SDK</a>
-at
-<a href="http://www.timeanddate.com/worldclock/fixedtime.html?iso=20120719T1800"
-title="convert to your time zone">2pm ET</a>
 </div>
 
 These news are archived on a regular basis; look at [All News] for older news,
 or use [this News feed](http:atom.xml).
+
+### Stump the BlackBerry Devs
+After a call to action from [Brian Zubert] to
+[Stump the BlackBerry Devs](http://devblog.blackberry.com/2012/08/stump-blackberry-devs/),
+we are going to start collecting challenges and solutions in the _StumpTheDevs_ section of the
+[Cascades-Community-Samples](http://github.com/blackberry/Cascades-Community-Samples).
+
+_Source_: [Brian Zubert] via [DevBlog](http://devblog.blackberry.com/2012/08/stump-blackberry-devs/) on August 10, 2012, and [Eduardo Pelegri-Llopart] on August 22, 2012
+
+### Roadmaps for all 
+We have released fairly detailed roadmaps for all our technologies; check the pages for
+[Cascdes](https://developer.blackberry.com/cascades/download/roadmap),
+[HTML5](https://developer.blackberry.com/html5/download/roadmap/),
+[Native](https://developer.blackberry.com/native/beta/download/roadmap),
+[Adobe AIR](https://developer.blackberry.com/air/beta/download/roadmap),
+[Android Runtime](https://developer.blackberry.com/android/tools/roadmap).
+We intend to keep these roadmaps up-to-date.
+
+_Source_: [Tim Neil] via [DevBlog](http://devblog.blackberry.com/2012/08/flight-arrival-boards/) on August 22, 2012
+
+### On Nokia, Qt and Cascades
+Tim wrote a [note at DevBlog](http://devblog.blackberry.com/2012/08/qt-cascades/) expanding on
+[Digia acquisition](http://www.digia.com/Qt/About-us/News/Digia-to-Acquire-Qt-from-Nokia/)
+of Qt software technologies and Qt busines from Nokia,
+on the relationship between Qt and Cascades, and on RIM's strategy.
+
+_Source_: [Tim Neil] via [DevBlog](http://devblog.blackberry.com/2012/08/qt-cascades/) on August 22, 2012
 
 ### New User Agent String for BlackBerry 10
 The BlackBerry 10 browser will be using a new User Agent String to identify itself.  See the details at
@@ -32,7 +53,8 @@ on August 16, 2012
 We now have new online catalogs for [All Repositories](http://blackberry.github.com/Community/All_Repos.html)
 and
 [All Samples](http://blackberry.github.com/Community/All_Samples.html).
-The Samples catalog supports narrowing based on tags.
+We currently have over 238 samples and over 60 repositories.
+Note that the Samples catalog supports narrowing based on tags to help you navigate through all the samples.
 
 _Source_: [Eduardo Pelegri-Llopart] on August 15, 2012
 
@@ -52,6 +74,13 @@ _Source_: [Ken Wallis] and [Russell Andrade] via [DevBlog](http://devblog.blackb
 
 _Source_: [Tim Neil via [DevBlog](http://devblog.blackberry.com/2012/08/blackberry-10-screen-resolutions/)
 on August 15, 2012
+
+### The OSBBx bbUI.js Contest
+The OSBBx group has started a contest to create bbUI.js-based Applications.  Check it out at
+[OpenSourceBB blog](http://opensourcebb.com/2012/08/introducing-the-osbbx-bbui-js-contest/).
+
+_Source_: [Shane Cridlebaugh] via [OpenSourceBB blog](http://opensourcebb.com/2012/08/introducing-the-osbbx-bbui-js-contest/)
+on August 13, 2012
 
 ### Digia Acquires Qt from Nokia
 [Digia](http://www.digia.com/) has acquired the Qt software technologies and Qt business from

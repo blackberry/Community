@@ -91,6 +91,15 @@ Samples come from <span id='stats-repocount'><!-- dynamic content --></span> rep
 </div>
 <div style="margin-top:2px; margin-left:20px;">
 <ul>
+<li>Create a separate, additional catalog for all OSS samples:
+<ul>
+<li>No tables at all</li>
+<li>Track author</li>
+<li>Track AppWorld id</li>
+<li>Project anywhere, not just GitHub.com/BlackBerry</li>
+<li>Maybe select by several tags?</li>
+</ul>
+</li>
 <li>Need better visuals on what elements are clickable (Reset and tag names)</li>
 <li>Need different tags for "playbook, may run on bb10 but have not yet tested" from "playbook only"</li>
 <li>At the same time, fix the BB10 column in Samples so it can be sorted</li>
