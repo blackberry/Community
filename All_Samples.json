@@ -100,6 +100,14 @@
      "repourl": "http://github.com/blackberry/WebWorks-Community-APIs",
      "tags": [ "html5", "client", "bbos", "extension", "calendar", "events" ]
  },
+ "CascadesBasicSample": {
+     "desc": "Demonstrates the use of signal / slot between QML and C++",
+     "url": "http://github.com/blackberry/Cascades-Samples/tree/master/Cascades-BasicSample",
+     "repo": "Cascades-Samples",
+     "note": "Learning Trail: HelloCascades &rarr; CascadesBasicSample &rarr; GoodCitizenCascades",
+     "repourl": "http://github.com/blackberry/Cascades-Samples",
+     "tags": [ "native", "cascades", "bb10", "intro", "qml" ]
+ },
  "CascadesCookbookCpp": {
      "desc": "Cookbook of the various controls in Cascades, written using C++",
      "url": "https://github.com/blackberry/Cascades-Samples/tree/master/cascadescookbookcpp",
@@ -115,6 +123,14 @@
      "repourl": "http://github.com/blackberry/Cascades-Samples",
      "note": "<p>Also see the companion CascadesCookbookCpp",
      "tags": [ "native", "client", "bb10", "cascades", "control", "qml" ]
+ },
+ "CascadesOpenGL": {
+     "desc": "Simple demonstration on how to use OpenGL in a ForeignWindow",
+     "url": "http://github.com/blackberry/Cascades-Samples/tree/master/CascadesOpenGL",
+     "repo": "Cascades-Samples",
+     "note": "Learning Trail: HelloCascades &rarr; CascadesBasicSample &rarr; GoodCitizenCascades",
+     "repourl": "http://github.com/blackberry/Cascades-Samples",
+     "tags": [ "native", "cascades", "bb10", "intro", "foreignwindow", "opengl" ]
  },
  "Clipboard(ext,pb)": {
      "desc": "WebWorks PlayBook extension to access clipboard read/write",
@@ -155,6 +171,13 @@
      "note": "<p>There are several branches: 'ndk1' is for PlayBook 1, 'master' is for PlayBook 2 and 'next' is for BlackBerry 10</p>",
      "tags": [ "native", "client", "bb10", "playbook", "dialog" ]
  },
+ "DialogSample": {
+     "desc": "Display different types of dialogs: alert, prompt, login, file browsers, and also context menu. Display and retrieve data.",
+     "url": "http://github.com/blackberry/Cascades-Samples/tree/master/DialogSample",
+     "repo": "Cascades-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Samples",
+     "tags": [ "native", "cascades", "bb10", "dialog" ]
+ },
  "EmailListener(ext,bbos)": {
      "desc": "WebWorks Java-based Smartphone extension to receive a Event Objet when email is received",
      "url": "http://github.com/blackberry/WebWorks-Community-APIs/tree/master/Smartphone/EmailListener",
@@ -191,6 +214,13 @@
      "repourl": "http://github.com/blackberry/WebWorks-Community-APIs",
      "tags": [ "html5", "client", "bbos", "extension", "upload" ]
  },
+ "FilteredListView": {
+     "desc": "How to use a custom DataModel to dynamically filter the data displayed by a ListView",
+     "url": "http://github.com/blackberry/Cascades-Samples/tree/master/FilteredListView",
+     "repo": "Cascades-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Samples",
+     "tags": [ "native", "cascades", "bb10", "list" ]
+ },
  "FileTransfer": {
      "desc": "Sample applications that demonstrate how to use the blackberry.io and blackberry.io.filetransfer APIs",
      "url": "https://github.com/blackberry/BB10-WebWorks-Samples/tree/master/fileTransfer",
@@ -204,21 +234,6 @@
      "repo": "Cascades-Samples",
      "repourl": "http://github.com/blackberry/Cascades-Samples",
      "tags": [ "native", "cascades", "bb10", "sensors", "temperature", "light", "magnetometer", "accelerometer", "gyroscope"]
- },
- "GlobalEvent(ext,bbos)": {
-     "desc": "WebWorks Java-based Smartphone extension to listen for Global Events (given a GUID)",
-     "url": "http://github.com/blackberry/WebWorks-Community-APIs/tree/master/Smartphone/GlobalEvent",
-     "repo": "WebWorks-Community-APIs",
-     "repourl": "http://github.com/blackberry/WebWorks-Community-APIs",
-     "tags": [ "html5", "client", "bbos", "extension", "events" ]
- },
- "GoodCitizen": {
-     "desc": "Introduction to a number of common development practices",
-     "url": "https://github.com/blackberry/NDK-Samples/tree/master/GoodCitizen",
-     "repo": "NDK-Samples",
-     "repourl": "http://github.com/blackberry/NDK-Samples",
-     "note": "<p>Showcases lighting, textures, orientation and touch events, swipe downs, saving application state, clean termination, etc</p><p>There are several branches: 'ndk1' is for PlayBook 1, 'master' is for PlayBook 2 and 'next' is for BlackBerry 10</p>",
-     "tags": [ "native", "client", "bb10", "playbook", "accelerometer", "image", "lighting", "opengl", "textures"]
  },
  "GeoLocation": {
      "desc": "Display current location data",
@@ -253,6 +268,21 @@
      "note": "<p>There are several branches: 'ndk1' is for PlayBook 1, 'master' is for PlayBook 2 and 'next' is for BlackBerry 10</p>",
      "warning": "Verify my interpretattion about 1.1",
      "tags": [ "native", "client", "bb10", "playbook", "bps", "opengl", "libscreen" ]
+ },
+ "GlobalEvent(ext,bbos)": {
+     "desc": "WebWorks Java-based Smartphone extension to listen for Global Events (given a GUID)",
+     "url": "http://github.com/blackberry/WebWorks-Community-APIs/tree/master/Smartphone/GlobalEvent",
+     "repo": "WebWorks-Community-APIs",
+     "repourl": "http://github.com/blackberry/WebWorks-Community-APIs",
+     "tags": [ "html5", "client", "bbos", "extension", "events" ]
+ },
+ "GoodCitizen": {
+     "desc": "Introduction to a number of common development practices",
+     "url": "https://github.com/blackberry/NDK-Samples/tree/master/GoodCitizen",
+     "repo": "NDK-Samples",
+     "repourl": "http://github.com/blackberry/NDK-Samples",
+     "note": "<p>Showcases lighting, textures, orientation and touch events, swipe downs, saving application state, clean termination, etc</p><p>There are several branches: 'ndk1' is for PlayBook 1, 'master' is for PlayBook 2 and 'next' is for BlackBerry 10</p>",
+     "tags": [ "native", "client", "bb10", "playbook", "accelerometer", "image", "lighting", "opengl", "textures"]
  },
  "GoodCitizenCascades": {
      "desc": "The Cascades version of the NDK Sample App named 'Good Citizen'",
