@@ -200,9 +200,9 @@
  },
  "FunWithSensors": {
      "desc": "How to activate and listen to the sensors in the device",
-     "url": "http://github.com/blackberry/Cascades-Community-Samples/tree/master/FunWithSensors",
-     "repo": "Cascades-Community-Samples",
-     "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
+     "url": "http://github.com/blackberry/Cascades-Samples/tree/master/FunWithSensors",
+     "repo": "Cascades-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Samples",
      "tags": [ "native", "cascades", "bb10", "sensors", "temperature", "light", "magnetometer", "accelerometer", "gyroscope"]
  },
  "GlobalEvent(ext,bbos)": {
@@ -331,6 +331,13 @@
      "repourl": "http://github.com/blackberry/NDK-Samples",
      "note": "<p>There are several branches: 'ndk1' is for PlayBook 1, 'master' is for PlayBook 2 and 'next' is for BlackBerry 10</p>",
      "tags": [ "native", "client", "bb10", "playbook", "http" ]
+ },
+ "Internationalization": {
+     "desc": "How to use the built-in Internationalization engine to deliver your app in multiple languages",
+     "url": "http://github.com/blackberry/Cascades-Samples/tree/master/Internationalization",
+     "repo": "Cascades-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Samples",
+     "tags": [ "native", "cascades", "bb10", "i18n" ]
  },
  "Invoke": {
      "desc": "Two sample applications that show how to use the blackberry.invoke API for WebWorks",
@@ -501,16 +508,16 @@
  },
  "Multithreading 101": {
      "desc": "Demonstrates how four different threads can process data in a thread and update the UI independently",
-     "url": "http://github.com/blackberry/Cascades-Community-Samples/tree/master/MultithreadingCallbacks101",
-     "repo": "Cascades-Community-Samples",
-     "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
+     "url": "http://github.com/blackberry/Cascades-Samples/tree/master/MultithreadingCallbacks101",
+     "repo": "Cascades-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Samples",
      "tags": [ "native", "cascades", "bb10", "threads" ]
  },
  "Multithreading 102": {
      "desc": "Shows the proper method of breaking a network call into a separate class and have the interface bring back the response into the UI",
-     "url": "http://github.com/blackberry/Cascades-Community-Samples/tree/master/MultithreadingCallbacks102",
-     "repo": "Cascades-Community-Samples",
-     "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
+     "url": "http://github.com/blackberry/Cascades-Samples/tree/master/MultithreadingCallbacks102",
+     "repo": "Cascades-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Samples",
      "tags": [ "native", "cascades", "bb10", "threads" ]
  },
  "NativeCamera": {
