@@ -43,7 +43,7 @@ Repo and technology goes here
 
 
 ### Also See
-[BlackBerry 10], [BlackBerry 10 Releases], [BlackBerry 10.0.06]
+[BlackBerry 10], [BlackBerry 10 Releases], [BlackBerry 10.0.06][BlackBerry_10_0_06]
 
  
  

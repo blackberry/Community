@@ -18,7 +18,7 @@ See the [Main Page](https://developer.blackberry.com/services/push/)
 
 ### Downloads
 
-Check out the main download page](http://docs.blackberry.com/en/developers/subcategories/?userType=21&category=Push+Service).
+Check out the [main download page](http://docs.blackberry.com/en/developers/subcategories/?userType=21&category=Push+Service).
 
 The current public beta for BlackBerry 10 does not yet include an API for push in 
 
@@ -31,7 +31,7 @@ are still TBD.
 
 ### Other Implementations
 
-The Zen C# BlackBerry Push Service SDK claims to provide access to the BlackBerry PUsh service from C#.  The
+The Zen C# BlackBerry Push Service SDK claims to provide access to the BlackBerry Push service from C#.  The
 [Codeplex Project Page](http://blackberrypushsdk.codeplex.com/) describes the status as _"alpha"_.
 
 ### Also See

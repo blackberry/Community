@@ -24,11 +24,11 @@ More go here...
 #### Access to Platform Functionality
 APIs used to interact with the server-side port of the BlackBerry Platform.
 
-* [BlackBerry Advertising Service]
-* [BlackBerry Analytics Service] - 
-* [BlackBerry Payment Service] -
+* [BlackBerry Advertising Service][BlackBerry_Advertising_Service]
+* [BlackBerry Analytics Service][BlackBerry_Analytics_Service]
+* [BlackBerry Payment Service][BlackBerry_Payment_Service] -
 * [BlackBerry Web Services for Enterprise Administration][bws] - Administer a [BES] via SOAP
-* [BlackBerry Push Service] - Push Content to BlackBerry Devices
+* [BlackBerry Push Service][BlackBerry_Push_Service] - Push Content to BlackBerry Devices
 
 Also see the BlackBerry Java 7.1 main page for [Platform Services](https://developer.blackberry.com/java/documentation/ww_java_platservices/platform_services_1977826_11.html)
 which covers BBM, Analytics, Payment, Advertisement and Push.
