@@ -52,6 +52,7 @@ title: All Pages
 * [HTML5]
 * [HTML5 Samples]
 * [HTML5 Tools]
+* [Libraries]
 * [LZMA]
 * [NFC]
 * [NodeBeat]
