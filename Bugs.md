@@ -17,7 +17,7 @@ those for [bbUI.js](https://github.com/blackberry/bbui.js/issues),
 [gameplay](https://github.com/blackberry/gameplay/issues),
 [webworks for BlackBerry Smartphones](https://github.com/blackberry/webworks/issues),
 [webworks for TabletOS](https://github.com/blackberry/webworks-tabletos/issues),
-etc, etc.
+etc.
 
 Issues with this wiki are split between
 [content issues](https://github.com/blackberry/community/issues)
