@@ -35,4 +35,4 @@ Several popular [OSS Components](https://developer.blackberry.com/native/documen
 * [libasound](https://developer.blackberry.com/native/reference/com.qnx.doc.neutrino.audio/topic/copyright_3p.html) from [ALSA](http://www.alsa-project.org/main/index.php/Main_Page)
 
 ### Also See
-[samples], [bps]
+[Code Samples][samples], [BlackBerry Platform Services][bps]

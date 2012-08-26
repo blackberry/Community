@@ -29,13 +29,13 @@ These libraries exist on the BlackBerry PlayBook and/or BlackBerry 10.
 </tr>
 <tr>
 <td>OpenAL</td>
-<td>[repo:alut]</td>
-<td>[mit]</td>
+<td>[ALUT][repo:alut]</td>
+<td>[MIT][mit]</td>
 </tr>
 <tr>
 <td>Qt</td>
-<td>[repo:qt]</td>
-<td>[lgpl2] with Exception</td>
+<td>[Qt][repo:qt]</td>
+<td>[LGPL 2.1][lgpl2] with Exception</td>
 </tr>
 </body>
 </table>
@@ -52,12 +52,12 @@ These libraries exist on the BlackBerry PlayBook and/or BlackBerry 10.
 <tr>
 <td>Microsoft Bing for BlackBerry</td>
 <td>[Bing for BlackBerry](http://bbing.codeplex.com/)</td>
-<td>[mspl]</td>
+<td>[Ms-Pl][mspl]</td>
 </tr>
 <tr>
 <td>OpenVG 1.1 Reference Implementation</td>
 <td>[OpenVG 1.1](https://github.com/rcmaniac25/OpenVG-BlackBerry)</td>
-<td>[mit]</td>
+<td>[MIT][mit]</td>
 </tr>
 </body>
 </table>
@@ -67,5 +67,5 @@ These libraries exist on the BlackBerry PlayBook and/or BlackBerry 10.
 TBD
 
 ### Also See
-[open_source]
+[Open Source][open_source]
 
