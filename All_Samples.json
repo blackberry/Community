@@ -657,7 +657,7 @@
      "repo": "Cascades-Community-Samples",
      "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
      "note": "See recording of demo at <a href='http://www.youtube.com/watch?v=3nX_AploVC8' target='_blank'>YouTube</a>",
-     "warning": "Location of sample will change within the repository",
+     "warning": "<p>Location of sample will change within the repository</p><p>Does not compile for R6!</p>",
      "tags": [ "native", "client", "opengl", "bb10", "cascades" ]
  },
  "Notification(ext,bbos)": {
