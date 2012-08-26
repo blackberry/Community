@@ -15,6 +15,7 @@
 [repo:openttd]: <http://github.com/blackberry/OpenTTD> "Repo: OpenTTD"
 [repo:picturewall]: <http://github.com/blackberry/PictureWall> "Repo: HTML5 Application to display pictures on a wall of devices"
 [repo:qrencode]: <http://github.com/blackberry/QREncode> "QREncode Repository"
+[repo:qt]: <http://qt.gitorious.org/qt> "Repo: Qt"
 [repo:ripple-ui]: <http://github.com/blackberry/Ripple-UI> "Repo: Ripple UI Emulator"
 [repo:ripple-framework]: <http://github.com/blackberry/Ripple-Framework> "Repo: Ripple Framework"
 [repo:ripple-services]: <http://github.com/blackberry/Ripple-Services> "Repo: Ripple Services"
@@ -29,9 +30,21 @@
 
 <!-- Absolute Paths -->
 
+<!-- Absolute Paths: Licenses -->
+
 [asl2]: <http://www.apache.org/licenses/LICENSE-2.0.html> "Apache License, Version 2.0"
-[gpl]: <TBD> "TBD"
+[asl11]: <http://www.apache.org/licenses/LICENSE-1.1.html> "Apache License, Version 1.1"
+[asl1]: <http://www.apache.org/licenses/LICENSE-1.0.html> "Apache License, Version 1.0"
+[gpl]: <http://www.gnu.org/licenses/gpl.html> "GNU GENERAL PUBLIC LICENSE"
+[gpl3]: <http://www.gnu.org/licenses/gpl-3.0.html> "GNU GENERAL PUBLIC LICENSE v3.0"
+[gpl2]: <http://www.gnu.org/licenses/gpl-2.0.html> "GNU GENERAL PUBLIC LICENSE v2.0"
+[gpl1]: <http://www.gnu.org/licenses/gpl-1.0.html> "GNU GENERAL PUBLIC LICENSE v1.0"
+[lgpl]: <http://www.gnu.org/licenses/lgpl.html> "GNU LESSER GENERAL PUBLIC LICENSE v3.0"
+[lgpl3]: <http://www.gnu.org/licenses/lgpl-3.0.html> "GNU LESSER GENERAL PUBLIC LICENSE v3.0"
+[lgpl2]: <http://www.gnu.org/licenses/lgpl-2.1.html> "GNU LESSER GENERAL PUBLIC LICENSE v2.1"
 [bsd]: <http://en.wikipedia.org/wiki/BSD_licenses> "BSD Licenses, at Wikipedia"
+[mit]: <http://opensource.org/licenses/MIT> "The MIT License (MIT)"
+[mspl]: <http://www.microsoft.com/en-us/openness/licenses.aspx#MPL> "Microsoft Public License (Ms-Pl)"
 
 <!-- Relative Paths -->
 
@@ -41,8 +54,9 @@
 [all_news]: <news/index.html> "All News in this Wiki"
 [recent_changes]: <Recent_Changes.html> "Recent changes in this Wiki"
 
-
 [blackberry_services]: <BlackBerry_Services.html> "Client and Server Side BlackBerry Services"
+[BlackBerry_Enterprise_Server]: <BlackBerry_Enterprise_Server.html> "BlackBerry Enterprise Server"
+[bes]: <BlackBerry_Enterprise_Server.html> "BES"
 
 [bb_advertising]: <BlackBerry_Advertising_Service.html> "BlackBerry Advertising Service"
 [bb_analytics]: <BlackBerry_Analytics_Service.html> "BlackBerry Analytics Service"
@@ -81,6 +95,7 @@
 [html5]: <HTML5.html> "The BlackBerry HTML5 Software Platform"
 [html5_samples]: <HTML5_Samples.html> "Open Source Samples showcasing the HTML5 technology on BlackBerry"
 [html5_tools]: <HTML5_Tools.html> "Tools useful for HTML5 Development"
+[libraries]: <Libraries.html> "Application Libraries"
 [lzma]: <LZMA.html> "LZMA implementation"
 [nfc]: <NFC.html> "NFC - Near Field Communication"
 [nodebeat]: <NodeBeat.html> "Visual Music App"
@@ -118,7 +133,6 @@
 
 [code_samples]: <Code_Samples.html> "Code Samples"
 
-
 [ripple]: <TBD> "TBD"
 
 [air_samples]: <TBD> "TBD"
@@ -131,6 +145,11 @@
 [bridge]: <TBD> "TBD"
 [qnx]: <TBD> "TBD"
 
+[blackberry_playbook]: <TBD> "BlackBerry PlayBook"
+[playbook]: <TBD> "BlackBerry PlayBook"
+
+<!-- Relative Paths: Events -->
+
 [bbw]: <TBD> "TBD"
 [bb10jam]: <BlackBerry_Jam.html> "BlackBerry 10 Jam"
 [devcon]: <Developer_Conferences.html> "Developer Conferences"
@@ -138,8 +157,7 @@
 [devcon2011_asia]: <Developer_Conferences.html> "Developer Conferences"
 [devcon2012_europe]: <Developer_Conferences.html> "Developer Conferences"
 
-[blackberry_playbook]: <TBD> "BlackBerry PlayBook"
-[playbook]: <TBD> "BlackBerry PlayBook"
+<!-- Relative Paths: Preople -->
 
 [clifford_hung]: <Clifford_Hung.html> "Clifford Hung"
 [laurence_muller]: <Laurence_Muller.html> "Laurence Muller"
@@ -155,6 +173,7 @@
 [eduardo_pelegrillopart]: <TBD> "TBD"
 [george_staikos]: <TBD> "TBD"
 
+<!-- Relative Paths: Presentations -->
 
 [dc12e_dev339]: <slides/devcon2012-europe/Which_Programming_Environment_for_You.html> "Which Programming Environment is Right for You?"
 [dc12e_dev311]: <slides/devcon2012-europe/Build_NFC_App.html> "How to Build an NFC-Enabled App"
@@ -163,6 +182,8 @@
 [dc12e_dev345]: <slides/devcon2012-europe/Mastering_Java_Layouts.html> "Mastering Java Layouts: Fields, Managers, and Screens"
 
 [mwc2012_asaunders]: <slides/mwc2012/BlackBerry_Dev_Community.html> "The BlackBerry Developer Community"
+
+<!-- Relative Paths: Locations -->
 
 [amsterdam]: <Amsterdam.html> "Amsterdam, Netherlands, and nearby areas"
 [austin]: <Austin.html> "Austin, Texas, USA, and nearby areas"

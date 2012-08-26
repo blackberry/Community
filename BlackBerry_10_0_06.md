@@ -10,7 +10,7 @@ tags: BlackBerry10
 ### Description 
 
 BlackBerry 10.0.06 is the second beta of the [BlackBerry 10] platform.  It is
-also described as R6 (see [SDK Roadmap](http://devblog.blackberry.com/2012/07/blackberry-10-beta-sdk-updates/).
+also described as R6 (see [SDK Roadmap](http://devblog.blackberry.com/2012/07/blackberry-10-beta-sdk-updates/)).
 
 The release includes updates to the BlackBerry 10 OS as well as the SDKs, and many samples.
 The accompanying open source repositories for all these have been released too.
@@ -28,6 +28,8 @@ The accompanying open source repositories for all these have been released too.
 * Update to Android Runtime for BlackBerry 10 Beta ([DevBlog](http://devblog.blackberry.com/2012/07/android-runtime-for-blackberry-10-beta/))
 * Many new Samples, see [BlackBerry 10.0.06 Samples](BlackBerry_10_0_06_Samples.html).
 
+### Changelog
+TBD...
 
 ### Also See
 [BlackBerry 10], [BlackBerry 10 Releases]
