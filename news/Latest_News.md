@@ -15,6 +15,8 @@ title="convert to your time zone">11am ET</a>
 These news are archived on a regular basis; look at [All News] for older news,
 or use [this News feed](http:atom.xml).
 
+<!-- Need to add update on list of Samples -->
+
 ### Stump the BlackBerry Devs
 After a call to action from [Brian Zubert] to
 [Stump the BlackBerry Devs](http://devblog.blackberry.com/2012/08/stump-blackberry-devs/),
