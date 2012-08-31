@@ -12,7 +12,7 @@ BlackBerry Developer Community in the area around Cape Town, South Africa
 
 ## Future Events
 
-* July x, 2012 - [Cape Town](http://www.blackberryjamworldtour.com/cape-town) stop in [BlackBerry 10 Jam World Tour][bb10jam].
+* July 31, 2012 - [Cape Town](http://www.blackberryjamworldtour.com/cape-town) stop in [BlackBerry 10 Jam World Tour][bb10jam].
 
 ## Past Events
 

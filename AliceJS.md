@@ -22,7 +22,7 @@ The AliceJS repo includes a [Collection of Demos](http://blackberry.github.com/A
 Also see [HTML5 Samples].
 
 ### Contacts
-Laurent Hasson and Jim Ing
+[Laurent Hasson] and [Jim Ing]
 
 ### Also See
-[Cascades_Samples], [Cascades], [HTML5_Samples]
+[Cascades Samples][Cascades_Samples], [Cascades], [HTML5 Samples]

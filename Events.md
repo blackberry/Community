@@ -16,4 +16,4 @@ Should also provide links to future events.  From RIM and not.
 * [Official List](http://www.blackberrydeveloperevents.com/events/home.html)
 
 ### Also See
-[BlackBerry 10 Jam], [BlackBerry World]
+[BlackBerry 10 Jam][bb10jam], [BlackBerry World][bbw]

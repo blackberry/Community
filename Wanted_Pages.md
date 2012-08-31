@@ -34,7 +34,7 @@ its not (currently) on BB10 device.  Also add [DevBlog post](http://devblog.blac
 
 ### Pages
 * [Android](Android.html)
-* [BlackBerry App World](BlackBerry_App_World.html)  
+* [BlackBerry App World]
 &nbsp;&nbsp;&bull; aka [AppWorld](AppWorld.html)
 * [BlackBerry Bridge](BlackBerry_Bridge.html)  
 &nbsp;&nbsp;&bull; aka [Bridge](Bridge.html)
@@ -61,8 +61,19 @@ its not (currently) on BB10 device.  Also add [DevBlog post](http://devblog.blac
 * [NME](NME.html)
 * [NDK-Samples](NDK-Samples.html)
 * [Ripple](Ripple.html)
+* [Samples]
 * [TinyHippos](TinyHippos.html)
 * [Upstreaming](Upstreaming.html)
 * [Web Inspector](Web_Inspector.html)
 * [Wikitude](Wikitude.html)
 
+### People
+* [Seth Sandler](Seth_Sandler.html)
+* [Jonathan Feldstein](Jonathan_Feldstein.html)
+* [Laurent Hasson](Laurent_Hasson.html)
+* [Ken Wallis](Ken_Wallis.html)
+* [Gord Tanner](Gord_Tanner.html)
+* [Andy Abgottspon](Andy_Abgottspon.html)
+* [Eduardo Pelegrillopart](Eduardo_Pelegrillopart.html)
+* [George Staikos](George_Staikos.html)
+* [Jim Ing](Jim_Ing.html)

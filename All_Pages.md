@@ -90,9 +90,6 @@ title: All Pages
 * [FAQ]
 * [Wanted_Pages](Wanted_Pages.html)
 
-**Staged**
-
-
 **Places**
 
 * [Amsterdam]  

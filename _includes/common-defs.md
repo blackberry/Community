@@ -46,6 +46,11 @@
 [mit]: <http://opensource.org/licenses/MIT> "The MIT License (MIT)"
 [mspl]: <http://www.microsoft.com/en-us/openness/licenses.aspx#MPL> "Microsoft Public License (Ms-Pl)"
 
+<!-- Absolute Paths: Other -->
+
+<!-- Should this be made an article, with a rel. link? -->
+[knowledge_base] <http://supportforums.blackberry.com/t5/Developer-Support-Forums/tkbc-p/blackberrydev> "BlackBerry Developer Knowledge Base"
+
 <!-- Relative Paths -->
 
 [all_pages]: <All_Pages.html> "All Pages in this Wiki"
@@ -73,12 +78,14 @@
 [alicejs]: <AliceJS.html> "Alice - A Lightweight Independent CSS Engine"
 [air]: <AIR.html> "Adobe Integrated Runtime (AIR)"
 [apache_cordova]: <Apache_Cordova.html> "The Open Source HTML5 Cross-Platform Framework"
+[appworld]: <BlackBerry_App_World.html> "BlackBerry App World"
 [bbuijs]: <bbUIjs.html> "A WebWorks-based Framework to write HTML5 applications using BBOS and BB10 Conventions"
 [blackberry_10]: <BlackBerry_10.html> "The next generation BlackBerry Platform"
 [blackberry_10_releases]: <BlackBerry_10_Releases.html> "The releases for BlackBerry 10"
 [blackberry_10_0_06]: <BlackBerry_10_0_06.html> "The BlackBerry 10.0.06 Release, aka Beta 2, aka R6"
 [blackberry_10_0_06_samples]: <BlackBerry_10_0_06_Samples.html> "Samples in the BlackBerry 10.0.06 Release, aka Beta 2, aka R6"
 [blackberry_10_stories]: <BlackBerry_10_Stories.html> "BlackBerry 10 Stories"
+[blackberry_app_world]: <BlackBerry_App_World.html> "BlackBerry App World"
 [bb10_stories]: <BlackBerry_10_Stories.html> "BlackBerry 10 Stories"
 [bb10_r6]: <BB10_R6.html> "A common name for BlackBerry 10.0.06"
 [bps]: <BlackBerry_Platform_Services.html> "BlackBerry Platform Services"
@@ -122,6 +129,7 @@
 [touchcontroloverlay]: <TouchControlOverlay.html> "TouchControlOverlay"
 [tunneltilt]: <TunnelTilt.html> "TunnelTilt - A WebGL Demo and Game"
 [url_launcher]: <URL_Launcher.html> "URL Launching Application"
+[wanted_pages] <Wanted_Pages.html> "Pages wanted for Community"
 [webgl]: <WebGL.html> "OpenGL ES 2.0 for the Web"
 [webgl_samples]: <WebGL_Samples.html> "Samples showing how to use WebGL on the BlackBerry Platform"
 [webkit]: <Webkit.html> "An Open Source Browser Layout Engine"
@@ -150,21 +158,20 @@
 
 <!-- Relative Paths: Events -->
 
-[bbw]: <TBD> "TBD"
+[bbw]: <BlackBerry_World.html> "BlackBerry World"
 [bb10jam]: <BlackBerry_Jam.html> "BlackBerry 10 Jam"
 [devcon]: <Developer_Conferences.html> "Developer Conferences"
 [devcon2011_america]: <Developer_Conferences.html> "Developer Conferences"
 [devcon2011_asia]: <Developer_Conferences.html> "Developer Conferences"
 [devcon2012_europe]: <Developer_Conferences.html> "Developer Conferences"
 
-<!-- Relative Paths: Preople -->
+<!-- Relative Paths: People -->
 
 [clifford_hung]: <Clifford_Hung.html> "Clifford Hung"
 [laurence_muller]: <Laurence_Muller.html> "Laurence Muller"
 [tim_neil]: <Tim_Neil.html> "Tim Neil"
 
 [seth_sandler]: <TBD> "TBD"
-
 [jonathan_feldstein]: <TBD> "TBD"
 [laurent_hasson]: <TBD> "TBD"
 [ken_wallis]: <TBD> "TBD"
@@ -172,6 +179,10 @@
 [andy_abgottspon]: <TBD> "TBD"
 [eduardo_pelegrillopart]: <TBD> "TBD"
 [george_staikos]: <TBD> "TBD"
+[jim_ing]: <TBD> "TBD"
+[sean_taylor]: <TBD> "TBD"
+[jeremy_nicholls]: <TBD> "TBD"
+[artem_simonov]: <TBD> "TBD"
 
 <!-- Relative Paths: Presentations -->
 
@@ -187,17 +198,23 @@
 
 [amsterdam]: <Amsterdam.html> "Amsterdam, Netherlands, and nearby areas"
 [austin]: <Austin.html> "Austin, Texas, USA, and nearby areas"
-[bangalore]: <Bangalore.html>" "Bangalore, India and nearby areas"
+[bangalore]: <Bangalore.html>" "Bangalore, India, and nearby areas"
 [barcelona]: <Barcelona.html> "Barcelona, Catalonia, Spain, and nearby areas"
-[beijing]: <Beijing.html> "Beijing, China and nearby areas"
-[berlin]: <Berlin.html> "Berlin, Germany and nearby areas"
+[beijing]: <Beijing.html> "Beijing, China, and nearby areas"
+[berlin]: <Berlin.html> "Berlin, Germany, and nearby areas"
+[bogota]: <Bogota.html> "Bogota, Colombia, and nearby areas"
 [buenos_aires]: <Buenos_Aires.html> "Buenos Aires, Argentina, and nearby areas"
+[campinas]: <Campinas.html> "Campinas, Brazil, and nearby areas"
 [cape_town]: <Cape_Town.html> "Cape Town, South Africa, and nearby areas"
-[delhi]: <Delhi.html> "Delhi, India and nearby areas"
+[caracas]: <Caracas.html> "Caracas, Venezuela, and nearby areas"
+[cordoba]: <Cordoba.html> "Cordoba, Argentina, and nearby areas"
+[delhi]: <Delhi.html> "Delhi, India, and nearby areas"
 [dubai]: <Dubai.html> "Dubai, United Arab Emirates, and nearby areas"
+[guadelajara]: <Guadelajara.html> "Guadelajara, Mexico, and nearby ares"
 [guatemala]: <Guatemala.html> "Guatemala, Guatemala, and nearby areas"
 [jakarta]: <Jakarta.html> "Jakarta, Indonesia, and nearby areas"
 [london]: <London.html> "London, UK, and nearby areas"
+[medellin]: <Medellin.html> "Medellin, Colombia, and nearby areas"
 [mexico_city]: <Mexico_City.html> "Mexico City, Mexico, and nearby areas"
 [milan]: <Milan.html> "Milan, Italy, and nearby areas"
 [montreal]: <Montreal.html> "Montreal, Quebec, Canada, and nearby areas"
@@ -206,9 +223,14 @@
 [new_york]: <New_York.html> "New York, NY, USA, and nearby areas"
 [paris]: <Paris.html> "Paris, France, and nearby areas"
 [porto]: <Porto.html> "Porto, Portugal, and nearby areas"
+[porto_alegre]: <Porto_Alegre.html> "Porto Alegre, Brazil, and nearby areas"
+[recife]: <Recife.html> "Recife, Brazil, and nearby areas"
+[rio_de_janeiro]: <Rio_de_Janeiro.html> "Rio de Janeiro, Brazil, and nearby areas"
+[san_luis]: <San_Luis.html> "San Luis, Argentina, and nearby areas"
 [santa_clara]: <Santa_Clara.html> "Santa Clara, California, USA, and nearby areas"
+[santiago]: <Santiago.html> "Santiago, Chile, and nearby areas"
 [sao_paulo]: <Sao_Paulo.html> "Sao Paulo, Brazil, and nearby areas"
-[singapore]: <Singapore.html> "Singapore and nearby areas"
+[singapore]: <Singapore.html> "Singapore, and nearby areas"
 [sydney]: <Sydney.html> "Sydney, Australia, and nearby areas"
 [toronto]: <Toronto.html> "Toronto, Ontario, Canada, and nearby areas"
 [warsaw]: <Warsaw.html> "Warsaw, Poland, and nearby areas"
