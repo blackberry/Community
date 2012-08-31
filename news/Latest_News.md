@@ -17,6 +17,11 @@ or use [this News feed](http:atom.xml).
 
 <!-- Need to add update on list of Samples -->
 
+### WebWorks Ant Build Script Released
+A build script for WebWorks applications has been released to the WebWorks-Samples repository. This script uses Ant and supports packaging in BBOS, Tablet, and BB10 as well as doing Lint checking on the JavaScript and CSS files. The design of the script allows for easy updating and quick introduction to your development process. See the code in the [WebWorks-Samples](http://github.com/blackberry/WebWorks-Samples/tree/master/WebWorks-Build-Script) repository.
+
+_Source_: [Tim Windsor]
+
 ### Stump the BlackBerry Devs
 After a call to action from [Brian Zubert] to
 [Stump the BlackBerry Devs](http://devblog.blackberry.com/2012/08/stump-blackberry-devs/),
