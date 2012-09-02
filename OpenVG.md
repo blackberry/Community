@@ -17,4 +17,4 @@ produce vector 2D computer graphics. OpenVG is managed by the non-profit technol
 * [Offical Website](http://www.khronos.org/openvg/)
 
 ### Contacts
-* [@rcmaniac25](http://twitter.com/rcmaniac25) - Ported reference implementation of [OpenVG](http://bit.ly/PDemBr) to BlackBerry 10
+* [@rcmaniac25](http://twitter.com/rcmaniac25) - [Ported reference implementation](https://github.com/rcmaniac25/OpenVG-BlackBerry) of OpenVG to BlackBerry 10. [Pic](http://bit.ly/PDemBr)
