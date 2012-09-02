@@ -31,4 +31,4 @@ WebGL is also supported in the PlayBook 2.0 browser but end-user needs to explic
 [Jonathan Feldstein], others
 
 ### Also See
-[OpenGL], [TunnelTilt], [NDK-Samples]
+[OpenGL], [TunnelTilt], [NDK-Samples][repo:ndk-samples]

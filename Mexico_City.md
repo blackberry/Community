@@ -12,7 +12,7 @@ BlackBerry Developer Community in the area around Mexico City, Mexico
 
 ## Future Events
 
-* August x, 2012 - [Mexico City](http://www.blackberryjamworldtour.com/mexico-city) stop in [BlackBerry 10 Jam World Tour][bb10jam].
+* August 21, 2012 - [Mexico City](http://www.blackberryjamworldtour.com/mexico-city) stop in [BlackBerry 10 Jam World Tour][bb10jam].
 
 ## Past Events
 

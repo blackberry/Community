@@ -12,9 +12,7 @@ tags: html5, technology, playbook, bb10
 
 http://supportforums.blackberry.com/t5/Web-and-WebWorks-Development/How-to-debug-BlackBerry-web-applications-using-Web-Inspector/ta-p/1207155?CPID=E10C020&Date=061912
 
-
 ### Description
-
 
 See these DevBlog posts:
 
@@ -29,9 +27,7 @@ Some applications:
 * [Code Signing Keys Order Form](https://www.blackberry.com/SignedKeys/)
 * [How to Extract Application Files](http://supportforums.blackberry.com/t5/Native-SDK-for-BlackBerry-Tablet/How-to-Extract-Application-Files/ta-p/1493491)
 
-
 ### Additional Links
-
 
 ### Also See
 [HTML5], [WebWorks]

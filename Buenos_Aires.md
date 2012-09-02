@@ -12,7 +12,7 @@ BlackBerry Developer Community in the area around Buenos Aires, Argentina
 
 ## Future Events
 
-* August x, 2012 - [Buenos Aires](http://www.blackberryjamworldtour.com/buenos-aires) stop in [BlackBerry 10 Jam World Tour][bb10jam].
+* August 16, 2012 - [Buenos Aires](http://www.blackberryjamworldtour.com/buenos-aires) stop in [BlackBerry 10 Jam World Tour][bb10jam].
 
 ## Past Events
 

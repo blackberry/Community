@@ -11,11 +11,28 @@ Official Developer Conferences for BlackBerry 10.
 
 ## BlackBerry Jam Latin American Sessions
 
-As of this writting, there are 19 cities, from
-* August 25, 2012, in Recife, Brasil, to
-* November 11, 2012, in Mexico City, Mexico
+For details, see [Registration Page](http://blackberryjamsessions.com/registre-se/)
 
-For more details, see [Registration Page](http://blackberryjamsessions.com/registre-se/)
+### Next Cities
+
+* [Recife], September 1, 2012
+* [San Luis], September 8, 2012
+* [Campinas], September 15, 2012
+* [Rio de Janeiro], September 22, 2012
+* [Santiago], October 6, 2012
+* [Porto Alegre], October 13, 2012
+* [Caracas], October 16, 2012
+* [Cordoba], October 18, 2012
+* [Buenos Aires], October 20, 2012
+* [San Paulo], October 27, 2012
+* [Medellin], November 8, 2012
+* [Bogota], November 10, 2012
+* [Guadelajara], November 15, 2012
+* [Mexico City], November 17, 2012
+
+### Cities Visited
+
+* [Rosario], May 29, 2012
 
 ## BlackBerry 10 Jam World Tour
 
@@ -25,11 +42,6 @@ Full details are at [BlackBerry 10 Jam World Tour](http://www.blackberryjamworld
 ### Next Cities
 
 The next few cities are:
-* [Buenos Aires], August 16, 2012
-* [Mexico City], August 21, 2012
-* [Sao Paulo], August 23, 2012
-* [Waterloo], August 23, 2012
-* [Vancouver], August 28, 2012
 * [Amsterdam], September 18, 2012
 
 ### Cities Visited
@@ -54,6 +66,11 @@ The next few cities are:
 * [Montreal], July 11, 2012
 * [Sydney], July 12, 2012
 * [Cape Town], July 31, 2012
+* [Waterloo], August 23, 2012
+* [Vancouver], August 28, 2012
+* [Buenos Aires], August 16, 2012
+* [Mexico City], August 21, 2012
+* [Sao Paulo], August 23, 2012
 
 Slides from these presentations will be available in the near future.
 

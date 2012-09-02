@@ -10,5 +10,3 @@ layout: wanted
 Wikitude Augmented Reality
 
 http://Wikitude.com
-
-
