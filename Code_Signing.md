@@ -5,8 +5,6 @@ layout: wanted
 ---
 {% include common-defs.md %}
 
-
-
 see https://bdsc.webapps.blackberry.com/CodeSigningHelp/
 or
 https://developer.blackberry.com/CodeSigningHelp/

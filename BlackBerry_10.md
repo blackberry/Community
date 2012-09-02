@@ -7,6 +7,6 @@ layout: wanted
 
 Clarification relative to PlayBook
 
-Hisotry 
+History
 
 [https://developer.blackberry.com/](https://developer.blackberry.com/)

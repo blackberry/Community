@@ -19,4 +19,4 @@ Research In Motion Organizes a number of Developer Conferences.
 
 * [BlackBerry 10 Jam][bb10jam]
 * [BlackBerry 10 Jam World Tour][bb10jam]
-* [BlackBerry Jam Americas][bb10jam]
+* [BlackBerry Jam Americas 2012][bb10jam]

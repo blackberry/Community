@@ -18,8 +18,6 @@ on July 19, 2012.  The releases are as follows:
 BlackBerry 10.0.06 is the second beta of the [BlackBerry 10] platform.  It is
 also described as R6 (see [SDK Roadmap](http://devblog.blackberry.com/2012/07/blackberry-10-beta-sdk-updates/).
 
-
-
 #### Release Schedule
 
 The release includes updates to the BlackBerry 10 OS as well as the SDKs, and many samples.
@@ -27,6 +25,3 @@ The accompanying open source repositories for all these have been released too.
 
 ### Also See
 [WebGL Samples][WebGL_Samples], [WebGL], [TunnelTilt]
-
- 
- 

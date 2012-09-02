@@ -23,57 +23,80 @@ its not (currently) on BB10 device.  Also add [DevBlog post](http://devblog.blac
 [n4bb p2](http://n4bb.com/absolute-beginners-guide-to-developing-a-blackberry-10-app-part-2/)
 * Icons - where to get them; see [Forum Thread](http://supportforums.blackberry.com/t5/General-Open-Source-Topics/Open-Source-Icon-Sets-for-BB10-Development/m-p/1838159)
         - Also see http://openclipart.org/
-* How to Contribute Changes to Samples (fork.... CA... etc)
+* How to Contribute Changes to Samples (fork... CA... etc)
 * How to Contribute a new Sample (...)
 * GNU tools pages - [forums](http://supportforums.blackberry.com/t5/Native-Development/Where-is-the-source-for-the-GPL-d-NDK-tools/m-p/1845039)
 * Ruby on BB10 - [Tweet](http://twitter.com/Jlbenc/status/231741925529624576)
 * PKZip port.
 * Invocation Framework.  Link to samples and to [DevBlog Post](http://devblog.blackberry.com/2012/08/blackberry-10-invocation-framework/)
-* OpenVG - see [@rcmaniac25](http://twitter.com/rcmaniac25) relevant [tweet](http://bit.ly/PDemBr)
 * Scheduling Boards - Add page to record the new roadmaps.
 
 ### Pages
-* [Android](Android.html)
+* [AIR Samples]
+* [Android]
 * [BlackBerry App World]
-&nbsp;&nbsp;&bull; aka [AppWorld](AppWorld.html)
-* [BlackBerry Bridge](BlackBerry_Bridge.html)  
-&nbsp;&nbsp;&bull; aka [Bridge](Bridge.html)
-* [BlackBerry Enterprise Server](BlackBerry_Enterprise_Server.html)
-* [BlackBerry 10](BlackBerry_10.html)
-* [BlackBerry Java](BlackBerry_Java.html)
-* [BlackBerry Releases](BlackBerry_Releases.html)
-* [BlackBerry Smartphones](BlackBerry_Smartphones.html)
-* [BlackBerry Themes](BlackBerry_Themes.html)
-* [Blogs](Blogs.html)
-* [Cocos2d-x](Cocos2d-x.html)
-* [Code Signing](Code_Signing.html)
-* [Emulators](Emulators.html)
-* [Forums](Forums.html)
-* [FreeImage](FreeImage.html)
-* [Google APIs](Google_APIs.html)
-* [Immigration Projects](Immigration_Projects.html)
-* [Inside BlackBerry](Inside_BlackBerry.html)
-* [jQuery](jQuery.html)
-* [Knowledge Base](Knowledge_Base.html)
-* [libscreen](libscreen.html)
-* [Native](Native.html)
-* [Native SDK](Native_SDK.html)
-* [NME](NME.html)
-* [NDK-Samples](NDK-Samples.html)
-* [Ripple](Ripple.html)
-* [Samples]
-* [TinyHippos](TinyHippos.html)
-* [Upstreaming](Upstreaming.html)
-* [Web Inspector](Web_Inspector.html)
-* [Wikitude](Wikitude.html)
+&nbsp;&nbsp;&bull; aka [AppWorld]
+* [BlackBerry Bridge] 
+&nbsp;&nbsp;&bull; aka [Bridge]
+* [BlackBerry Enterprise Server]
+* [BlackBerry 10]
+* [BlackBerry Java]
+* [BlackBerry OS 4.x][bb4]
+* [BlackBerry OS 5.x][bb5]
+* [BlackBerry OS 6.x][bb6]
+* [BlackBerry OS 7.x][bb7]
+* [BlackBerry PlayBook]
+* [BlackBerry Releases]
+* [BlackBerry Smartphones]
+* [BlackBerry Themes]
+* [BlackBerry Web Services Samples][bws_samples]
+* [Blogs]
+* [Code Signing]
+* [Emulators]
+* [Forums]
+* [FreeImage]
+* [Gaming]
+* [Gaming Samples]
+* [Google APIs]
+* [Immigration Projects]
+* [Inside BlackBerry]
+* [jQuery]
+* [Knowledge Base]
+* [libscreen]
+* [Native]
+* [Native SDK]
+* [NME]
+* [NDK-Samples][NDK_samples]
+* [QNX]
+* [Ripple]
+* [TinyHippos]
+* [Upstreaming]
+* [Web Inspector]
+* [Wikitude]
 
 ### People
-* [Seth Sandler](Seth_Sandler.html)
-* [Jonathan Feldstein](Jonathan_Feldstein.html)
-* [Laurent Hasson](Laurent_Hasson.html)
-* [Ken Wallis](Ken_Wallis.html)
-* [Gord Tanner](Gord_Tanner.html)
-* [Andy Abgottspon](Andy_Abgottspon.html)
-* [Eduardo Pelegrillopart](Eduardo_Pelegrillopart.html)
-* [George Staikos](George_Staikos.html)
-* [Jim Ing](Jim_Ing.html)
+* [Andy Abgottspon]
+* [Artem Simonov]
+* [Eduardo Pelegri-Llopart][eduardo_pelegrillopart]
+* [George Staikos]
+* [Gord Tanner]
+* [Jeremy Nicholls]
+* [Jim Ing]
+* [Jonathan Feldstein]
+* [Ken Wallis]
+* [Laurent Hasson]
+* [Sean Taylor]
+* [Seth Sandler]
+
+### Locations
+* [Bogota]
+* [Campinas]
+* [Caracas]
+* [Cordoba]
+* [Guadelajara]
+* [Medellin]
+* [Porto Alegre]
+* [Recife]
+* [Rio de Janeiro]
+* [San Luis]
+* [Santiago]

@@ -5,7 +5,6 @@ layout: wanted
 ---
 {% include common-defs.md %}
 
-
 # Pointers to useful Knowledge Bases
 
 ### RIM Sponsored
