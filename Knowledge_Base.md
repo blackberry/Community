@@ -1,7 +1,7 @@
 ---
-title: Knowledge Base
-
 layout: wanted
+
+title: Knowledge Base
 ---
 {% include common-defs.md %}
 
