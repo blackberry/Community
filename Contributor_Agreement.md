@@ -30,8 +30,3 @@ Join us!
 * [How To Contribute](http://blackberry.github.com/howToContribute.html)
 * [RIM's CCLA](http://www.blackberry.com/legal/pdfs/webworks/Research_In_Motion_Limited_CCLA_021811_cl.pdf)
 * [RIM's ICLA](http://www.blackberry.com/legal/pdfs/webworks/Research_In_Motion_Limited_ICLA_021811_cl.pdf)
-
-### Also See
-
-
-

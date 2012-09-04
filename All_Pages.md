@@ -15,7 +15,6 @@ title: All Pages
 * [All Samples]
 * [Apache Cordova]
 * [bbUI.js]
-* [BlackBerry 10]
 * [BlackBerry 10 Stories]
 * [BlackBerry 10 Releases]
 * [BlackBerry 10.0.06][blackberry_10_0_06]  
@@ -27,7 +26,7 @@ title: All Pages
 &nbsp;&nbsp;&bull; aka [Analytics][bb_analytics]
 * [BlackBerry Jam][bb10jam]
 * [BlackBerry Messenger][bbm]  
-&nbsp;&nbsp;&bull; aka [BBM][bbm]
+&nbsp;&nbsp;&bull; aka [BBM]
 * [BlackBerry Payment Service][bb_payment]  
 &nbsp;&nbsp;&bull; aka [Payment][bb_payment]
 * [BlackBerry Platform Services][bps]  
@@ -36,15 +35,18 @@ title: All Pages
 &nbsp;&nbsp;&bull; aka [Push][bb_push]
 * [BlackBerry Services]
 * [BlackBerry Web Services][bws]  
-&nbsp;&nbsp;&bull; aka [BWS][bws]
+&nbsp;&nbsp;&bull; aka [BWS]
+* [BlackBerry World][bbw]
 * [Bugs]
+* [BWS Samples]
 * [Camera]
 * [Cascades]
 * [Cascades Samples and Tips]  
 &nbsp;&nbsp;&bull; from [Cascades Samples]
+* [Cocos2d-x][cocos2d_x]
 * [Code Samples]
 * [Contributor Agreement]
-* [DebugToken]
+* [Debug Token][DebugToken]
 * [Developer Conferences][devcon]
 * [Events]
 * [Frogatto]
@@ -59,15 +61,17 @@ title: All Pages
 * [OpenCV]
 * [OpenFrameworks]
 * [OpenGL]
+* [OpenVG]
 * [Open Source]
 * [Open Source Wish List]
 * [OpenTTD]
 * [PeaksAndValleys]
 * [PhoneGap]
+* [PictureWall]
 * [Python]
 * [QML]
 * [QNX Sound Architecture][qsa]  
-&nbsp;&nbsp;&bull; aka [QSA]  
+&nbsp;&nbsp;&bull; aka [QSA]
 * [QR Code]
 * [Qt]
 * [Samples]
@@ -88,15 +92,11 @@ title: All Pages
 **Wanted and FAQ**
 
 * [FAQ]
-* [Wanted_Pages](Wanted_Pages.html)
-
-**Staged**
-
+* [Wanted Pages]
 
 **Places**
 
-* [Amsterdam]  
-&nbsp;&nbsp;&bull; from [Netherlands]
+* [Amsterdam], [Netherlands]
 * [Austin]
 * [Bangalore]
 * [Barcelona]
@@ -125,13 +125,13 @@ title: All Pages
 
 **People**
 
-* [Clifford Hung](Clifford_Hung.html)
-* [Laurence Muller](Laurence_Muller.html)
-* [Tim Neil](Tim_Neil.html)
+* [Clifford Hung]
+* [Laurence Muller]
+* [Tim Neil]
 
 **Other**
 
-* [All Pages](All_Pages.html)
+* [All Pages]
 * [Community Wiki](Community_Wiki.html)
 * [Contribute](other/Contribute.html)
 * [Legal](other/Legal.html)

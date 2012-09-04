@@ -13,4 +13,4 @@ jquery.com
 
 [HTML5]
 
-Can be used in combination with other frameworks, like bbUI.js, Alice, or [ZoeJS]
+Can be used in combination with other frameworks, like [bbUI.js][bbUIjs], [Alice][AliceJS], or ZoeJS

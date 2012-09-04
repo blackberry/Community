@@ -20,6 +20,7 @@ TBD
 
 ## Developer Groups
 
-TBD
+### New York BlackBerry Developers' Group
 
-
+*Twitter*: [@BlackBerryDevNY](https://twitter.com/BlackBerryDevNY/)
+*Meetup*: [BBDevNY](http://www.meetup.com/BBDevNY/)

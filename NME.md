@@ -1,7 +1,7 @@
 ---
-title: NME
-
 layout: wanted
+
+title: NME
 ---
 {% include common-defs.md %}
 
@@ -14,6 +14,3 @@ Johua Granick is main reference.
 
 ### Also See
 TBD
-
- 
- 
