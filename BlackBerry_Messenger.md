@@ -1,4 +1,4 @@
----
+﻿---
 title: BlackBerry Messenger
 oneline: Instant Messenger for BlackBerry Smartphone owners
 forum: 
@@ -17,4 +17,3 @@ BlackBerry® Messenger is an instant messaging app just for BlackBerry smartphon
 
 ### Also See
 [BlackBerry Services]
-

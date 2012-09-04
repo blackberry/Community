@@ -5,7 +5,6 @@ layout: wanted
 ---
 {% include common-defs.md %}
 
-
 # Blogs Useful to BlackBerry Developers
 
 ## RIM Sponsored

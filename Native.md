@@ -5,7 +5,6 @@ layout: wanted
 ---
 {% include common-defs.md %}
 
-
 https://developer.blackberry.com/native/
 
 Term varies dependending on the platform...

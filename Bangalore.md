@@ -8,7 +8,7 @@ title: Bangalore
 ## Overview
 
 BlackBerry Developer Community in the area around Bangalore, India.
-([Wikipedia](http://en.wikipedia.org/wiki/Bangalore), [City Website](http://www.bbmp.gov.in/)
+([Wikipedia](http://en.wikipedia.org/wiki/Bangalore), [City Website](http://www.bbmp.gov.in/))
 
 ## Future Events
 

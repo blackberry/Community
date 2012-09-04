@@ -178,6 +178,13 @@
      "repourl": "http://github.com/blackberry/Cascades-Samples",
      "tags": [ "native", "cascades", "bb10", "dialog" ]
  },
+ "DojoAppDetails": {
+     "desc": "Simple app to show usage of Dojo toolkit and blackberry.app API",
+     "url": "http://github.com/blackberry/WebWorks-Samples/tree/master/DojoAppDetails",
+     "repo": "WebWorks-Samples",
+     "repourl": "http://github.com/blackberry/WebWorks-Samples",
+     "tags": [ "html5", "client", "webworks", "dojo"]
+ },
  "EmailListener(ext,bbos)": {
      "desc": "WebWorks Java-based Smartphone extension to receive a Event Objet when email is received",
      "url": "http://github.com/blackberry/WebWorks-Community-APIs/tree/master/Smartphone/EmailListener",

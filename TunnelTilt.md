@@ -9,7 +9,7 @@ tags: WebGL, HTML5, game
 
 ### Description
 TunnelTilt is a simple game that showcases the [WebGL] implementation in
-[BlackBerry PlayBook] \(requires PlaybBook 2.0\) and [BlackBerry 10],
+[BlackBerry PlayBook] \(requires PlayBook 2.0\) and [BlackBerry 10],
 using the device accelerometer to guide a glowing ball through a twisting tunnel with obstacles.
 
 Full sources for the game are available at GitHub with a permissive Open Source license, ASL2;
@@ -31,9 +31,5 @@ The game also runs within the PlayBook Browser but tilting is disabled to avoid 
 a change of orientation and course navigation is done using touch events (or the mouse!).
 Also, the first time you play the game you will will be asked for permission to run WebGL on the browser.
 
-
 ### Also See
-[WebGL_Samples], [WebGL], [PeaksAndValleys], [BlackBerry App World]
-
- 
- 
+[WebGL Samples], [WebGL], [PeaksAndValleys], [BlackBerry App World]

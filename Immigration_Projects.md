@@ -8,5 +8,3 @@ layout: wanted
 ## Notes
 
 Projects that developers / students / etc can get started with very quickly
-
-
