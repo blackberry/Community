@@ -17,6 +17,15 @@ or use [this News feed](http:atom.xml).
 
 <!-- Need to add update on list of Samples -->
 
+### Community Port of WebWorks SDK to Linux
+Michael Robinson ([@badtoyz](twitter.com/badtoyz)) and [@ice2921](twitter.com/ice2921) have packaged the
+BlackBerry 10 WebWorks SDK for Linux.  The port is at
+[badtoyz/BB10-WebWorks-SDK-linux](https://github.com/badtoyz/BB10-WebWorks-SDK-Linux).
+Looking forward to a pull request to understand the differences and, hopefully, to eventually support Linux.
+Also, both Michael and ice2921 will be listed in the [contributors page](http://blackberry.github.com/approvedSignatories.html).
+
+_Source_: [Michael Robinson] via [twitter](https://twitter.com/badtoyz/status/244295372825034752) on September 7, 2012
+
 ### Stump the BlackBerry Devs
 After a call to action from [Brian Zubert] to
 [Stump the BlackBerry Devs](http://devblog.blackberry.com/2012/08/stump-blackberry-devs/),
