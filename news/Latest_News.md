@@ -5,11 +5,7 @@ title: Latest Community News
 {% include news-defs.md %}
 
 <div style="background-color: ghostwhite; border-style: solid; border-width: 1px; padding: 10px; margin-top: 10px; font-size: 105%; text-align: center; line-height: 180%;">
-New Webinar on September 5th on
-<a href="hhttp://www.blackberrydeveloperevents.com/events/webcast/registration/register.html?scoid=1060802208">Using bbUI.js</a>
-at
-<a href="http://www.timeanddate.com/worldclock/fixedtime.html?iso=20120905T1500"
-title="convert to your time zone">11am ET</a>
+BlackBerry Jam is Sept 25-27th, in San Jose.  <a href="http://www.blackberryjamconference.com/americas">Register Now!</a>
 </div>
 
 These news are archived on a regular basis; look at [All News] for older news,
@@ -21,6 +17,15 @@ or use [this News feed](http:atom.xml).
 A build script for WebWorks applications has been released to the WebWorks-Samples repository. This script uses Ant and supports packaging in BBOS, Tablet, and BB10 as well as doing Lint checking on the JavaScript and CSS files. The design of the script allows for easy updating and quick introduction to your development process. See the code in the [WebWorks-Samples](http://github.com/blackberry/WebWorks-Samples/tree/master/WebWorks-Build-Script) repository.
 
 _Source_: [Tim Windsor]
+
+### Community Port of WebWorks SDK to Linux
+Michael Robinson ([@badtoyz](twitter.com/badtoyz)) and Joe Scott ([@ice2921](twitter.com/ice2921)) have packaged the
+BlackBerry 10 WebWorks SDK for Linux.  The port is at
+[badtoyz/BB10-WebWorks-SDK-linux](https://github.com/badtoyz/BB10-WebWorks-SDK-Linux).
+Looking forward to a pull request to understand the differences and, hopefully, to eventually support Linux.
+Also, both Michael and Joe will be listed in the [contributors page](http://blackberry.github.com/approvedSignatories.html).
+
+_Source_: [Michael Robinson] via [twitter](https://twitter.com/badtoyz/status/244295372825034752) on September 7, 2012
 
 ### Stump the BlackBerry Devs
 After a call to action from [Brian Zubert] to
