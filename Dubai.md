@@ -12,7 +12,7 @@ BlackBerry Developer Community in the area around Dubai, United Arab Emirates
 
 ## Future Events
 
-* July x, 2012 - [Dubai](http://www.blackberryjamworldtour.com/dubai) stop in [BlackBerry 10 Jam World Tour][bb10jam].
+* July 10, 2012 - [Dubai](http://www.blackberryjamworldtour.com/dubai) stop in [BlackBerry 10 Jam World Tour][bb10jam].
 
 ## Past Events
 

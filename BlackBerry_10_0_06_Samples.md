@@ -15,11 +15,9 @@ This release added 3 new repositories: [BB10-WebWorks-Samples][repo:bb10-webwork
 [Community-APIs-for-AIR][repo:community-apis-for-air] and
 [Qt2Cascades-Samples][repo:qt2cascades-samples].
 
-
 ### HTML5 Samples
 
 [WebWorks-Community-APIs][repo:webworks-community-apis]  
-
 
 [BB10-WebWorks-Samples][repo:bb10-webworks-samples]  
 bar
@@ -27,20 +25,15 @@ bar
 [WebGL-Samples][repo:webgl-samples]  
 bar
 
-
 ### Other Repositories
 
 * [Samples-for-Java][repo:samples-for-java]
 
-
-
 #### Java
 
-
-
+TBD
 
 Repo and technology goes here
-
 
 ### Also See
 [BlackBerry 10][blackberry_10], [BlackBerry 10 Releases][blackberry_10_releases], [BlackBerry 10.0.06][blackberry_10_0_06]

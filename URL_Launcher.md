@@ -24,6 +24,3 @@ Web Launchers are supported in both BlackBerry OS 5, 6 and 7, and on BlackBerry 
 ### Presentations and Other Media
 
 * TBD
-
-### Also See
-

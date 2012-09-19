@@ -11,6 +11,3 @@ layout: wanted
 
 Port:
 [tweet](http://bit.ly/MaMulx)/[@lynxluna](http://twitter.com/lynxluna), [repo](https://github.com/lynxluna/freeimage)
-
-
-

@@ -25,9 +25,5 @@ Some applications:
 * [Code Signing Keys Order Form](https://www.blackberry.com/SignedKeys/)
 * [How to Extract Application Files](http://supportforums.blackberry.com/t5/Native-SDK-for-BlackBerry-Tablet/How-to-Extract-Application-Files/ta-p/1493491)
 
-
-### Additional Links
-
-
 ### Also See
 [Code Signing]

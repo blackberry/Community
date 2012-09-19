@@ -12,7 +12,7 @@ BlackBerry Developer Community in the area around Sydney, Australia
 
 ## Future Events
 
-* July x, 2012 - [Sydney](http://www.blackberryjamworldtour.com/sydney) stop in [BlackBerry 10 Jam World Tour][bb10jam].
+* July 12, 2012 - [Sydney](http://www.blackberryjamworldtour.com/sydney) stop in [BlackBerry 10 Jam World Tour][bb10jam].
 
 ## Past Events
 

@@ -67,5 +67,3 @@ twitter?
 ## Beta Zone
 
 [Beta Zone](https://www.blackberry.com/beta/)
-
-

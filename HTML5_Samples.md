@@ -1,4 +1,4 @@
----
+﻿---
 title: HTML5 Samples
 oneline: Showcasing the HTML5 Technology
 tags: html5, blackberry10, samples
@@ -21,7 +21,7 @@ Displays pictures on a wall of devices.  The pictures are delivered from a serve
 Commmunity Samples using WebWorks.  Includes Aura, KitchenSink, SketchPad, SwipeMenu, Weather and many more samples.
 
 **[WebGL-Samples][repo:webgl-samples]**, by [Jonathan Feldstein] and others  
-Samples specially using WebGL.  Includes [TunnelTilt](http://appworld.blackberry.com/webstore/content/79082/?lang=en)
+Samples specially using WebGL. Includes [TunnelTilt](http://appworld.blackberry.com/webstore/content/79082/?lang=en)
 
 More to come...
 
@@ -44,6 +44,3 @@ A simple database app for BB10 using HTML5
 
 ### Also See
 [Cascades Samples], [Cascades], [HTML5], [HTML5 Tools]
-
- 
- 

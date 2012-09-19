@@ -20,6 +20,3 @@ Ripple-Services
 
 ### Also See
 [Cascades_Samples], [Cascades], [HTML5]
-
- 
- 

@@ -7,7 +7,7 @@ oneline: C++ Toolkit for Creative Coding
 status: Ongoing Port
 platform: Native
 complink: https://github.com/openframeworks/openFrameworks
-license: BSD (or MIT?) Need to check
+license: MIT
 tags: OpenSource, Native, Component
 ---
 {% include common-defs.md %}
