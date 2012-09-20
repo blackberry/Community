@@ -15,7 +15,7 @@ This page is intended to capture the the pertinent details of community collabor
 
 ### bbUI.js Issues and Features
 
-Working through the list of issues on [bbUI.js], both bugs and feature requests.
+Working through the list of issues on [repo:bbUI.js], both bugs and feature requests.
 
 _Developers:_
 [Rory Craig-Barnes](http://github.com/glasspear),
