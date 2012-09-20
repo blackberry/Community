@@ -41,10 +41,10 @@ _Developers:_
 Jeremy Duke,
 Don Berzley,
 Apekshith Gowda,
-Lloyd Summers,
-[Kevin P "HaTaX"](http://github.com/hatax),
+[Lloyd Summers](http://github.com/kermed),
+[Kevin P "HaTaX"](http://github.com/hatax2),
 [Thomas W "ph03n1x"](http://github.com/osbbx-ph03n1x),
-Justin D
+[Justin DaSilva](http://github.com/lyricidal)
 
 _Roadmap and Issue List:_
 [https://github.com/blackberry/BB10-WebWorks-Samples/issues](https://github.com/blackberry/BB10-WebWorks-Samples/issues)
@@ -58,7 +58,7 @@ Advanced Dynamic UI with animation, taking advantage of hardware acceleration an
 
 _Developers:_
 Jeremy Duke,
-Lloyd Summers
+[Lloyd Summers](http://github.com/kermed)
 
 _Roadmap and Issue List:_
 [https://github.com/blackberry/BB10-WebWorks-Samples/issues](https://github.com/blackberry/BB10-WebWorks-Samples/issues)
@@ -71,7 +71,7 @@ _Staging Repository:_
 Examples of advanced UI using the capabilities of WebGL and hardware acceleration on BlackBerry 10
 
 _Developers:_
-Lloyd Summers
+[Lloyd Summers](http://github.com/kermed)
 
 _Roadmap and Issue List:_
 [https://github.com/blackberry/BB10-WebWorks-Samples/issues](https://github.com/blackberry/BB10-WebWorks-Samples/issues)
@@ -86,9 +86,9 @@ Exposing native BlackBerry 10 APIs and porting BBOS extensions for BB10 WebWorks
 _Developers:_
 [Justin Tokarchuk](http://github.com/jtokarchuk),
 [Brian Scheirer](http://github.com/bcs925),
-[Kevin P "HaTaX"](http://github.com/hatax),
+[Kevin P "HaTaX"](http://github.com/hatax2),
 [Thomas W "ph03n1x"](http://github.com/osbbx-ph03n1x),
-Lloyd Summers
+[Lloyd Summers](http://github.com/kermed)
 
 _Roadmap and Issue List:_
 [https://github.com/blackberry/WebWorks-Community-APIs/issues](https://github.com/blackberry/WebWorks-Community-APIs/issues)
@@ -103,9 +103,9 @@ Exposing native BlackBerry 10 APIs and porting BBOS extensions for BB10 AIR Appl
 _Developers:_
 [Justin Tokarchuk](http://github.com/jtokarchuk),
 [Brian Scheirer](http://github.com/bcs925),
-[Kevin P "HaTaX"](http://github.com/hatax),
+[Kevin P "HaTaX"](http://github.com/hatax2),
 [Thomas W "ph03n1x"](http://github.com/osbbx-ph03n1x),
-Justin D
+[Justin DaSilva](http://github.com/lyricidal)
 
 _Roadmap and Issue List:_
 [https://github.com/blackberry/Community-APIs-for-AIR/issues](https://github.com/blackberry/Community-APIs-for-AIR/issues)
