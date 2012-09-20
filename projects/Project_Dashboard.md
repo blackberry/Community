@@ -43,7 +43,7 @@ Don Berzley,
 Apekshith Gowda,
 Lloyd Summers,
 [Kevin P "HaTaX"](http://github.com/hatax),
-Thomas W,
+[Thomas W "ph03n1x"](http://github.com/osbbx-ph03n1x),
 Justin D
 
 _Roadmap and Issue List:_
@@ -87,7 +87,7 @@ _Developers:_
 [Justin Tokarchuk](http://github.com/jtokarchuk),
 [Brian Scheirer](http://github.com/bcs925),
 [Kevin P "HaTaX"](http://github.com/hatax),
-Thomas W,
+[Thomas W "ph03n1x"](http://github.com/osbbx-ph03n1x),
 Lloyd Summers
 
 _Roadmap and Issue List:_
@@ -104,7 +104,7 @@ _Developers:_
 [Justin Tokarchuk](http://github.com/jtokarchuk),
 [Brian Scheirer](http://github.com/bcs925),
 [Kevin P "HaTaX"](http://github.com/hatax),
-Thomas W,
+[Thomas W "ph03n1x"](http://github.com/osbbx-ph03n1x),
 Justin D
 
 _Roadmap and Issue List:_
