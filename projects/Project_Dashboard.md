@@ -42,7 +42,7 @@ Jeremy Duke,
 Don Berzley,
 Apekshith Gowda,
 Lloyd Summers,
-Kevin P,
+[Kevin P "HaTaX"](http://github.com/hatax),
 Thomas W,
 Justin D
 
@@ -86,7 +86,7 @@ Exposing native BlackBerry 10 APIs and porting BBOS extensions for BB10 WebWorks
 _Developers:_
 [Justin Tokarchuk](http://github.com/jtokarchuk),
 [Brian Scheirer](http://github.com/bcs925),
-Kevin P,
+[Kevin P "HaTaX"](http://github.com/hatax),
 Thomas W,
 Lloyd Summers
 
@@ -103,7 +103,7 @@ Exposing native BlackBerry 10 APIs and porting BBOS extensions for BB10 AIR Appl
 _Developers:_
 [Justin Tokarchuk](http://github.com/jtokarchuk),
 [Brian Scheirer](http://github.com/bcs925),
-Kevin P,
+[Kevin P "HaTaX"](http://github.com/hatax),
 Thomas W,
 Justin D
 
