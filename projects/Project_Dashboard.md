@@ -7,7 +7,7 @@ tags: WebGL, HTML5, WebWorks, bbUI.js, C++, AIR, ANE, native, extension
 ---
 {% include common-defs.md %}
 
-This page is intended to capture the the pertinent details of community collaborations under focused development for coordination amongst participants. See below for the lead community developers, links to the primary repositories, issue lists and current goals.
+This page is intended to capture the the details of community collaborations under focused development, for coordination amongst participants. See below for the lead community developers, links to the primary repositories, issue lists and current goals.
 
 [Get Involved!](http://blackberry.github.com/howToContribute.html)
 <br>
