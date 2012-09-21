@@ -251,7 +251,7 @@
      "url": "http://github.com/blackberry/NME",
      "type": "other",
      "branches": ["master"],
-     "note": "<p>NME is a free, open-source framework that enables development for iOS, Android, webOS, BlackBerry, Windows, Mac, Linux and Flash Player from a single codebase.</p><p>Haxe NME uses the Haxe cross-platform language.",
+     "note": "<p>NME is a free, open-source framework that enables development for iOS, Android, webOS, BlackBerry, Windows, Mac, Linux and Flash Player from a single codebase.</p><p>Haxe NME uses the Haxe cross-platform language.  For more information, see <a href='http://www.haxenme.org/'>HaxeNME.org</a></p>",
      "tags": [ "haxe", "bb10" ]
  },
  "OpenDataSpace-BBJava": {
