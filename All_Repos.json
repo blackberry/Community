@@ -303,6 +303,14 @@
      "portinfo": "Changes upstreamed to the <a href='http://code.google.com/p/opengles-book-samples/'>opengles-book-samples</a> project ",
      "tags": [ "native", "bb10", "playbook", "port", "samples" ]
  },
+ "OpenNebula-Carina": {
+     "desc": "Carina Extensions to the OpenNebula IaaS Platform",
+     "url": "http://github.com/blackberry/OpenNebula-Carina",
+     "type": "server",
+     "branches": ["master"],
+     "portinfo": "The Carina Environment Manager is a component to handle the deployment of interconnected multi-VM application services on top of the <a href='http://opennebula.org'>OpenNebula</a> IaaS platform",
+     "tags": [ "server", "opennebula" ]
+ },
  "OpenTTD": {
      "desc": "Cross-Platform, Open Source, simulation game originally based on Transport Tycoon Deluxe",
      "url": "http://github.com/blackberry/OpenTTD",
