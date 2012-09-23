@@ -1095,7 +1095,7 @@
      "repourl": "http://github.com/blackberry/WebWorks-Samples",
      "tags": [ "html5", "client", "webworks", "playbook", "framework" ]
  },
- "SwipeMenu.js": {
+ "SwipeMenu(bb10)": {
      "desc": "A swipe-down menu framework for BlackBerry WebWorks",
      "url": "https://github.com/blackberry/BB10-WebWorks-Samples/tree/master/swipemenu",
      "repo": "BB10-WebWorks-Samples",
