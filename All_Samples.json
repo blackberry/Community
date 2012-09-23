@@ -183,7 +183,16 @@
      "url": "http://github.com/blackberry/WebWorks-Samples/tree/master/DojoAppDetails",
      "repo": "WebWorks-Samples",
      "repourl": "http://github.com/blackberry/WebWorks-Samples",
+     "note": "Also see the BB10 version",
      "tags": [ "html5", "client", "webworks", "dojo"]
+ },
+ "DojoAppDetails(bb10)": {
+     "desc": "Simple app to show usage of Dojo toolkit and blackberry.app API - Version for BlackBerry 10",
+     "url": "http://github.com/blackberry/BB10-WebWorks-Samples/tree/master/DojoAppDetails",
+     "repo": "BB10-WebWorks-Samples",
+     "repourl": "http://github.com/blackberry/BB10-WebWorks-Samples",
+     "note": "Also see the version for BBOS",
+     "tags": [ "html5", "client", "webworks", "dojo", "bb10"]
  },
  "EmailListener(ext,bbos)": {
      "desc": "WebWorks Java-based Smartphone extension to receive a Event Objet when email is received",
