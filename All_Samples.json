@@ -77,6 +77,15 @@
      "note": "<p>A radio group and an image are used to display and describe the different battery states.</p><p>  The QML uses stackLayout</p>",
      "tags": [ "native", "client", "bb10", "cascades", "battery", "stacklayout"]
  },
+ "bbUI-localstorage": {
+     "desc": "Multiple ways to use localStorage to improve the end-user experience of a WebWorks Application",
+     "url": "https://github.com/blackberry/WebWorks-Samples/tree/master/bbUI-localStorage",
+     "repo": "WebWorks-Samples",
+     "repourl": "http://github.com/blackberry/WebWorks-Samples",
+     "note": "Sample supports BlackBerry PlayBook as well as BlackBerry 10",
+     "warning": "BlackBerry 10 Support is still under development",
+     "tags": [ "html5", "bb10", "playbook", "localstorage" ]
+ },
  "BelligerentBlocks": {
      "desc": "Simple Game that uses Scoreloop, 2D graphics, Box2D, SQLite3 and other features",
      "url": "https://github.com/blackberry/NDK-Samples/tree/master/BelligerentBlocks",
