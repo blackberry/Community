@@ -216,6 +216,13 @@
      "note": "I believe the only change is build configuration. Changes should be upstreamed",
      "tags": [ "html5", "bb10", "playbook", "samples" ]
  },
+ "jQueryMobile-BB10-Theme": {
+     "desc": "jQuery Mobile BlackBerry 10 Theme",
+     "url": "http://github.com/blackberry/jQueryMobile-BB10-Theme",
+     "type": "html5",
+     "branches": ["master" ],
+     "tags": [ "html5", "bb10", "playbook", "webworks" ]
+ },
  "JSON_parser": {
      "desc": "Port of C-based JSON parser",
      "url": "http://github.com/blackberry/JSON_parser",
