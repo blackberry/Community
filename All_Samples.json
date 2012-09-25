@@ -1044,6 +1044,13 @@
      "note": "Samples are intended to be included in the jQuery Mobile Cookbook",
      "tags": [ "html5", "client", "bb10", "jquery"]
  },
+ "RockPaperScissors": {
+     "desc": "Simple Rock Paper Scissors game using Cascasdes",
+     "url": "https://github.com/blackberry/Cascades-Community-Samples/tree/master/RockPaperScissors",
+     "repo": "Cascades-Community-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
+     "tags": [ "native", "client", "bb10", "cascades" ]
+ },
  "RouteMapInvoker": {
      "desc": "How to invoke the map application and configure it to show a certain route between two locations",
      "url": "https://github.com/blackberry/Cascades-Samples/tree/master/routemapinvoker",
