@@ -125,9 +125,10 @@
  },
  "CascadesBasicSample": {
      "desc": "Demonstrates the use of signal / slot between QML and C++",
-     "url": "http://github.com/blackberry/Cascades-Samples/tree/master/Cascades-BasicSample",
+     "url": "http://github.com/blackberry-core/Cascades-Samples/tree/r9-update-pending/Cascades-BasicSample",
      "repo": "Cascades-Samples",
      "note": "Learning Trail: HelloCascades &rarr; CascadesBasicSample &rarr; GoodCitizenCascades",
+     "warning": "Not yet updated to the beta 3 APIs; may move to Cascades-Community-Samples. Temporarily in branch of BlackBerry-core repo",
      "repourl": "http://github.com/blackberry/Cascades-Samples",
      "tags": [ "native", "cascades", "bb10", "intro", "qml" ]
  },
@@ -149,10 +150,11 @@
  },
  "CascadesOpenGL": {
      "desc": "Simple demonstration on how to use OpenGL in a ForeignWindow",
-     "url": "http://github.com/blackberry/Cascades-Samples/tree/master/CascadesOpenGL",
+     "url": "http://github.com/blackberry-core/Cascades-Samples/tree/r9-update-pending/CascadesOpenGL",
      "repo": "Cascades-Samples",
      "note": "Learning Trail: HelloCascades &rarr; CascadesBasicSample &rarr; GoodCitizenCascades",
      "repourl": "http://github.com/blackberry/Cascades-Samples",
+     "warning": "Not yet updated to the beta 3 APIs; may move to Cascades-Community-Samples. Temporarily in branch of BlackBerry-core repo",
      "tags": [ "native", "cascades", "bb10", "intro", "foreignwindow", "opengl" ]
  },
  "Clipboard(ext,pb)": {
@@ -276,9 +278,10 @@
  },
  "FilteredListView": {
      "desc": "How to use a custom DataModel to dynamically filter the data displayed by a ListView",
-     "url": "http://github.com/blackberry/Cascades-Samples/tree/master/FilteredListView",
+     "url": "http://github.com/blackberry-core/Cascades-Samples/tree/r9-update-pending/FilteredListView",
      "repo": "Cascades-Samples",
      "repourl": "http://github.com/blackberry/Cascades-Samples",
+     "warning": "Not yet updated to the beta 3 APIs; may move to Cascades-Community-Samples. Temporarily in branch of BlackBerry-core repo",
      "tags": [ "native", "cascades", "bb10", "list" ]
  },
  "FileTransfer": {
@@ -409,10 +412,11 @@
  },
  "HelloWorldDataModel": {
      "desc": "Use your own DataModel with ListView",
-     "url": "http://github.com/blackberry/Cascades-Samples/tree/master/HelloWorldDataModel",
+     "url": "http://github.com/blackberry-core/Cascades-Samples/tree/r9-update-pending/HelloWorldDataModel",
+     "repourl": "http://github.com/blackberry/Cascades-Samples",
      "repo": "Cascades-Samples",
      "note": "For more details, refer to the companion <a href='http://supportforums.blackberry.com/t5/Cascades-Development-Knowledge/Using-your-own-DataModel/ta-p/1755893'>KB Article</a>",
-     "repourl": "http://github.com/blackberry/Cascades-Samples",
+     "warning": "Not yet updated to the beta 3 APIs; may move to Cascades-Community-Samples. Temporarily in branch of BlackBerry-core repo",
      "tags": [ "native", "cascades", "bb10", "list" ]
  },
  "HelloWorldDisplay": {
@@ -933,10 +937,11 @@
  },
  "QImageScratchPad": {
      "desc": "How to use QImage and QPainter to prepare a cascades::Image",
-     "url": "http://github.com/blackberry/Cascades-Samples/tree/master/QImageScratchPad",
+     "url": "http://github.com/blackberry-core/Cascades-Samples/tree/r9-update-pending/QImageScratchPad",
+     "repourl": "http://github.com/blackberry/Cascades-Samples",
      "repo": "Cascades-Samples",
      "note": "For more details, refer to the companion <a href='http://supportforums.blackberry.com/t5/Cascades-Development-Knowledge/Using-QImage-and-QPainter-to-Prepare-a-cascades-Image/ta-p/1809841'>KB Article</a>",
-     "repourl": "http://github.com/blackberry/Cascades-Samples",
+     "warning": "Not yet updated to the beta 3 APIs; may move to Cascades-Community-Samples. Temporarily in branch of BlackBerry-core repo",
      "tags": [ "native", "cascades", "bb10", "image" ]
  },
  "Qt2Cascades.IPC": {
@@ -1335,10 +1340,10 @@
  },
  "TwitterTimeline": {
      "desc": "Accesses the Twitter RESTful service an duses the JSON responde to display a list of tweets on screen",
-     "url": "http://github.com/blackberry/Cascades-Samples/tree/master/TwitterTimeline",
+     "url": "http://github.com/blackberry-core/Cascades-Samples/tree/r9-update-pending/TwitterTimeline",
      "repo": "Cascades-Samples",
      "repourl": "http://github.com/blackberry/Cascades-Samples",
-     "warning": "Not yet updated to the beta 3 APIs; may move to Cascades-Community-Samples",
+     "warning": "Not yet updated to the beta 3 APIs; may move to Cascades-Community-Samples. Temporarily in branch of BlackBerry-core repo",
      "tags": [ "native", "cascades", "bb10", "rest", "http", "json", "twitter" ]
  },
  "UIExamples": {
