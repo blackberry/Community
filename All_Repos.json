@@ -442,8 +442,8 @@
      "desc": "Sample showing integration with Scoreloop",
      "url": "http://github.com/blackberry/Scoreloop-Samples",
      "type": "native",
-     "branches": ["master", "BB10.0.06"],
-     "branchinfo": "'master' is PlayBook; 'BB10.0.06' is latest BlackBerry 10<br/>Name is arguably inconsistent with other conventions",
+     "branches": ["master", "BB10.0.06", "BB10.0.09"],
+     "branchinfo": "'master' is PlayBook; 'BB10.0.09' is latest BlackBerry 10<br/>Name is arguably inconsistent with other conventions",
      "note": "We need to decide where WebWorks integration will go",
      "tags": [ "native", "samples", "bb10", "scoreloop", "gaming" ]
  },
