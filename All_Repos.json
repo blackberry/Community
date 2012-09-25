@@ -166,6 +166,13 @@
      "portinfo": "Original sources at <a href='http://www.dosbox.com'>dosbox.com</a>",
      "tags": [ "native", "playbook", "port" ]
  },
+ "Eclipse-JDE": {
+     "desc": "The BlackBerry Java Plug-in for Eclipse", 
+     "url": "http://github.com/blackberry/eclipse-jde",
+     "type": "java",
+     "branches": ["master"],
+     "tags": [ "java", "tool" ]
+ },
  "Erlang-OTP": {
      "desc": "The Erlang language and OTP libraries used in CouchDB",
      "url": "http://github.com/blackberry/Erlang-OTP",
@@ -208,6 +215,13 @@
      "warning": "Need information on branches",
      "note": "I believe the only change is build configuration. Changes should be upstreamed",
      "tags": [ "html5", "bb10", "playbook", "samples" ]
+ },
+ "jQueryMobile-BB10-Theme": {
+     "desc": "jQuery Mobile BlackBerry 10 Theme",
+     "url": "http://github.com/blackberry/jQueryMobile-BB10-Theme",
+     "type": "html5",
+     "branches": ["master" ],
+     "tags": [ "html5", "bb10", "playbook", "webworks" ]
  },
  "JSON_parser": {
      "desc": "Port of C-based JSON parser",
