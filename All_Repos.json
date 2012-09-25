@@ -166,6 +166,13 @@
      "portinfo": "Original sources at <a href='http://www.dosbox.com'>dosbox.com</a>",
      "tags": [ "native", "playbook", "port" ]
  },
+ "Eclipse-JDE": {
+     "desc": "The BlackBerry Java Plug-in for Eclipse", 
+     "url": "http://github.com/blackberry/eclipse-jde",
+     "type": "java",
+     "branches": ["master"],
+     "tags": [ "java", "tool" ]
+ },
  "Erlang-OTP": {
      "desc": "The Erlang language and OTP libraries used in CouchDB",
      "url": "http://github.com/blackberry/Erlang-OTP",
