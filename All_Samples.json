@@ -290,10 +290,10 @@
  },
  "FunWithSensors": {
      "desc": "How to activate and listen to the sensors in the device",
-     "url": "http://github.com/blackberry/Cascades-Samples/tree/master/FunWithSensors",
+     "url": "http://github.com/blackberry-core/Cascades-Samples/tree/r9-update-pending/FunWithSensors",
      "repo": "Cascades-Samples",
      "repourl": "http://github.com/blackberry/Cascades-Samples",
-     "warning": "Not yet updated to the beta 3 APIs; may move to Cascades-Community-Samples",
+     "warning": "Not yet updated to the beta 3 APIs; may move to Cascades-Community-Samples. Temporarily in branch of BlackBerry-core repo",
      "tags": [ "native", "cascades", "bb10", "sensor", "temperature", "light", "magnetometer", "accelerometer", "gyroscope" ]
  },
  "GeoLocation": {
@@ -433,18 +433,18 @@
  },
  "HttpTestSample": {
      "desc": "How to use HTTP Post and Get to communicate with a remote server",
-     "url": "http://github.com/blackberry/Cascades-Samples/tree/master/HttpTestSample",
+     "url": "http://github.com/blackberry-core/Cascades-Samples/tree/r9-update-pending/HttpTestSample",
      "repo": "Cascades-Samples",
      "repourl": "http://github.com/blackberry/Cascades-Samples",
-     "warning": "Not yet updated to the beta 3 APIs; may move to Cascades-Community-Samples",
+     "warning": "Not yet updated to the beta 3 APIs; may move to Cascades-Community-Samples. Temporarily in branch of BlackBerry-core repo",
      "tags": [ "native", "cascades", "bb10", "rest", "xml", "http" ]
  },
  "Internationalization": {
      "desc": "How to use the built-in Internationalization engine to deliver your app in multiple languages",
-     "url": "http://github.com/blackberry/Cascades-Samples/tree/master/Internationalization",
+     "url": "http://github.com/blackberry-core/Cascades-Samples/tree/r9-update-pending/Internationalization",
      "repo": "Cascades-Samples",
      "repourl": "http://github.com/blackberry/Cascades-Samples",
-     "warning": "Not yet updated to the beta 3 APIs; may move to Cascades-Community-Samples",
+     "warning": "Not yet updated to the beta 3 APIs; may move to Cascades-Community-Samples. Temporarily in branch of BlackBerry-core repo",
      "tags": [ "native", "cascades", "bb10", "i18n" ]
  },
  "Invoke": {
@@ -608,10 +608,10 @@
  },
  "LogExceptionSample": {
      "desc": "How to handle an exception, log it, and display meaningful data back to the user",
-     "url": "http://github.com/blackberry/Cascades-Samples/tree/master/LogExceptionSample",
+     "url": "http://github.com/blackberry-core/Cascades-Samples/tree/r9-update-pending/LogExceptionSample",
      "repo": "Cascades-Samples",
      "repourl": "http://github.com/blackberry/Cascades-Samples",
-     "warning": "Not yet updated to the beta 3 APIs; may move to Cascades-Community-Samples",
+     "warning": "Not yet updated to the beta 3 APIs; may move to Cascades-Community-Samples. Temporarily in branch of BlackBerry-core repo",
      "tags": [ "native", "cascades", "bb10", "logging" ]
  },
  "MapView": {
@@ -639,18 +639,18 @@
  },
  "Multithreading 101": {
      "desc": "Demonstrates how four different threads can process data in a thread and update the UI independently",
-     "url": "http://github.com/blackberry/Cascades-Samples/tree/master/MultithreadingCallbacks101",
+     "url": "http://github.com/blackberry-core/Cascades-Samples/tree/r9-update-pending/MultithreadingCallbacks101",
      "repo": "Cascades-Samples",
      "repourl": "http://github.com/blackberry/Cascades-Samples",
-     "warning": "Not yet updated to the beta 3 APIs; may move to Cascades-Community-Samples",
+     "warning": "Not yet updated to the beta 3 APIs; may move to Cascades-Community-Samples. Temporarily in branch of BlackBerry-core repo",
      "tags": [ "native", "cascades", "bb10", "threads" ]
  },
  "Multithreading 102": {
      "desc": "Shows the proper method of breaking a network call into a separate class and have the interface bring back the response into the UI",
-     "url": "http://github.com/blackberry/Cascades-Samples/tree/master/MultithreadingCallbacks102",
+     "url": "http://github.com/blackberry-core/Cascades-Samples/tree/r9-update-pending/MultithreadingCallbacks102",
      "repo": "Cascades-Samples",
      "repourl": "http://github.com/blackberry/Cascades-Samples",
-     "warning": "Not yet updated to the beta 3 APIs; may move to Cascades-Community-Samples",
+     "warning": "Not yet updated to the beta 3 APIs; may move to Cascades-Community-Samples. Temporarily in branch of BlackBerry-core repo",
      "tags": [ "native", "cascades", "bb10", "threads" ]
  },
  "NativeCamera": {
@@ -1207,10 +1207,10 @@
  },
  "SoapXMLSample": {
      "desc": "How to access a SOAP service using QTSoap, and how to handle the XML Response",
-     "url": "http://github.com/blackberry/Cascades-Samples/tree/master/SoapXMLSample",
+     "url": "http://github.com/blackberry-core/Cascades-Samples/tree/r9-update-pending/SoapXMLSample",
      "repo": "Cascades-Samples",
      "repourl": "http://github.com/blackberry/Cascades-Samples",
-     "warning": "Not yet updated to the beta 3 APIs; may move to Cascades-Community-Samples",
+     "warning": "Not yet updated to the beta 3 APIs; may move to Cascades-Community-Samples. Temporarily in branch of BlackBerry-core repo",
      "tags": [ "native", "cascades", "bb10", "soap", "xml" ]
  },
  "SocialApp": {
