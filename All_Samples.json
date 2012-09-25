@@ -757,9 +757,9 @@
  },
  "NutritutionTracker": {
      "desc": "How to make a semi-complex list with rich formatting using jQuery Mobile",
-     "url": "https://github.com/blackberry/jQuery-Mobile-Samples/tree/master/NutritionTracker",
-     "repo": "jQuery-Mobile-Samples",
-     "repourl": "http://github.com/blackberry/jQuery-Mobile-Samples",
+     "url": "https://github.com/blackberry/jQueryMobile-Samples/tree/master/NutritionTracker",
+     "repo": "jQueryMobile-Samples",
+     "repourl": "http://github.com/blackberry/jQueryMobile-Samples",
      "note": "Samples are intended to be included in the jQuery Mobile Cookbook",
      "tags": [ "html5", "client", "bb10", "jquery"]
  },
@@ -1038,9 +1038,9 @@
  },
  "RestaurantLocator": {
      "desc": "How to make a semi-complex list with rich formatting using jQuery Mobile",
-     "url": "https://github.com/blackberry/jQuery-Mobile-Samples/tree/master/RestaurantLocator",
-     "repo": "jQuery-Mobile-Samples",
-     "repourl": "http://github.com/blackberry/jQuery-Mobile-Samples",
+     "url": "https://github.com/blackberry/jQueryMobile-Samples/tree/master/RestaurantLocator",
+     "repo": "jQueryMobile-Samples",
+     "repourl": "http://github.com/blackberry/jQueryMobile-Samples",
      "note": "Samples are intended to be included in the jQuery Mobile Cookbook",
      "tags": [ "html5", "client", "bb10", "jquery"]
  },

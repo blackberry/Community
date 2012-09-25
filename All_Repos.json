@@ -206,9 +206,9 @@
      "note": "There are branches and tags for all the releases of JDE",
      "tags": [ "java", "samples" ]
  },
- "jQuery-Mobile-Samples": {
+ "jQueryMobile-Samples": {
      "desc": "Samples showing how to use jQuery Mobile to write BlackBerry Apps",
-     "url": "http://github.com/blackberry/jQuery-Mobile-Samples",
+     "url": "http://github.com/blackberry/jQueryMobile-Samples",
      "type": "html5",
      "branches": ["master", "restaurantLocator", "tutorials"],
      "branchinfo": "need information on branches",
