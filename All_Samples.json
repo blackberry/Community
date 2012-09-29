@@ -1307,12 +1307,20 @@
      "repourl": "http://github.com/blackberry/Cascades-Samples",
      "tags": [ "native", "client", "bb10", "cascades", "audio" ]
  },
+ "TouchTicTacTen": {
+     "desc": "Peer to peer, NFC-enabled, game of Tic-Tac-Toe for BlackBerry 10 ",
+     "url": "https://github.com/blackberry/Cascades-Community-Samples/tree/master/TouchTicTacTen",
+     "repo": "Cascades-Community-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
+     "note": "<p>For BlackBerry-10 based devices</p><p>Also see the TouchTicTacToe game for Java-based Devices and the <a href='NFC.html'>NFC</a> Wiki page</p>",
+     "tags": [ "native", "client", "nfc", "bb10", "cascades" ]
+ },
  "TouchTicTacToe": {
-     "desc": "Demonstrates how to use NFC in a simple game of Tic-Tac-Toe",
+     "desc": "Peer to peer, NFC-enabled, game of Tic-Tac-Toe for java-based BlackBerry Smartphones",
      "url": "https://github.com/blackberry/Samples-for-Java/tree/master/TouchTicTacToe",
      "repo": "Samples-for-Java",
      "repourl": "http://github.com/blackberry/Samples-for-Java",
-     "note": "<p>For Java-based BlackBerry Smartphones; requires BB 7.1 or above</p><p>Also see the <a href='NFC.html'>NFC</a> Wiki page</p>",
+     "note": "<p>For Java-based BlackBerry Smartphones; requires BB 7.1 or above</p><p>Also see the TouchTicTacTen game for BlackBerry 10 devices and the <a href='NFC.html'>NFC</a> Wiki page</p>",
      "tags": [ "java", "client", "nfc", "bbos" ]
  },
  "Titlebar": {

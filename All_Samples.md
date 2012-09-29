@@ -54,14 +54,14 @@ columns select the next column while pressing the 'SHIFT' (on mac) key.
 </div>
 <div style='margin-top: 2px; margin-left:20px;'>
 <em>Common tags:
-<span class='tagfilter' style='font-size:140%'><em>native</em></span>,
+<span class='tagfilter' style='font-size:140%'><em>air</em></span>,
+<span class='tagfilter' style='font-size:140%'><em>bb10</em></span>,
 <span class='tagfilter' style='font-size:140%'><em>cascades</em></span>,
 <span class='tagfilter' style='font-size:140%'><em>html5</em></span>,
-<span class='tagfilter' style='font-size:140%'><em>air</em></span>,
 <span class='tagfilter' style='font-size:140%'><em>java</em></span>,
-<span class='tagfilter' style='font-size:140%'><em>playbook</em></span>,
-<span class='tagfilter' style='font-size:140%'><em>bb10</em></span>,
-<span class='tagfilter' style='font-size:140%'><em>extension</em></span>
+<span class='tagfilter' style='font-size:140%'><em>native</em></span>,
+<span class='tagfilter' style='font-size:140%'><em>nfc</em></span>,
+<span class='tagfilter' style='font-size:140%'><em>playbook</em></span>
 </em>
 <!-- displaying was here -->
 
