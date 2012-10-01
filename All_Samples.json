@@ -76,6 +76,14 @@
      "repourl": "http://github.com/blackberry/Cascades-Samples",
      "tags": [ "native", "client", "bb10", "cascades", "barcode"]
  },
+ "BrickBreaker": {
+     "desc": "The classic BlackBerry game, reimagined using HTML5 technologies",
+     "url": "http://github.com/blackberry/BB10-WebWorks-Samples/tree/master/BrickBreaker",
+     "repo": "BB10-WebWorks-Samples",
+     "repourl": "http://github.com/blackberry/BB10-WebWorks-Samples",
+     "warning": "Enabling sound may cause loss of frames on a BlackBerry PlayBook",
+     "tags": [ "html5", "client", "webworks", "bb10", "playbook" ]
+ },
  "CallAPizza": {
      "desc": "Call A Pizza demonstrates how to invoke the phone application with a pre-selected number",
      "url": "https://github.com/blackberry/Cascades-Samples/tree/master/callapizza",
