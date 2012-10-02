@@ -490,14 +490,13 @@
      "note": "WebGL is delivered wrapped as a WebWorks Application to the BlackBerry PlayBook or to BlackBerry 10 devices.<p> An online demo is available: point your modern browser to <a href='http://blackberry.github.com/WebGL-Samples/tunneltilt/'>blackberry.github.com/WebGL-Samples/</a></p>",
      "tags": [ "html5", "webGL", "bb10", "samples", "pages", "webworks" ]
  },
- "WebKit-Smartphone": {
-     "desc": "Webkit contributions for BlackBerry Smartphones",
-     "url": "http://github.com/blackberry/WebKit-Smartphone",
+ "WebKit-BB10": {
+     "desc": "Webkit contributions for BlackBerry 10",
+     "url": "http://github.com/blackberry/WebKit-BB10",
      "type": "html5",
-     "branches": ["master"],
-     "branchinfo": "Check out the tags; there are tags per major release of BlackBerry OS",
+     "branches": ["master", "BB10_0_09"],
      "note": "Changes are now regularly upstreamed into Webkit.org",
-     "tags": [ "html5" ]
+     "tags": [ "html5", "bb10", "webkit" ]
  },
  "WebKit-PlayBook": {
      "desc": "Webkit contributions for BlackBerry PlayBook and BlackBerry 10",
@@ -505,7 +504,16 @@
      "type": "html5",
      "branches": ["playbook-2.0.0", "playbook-1.0.8", "BB10_Dev_Alpha"],
      "note": "Changes are now regularly upstreamed into Webkit.org",
-     "tags": [ "html5", "playbook" ]
+     "tags": [ "html5", "playbook", "webkit" ]
+ },
+ "WebKit-Smartphone": {
+     "desc": "Webkit contributions for BlackBerry Smartphones",
+     "url": "http://github.com/blackberry/WebKit-Smartphone",
+     "type": "html5",
+     "branches": ["master"],
+     "branchinfo": "Check out the tags; there are tags per major release of BlackBerry OS",
+     "note": "Changes are now regularly upstreamed into Webkit.org",
+     "tags": [ "html5", "webkit" ]
  },
  "WebWorks": {
      "desc": "Implementation of WebWorks for java-based BlackBerry Smartphones",
