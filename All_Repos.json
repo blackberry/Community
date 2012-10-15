@@ -350,6 +350,13 @@
      "branchinfo": "I suspect several of the branches are obsolete",
      "tags": [ "html5", "bb10", "playbook", "samples", "webworks"]
  },
+ "Presentations": {
+     "desc": "Samples and other code used in Presentations",
+     "url": "http://github.com/blackberry/Presentations",
+     "type": "docs",
+     "branches": ["master"],
+     "tags": [ "presentations"]
+ },
  "Quake3": {
      "desc": "Port of the Quake3 engine",
      "url": "http://github.com/blackberry/Quake3",
