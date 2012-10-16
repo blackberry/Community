@@ -744,6 +744,14 @@
      "note": "<p>For Java-based BlackBerry Smartphones; requires BB 7.1 or above</p><p>Also see the <a href='NFC.html'>NFC</a> Wiki page</p>",
      "tags": [ "java", "client", "nfc", "bbos" ]
  },
+ "NfcRaceTimeWay": {
+     "desc": "Shows how to integrate NFC Tags and Virtual Tag Emulation into your BlackBerry 10 application",
+     "url": "https://github.com/blackberry/Cascades-Community-Samples/tree/master/NfcRaceTimeWay",
+     "repo": "Cascades-Community-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
+     "note": "<p>Supports:<ul><li>Reading NDEF tags</li><li>Virtual tag emulation</li></ul></p><p>Also see the <a href='NFC.html'>NFC</a> Wiki page</p>",
+     "tags": [ "native", "client", "nfc", "bb10", "cascades" ]
+ },
  "NothingButNet": {
      "desc": "Macadamian Demo from BBJam Orlando 2012",
      "url": "https://github.com/blackberry/Cascades-Community-Samples/tree/master/Macadamian/NothinButNet",
