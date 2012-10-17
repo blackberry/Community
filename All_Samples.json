@@ -76,6 +76,48 @@
      "repourl": "http://github.com/blackberry/Cascades-Samples",
      "tags": [ "native", "client", "bb10", "cascades", "barcode"]
  },
+ "BBMBaseSampleRegistration": {
+     "desc": "BPS (BlackBerry Platform Services)-based sample to register an Application with the BlackBerry Messenger Social Platform",
+     "url": "http://github.com/blackberry/Cascades-Community-Samples/tree/master/BBMBaseSampleRegistration",
+     "repo": "Cascades-Community-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
+     "tags": [ "native", "bb10", "bbm", "bps" ]
+ },
+ "BBMSPUserProfile": {
+     "desc": "BPS (BlackBerry Platform Services)-based sample to read and update the users's BlackBerry Messenger Profile",
+     "url": "http://github.com/blackberry/Cascades-Community-Samples/tree/master/BBMSPUserProfile",
+     "repo": "Cascades-Community-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
+     "tags": [ "native", "bb10", "bbm", "bps" ]
+ },
+ "BBMQtInviteToDownload": {
+     "desc": "Qt-based sample to register an app with the BlackBerry Messenger Social Platform and invite a contact to download the application",
+     "url": "http://github.com/blackberry/Cascades-Community-Samples/tree/master/BBMQtInviteToDownload",
+     "repo": "Cascades-Community-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
+     "tags": [ "native", "bb10", "bbm", "Qt", "cascades" ]
+ },
+ "BBMQtProfile": {
+     "desc": "Qt-based sample to register an app with the BlackBerry Messenger Social Platform and read and update the user's Profile",
+     "url": "http://github.com/blackberry/Cascades-Community-Samples/tree/master/BBMQtProfile",
+     "repo": "Cascades-Community-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
+     "tags": [ "native", "bb10", "bbm", "Qt", "cascades" ]
+ },
+ "BBMQtProfileBoxSample": {
+     "desc": "Qt-based sample to create a ProfileBox for the Application shown in the user's BlackBerry Messenger Profile, and how to update it",
+     "url": "http://github.com/blackberry/Cascades-Community-Samples/tree/master/BBMQtProfileBoxSample",
+     "repo": "Cascades-Community-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
+     "tags": [ "native", "bb10", "bbm", "Qt", "cascades" ]
+ },
+ "BBMQtRegistration": {
+     "desc": "Qt-based sample to register an app with the BlackBerry Messenger Social Platform",
+     "url": "http://github.com/blackberry/Cascades-Community-Samples/tree/master/BBMQtRegistration",
+     "repo": "Cascades-Community-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
+     "tags": [ "native", "bb10", "bbm", "Qt", "cascades" ]
+ },
  "BrickBreaker": {
      "desc": "The classic BlackBerry game, reimagined using HTML5 technologies",
      "url": "http://github.com/blackberry/BB10-WebWorks-Samples/tree/master/BrickBreaker",
