@@ -843,7 +843,7 @@
      "url": "https://github.com/blackberry/BB10-WebWorks-Samples/tree/master/notificationshub",
      "repo": "BB10-WebWorks-Samples",
      "repourl": "http://github.com/blackberry/BB10-WebWorks-Samples",
-     "tags": [ "html5", "webworks", "bb10", "notifications", "hub" ]
+     "tags": [ "html5", "webworks", "bb10", "notification", "hub" ]
  },
  "NutritutionTracker": {
      "desc": "How to make a semi-complex list with rich formatting using jQuery Mobile",
