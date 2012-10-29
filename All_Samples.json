@@ -118,6 +118,13 @@
      "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
      "tags": [ "native", "bb10", "bbm", "Qt", "cascades" ]
  },
+ "BBMWebWorks": {
+     "desc": "WebWorks sample outlining usage of BBM APIs for BlackBerry 10. Presented at BlackBerry Jam Americas lab and includes an incomplete and complete version of the code.",
+     "url": "https://github.com/blackberry/BB10-WebWorks-Samples/tree/master/bbm",
+     "repo": "BB10-WebWorks-Samples",
+     "repourl": "http://github.com/blackberry/BB10-WebWorks-Samples",
+     "tags": [ "html5", "webworks", "bb10", "bbm" ]
+ },
  "BrickBreaker": {
      "desc": "The classic BlackBerry game, reimagined using HTML5 technologies",
      "url": "http://github.com/blackberry/BB10-WebWorks-Samples/tree/master/BrickBreaker",
@@ -213,6 +220,13 @@
      "repo": "WebWorks-Community-APIs",
      "repourl": "http://github.com/blackberry/WebWorks-Community-APIs",
      "tags": [ "html5", "client", "playbook", "clipboard", "extension" ]
+ },
+ "ContextMenu": {
+     "desc": "WebWorks sample outlining usage of Context Menu APIs for BlackBerry 10. Presented at BlackBerry Jam Americas lab and includes an incomplete and complete version of the code.",
+     "url": "https://github.com/blackberry/BB10-WebWorks-Samples/tree/master/contextmenu",
+     "repo": "BB10-WebWorks-Samples",
+     "repourl": "http://github.com/blackberry/BB10-WebWorks-Samples",
+     "tags": [ "html5", "webworks", "bb10", "context", "menu" ]
  },
  "CowBell": {
      "desc": "Basic Sound Handling",
@@ -675,6 +689,13 @@
      "repourl": "http://github.com/blackberry/Cascades-Samples",
      "tags": [ "native", "client", "bb10", "cascades", "map" ]
  },
+ "MediaCards": {
+     "desc": "WebWorks sample outlining usage of HTML5 media input and Card Invocation APIs for BlackBerry 10. Presented at BlackBerry Jam Americas lab and includes an incomplete and complete version of the code.",
+     "url": "https://github.com/blackberry/BB10-WebWorks-Samples/tree/master/mediacards",
+     "repo": "BB10-WebWorks-Samples",
+     "repourl": "http://github.com/blackberry/BB10-WebWorks-Samples",
+     "tags": [ "html5", "webworks", "bb10", "media", "invoke", "camera", "video", "picture", "file", "system" ]
+ },
  "MessageList(ext,bbos)": {
      "desc": "WebWorks Java-based Smartphone extension to add items to the main mesage list",
      "url": "http://github.com/blackberry/WebWorks-Community-APIs/tree/master/Smartphone/MessageList",
@@ -817,6 +838,13 @@
      "repourl": "http://github.com/blackberry/WebWorks-Community-APIs",
      "tags": [ "html5", "client", "bbos", "extension", "notification", "alerts", "profile" ]
  },
+ "NotificationsHub": {
+     "desc": "WebWorks sample outlining usage of Notification APIs for BlackBerry 10. Presented at BlackBerry Jam Americas lab and includes an incomplete and complete version of the code.",
+     "url": "https://github.com/blackberry/BB10-WebWorks-Samples/tree/master/notificationshub",
+     "repo": "BB10-WebWorks-Samples",
+     "repourl": "http://github.com/blackberry/BB10-WebWorks-Samples",
+     "tags": [ "html5", "webworks", "bb10", "notifications", "hub" ]
+ },
  "NutritutionTracker": {
      "desc": "How to make a semi-complex list with rich formatting using jQuery Mobile",
      "url": "https://github.com/blackberry/jQueryMobile-Samples/tree/master/NutritionTracker",
@@ -923,6 +951,13 @@
      "repo": "Cascades-Samples",
      "repourl": "http://github.com/blackberry/Cascades-Samples",
      "tags": [ "native", "client", "bb10", "cascades", "pim" ]
+ },
+ "PIMContacts": {
+     "desc": "WebWorks sample outlining usage of PIM Contact APIs for BlackBerry 10. Presented at BlackBerry Jam Americas lab and includes an incomplete and complete version of the code.",
+     "url": "https://github.com/blackberry/BB10-WebWorks-Samples/tree/master/pimcontacts",
+     "repo": "BB10-WebWorks-Samples",
+     "repourl": "http://github.com/blackberry/BB10-WebWorks-Samples",
+     "tags": [ "html5", "webworks", "bb10", "pim", "contact", "contacts" ]
  },
  "PIMNotebook": {
      "desc": "How to implement a simple notebook application",
