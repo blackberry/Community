@@ -807,16 +807,8 @@
      "note": "<p>For Java-based BlackBerry Smartphones; requires BB 7.1 or above</p><p>Also see the <a href='NFC.html'>NFC</a> Wiki page</p>",
      "tags": [ "java", "client", "nfc", "bbos" ]
  },
- "NfcRaceTime7": {
-     "desc": "Start/stop watch demo app which shows how to integrate NFC Tags into your BlackBerry 7 application. Partner to NfcRaceTimeWay for BlackBerry 10.",
-     "url": "https://github.com/blackberry/Samples-for-Java/tree/master/NFC/NfcRaceTime7",
-     "repo": "Samples-for-Java",
-     "repourl": "https://github.com/blackberry/Samples-for-Java",
-     "note": "<p>Supports:<ul><li>Reading NDEF tags</li></ul></p><p>Also see the <a href='NFC.html'>NFC</a> Wiki page</p>",
-     "tags": [ "java", "client", "nfc", "bbos" ]
- },
  "NfcRaceTimeWay": {
-     "desc": "Shows how to integrate NFC Tags and Virtual Tag Emulation into your BlackBerry 10 application. Partner to NfcRaceTime7 for BlackBerry 7.",
+     "desc": "Shows how to integrate NFC Tags and Virtual Tag Emulation into your BlackBerry 10 application",
      "url": "https://github.com/blackberry/Cascades-Community-Samples/tree/master/NfcRaceTimeWay",
      "repo": "Cascades-Community-Samples",
      "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
