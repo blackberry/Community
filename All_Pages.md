@@ -135,6 +135,7 @@ title: All Pages
 * [Community Wiki](Community_Wiki.html)
 * [Contribute](other/Contribute.html)
 * [Legal](other/Legal.html)
+* [Project Dashboard](projects/Project_Dashboard.html)
 * [Staying Connected](Staying_Connected.html)
 
 **Examples**
