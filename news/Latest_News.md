@@ -12,7 +12,6 @@ These news are archived on a regular basis; look at [All News] for older news,
 or use [this News feed](http:atom.xml).
 
 <!-- Need to add update on list of Samples -->
-
 ### Community Port of WebWorks SDK to Linux
 Michael Robinson ([@badtoyz](twitter.com/badtoyz)) and Joe Scott ([@ice2921](twitter.com/ice2921)) have packaged the
 BlackBerry 10 WebWorks SDK for Linux.  The port is at
