@@ -40,6 +40,13 @@
      "repourl": "http://github.com/blackberry/WebWorks-Community-APIs",
      "tags": [ "html5", "client", "bbos", "extension", "analytics" ]
  },
+ "Ant Build Script": {
+     "desc": "Build Script for WebWorks applications using Ant, with support for Linting and all WebWorks Packagers (BBOS, Tablet, BB10)",
+     "url": "http://github.com/blackberry/WebWorks-Samples/tree/master/WebWorks-Build-Script",
+     "repo": "WebWorks-Samples",
+     "repourl": "http://github.com/blackberry/WebWorks-Samples",
+     "tags": [ "java", "script", "tool", "bbos", "air", "tablet", "bb10", "html5" ]
+ },
  "AudioControl": {
      "desc": "Determine audio control settings",
      "url": "https://github.com/blackberry/NDK-Samples/tree/master/AudioControl",
