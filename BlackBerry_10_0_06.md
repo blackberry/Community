@@ -29,10 +29,7 @@ The accompanying open source repositories for all these have been released too.
 * Many new Samples, see [BlackBerry 10.0.06 Samples](BlackBerry_10_0_06_Samples.html).
 
 ### Changelog
-TBD...
+TBD
 
 ### Also See
 [BlackBerry 10], [BlackBerry 10 Releases]
-
- 
- 

@@ -1,4 +1,4 @@
----
+﻿---
 title: Cascades
 oneline: Framework to Build BlackBerry 10 Native Apps
 forum: "http://supportforums.blackberry.com/t5/Cascades-Development/bd-p/Cascades"
@@ -67,9 +67,6 @@ material, including recordings, on a series of Webinars covering Cascades.  The 
 * _Astonishing UIs using the new BlackBerry 10 frameowrk continued_
 * _Cascades - connecting, retrieving, storing and displaying your data_
 
-**Scheduled Presentations**
-* _Building Compelling 3D Apps using Cascades and OpenGL ES_
-
 ### Presentations and Other Media
 
 Below are the key presentations from [BlackBerry 10 Jam][bb10jam]; presentations from the World Tour
@@ -93,17 +90,16 @@ are on their way.
 * DEV167 – Advanced UI Frameworks Using Cascades
 ([Session](https://bbworld.blackberryconferences.net/2012/scheduler/sessionDetails.do?SESSION_ID=DEV167),
 [Recordings](http://blackberrydevcon.eventmystro.com/em/presentation-details/auid/721/nav/cat "Requires Registration"))
-* DEV105 – Design and Build a Fluent App Experience with Cascade
+* DEV105 – Design and Build a Fluent App Experience with Cascades
 ([Session](https://bbworld.blackberryconferences.net/2012/scheduler/sessionDetails.do?SESSION_ID=DEV105),
 [Recordings](http://blackberrydevcon.eventmystro.com/em/presentation-details/auid/684/nav/cat "Requires Registration"))
-* DEV129 – How We Built BBM Using the BlackBerry 10 Platform and Cascade
+* DEV129 – How We Built BBM Using the BlackBerry 10 Platform and Cascades
 ([Session](https://bbworld.blackberryconferences.net/2012/scheduler/sessionDetails.do?SESSION_ID=DEV129),
 [Recordings](http://blackberrydevcon.eventmystro.com/em/presentation-details/auid/693/nav/cat "Requires Registration"))
-* DEV177 – Building Compelling 3D Apps using Cascades and OpenGL E
+* DEV177 – Building Compelling 3D Apps using Cascades and OpenGL ES
 ([Session](https://bbworld.blackberryconferences.net/2012/scheduler/sessionDetails.do?SESSION_ID=DEV177),
 [Recordings](http://blackberrydevcon.eventmystro.com/em/presentation-details/auid/731/nav/cat "Requires Registration"))
 
 
 ### Also See
 [Cascades Samples], [Qt], [QML], [Screencasts]
-

@@ -19,7 +19,5 @@ See the [Main Page](https://developer.blackberry.com/services/push/)
 
 See [Samples at GitHub](https://github.com/blackberry/BWS-Samples)
 
-
 ### Also See
 [BlackBerry Services]
-

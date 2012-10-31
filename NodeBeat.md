@@ -17,7 +17,7 @@ NodeBeat was the initial driver for the port of [OpenFrameworks] to the [PlayBoo
 
 ### Links
 * [NodeBeat at AppWorld](http://appworld.blackberry.com/webstore/content/106167/?lang=en)
-* Other - DevBlog article
+* [NodeBeat: A BlackBerry Open Source Success Story](http://devblog.blackberry.com/2012/07/dev-success-nodebeat/)
 
 ### Contacts
 [Laurence Muller], [Seth Sandler]

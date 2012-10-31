@@ -9,7 +9,7 @@ tags: rim
 
 ### Description
 
-WebWorks founder.  Product Manager.  [bbUI.js] lead
+WebWorks founder. Product Manager. [bbUI.js] lead
 
 ### Additional Links
 

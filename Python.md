@@ -48,8 +48,8 @@ and behave on the actual target device.
 Contact the project team or stay informed:
 * Email: bbpyproject (at) gmail.com
 * Twitter: [@BBPyProject](https://twitter.com/#!/BBPyProject)
-* IRC: #bbx-python on Freenode.net (if no one is there, try in #blackberry-dev)
+* IRC: #bbx-python on Freenode.net (if no one is there, try in #BlackBerryDev)
 
 ### Also See
-* [MIT license](http://en.wikipedia.org/wiki/MIT_License)
+* [MIT license](http://en.wikipedia.org/wiki/MIT_License), [MIT]
 * [Python website](http://www.python.org/)

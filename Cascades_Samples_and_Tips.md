@@ -25,5 +25,4 @@ More to come...
   * [Namespaces](http://devblog.blackberry.com/2012/06/qml-cascades-tip-namespaces/)
 
 ### Also See
-[Cascades], [HTML5_Samples], [HTML5]
-
+[Cascades], [HTML5 Samples], [HTML5]

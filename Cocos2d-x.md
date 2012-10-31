@@ -16,7 +16,6 @@ tags: OpenSource, Native, Component, HTML5
 ### Description
 Cocos2d-X is a cross-platform game engine framework based on [Cocos2d-iPhone]().
 
-
 The traditional implementation is C++ / native, with Lua and Javascript used as scripting language.
 There is also a new implementation based on HTML5 that is 
 which consists of expanding supported platforms, with multiple choice of programming languages thats shares the same API structure.
@@ -33,10 +32,8 @@ Link to DevBlog
 * [Cocos2d-X native](http://www.cocos2d-x.org/projects/cocos2d-x/wiki/Native)
 * [Cocos2d-X HTML5](http://www.cocos2d-x.org/projects/cocos2d-x/wiki/Html5)
 
-
 ### Contacts
-
+TBD
 
 ### Also See
 [Gaming], [Gameplay], [HTML5]
-

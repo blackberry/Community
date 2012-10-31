@@ -24,11 +24,8 @@ Digital brochure showcasing clinic treatments with ability to capture potential 
 **[BB10: Initial Impressions](http://www.danielbigham.ca/cgi-bin/document.pl?mode=Display&DocumentID=901)**, by Daniel Bigham  
 I was able to spend a few hours learning and playing with BB10 for the first time today, and I am so impressed...
 
-
-
 ### Note
 Stories about PlayBook 2.0 are OK but only include cases that seem will transfer to BlackBerry 10.
 
 ### Also See
-TBD...
-
+TBD

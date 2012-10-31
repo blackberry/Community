@@ -14,4 +14,3 @@ https://developer.blackberry.com/android/
 * Publish to AppWorld
 
 See also [Code_Signing]
-
