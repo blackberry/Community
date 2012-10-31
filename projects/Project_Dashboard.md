@@ -96,6 +96,14 @@ _Roadmap and Issue List:_
 _Staging Repository:_
 [https://github.com/timwindsor/WebWorks-Community-APIs](https://github.com/timwindsor/WebWorks-Community-APIs)
 
+__Current Extensions Under Development__
+
+[Microphone Recording Extension](https://github.com/blackberry/WebWorks-Community-APIs/issues/110) by [John852](https://github.com/john852)
+
+[Zip/Unzip Extension](https://github.com/blackberry/WebWorks-Community-APIs/issues/104) by [Starpax](https://github.com/starpax)
+
+[Barcode Scanning Extension](https://github.com/blackberry/WebWorks-Community-APIs/issues/109) _needs a volunteer_
+
 ### BB10 AIR Native Extensions
 
 Exposing native BlackBerry 10 APIs and porting BBOS extensions for BB10 AIR Applications
