@@ -28,8 +28,16 @@
      "tags": [ "native", "bb10", "playbook", "port", "audio" ]
  },
  "BB10-WebWorks-Samples": {
-     "desc": "WebWorks Samples for BlackBerry 10",
+     "desc": "WebWorks Samples for BlackBerry 10; official",
      "url": "http://github.com/blackberry/BB10-WebWorks-Samples",
+     "branches": ["master"],
+     "type": "html5",
+     "note": "Samples rely on features only present on the BlackBerry 10 platform",
+     "tags": [ "html5", "webworks", "bb10", "samples", "official" ]
+ },
+ "BB10-WebWorks-Community-Samples": {
+     "desc": "WebWorks Samples for BlackBerry 10, from RIM and others",
+     "url": "http://github.com/blackberry/BB10-WebWorks-Community-Samples",
      "branches": ["master"],
      "type": "html5",
      "note": "Samples rely on features only present on the BlackBerry 10 platform",
@@ -98,7 +106,7 @@
      "url": "http://github.com/blackberry/BWS-Samples",
      "type": "server",
      "branches": ["master"],
-     "tags": [ "server", "java", "c#", "samples" ]
+     "tags": [ "server", "java", "c#", "samples", "official" ]
  },
  "Cascades-Community-Samples": {
      "desc": "Cascades and native Sample Applications, from RIM and others",
@@ -111,12 +119,12 @@
      "tags": [ "native", "cascades", "samples", "bb10" ]
  },
  "Cascades-Samples": {
-     "desc": "Cascades Sample Applications, supported by RIM",
+     "desc": "Cascades Sample Applications; official",
      "url": "http://github.com/blackberry/Cascades-Samples",
      "type": "native",
      "branches": ["master"],
      "note": "Unlike Cascades-Community-Samples, RIM is committed to supporting these samples across releases",
-     "tags": [ "native", "cascades", "samples" , "bb10" ]
+     "tags": [ "native", "cascades", "samples" , "bb10", "official" ]
  },
  "Cocos2d-x": {
      "desc": "An Open-Source, C++-based Mobile 2D game engine",
@@ -548,6 +556,14 @@
      "tags": [ "html5", "bbos", "playbook", "webworks" ]
  },
  "WebWorks-Samples": {
+     "desc": "WebWorks Sample Applications, official",
+     "url": "http://github.com/blackberry/WebWorks-Samples",
+     "type": "html5",
+     "branches": ["master", "gh-pages"],
+     "branchinfo": "'master' is current development for all platforms; 'gh-pages' is mostly for staging the demo",
+     "tags": [ "html5", "webworks", "samples", "pages", "webworks", "official" ]
+ },
+ "WebWorks-Community-Samples": {
      "desc": "WebWorks Sample Applications, from RIM and others",
      "url": "http://github.com/blackberry/WebWorks-Samples",
      "type": "html5",
