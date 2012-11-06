@@ -166,6 +166,13 @@
      "warning": "Should indicate specific version of upstream",
      "tags": [ "native", "bb10", "playbook", "port" ]
  },
+ "Core-Native-Community-Samples": {
+     "desc": "Core Native (not Cascades) Community Samples",
+     "url": "http://github.com/blackberry/Core-Native-Community-Samples",
+     "type": "native",
+     "branches": ["master"],
+     "tags": [ "native", "samples", "bb10" ]
+ },
  "DosBox": {
      "desc": "An Open Source MS-DOS emulator",
      "url": "http://github.com/blackberry/DosBox",
