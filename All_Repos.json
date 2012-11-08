@@ -572,7 +572,7 @@
  },
  "WebWorks-Community-Samples": {
      "desc": "WebWorks Sample Applications, from RIM and others",
-     "url": "http://github.com/blackberry/WebWorks-Samples",
+     "url": "http://github.com/blackberry/WebWorks-Community-Samples",
      "type": "html5",
      "branches": ["master", "gh-pages"],
      "branchinfo": "'master' is current development for all platforms; 'gh-pages' is mostly for staging the demo",
@@ -589,19 +589,18 @@
  },
  "Wesnoth": {
      "desc": "The Battle for Wesnoth",
-     "url": "http://github.com/blackberry/Boost",
+     "url": "http://github.com/blackberry/Wesnoth",
      "type": "native",
      "branches": ["master", "next"],
      "warning": "Need to record where the port is from ",
      "tags": [ "native", "playbook", "port", "game" ]
  },
  "ZXing": {
-     "desc": "Navigation-mesh Construction Toolset for Games",
-     "url": "http://github.com/blackberry/RecastNavigation",
+     "desc": "multi-format 1D/2D barcode image processing library",
+     "url": "https://github.com/blackberry/zxing",
      "type": "native",
      "branches": ["master", "next"],
-     "portinfo": "Originally at <a href='http://code.google.com/p/zxing'>http://code.google.com/p/zxing</a>.<p>Our repo is a direct fork from <a href='http://code.google.com/p/recastnavigation/'>http://code.google.com/p/recastnavigation/</a></p>",
-     "note": "Changes may need to be upstreamed?",
+     "portinfo": "Originally at <a href='http://code.google.com/p/zxing'>http://code.google.com/p/zxing</a>.<p>Our repo is an officially sanctioned port</p>",
      "tags": [ "native", "bb10", "playbook", "port" ]
  }
 }
