@@ -47,10 +47,10 @@ Apekshith Gowda,
 [Justin DaSilva](http://github.com/lyricidal)
 
 _Roadmap and Issue List:_
-[https://github.com/blackberry/BB10-WebWorks-Samples/issues](https://github.com/blackberry/BB10-WebWorks-Samples/issues)
+[https://github.com/blackberry/BB10-WebWorks-Community-Samples/issues](https://github.com/blackberry/BB10-WebWorks-Samples/issues)
 
 _Staging Repository:_
-[https://github.com/timwindsor/BB10-WebWorks-Samples](https://github.com/timwindsor/BB10-WebWorks-Samples)
+[https://github.com/timwindsor/BB10-WebWorks-Community-Samples](https://github.com/timwindsor/BB10-WebWorks-Samples)
 
 ### Advanced UI Examples
 
@@ -61,10 +61,10 @@ Jeremy Duke,
 [Lloyd Summers](http://github.com/kermed)
 
 _Roadmap and Issue List:_
-[https://github.com/blackberry/BB10-WebWorks-Samples/issues](https://github.com/blackberry/BB10-WebWorks-Samples/issues)
+[https://github.com/blackberry/BB10-WebWorks-Community-Samples/issues](https://github.com/blackberry/BB10-WebWorks-Community-Samples/issues)
 
 _Staging Repository:_
-[https://github.com/timwindsor/BB10-WebWorks-Samples](https://github.com/timwindsor/BB10-WebWorks-Samples)
+[https://github.com/timwindsor/BB10-WebWorks-Community-Samples](https://github.com/timwindsor/BB10-WebWorks-Community-Samples)
 
 ### Advanced UI using WebGL
 
@@ -74,10 +74,10 @@ _Developers:_
 [Lloyd Summers](http://github.com/kermed)
 
 _Roadmap and Issue List:_
-[https://github.com/blackberry/BB10-WebWorks-Samples/issues](https://github.com/blackberry/BB10-WebWorks-Samples/issues)
+[https://github.com/blackberry/BB10-WebWorks-Community-Samples/issues](https://github.com/blackberry/BB10-WebWorks-Community-Samples/issues)
 
 _Staging Repository:_
-[https://github.com/timwindsor/BB10-WebWorks-Samples](https://github.com/timwindsor/BB10-WebWorks-Samples)
+[https://github.com/timwindsor/BB10-WebWorks-Community-Samples](https://github.com/timwindsor/BB10-WebWorks-Community-Samples)
 
 ### BB10 WebWorks Extensions
 
