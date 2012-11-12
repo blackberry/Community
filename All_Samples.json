@@ -85,16 +85,16 @@
  },
  "BBMBaseSampleRegistration": {
      "desc": "BPS (BlackBerry Platform Services)-based sample to register an Application with the BlackBerry Messenger Social Platform",
-     "url": "http://github.com/blackberry/Cascades-Community-Samples/tree/master/BBMBaseSampleRegistration",
-     "repo": "Cascades-Community-Samples",
-     "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
+     "url": "http://github.com/blackberry/Core-Native-Community-Samples/tree/master/BBMBaseSampleRegistration",
+     "repo": "Core-Native-Community-Samples",
+     "repourl": "http://github.com/blackberry/Core-Native-Community-Samples",
      "tags": [ "native", "bb10", "bbm", "bps" ]
  },
  "BBMSPUserProfile": {
      "desc": "BPS (BlackBerry Platform Services)-based sample to read and update the users's BlackBerry Messenger Profile",
-     "url": "http://github.com/blackberry/Cascades-Community-Samples/tree/master/BBMSPUserProfile",
-     "repo": "Cascades-Community-Samples",
-     "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
+     "url": "http://github.com/blackberry/Core-Native-Community-Samples/tree/master/BBMSPUserProfile",
+     "repo": "Core-Native-Community-Samples",
+     "repourl": "http://github.com/blackberry/Core-Native-Community-Samples",
      "tags": [ "native", "bb10", "bbm", "bps" ]
  },
  "BBMQtInviteToDownload": {
@@ -735,11 +735,18 @@
      "warning": "Not yet updated to the beta 3 APIs; may move to Cascades-Community-Samples. Temporarily in branch of BlackBerry-core repo",
      "tags": [ "native", "cascades", "bb10", "threads" ]
  },
+ "NativeAndOpenGLWindows": {
+     "desc": "Combines rendering to Native and OpenGL Windows at the same time",
+     "url": "https://github.com/blackberry/Core-Native-Community-Samples/tree/master/NativeAndOpenGLWindows",
+     "repo": "Core-Native-Community-Samples",
+     "repourl": "http://github.com/blackberry/Core-Native-Community-Samples",
+     "tags": [ "native", "client", "bb10", "OpenGL", "notrim" ]
+ },
  "NativeCamera": {
      "desc": "A simple picture-taking app in C/C++ without Cascades" , 
-     "url": "https://github.com/blackberry/Cascades-Community-Samples/tree/master/NativeCamera",
-     "repo": "Cascades-Community-Samples",
-     "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
+     "url": "https://github.com/blackberry/Core-Native-Community-Samples/tree/master/NativeCamera",
+     "repo": "Core-Native-Community-Samples",
+     "repourl": "http://github.com/blackberry/Core-Native-Community-Samples",
      "note": "The sample shows:<ul><li>how to access the camera</li><li>how to start the viewfinder and acquire the corresponding viewfinder window handle</li><li>how to take a photo (non-blocking)</li><li>how to save a photo to the camera roll</li><li>how to pass argument data between the main thread and your callback threads</li><li>how to signal your main thread using user-defined bps events from your callback thread</li></ul>",
      "tags": [ "native", "client", "camera", "bb10" ]
  },
