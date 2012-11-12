@@ -386,10 +386,28 @@
      "url": "http://github.com/blackberry/Qt",
      "type": "native",
      "branches": ["codedrop_20120109"],
-     "portinfo": "We now mostly use content directly from Gitorious.org",
-     "warning": "We need to clarify better what is from where",
-     "note": "Qt is the foundation for Cascades.  See the Qt2Cascades-Samples Repo for examples showing how to convert from plain Qt to Cascades",
+     "portinfo": "Repo is no longer used; see http://qt.gitorious.org/qt",
+     "warning": "Most development is now happening directly at http://qt.gitorious.org/qt",
+     "note": "<p>Development is now happening directly at <a href='http://qt.gitorious.org/qt'>Gitorious</a>. Also see QtNFCSubset and QtLocationSubset</p><p>Qt is the foundation for Cascades.  See the Qt2Cascades-Samples Repo for examples showing how to convert from plain Qt to Cascades</p>",
      "tags": [ "native", "bb10", "Qt", "port" ]
+ },
+ "QtNFCSubset": {
+     "desc": "The C++, open source, cross-platform application framework",
+     "url": "http://github.com/blackberry/QtNFCSubset",
+     "type": "native",
+     "branches": ["master"],
+     "portinfo": "Code will be eventually contributed back to QtMobility and when the port of QtMobiliy to BlackBerry 10 is complete, the repo will be deprecated",
+     "note": "Also see Qt and QtLocationSubset",
+     "tags": [ "native", "bb10", "Qt", "port", "NFC" ]
+ },
+ "QtLocationSubset": {
+     "desc": "The C++, open source, cross-platform application framework",
+     "url": "http://github.com/blackberry/QtLocationSubset",
+     "type": "native",
+     "branches": ["master"],
+     "portinfo": "Code will be eventually contributed back to QtMobility and when the port of QtMobiliy to BlackBerry 10 is complete, the repo will be deprecated",
+     "note": "Also see Qt and QtNFCSubset",
+     "tags": [ "native", "bb10", "Qt", "port", "location" ]
  },
  "Qt2Cascades-Samples": {
      "desc": "Port of Samples from Qt documentation to use Cascades",
