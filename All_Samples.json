@@ -1325,6 +1325,14 @@
      "repourl": "http://github.com/blackberry/Cascades-Samples",
      "tags": [ "native", "cascades", "bb10", "list" ]
  },
+ "SmartSignals": {
+     "desc": "Handle C-Level BPS events in the Cascades framework",
+     "url": "https://github.com/blackberry/Cascades-Community-Samples/tree/master/SmartSignals",
+     "repo": "Cascades-Community-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
+     "note": "Written using Beta 3. This sample shows how the AbstractBpsEventHandler interface can be extended to receive BPS events without needing to create a separate thread. These events are then made accessible to the QML layer by creating and registering a C++ class, BPSMonitor, so it is known to QML.",
+     "tags": [ "native", "client", "bps", "bb10", "qml", "cascades", "accelerometer", "gps" ]
+ },
  "SoapXMLSample": {
      "desc": "How to access a SOAP service using QTSoap, and how to handle the XML Response",
      "url": "http://github.com/blackberry-core/Cascades-Samples/tree/r9-update-pending/SoapXMLSample",
