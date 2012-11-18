@@ -805,6 +805,14 @@
      "note": "<p>For Java-based BlackBerry Smartphones; requires BB 7.1 or above</p><p>Also see the <a href='NFC.html'>NFC</a> Wiki page</p>",
      "tags": [ "java", "client", "nfc", "bbos" ]
  },
+ "NfcToolLite": {
+     "desc": "How to use selected BlackBerry 10 NFC APIs, focusing on the Invocation Framework",
+     "url": "https://github.com/blackberry/Cascades-Community-Samples/tree/master/NfcToolLite",
+     "repo": "Cascades-Community-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
+     "note": "Focuses on those NFC APIs that make use of the Invocation Framework allowing many NFC interactions to take place using QML rather than C/C++",
+     "tags": [ "native", "client", "nfc", "bb10", "cascades", "invocation" ]
+ },
  "NfcTool": {
      "desc": "Shows how to use selected BlackBerry 10 NFC APIs",
      "url": "https://github.com/blackberry/Cascades-Community-Samples/tree/master/NfcTool",

@@ -396,7 +396,7 @@
      "url": "http://github.com/blackberry/QtNFCSubset",
      "type": "native",
      "branches": ["master"],
-     "portinfo": "Code will be eventually contributed back to QtMobility and when the port of QtMobiliy to BlackBerry 10 is complete, the repo will be deprecated",
+     "portinfo": "This code will be released in a near beta of BlackBerry 10.  The code will be eventually contributed back to QtMobility and when the port of QtMobiliy to BlackBerry 10 is complete, the repo will be deprecated",
      "note": "Also see Qt and QtLocationSubset",
      "tags": [ "native", "bb10", "Qt", "port", "NFC" ]
  },
@@ -405,7 +405,7 @@
      "url": "http://github.com/blackberry/QtLocationSubset",
      "type": "native",
      "branches": ["master"],
-     "portinfo": "Code will be eventually contributed back to QtMobility and when the port of QtMobiliy to BlackBerry 10 is complete, the repo will be deprecated",
+     "portinfo": "This code is already present in the current beta of BlackBerry 10. The code will be eventually contributed back to QtMobility and when the port of QtMobiliy to BlackBerry 10 is complete, the repo will be deprecated",
      "note": "Also see Qt and QtNFCSubset",
      "tags": [ "native", "bb10", "Qt", "port", "location" ]
  },
