@@ -132,6 +132,14 @@
      "repourl": "http://github.com/blackberry/BB10-WebWorks-Community-Samples",
      "tags": [ "html5", "webworks", "bb10", "bbm" ]
  },
+ "BoxQuest": {
+     "desc": "Getting Started Sample for Cocos2d-HTML5",
+     "url": "http://github.com/blackberry/BB10-WebWorks-Community-Samples/tree/master/BoxQuest",
+     "repo": "BB10-WebWorks-Community-Samples",
+     "repourl": "http://github.com/blackberry/BB10-WebWorks-Community-Samples",
+     "warning": "Enabling sound may cause loss of frames on a BlackBerry PlayBook",
+     "tags": [ "html5", "client", "webworks", "bb10", "cocos2d", "cocos2d-html5" ]
+ },
  "BrickBreaker": {
      "desc": "The classic BlackBerry game, reimagined using HTML5 technologies",
      "url": "http://github.com/blackberry/BB10-WebWorks-Community-Samples/tree/master/BrickBreaker",
@@ -860,7 +868,7 @@
      "warning": "<p>Location of sample will change within the repository</p><p>Does not compile for R6!</p>",
      "tags": [ "native", "client", "opengl", "bb10", "cascades" ]
  },
- "Notification": {
+ "Notifications": {
      "desc": "How to send a notification to the u ser and clear if the user has reacted to it",
      "url": "https://github.com/blackberry/Cascades-Samples/tree/master/notifications",
      "repo": "Cascades-Samples",
@@ -1288,6 +1296,13 @@
      "repourl": "http://github.com/blackberry/Cascades-Samples",
      "tags": [ "native", "client", "bb10", "cascades", "sensor", "magnetometer", "compass" ]
  },
+ "SensorsDemo": {
+     "desc": "Demo of different sensors",
+     "url": "https://github.com/blackberry/Cascades-Samples/tree/master/SensorsDemo",
+     "repo": "Cascades-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Samples",
+     "tags": [ "native", "client", "bb10", "cascades", "sensor", "accelerometer", "motion", "compass", "flash", "proximity", "magnetometer" ]
+ },
  "SensorsImageRotation": {
      "desc": "How to use QtSensors to show an image on the screen upright",
      "url": "https://github.com/blackberry/Cascades-Samples/tree/master/SensorsImageRotation",
@@ -1338,6 +1353,13 @@
      "repo": "WebWorks-Community-APIs",
      "repourl": "http://github.com/blackberry/WebWorks-Community-APIs",
      "tags": [ "html5", "client", "playbook", "sleep", "extension" ]
+ },
+ "SmartSignals": {
+     "desc": "Handle C-Level BPS events in the Cascades Framework",
+     "url": "http://github.com/blackberry/Cascades-Samples/tree/master/SmartSignals",
+     "repo": "Cascades-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Samples",
+     "tags": [ "native", "cascades", "bb10", "BPS", "Signal" ]
  },
  "ScrollableLists": {
      "desc": "A UI that scrolls horizontally in Cascades",
