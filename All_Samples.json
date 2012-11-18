@@ -42,9 +42,9 @@
  },
  "Ant Build Script": {
      "desc": "Build Script for WebWorks applications using Ant, with support for Linting and all WebWorks Packagers (BBOS, Tablet, BB10)",
-     "url": "http://github.com/blackberry/WebWorks-Samples/tree/master/WebWorks-Build-Script",
-     "repo": "WebWorks-Samples",
-     "repourl": "http://github.com/blackberry/WebWorks-Samples",
+     "url": "https://github.com/blackberry/BB10-WebWorks-Community-Samples/tree/master/Ant-Build-Script",
+     "repo": "BB10-WebWorks-Community-Samples",
+     "repourl": "http://github.com/blackberry/BB10-WebWorks-Community-Samples",
      "tags": [ "java", "script", "tool", "bbos", "air", "tablet", "bb10", "html5" ]
  },
  "AudioControl": {
@@ -127,16 +127,16 @@
  },
  "BBMWebWorks": {
      "desc": "WebWorks sample outlining usage of BBM APIs for BlackBerry 10. Presented at BlackBerry Jam Americas lab and includes an incomplete and complete version of the code.",
-     "url": "https://github.com/blackberry/BB10-WebWorks-Samples/tree/master/bbm",
-     "repo": "BB10-WebWorks-Samples",
-     "repourl": "http://github.com/blackberry/BB10-WebWorks-Samples",
+     "url": "https://github.com/blackberry/BB10-WebWorks-Community-Samples/tree/master/bbm",
+     "repo": "BB10-WebWorks-Community-Samples",
+     "repourl": "http://github.com/blackberry/BB10-WebWorks-Community-Samples",
      "tags": [ "html5", "webworks", "bb10", "bbm" ]
  },
  "BrickBreaker": {
      "desc": "The classic BlackBerry game, reimagined using HTML5 technologies",
-     "url": "http://github.com/blackberry/BB10-WebWorks-Samples/tree/master/BrickBreaker",
-     "repo": "BB10-WebWorks-Samples",
-     "repourl": "http://github.com/blackberry/BB10-WebWorks-Samples",
+     "url": "http://github.com/blackberry/BB10-WebWorks-Community-Samples/tree/master/BrickBreaker",
+     "repo": "BB10-WebWorks-Community-Samples",
+     "repourl": "http://github.com/blackberry/BB10-WebWorks-Community-Samples",
      "warning": "Enabling sound may cause loss of frames on a BlackBerry PlayBook",
      "tags": [ "html5", "client", "webworks", "bb10", "playbook" ]
  },
@@ -157,9 +157,9 @@
  },
  "bbUI-localstorage": {
      "desc": "Multiple ways to use localStorage to improve the end-user experience of a WebWorks Application",
-     "url": "https://github.com/blackberry/WebWorks-Samples/tree/master/bbUI-localStorage",
-     "repo": "WebWorks-Samples",
-     "repourl": "http://github.com/blackberry/WebWorks-Samples",
+     "url": "https://github.com/blackberry/WebWorks-Community-Samples/tree/master/bbUI-localStorage",
+     "repo": "WebWorks-Community-Samples",
+     "repourl": "http://github.com/blackberry/WebWorks-Community-Samples",
      "note": "Sample supports BlackBerry PlayBook as well as BlackBerry 10",
      "warning": "BlackBerry 10 Support is still under development",
      "tags": [ "html5", "bb10", "playbook", "localstorage" ]
@@ -230,9 +230,9 @@
  },
  "ContextMenu": {
      "desc": "WebWorks sample outlining usage of Context Menu APIs for BlackBerry 10. Presented at BlackBerry Jam Americas lab and includes an incomplete and complete version of the code.",
-     "url": "https://github.com/blackberry/BB10-WebWorks-Samples/tree/master/contextmenu",
-     "repo": "BB10-WebWorks-Samples",
-     "repourl": "http://github.com/blackberry/BB10-WebWorks-Samples",
+     "url": "https://github.com/blackberry/BB10-WebWorks-Community-Samples/tree/master/contextmenu",
+     "repo": "BB10-WebWorks-Community-Samples",
+     "repourl": "http://github.com/blackberry/BB10-WebWorks-Community-Samples",
      "tags": [ "html5", "webworks", "bb10", "context", "menu" ]
  },
  "CowBell": {
@@ -290,17 +290,17 @@
  },
  "DojoAppDetails": {
      "desc": "Simple app to show usage of Dojo toolkit and blackberry.app API",
-     "url": "http://github.com/blackberry/WebWorks-Samples/tree/master/DojoAppDetails",
-     "repo": "WebWorks-Samples",
-     "repourl": "http://github.com/blackberry/WebWorks-Samples",
+     "url": "http://github.com/blackberry/WebWorks-Community-Samples/tree/master/DojoAppDetails",
+     "repo": "WebWorks-Community-Samples",
+     "repourl": "http://github.com/blackberry/WebWorks-Community-Samples",
      "note": "Also see the BB10 version",
      "tags": [ "html5", "client", "webworks", "dojo"]
  },
  "DojoAppDetails(bb10)": {
      "desc": "Simple app to show usage of Dojo toolkit and blackberry.app API - Version for BlackBerry 10",
-     "url": "http://github.com/blackberry/BB10-WebWorks-Samples/tree/master/DojoAppDetails",
-     "repo": "BB10-WebWorks-Samples",
-     "repourl": "http://github.com/blackberry/BB10-WebWorks-Samples",
+     "url": "http://github.com/blackberry/BB10-WebWorks-Community-Samples/tree/master/DojoAppDetails",
+     "repo": "BB10-WebWorks-Community-Samples",
+     "repourl": "http://github.com/blackberry/BB10-WebWorks-Community-Samples",
      "note": "Also see the version for BBOS",
      "tags": [ "html5", "client", "webworks", "dojo", "bb10"]
  },
@@ -599,9 +599,9 @@
  },
  "KitchenSink": {
      "desc": "Demonstrates the multitude of capabilities and functionality that can be built into a BlackBerry WebWorks APps",
-     "url": "http://github.com/blackberry/WebWorks-Samples/tree/master/kitchenSink",
-     "repo": "WebWorks-Samples",
-     "repourl": "http://github.com/blackberry/WebWorks-Samples",
+     "url": "http://github.com/blackberry/WebWorks-Community-Samples/tree/master/kitchenSink",
+     "repo": "WebWorks-Community-Samples",
+     "repourl": "http://github.com/blackberry/WebWorks-Community-Samples",
      "tags": [ "html5", "client", "webworks", "playbook", "bbos" ]
  },
  "LED": {
@@ -611,6 +611,13 @@
      "repourl": "http://github.com/blackberry/Cascades-Samples",
      "note": "Uses the LDE API, overlays images, creates custom components",
      "tags": [ "native", "client", "bb10", "cascades", "led" ]
+ },
+ "LED(ext,bb10)": {
+     "desc": "WebWorks BB10 extension to control the LED",
+     "url": "https://github.com/blackberry/WebWorks-Community-APIs/tree/master/BB10/LED",
+     "repo": "WebWorks-Community-APIs",
+     "repourl": "http://github.com/blackberry/WebWorks-Community-APIs",
+     "tags": [ "html5", "client", "bb10", "extension", "led" ]
  },
  "LightningCrossfadeCpp": {
      "desc": "Lightning Crossfade for Text and Image, usinc C++",
@@ -697,9 +704,9 @@
  },
  "MediaCards": {
      "desc": "WebWorks sample outlining usage of HTML5 media input and Card Invocation APIs for BlackBerry 10. Presented at BlackBerry Jam Americas lab and includes an incomplete and complete version of the code.",
-     "url": "https://github.com/blackberry/BB10-WebWorks-Samples/tree/master/mediacards",
-     "repo": "BB10-WebWorks-Samples",
-     "repourl": "http://github.com/blackberry/BB10-WebWorks-Samples",
+     "url": "https://github.com/blackberry/BB10-WebWorks-Community-Samples/tree/master/mediacards",
+     "repo": "BB10-WebWorks-Community-Samples",
+     "repourl": "http://github.com/blackberry/BB10-WebWorks-Community-Samples",
      "tags": [ "html5", "webworks", "bb10", "media", "invoke", "camera", "video", "picture", "file", "system" ]
  },
  "MessageList(ext,bbos)": {
@@ -869,9 +876,9 @@
  },
  "NotificationsHub": {
      "desc": "WebWorks sample outlining usage of Notification APIs for BlackBerry 10. Presented at BlackBerry Jam Americas lab and includes an incomplete and complete version of the code.",
-     "url": "https://github.com/blackberry/BB10-WebWorks-Samples/tree/master/notificationshub",
-     "repo": "BB10-WebWorks-Samples",
-     "repourl": "http://github.com/blackberry/BB10-WebWorks-Samples",
+     "url": "https://github.com/blackberry/BB10-WebWorks-Community-Samples/tree/master/notificationshub",
+     "repo": "BB10-WebWorks-Community-Samples",
+     "repourl": "http://github.com/blackberry/BB10-WebWorks-Community-Samples",
      "tags": [ "html5", "webworks", "bb10", "notification", "hub" ]
  },
  "NutritutionTracker": {
@@ -983,9 +990,9 @@
  },
  "PIMContacts": {
      "desc": "WebWorks sample outlining usage of PIM Contact APIs for BlackBerry 10. Presented at BlackBerry Jam Americas lab and includes an incomplete and complete version of the code.",
-     "url": "https://github.com/blackberry/BB10-WebWorks-Samples/tree/master/pimcontacts",
-     "repo": "BB10-WebWorks-Samples",
-     "repourl": "http://github.com/blackberry/BB10-WebWorks-Samples",
+     "url": "https://github.com/blackberry/BB10-WebWorks-Community-Samples/tree/master/pimcontacts",
+     "repo": "BB10-WebWorks-Community-Samples",
+     "repourl": "http://github.com/blackberry/BB10-WebWorks-Community-Samples",
      "tags": [ "html5", "webworks", "bb10", "pim", "contact", "contacts" ]
  },
  "PIMNotebook": {
@@ -1245,6 +1252,13 @@
      "repourl": "http://github.com/blackberry/WebWorks-Community-APIs",
      "tags": [ "html5", "client", "bbos", "extension", "screen", "keyboard" ]
  },
+ "Screen(ext,bb10)": {
+     "desc": "WebWorks BB10 extension to set the Wallpaper and potentially other features",
+     "url": "http://github.com/blackberry/WebWorks-Community-APIs/tree/master/BB10/screen",
+     "repo": "WebWorks-Community-APIs",
+     "repourl": "http://github.com/blackberry/WebWorks-Community-APIs",
+     "tags": [ "html5", "client", "bb10", "extension", "screen" ]
+ },
  "ScreenTemplate": {
      "desc": "Template you can use to set your application to start using the BPS infrastructure",
      "url": "https://github.com/blackberry/NDK-Samples/tree/master/ScreenTemplate",
@@ -1305,9 +1319,9 @@
  },
  "SketchPad": {
      "desc": "Shows how to use touch events and HTML5 Canvas in a BlackBerry WebWorks App",
-     "url": "http://github.com/blackberry/WebWorks-Samples/tree/master/sketchPad",
-     "repo": "WebWorks-Samples",
-     "repourl": "http://github.com/blackberry/WebWorks-Samples",
+     "url": "http://github.com/blackberry/WebWorks-Community-Samples/tree/master/sketchPad",
+     "repo": "WebWorks-Community-Samples",
+     "repourl": "http://github.com/blackberry/WebWorks-Community-Samples",
      "tags": [ "html5", "client", "webworks", "playbook", "bbos", "touch", "canvas" ]
  },
  "Sleep(ext,bbos)": {
@@ -1395,9 +1409,9 @@
  },
  "SwipeMenu": {
      "desc": "A swipe-down menu framwork for BlacKBerry WebWorks on PlayBook",
-     "url": "http://github.com/blackberry/WebWorks-Samples/tree/master/swipemenu",
-     "repo": "WebWorks-Samples",
-     "repourl": "http://github.com/blackberry/WebWorks-Samples",
+     "url": "http://github.com/blackberry/WebWorks-Community-Samples/tree/master/swipemenu",
+     "repo": "WebWorks-Community-Samples",
+     "repourl": "http://github.com/blackberry/WebWorks-Community-Samples",
      "tags": [ "html5", "client", "webworks", "playbook", "framework" ]
  },
  "SwipeMenu(bb10)": {
