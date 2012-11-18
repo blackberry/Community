@@ -70,6 +70,14 @@
      "branchinfo": "Both branches are for all platforms; 'master' is the current version and 'next' is the next version",
      "tags": [ "html5", "webworks", "bb10", "bbos", "playbook" ]
  },
+ "bb-cascades-oauth": {
+     "desc": "OAuth library built for Cascades",
+     "url": "http://github.com/blackberry/bb-cascades-oauth",
+     "type": "native",
+     "branches": ["master", "dev"],
+     "note": "Fork and Specializaation of the KQOauth library",
+     "tags": [ "cascades", "bb10", "oauth", "native"]
+ },
  "blackberry.github.com": {
      "desc": "Pages-based, Open Source Microsite",
      "url": "http://github.com/blackberry/blackberry.github.com",
