@@ -612,6 +612,13 @@
      "note": "Uses the LDE API, overlays images, creates custom components",
      "tags": [ "native", "client", "bb10", "cascades", "led" ]
  },
+ "LED(ext,bb10)": {
+     "desc": "WebWorks BB10 extension to control the LED",
+     "url": "https://github.com/blackberry/WebWorks-Community-APIs/tree/master/BB10/LED",
+     "repo": "WebWorks-Community-APIs",
+     "repourl": "http://github.com/blackberry/WebWorks-Community-APIs",
+     "tags": [ "html5", "client", "bb10", "extension", "led" ]
+ },
  "LightningCrossfadeCpp": {
      "desc": "Lightning Crossfade for Text and Image, usinc C++",
      "url": "https://github.com/blackberry/Cascades-Samples/tree/master/lightningcrossfadecpp",
@@ -804,6 +811,14 @@
      "repourl": "http://github.com/blackberry/Samples-for-Java",
      "note": "<p>For Java-based BlackBerry Smartphones; requires BB 7.1 or above</p><p>Also see the <a href='NFC.html'>NFC</a> Wiki page</p>",
      "tags": [ "java", "client", "nfc", "bbos" ]
+ },
+ "NfcToolLite": {
+     "desc": "How to use selected BlackBerry 10 NFC APIs, focusing on the Invocation Framework",
+     "url": "https://github.com/blackberry/Cascades-Community-Samples/tree/master/NfcToolLite",
+     "repo": "Cascades-Community-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
+     "note": "Focuses on those NFC APIs that make use of the Invocation Framework allowing many NFC interactions to take place using QML rather than C/C++",
+     "tags": [ "native", "client", "nfc", "bb10", "cascades", "invocation" ]
  },
  "NfcTool": {
      "desc": "Shows how to use selected BlackBerry 10 NFC APIs",
@@ -1237,6 +1252,13 @@
      "repo": "WebWorks-Community-APIs",
      "repourl": "http://github.com/blackberry/WebWorks-Community-APIs",
      "tags": [ "html5", "client", "bbos", "extension", "screen", "keyboard" ]
+ },
+ "Screen(ext,bb10)": {
+     "desc": "WebWorks BB10 extension to set the Wallpaper and potentially other features",
+     "url": "http://github.com/blackberry/WebWorks-Community-APIs/tree/master/BB10/screen",
+     "repo": "WebWorks-Community-APIs",
+     "repourl": "http://github.com/blackberry/WebWorks-Community-APIs",
+     "tags": [ "html5", "client", "bb10", "extension", "screen" ]
  },
  "ScreenTemplate": {
      "desc": "Template you can use to set your application to start using the BPS infrastructure",
