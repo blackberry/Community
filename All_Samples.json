@@ -319,6 +319,14 @@
      "repourl": "http://github.com/blackberry/WebWorks-Community-APIs",
      "tags": [ "html5", "client", "bbos", "extension", "email", "events" ]
  },
+ "FaceBook-OAuth-2": {
+     "desc": "Integrate Facebook and the OAuth 2.0 protocol into a BlackBerry WebWorks application for BlackBerry 10",
+     "url": "https://github.com/blackberry/BB10-WebWorks-Samples/tree/master/FaceBook-OAuth-2",
+     "repo": "BB10-WebWorks-Samples",
+     "repourl": "http://github.com/blackberry/BB10-WebWorks-Samples",
+     "note": "Also see the <a href='https://github.com/blackberry/bb-cascades-oauth'>bb-cascades-oauth</a> repo",
+     "tags": [ "native", "facebook", "bb10", "oauth", "facebook" ]
+ },
  "FallingBlocks": {
      "desc": "Shows colored blocks falling on screen",
      "url": "https://github.com/blackberry/NDK-Samples/tree/master/FallingBlocks",
@@ -369,6 +377,14 @@
      "repo": "BB10-WebWorks-Samples",
      "repourl": "http://github.com/blackberry/BB10-WebWorks-Samples",
      "tags": [ "html5", "client", "playbook", "bb10", "webworks", "filetransfer", "file" ]
+ },
+ "Foursquare-OAuth-2": {
+     "desc": "Integrate Foursquare and the OAuth 2.0 protocol into a BlackBerry WebWorks application for BlackBerry 10",
+     "url": "https://github.com/blackberry/BB10-WebWorks-Samples/tree/master/Foursquare-OAuth-2",
+     "repo": "BB10-WebWorks-Samples",
+     "repourl": "http://github.com/blackberry/BB10-WebWorks-Samples",
+     "note": "Also see the <a href='https://github.com/blackberry/bb-cascades-oauth'>bb-cascades-oauth</a> repo",
+     "tags": [ "native", "facebook", "bb10", "oauth", "foursquare" ]
  },
  "FunWithSensors": {
      "desc": "How to activate and listen to the sensors in the device",
@@ -1512,6 +1528,14 @@
      "repourl": "http://github.com/blackberry/Cascades-Samples",
      "warning": "Not yet updated to the beta 3 APIs; may move to Cascades-Community-Samples. Temporarily in branch of BlackBerry-core repo",
      "tags": [ "native", "cascades", "bb10", "rest", "http", "json", "twitter" ]
+ },
+ "Twitter-OAuth-1": {
+     "desc": "Integrate Twitter and the OAuth 1.0 protocol into a BlackBerry WebWorks application for BlackBerry 10",
+     "url": "https://github.com/blackberry/BB10-WebWorks-Samples/tree/master/Twitter-OAuth-1",
+     "repo": "BB10-WebWorks-Samples",
+     "repourl": "http://github.com/blackberry/BB10-WebWorks-Samples",
+     "note": "Also see the <a href='https://github.com/blackberry/bb-cascades-oauth'>bb-cascades-oauth</a> repo",
+     "tags": [ "native", "facebook", "bb10", "oauth", "twitter" ]
  },
  "UIExamples": {
      "desc": "Shows how to replicated some common types of BlackBerry UI concepts.  Use bbUI.js instead",
