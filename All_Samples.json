@@ -668,10 +668,9 @@
  },
  "LocationDiagnostics": {
      "desc": "Demonstrates the C++ Location APIs in Cascades" , 
-     "url": "https://github.com/blackberry/Cascades-Samples/tree/master/LocationDiagnostics",
+     "url": "https://github.com/blackberry/Cascades-Samples/tree/master/locationdiagnostics",
      "repo": "Cascades-Samples",
      "repourl": "http://github.com/blackberry/Cascades-Samples",
-     "warning": "This seems to be the same sample as in Cascades-Community-Samples.  Will be removed from there afer confirming",
      "tags": [ "native", "client", "location", "bb10", "cascades", "map" ]
  },
  "LocationPicker(ext,bbos)": {
