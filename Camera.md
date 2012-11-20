@@ -74,6 +74,10 @@ the face co-ordinates are extracted from the preview image stream, and the video
 you will find that the mosaic effect is present when the video is played back.  This sample also illustrates the concept of
 event-based access to the camera buffers.  For read/write buffer access, the familiar callback mechanism cannot be used.
 
+**[BarcodeScanner](https://github.com/blackberry/Presentations/tree/master/2012-BlackBerryJam-Americas/JAM15/BarcodeScanner)**
+This sample shows you how to process preview frames from the Camera using the Cascades Qt APIs in order to scan a barcode with the built in ZXing library. It is also an example of making a custom component, and playing a sound with Qt.
+
+
 ### Presentations, Articles and Other Media
 
 * [Native Camera API Deep-Dive](http://hosting.desire2learncapture.com/RIM/1/watch/48.aspx), Breakout session by Sean McVeigh and Paul Bernhardt at the BlackBerry Jam conference in San Jose, CA, Sept 26, 2012.
