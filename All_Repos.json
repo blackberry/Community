@@ -585,7 +585,7 @@
      "type": "html5",
      "branches": ["master", "bt-fileuploader", "tablet-uploadDownload-readmeFixes"],
      "branchinfo": "'master' is current development for all platforms; the other two should be deleted (need to triple check)",
-     "note": "Extensions vary depending on platform.  Still discussing whether to place the BB10 implementation in this repo",
+     "note": "Extensions vary depending on platform.  Also see BB10-WebWorks-Community-APIs",
      "tags": [ "html5", "bbos", "playbook", "webworks" ]
  },
  "WebWorks-Samples": {
@@ -594,6 +594,7 @@
      "type": "html5",
      "branches": ["master", "gh-pages"],
      "branchinfo": "'master' is current development for all platforms; 'gh-pages' is mostly for staging the demo",
+     "note": "Also see BB10-WebWorks-Samples",
      "tags": [ "html5", "webworks", "samples", "pages", "webworks", "official" ]
  },
  "WebWorks-Community-Samples": {
@@ -602,6 +603,7 @@
      "type": "html5",
      "branches": ["master", "gh-pages"],
      "branchinfo": "'master' is current development for all platforms; 'gh-pages' is mostly for staging the demo",
+     "note": "Also see BB10-WebWorks-Community-Samples",
      "tags": [ "html5", "webworks", "samples", "pages", "webworks" ]
  },
  "WebWorks-TabletOS": {
