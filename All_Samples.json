@@ -1263,11 +1263,19 @@
  },
  "ScoreloopIntegrationSample": {
      "desc": "Integration of Scoreloop with the BPS event system",
-     "url": "https://github.com/blackberry/Scoreloop-Samples/tree/BB10.0.06/ScoreloopIntegrationSample",
+     "url": "https://github.com/blackberry/Scoreloop-Samples/tree/BB10.0.09/ScoreloopIntegrationSample",
      "repo": "Scoreloop-Samples",
      "repourl": "http://github.com/blackberry/Scoreloop-Samples",
      "note": "<p>Two variations, with Makefile and Managed by IDE, showing integration of Scoreloop with a native App</p>",
      "tags": [ "native", "client", "bb10", "scoreloop"]
+ },
+ "ScoreloopIntegrationSample(Cascades)": {
+     "desc": "Integration of Scoreloop with the BPS event system for Cascades Applications",
+     "url": "https://github.com/blackberry/Scoreloop-Samples/tree/BB10.0.09/ScoreloopIntegrationSample/ScoreloopIntegrationSampleCascades",
+     "repo": "Scoreloop-Samples",
+     "repourl": "http://github.com/blackberry/Scoreloop-Samples",
+     "note": "<p>Variant to use for Applications written using the Cascades framework</p>",
+     "tags": [ "native", "client", "cascades", "bb10", "scoreloop"]
  },
  "Screen(ext,bbos)": {
      "desc": "WebWorks Java-based Smartphone extension to subscribe to srolling events, set title and show/hide virtual keyboard",
