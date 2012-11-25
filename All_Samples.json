@@ -741,14 +741,6 @@
      "warning": "work in progress",
      "tags": [ "html5", "client", "bbos", "extension", "message" ]
  },
- "MakeThis!": {
-     "desc": "An informal Post-It Kick-Starting the 'Stump The BlackBerry Dev' Program",
-     "url": "http://github.com/pelegri/Cascades-Community-Samples/tree/stumpers/StumpTheDevs",
-     "repo": "Cascades-Community-Samples",
-     "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
-     "warning": "Just staged for now!",
-     "tags": [ "native", "cascades", "bb10", "puzzler" ]
- },
  "Multithreading 101": {
      "desc": "Demonstrates how four different threads can process data in a thread and update the UI independently",
      "url": "http://github.com/blackberry-core/Cascades-Samples/tree/r9-update-pending/MultithreadingCallbacks101",
@@ -1453,6 +1445,38 @@
      "repo": "WebWorks-Community-APIs",
      "repourl": "http://github.com/blackberry/WebWorks-Community-APIs",
      "tags": [ "html5", "client", "bbos", "extension", "storage" ]
+ },
+ "Stumper.MakeThis!": {
+     "desc": "The Post-It solution from Brian Scheirer",
+     "url": "https://github.com/blackberry/Cascades-Community-Samples/tree/master/stumpers/Blamo",
+     "repo": "Cascades-Community-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
+     "note": "See <a href='http://blackberry.github.com/Cascades-Community-Samples/stumpthedevs/makethis-small.jpg'>image</a> from <a href='http://blackberry.github.com/Cascades-Community-Samples/stumpthedevs/index.html'>Challenges</a>",
+     "tags": [ "native", "client", "bb10", "cascades", "stumper" ]
+ },
+ "Stumper.Carousel": {
+     "desc": "A Carousel (there were two similar challenges)",
+     "url": "https://github.com/blackberry/Cascades-Community-Samples/tree/master/stumpers/bbjamcarousel",
+     "repo": "Cascades-Community-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
+     "note": "See <a href='http://blackberry.github.com/Cascades-Community-Samples/stumpthedevs/dmitriypumano-large.jpg'>image</a> from <a href='http://blackberry.github.com/Cascades-Community-Samples/stumpthedevs/index.html'>Challenges</a>",
+     "tags": [ "native", "client", "bb10", "cascades", "stumper" ]
+ },
+ "Stumper.HideExpose": {
+     "desc": "Challenge from @pbillings512: hide/expose information in areas",
+     "url": "https://github.com/blackberry/Cascades-Community-Samples/tree/master/stumpers/pbillings512_2",
+     "repo": "Cascades-Community-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
+     "note": "See <a href='http://blackberry.github.com/Cascades-Community-Samples/stumpthedevs/pbillings512.jpeg'>image</a> from <a href='http://blackberry.github.com/Cascades-Community-Samples/stumpthedevs/index.html'>Challenges</a>",
+     "tags": [ "native", "client", "bb10", "cascades", "stumper" ]
+ },
+ "Stumper.Graph": {
+     "desc": "Challenge to create a graph from data",
+     "url": "https://github.com/blackberry/Cascades-Community-Samples/tree/master/stumpers/rcmaniac25",
+     "repo": "Cascades-Community-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
+     "note": "See <a href='http://blackberry.github.com/Cascades-Community-Samples/stumpthedevs/vinniesimonetti-small.jpg'>image</a> from <a href='http://blackberry.github.com/Cascades-Community-Samples/stumpthedevs/index.html'>Challenges</a>",
+     "tags": [ "native", "client", "bb10", "cascades", "stumper" ]
  },
  "SwipeMenu": {
      "desc": "A swipe-down menu framwork for BlacKBerry WebWorks on PlayBook",
