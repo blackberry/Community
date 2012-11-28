@@ -278,9 +278,9 @@
      "desc": "Native samples",
      "url": "http://github.com/blackberry/NDK-Samples",
      "type": "native",
-     "branches": ["develop", "master", "ndk1", "next"],
-     "branchinfo": "'master' is PlayBook 2, 'ndk1' is PlayBook 1, 'next' is BlackBerry 10, and 'develop' is next (beta) Release in BlackBerry 10",
-     "note": "Arguably these samples should be elsewhere, but there is a (temporary?) technical reason to keep them in this separate repository",
+     "branches": ["develop", "master", "ndk1", "ndk2", "next"],
+     "branchinfo": "'master' is PlayBook 2, 'ndk1' is PlayBook 1, 'ndk2' is PlayBook 2, 'next' is BlackBerry 10, and 'develop' is next (beta) Release in BlackBerry 10",
+     "note": "Also see Core-Native-Community-Samples",
      "tags": [ "native", "samples", "bb10" ]
  },
  "NME": {
