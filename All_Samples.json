@@ -1585,6 +1585,13 @@
      "warning": "Work in progress",
      "tags": [ "html5", "client", "playbook", "upload", "download", "extension" ]
  },
+ "UrbanAirshipClient": {
+     "desc": "The UrbanAirship sample client application for BlackBerry 10 written using the Cascades framework",
+     "url": "https://github.com/blackberry/Cascades-Community-Samples/tree/master/UrbanAirshipClient",
+     "repo": "Cascades-Community-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
+     "tags": [ "native", "client", "bb10", "cascades", "push" ]
+ },
  "VideoPlayback": {
      "desc": "How to use the multimedia capabilities of the native SDK",
      "url": "https://github.com/blackberry/NDK-Samples/tree/master/VideoPlayback",
