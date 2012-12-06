@@ -30,6 +30,7 @@ function initializeTranslateTable() {
 	"SampleApplication(AIR)": "SampleApp<em>...</em>AIR",
 	"SampleLibrary(AIR)": "SampleLib<em>...</em>AIR",
 	"ScoreloopIntegrationSample": "Scoreloop<em>...</em>",
+	"ScoreloopIntegrationSample(Cascades)": "Scoreloop<em>...</em>(Cascades)",
 	"StarshipSettings(AIR-BB10)": "Starship<em>...</em>AIR-BB10",
 	"WeatherGuesser(AIR-BB10)": "Weather<em>...</em>AIR-BB10",
 	"WebWorks-Community-APIs": "WebWorks-<em>...</em>APIs"

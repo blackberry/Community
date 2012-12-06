@@ -278,9 +278,9 @@
      "desc": "Native samples",
      "url": "http://github.com/blackberry/NDK-Samples",
      "type": "native",
-     "branches": ["develop", "master", "ndk1", "next"],
-     "branchinfo": "'master' is PlayBook 2, 'ndk1' is PlayBook 1, 'next' is BlackBerry 10, and 'develop' is next (beta) Release in BlackBerry 10",
-     "note": "Arguably these samples should be elsewhere, but there is a (temporary?) technical reason to keep them in this separate repository",
+     "branches": ["develop", "master", "ndk1", "ndk2", "next"],
+     "branchinfo": "'master' is PlayBook 2, 'ndk1' is PlayBook 1, 'ndk2' is PlayBook 2, 'next' is BlackBerry 10, and 'develop' is next (beta) Release in BlackBerry 10",
+     "note": "Also see Core-Native-Community-Samples",
      "tags": [ "native", "samples", "bb10" ]
  },
  "NME": {
@@ -492,8 +492,8 @@
      "type": "native",
      "branches": ["master", "BB10.0.06", "BB10.0.09"],
      "branchinfo": "'master' is PlayBook; 'BB10.0.09' is latest BlackBerry 10<br/>Name is arguably inconsistent with other conventions",
-     "note": "We need to decide where WebWorks integration will go",
-     "tags": [ "native", "samples", "bb10", "scoreloop", "gaming" ]
+     "note": "This repo includes 3 samples: two for Core Native apps and one for Apps using the Cascades framework. No WebWorks integration at the moment",
+     "tags": [ "native", "samples", "bb10", "scoreloop", "gaming", "cascades" ]
  },
  "SpiderMonkey": {
      "desc": "Mozilla's JavaScript Engine",
@@ -585,7 +585,7 @@
      "type": "html5",
      "branches": ["master", "bt-fileuploader", "tablet-uploadDownload-readmeFixes"],
      "branchinfo": "'master' is current development for all platforms; the other two should be deleted (need to triple check)",
-     "note": "Extensions vary depending on platform.  Still discussing whether to place the BB10 implementation in this repo",
+     "note": "Extensions vary depending on platform.  Also see BB10-WebWorks-Community-APIs",
      "tags": [ "html5", "bbos", "playbook", "webworks" ]
  },
  "WebWorks-Samples": {
@@ -594,6 +594,7 @@
      "type": "html5",
      "branches": ["master", "gh-pages"],
      "branchinfo": "'master' is current development for all platforms; 'gh-pages' is mostly for staging the demo",
+     "note": "Also see BB10-WebWorks-Samples",
      "tags": [ "html5", "webworks", "samples", "pages", "webworks", "official" ]
  },
  "WebWorks-Community-Samples": {
@@ -602,6 +603,7 @@
      "type": "html5",
      "branches": ["master", "gh-pages"],
      "branchinfo": "'master' is current development for all platforms; 'gh-pages' is mostly for staging the demo",
+     "note": "Also see BB10-WebWorks-Community-Samples",
      "tags": [ "html5", "webworks", "samples", "pages", "webworks" ]
  },
  "WebWorks-TabletOS": {
