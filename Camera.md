@@ -15,7 +15,7 @@ APIs to use the Camera on BlackBerry 10
 
 ### Documentation
 
-* [Online Reference](https://bdsc.webapps.blackberry.com/native/beta/reference/com.qnx.doc.camera.lib_ref/topic/overview.html)
+* [Online Reference](http://developer.blackberry.com/native/reference/bb10/com.qnx.doc.camera.lib_ref/topic/overview.html)
 
 The main forum for questions depends on the software stack being used:
 
@@ -42,6 +42,7 @@ Cascades multimedia library with Camera, take a picture, manipulate the image, a
 ### BBJam Samples
 A collection of sample apps demonstrated in the Native Camera API Deep-Dive session at the BlackBerry JAM conference in San Jose.
 Some of these samples are similar to those listed above, but with a focus on more in-line documentation, as well as notes on best-practices and "gotchas".
+These samples have been updated to build with the Gold NDK release.
 
 **[Viewfinder](https://github.com/blackberry/Presentations/tree/master/2012-BlackBerryJam-Americas/JAM15/Viewfinder)**
 A simple sample using libscreen which illustrates how to start a viewfinder.  Includes notes on how to inventory available cameras and search for cameras based on the features you require.
