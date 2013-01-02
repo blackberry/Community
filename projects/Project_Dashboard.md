@@ -13,6 +13,18 @@ This page is intended to capture the the details of community collaborations und
 <br>
 ----
 
+There are 6 areas of Open Source work going on right now with the community, though if want you'd like to do is not listed, then get in touch with me (@timothywindsor on Twitter) and we'll see what we can set up.
+
+Our current areas are:
+
+- BB10 WebWorks Extensions
+- bbUI.js Issues and Features
+- Screen Layout Examples
+- Advanced UI Examples
+- Advanced UI using WebGL
+- BB10 AIR Native Extensions
+
+
 ## BB10 WebWorks Extensions
 
 Exposing native BlackBerry 10 APIs and porting BBOS extensions for BB10 WebWorks. These extensions are written in C/C++ and JavaScript. See below for our top requests and a link to the Github Issue that tracks development progress. If you have a need for an extension, please open a [Github Issue](https://github.com/blackberry/WebWorks-Community-APIs/issues) with a description of what you need from the extension. Or, respond on the issue for the extension you need so we can track demand.
