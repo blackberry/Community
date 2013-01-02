@@ -19,19 +19,19 @@ Exposing native BlackBerry 10 APIs and porting BBOS extensions for BB10 WebWorks
 
 __Top Extension Requests and Current Development__
 
-#1 [Screen Backlight Extension](https://github.com/blackberry/WebWorks-Community-APIs/issues/125)
+####1 [Screen Backlight Extension](https://github.com/blackberry/WebWorks-Community-APIs/issues/125)
 _Under investigation by Developer Relations for technical feasibility_
 Need an extension that will enable an application to keep the backlight on when needed. Investigation will need to be done to see if this is possible in an extension or if it requires changes in the Web Platform itself.
 
-#2 [Barcode Scanning Extension](https://github.com/blackberry/WebWorks-Community-APIs/issues/109) 
+####2 [Barcode Scanning Extension](https://github.com/blackberry/WebWorks-Community-APIs/issues/109) 
 _needs a volunteer_
 Create an extension that can be used to scan barcodes using the ZXing library in BB10. We have some Barcode Scanning code that should be a good starting point.
 
-#3 [Child Browser Extension](https://github.com/blackberry/WebWorks-Community-APIs/issues/126) 
+####3 [Child Browser Extension](https://github.com/blackberry/WebWorks-Community-APIs/issues/126) 
 _needs a volunteer_
 A more extensive Child Browser extension is needed for some use cases. Ideally, this extension would meet the API requirements of the Cordova API so that the code can be reused.
 
-#4 [Bluetooth Extension](https://github.com/blackberry/WebWorks-Community-APIs/issues/127) 
+####4 [Bluetooth Extension](https://github.com/blackberry/WebWorks-Community-APIs/issues/127) 
 _needs a volunteer_
 An Extension is needed for WebWorks that would allow search and discovery of Bluetooth devices, connecting, and communication over Bluetooth.
 
