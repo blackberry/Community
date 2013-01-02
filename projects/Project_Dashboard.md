@@ -13,11 +13,11 @@ This page is intended to capture the the details of community collaborations und
 <br>
 ----
 
-### BB10 WebWorks Extensions
+## BB10 WebWorks Extensions
 
 Exposing native BlackBerry 10 APIs and porting BBOS extensions for BB10 WebWorks. These extensions are written in C/C++ and JavaScript. See below for our top requests and a link to the Github Issue that tracks development progress. If you have a need for an extension, please open a [Github Issue](https://github.com/blackberry/WebWorks-Community-APIs/issues) with a description of what you need from the extension. Or, respond on the issue for the extension you need so we can track demand.
 
-__Top Extension Requests and Current Development__
+__Top Extension Requests__
 
 ####1 [Screen Backlight Extension](https://github.com/blackberry/WebWorks-Community-APIs/issues/125) <br>
 _Under investigation by Developer Relations for technical feasibility_<br>
@@ -34,6 +34,8 @@ A more extensive Child Browser extension is needed for some use cases. Ideally, 
 ####4 [Bluetooth Extension](https://github.com/blackberry/WebWorks-Community-APIs/issues/127) <br>
 _needs a volunteer_<br>
 An Extension is needed for WebWorks that would allow search and discovery of Bluetooth devices, connecting, and communication over Bluetooth.
+
+__Other Extension Development__
 
 [Secure One Way Encryption Extension](https://github.com/blackberry/WebWorks-Community-APIs/issues/124)<br>
 _needs a volunteer_<br>
@@ -60,7 +62,8 @@ _Roadmap and Issue List:_
 _Staging Repository:_
 [https://github.com/blackberry/WebWorks-Community-APIs](https://github.com/blackberry/WebWorks-Community-APIs)
 
-### bbUI.js Issues and Features
+
+## bbUI.js Issues and Features
 
 Working through the list of issues on bbUI.js, both bugs and feature requests.
 
@@ -77,7 +80,8 @@ _Roadmap and Issue List:_
 _Staging Repository:_
 [https://github.com/blackberry/bbUI.js](https://github.com/blackberry/bbUI.js)
 
-### Screen Layout Examples
+
+## Screen Layout Examples
 
 Common Layout Samples using bbUI.js. These samples are intended to provide starting points for developers to reduce initial coding and setup time.
 
@@ -101,7 +105,8 @@ _Roadmap and Issue List:_
 _Staging Repository:_
 [https://github.com/blackberry/BB10-WebWorks-Community-Samples](https://github.com/blackberry/BB10-WebWorks-Community-Samples)
 
-### Advanced UI Examples
+
+## Advanced UI Examples
 
 Advanced Dynamic UI with animation, taking advantage of hardware acceleration and Alice.js.
 
@@ -116,7 +121,8 @@ _Roadmap and Issue List:_
 _Staging Repository:_
 [https://github.com/blackberry/BB10-WebWorks-Community-Samples](https://github.com/blackberry/BB10-WebWorks-Community-Samples)
 
-### Advanced UI using WebGL
+
+## Advanced UI using WebGL
 
 Examples of advanced UI using the capabilities of WebGL and hardware acceleration on BlackBerry 10
 
@@ -130,7 +136,8 @@ _Roadmap and Issue List:_
 _Staging Repository:_
 [https://github.com/blackberry/BB10-WebWorks-Community-Samples](https://github.com/blackberry/BB10-WebWorks-Community-Samples)
 
-### BB10 AIR Native Extensions
+
+## BB10 AIR Native Extensions
 
 Exposing native BlackBerry 10 APIs and porting BBOS extensions for BB10 AIR Applications
 
