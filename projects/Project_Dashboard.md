@@ -19,39 +19,39 @@ Exposing native BlackBerry 10 APIs and porting BBOS extensions for BB10 WebWorks
 
 __Top Extension Requests and Current Development__
 
-####1 [Screen Backlight Extension](https://github.com/blackberry/WebWorks-Community-APIs/issues/125)
-_Under investigation by Developer Relations for technical feasibility_
+####1 [Screen Backlight Extension](https://github.com/blackberry/WebWorks-Community-APIs/issues/125) <br>
+_Under investigation by Developer Relations for technical feasibility_<br>
 Need an extension that will enable an application to keep the backlight on when needed. Investigation will need to be done to see if this is possible in an extension or if it requires changes in the Web Platform itself.
 
-####2 [Barcode Scanning Extension](https://github.com/blackberry/WebWorks-Community-APIs/issues/109) 
-_needs a volunteer_
+####2 [Barcode Scanning Extension](https://github.com/blackberry/WebWorks-Community-APIs/issues/109) <br>
+_needs a volunteer_<br>
 Create an extension that can be used to scan barcodes using the ZXing library in BB10. We have some Barcode Scanning code that should be a good starting point.
 
-####3 [Child Browser Extension](https://github.com/blackberry/WebWorks-Community-APIs/issues/126) 
-_needs a volunteer_
+####3 [Child Browser Extension](https://github.com/blackberry/WebWorks-Community-APIs/issues/126) <br>
+_needs a volunteer_<br>
 A more extensive Child Browser extension is needed for some use cases. Ideally, this extension would meet the API requirements of the Cordova API so that the code can be reused.
 
-####4 [Bluetooth Extension](https://github.com/blackberry/WebWorks-Community-APIs/issues/127) 
-_needs a volunteer_
+####4 [Bluetooth Extension](https://github.com/blackberry/WebWorks-Community-APIs/issues/127) <br>
+_needs a volunteer_<br>
 An Extension is needed for WebWorks that would allow search and discovery of Bluetooth devices, connecting, and communication over Bluetooth.
 
-[Secure One Way Encryption Extension](https://github.com/blackberry/WebWorks-Community-APIs/issues/124) 
-_needs a volunteer_
-We want to create an extension that wraps the code in this sample: [https://github.com/blackberry/Cascades-Community-Samples/tree/master/PasswordSample](https://github.com/blackberry/Cascades-Community-Samples/tree/master/PasswordSample)
+[Secure One Way Encryption Extension](https://github.com/blackberry/WebWorks-Community-APIs/issues/124)<br>
+_needs a volunteer_<br>
+We want to create an extension that wraps the code in this sample: <br>[https://github.com/blackberry/Cascades-Community-Samples/tree/master/PasswordSample](https://github.com/blackberry/Cascades-Community-Samples/tree/master/PasswordSample)
 
-[Microphone Recording Extension](https://github.com/blackberry/WebWorks-Community-APIs/issues/110) 
-by [John852](https://github.com/john852)
+[Microphone Recording Extension](https://github.com/blackberry/WebWorks-Community-APIs/issues/110) <br>
+by [John852](https://github.com/john852)<br>
 _code is complete but not on Github yet_
 
-[Zip/Unzip Extension](https://github.com/blackberry/WebWorks-Community-APIs/issues/104) 
-Unzip portion done by [Starpax](https://github.com/starpax). _Needs a new volunteer to take on the zip portion_
+[Zip/Unzip Extension](https://github.com/blackberry/WebWorks-Community-APIs/issues/104)<br>
+Unzip portion done by [Starpax](https://github.com/starpax).<br> _Needs a new volunteer to take on the zip portion_
 
-_Developers:_
-[Sign up](http://blackberry.github.com/howToContribute.html) as a contributor, to join us.
-[Justin Tokarchuk](http://github.com/jtokarchuk),
-[Brian Scheirer](http://github.com/bcs925),
-[Kevin P "HaTaX"](http://github.com/hatax2),
-[Thomas W "ph03n1x"](http://github.com/osbbx-ph03n1x),
+_Developers:_<br>
+[Sign up](http://blackberry.github.com/howToContribute.html) as a contributor, to join us.<br>
+[Justin Tokarchuk](http://github.com/jtokarchuk),<br>
+[Brian Scheirer](http://github.com/bcs925),<br>
+[Kevin P "HaTaX"](http://github.com/hatax2),<br>
+[Thomas W "ph03n1x"](http://github.com/osbbx-ph03n1x),<br>
 [Lloyd Summers](http://github.com/kermed)
 
 _Roadmap and Issue List:_
@@ -64,11 +64,11 @@ _Staging Repository:_
 
 Working through the list of issues on bbUI.js, both bugs and feature requests.
 
-_Developers:_
-[Sign up](http://blackberry.github.com/howToContribute.html) as a contributor, to join us.
-[Rory Craig-Barnes](http://github.com/glasspear),
-[Justin Tokarchuk](http://github.com/jtokarchuk),
-[Shane Cridlebaugh](http://github.com/SCrid2000),
+_Developers:_<br>
+[Sign up](http://blackberry.github.com/howToContribute.html) as a contributor, to join us.<br>
+[Rory Craig-Barnes](http://github.com/glasspear),<br>
+[Justin Tokarchuk](http://github.com/jtokarchuk),<br>
+[Shane Cridlebaugh](http://github.com/SCrid2000),<br>
 Jeremy Duke
 
 _Roadmap and Issue List:_
@@ -81,18 +81,18 @@ _Staging Repository:_
 
 Common Layout Samples using bbUI.js. These samples are intended to provide starting points for developers to reduce initial coding and setup time.
 
-_Developers:_
-[Sign up](http://blackberry.github.com/howToContribute.html) as a contributor, to join us.
-[Rory Craig-Barnes](http://github.com/glasspear),
-[Justin Tokarchuk](http://github.com/jtokarchuk),
-[Shane Cridlebaugh](http://github.com/SCrid2000),
-[Brian Scheirer](http://github.com/bcs925),
-Jeremy Duke,
-Don Berzley,
-Apekshith Gowda,
-[Lloyd Summers](http://github.com/kermed),
-[Kevin P "HaTaX"](http://github.com/hatax2),
-[Thomas W "ph03n1x"](http://github.com/osbbx-ph03n1x),
+_Developers:_<br>
+[Sign up](http://blackberry.github.com/howToContribute.html) as a contributor, to join us.<br>
+[Rory Craig-Barnes](http://github.com/glasspear),<br>
+[Justin Tokarchuk](http://github.com/jtokarchuk),<br>
+[Shane Cridlebaugh](http://github.com/SCrid2000),<br>
+[Brian Scheirer](http://github.com/bcs925),<br>
+Jeremy Duke,<br>
+Don Berzley,<br>
+Apekshith Gowda,<br>
+[Lloyd Summers](http://github.com/kermed),<br>
+[Kevin P "HaTaX"](http://github.com/hatax2),<br>
+[Thomas W "ph03n1x"](http://github.com/osbbx-ph03n1x),<br>
 [Justin DaSilva](http://github.com/lyricidal)
 
 _Roadmap and Issue List:_
@@ -103,11 +103,11 @@ _Staging Repository:_
 
 ### Advanced UI Examples
 
-Advanced Dynamic UI with animation, taking advantage of hardware acceleration and Alice.js. The goal is to increase 
+Advanced Dynamic UI with animation, taking advantage of hardware acceleration and Alice.js.
 
-_Developers:_
-[Sign up](http://blackberry.github.com/howToContribute.html) as a contributor, to join us.
-Jeremy Duke,
+_Developers:_<br>
+[Sign up](http://blackberry.github.com/howToContribute.html) as a contributor, to join us.<br>
+Jeremy Duke,<br>
 [Lloyd Summers](http://github.com/kermed)
 
 _Roadmap and Issue List:_
@@ -120,8 +120,8 @@ _Staging Repository:_
 
 Examples of advanced UI using the capabilities of WebGL and hardware acceleration on BlackBerry 10
 
-_Developers:_
-[Sign up](http://blackberry.github.com/howToContribute.html) as a contributor, to join us.
+_Developers:_<br>
+[Sign up](http://blackberry.github.com/howToContribute.html) as a contributor, to join us.<br>
 [Lloyd Summers](http://github.com/kermed)
 
 _Roadmap and Issue List:_
@@ -134,12 +134,12 @@ _Staging Repository:_
 
 Exposing native BlackBerry 10 APIs and porting BBOS extensions for BB10 AIR Applications
 
-_Developers:_
-[Sign up](http://blackberry.github.com/howToContribute.html) as a contributor, to join us.
-[Justin Tokarchuk](http://github.com/jtokarchuk),
-[Brian Scheirer](http://github.com/bcs925),
-[Kevin P "HaTaX"](http://github.com/hatax2),
-[Thomas W "ph03n1x"](http://github.com/osbbx-ph03n1x),
+_Developers:_<br>
+[Sign up](http://blackberry.github.com/howToContribute.html) as a contributor, to join us.<br>
+[Justin Tokarchuk](http://github.com/jtokarchuk),<br>
+[Brian Scheirer](http://github.com/bcs925),<br>
+[Kevin P "HaTaX"](http://github.com/hatax2),<br>
+[Thomas W "ph03n1x"](http://github.com/osbbx-ph03n1x),<br>
 [Justin DaSilva](http://github.com/lyricidal)
 
 _Roadmap and Issue List:_
