@@ -168,6 +168,7 @@
 [alicejs]: <AliceJS.html> "Alice - A Lightweight Independent CSS Engine"
 [apache_cordova]: <Apache_Cordova.html> "The Open Source HTML5 Cross-Platform Framework"
 [bbuijs]: <bbUIjs.html> "A WebWorks-based Framework to write HTML5 applications using BBOS and BB10 Conventions"
+[box2d]: <Box2D.html> "Box2D"
 [cocos2d_x]: <Cocos2d-x.html> "Cocos2d-X"
 [freeimage]: <FreeImage.html> "FreeImage image library"
 [gameplay]: <Gameplay.html> "Portable, OpenSource Gaming Framework"
