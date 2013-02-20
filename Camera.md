@@ -81,6 +81,7 @@ This sample shows you how to process preview frames from the Camera using the Ca
 
 ### Presentations, Articles and Other Media
 
+* [Advanced Camera and Augmented Reality](http://hosting.desire2learncapture.com/RIM/1/watch/184.aspx), JAM Europe session by Sean McVeigh with Martin Lechner (Wikitude) at BlackBerry JAM Europe, Amsterdam, Feb 6, 2013.
 * [Native Camera API Deep-Dive](http://hosting.desire2learncapture.com/RIM/1/watch/48.aspx), Breakout session by Sean McVeigh and Paul Bernhardt at the BlackBerry Jam conference in San Jose, CA, Sept 26, 2012.
 * [Shutter Sound Policy](http://supportforums.blackberry.com/t5/Native-Development/Camera-shutter-sound/m-p/1808535#M5712),
 Forum post by Sean McVeigh, on July, 2012
