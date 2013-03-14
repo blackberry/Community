@@ -25,10 +25,10 @@ The main forum for questions depends on the software stack being used:
 
 ### Samples
 
-**[HelloCamera](http://github.com/blackberry/Cascades-Community-Samples/tree/master/HelloCamera)**  
+**[HelloCamera](https://github.com/blackberry/Cascades-Community-Samples/tree/master/HelloCamera)**  
 Shows how to set up a Cascades foreign window and connect the Camera viewfinder to it.
 
-**[NativeCamera](http://github.com/blackberry/Core-Native-Community-Samples/tree/master/NativeCamera)**  
+**[NativeCamera](https://github.com/blackberry/Core-Native-Community-Samples/tree/master/NativeCamera)**  
 Shows how to set up a Camera viewfinder in a non-cascades environment using libscreen.
 
 **[HelloVideoCamera](https://github.com/blackberry/Cascades-Community-Samples/tree/master/HelloVideoCamera)**  
@@ -38,6 +38,9 @@ This sample is based on the HelloCamera sample so it also illustrates how to set
 **[Photobomber](https://github.com/blackberry/Cascades-Samples/tree/master/photobomber)**  
 A camera application that let's you take photos and then have them "bombed" by somebody.  The app shows how to use the
 Cascades multimedia library with Camera, take a picture, manipulate the image, and add an image over another image.
+
+**[RotationCamera](https://github.com/blackberry/Cascades-Community-Samples/tree/master/RotationCamera)**  
+Demonstrates some best-practices for handling device rotation in the video viewfinder case.
 
 ### BBJam Samples
 A collection of sample apps demonstrated in the Native Camera API Deep-Dive session at the BlackBerry JAM conference in San Jose.
