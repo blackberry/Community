@@ -84,11 +84,20 @@ A C camera sample which shows how to render the camera viewfinder into an OpenGL
 **[Heartbeat](https://github.com/blackberry/Presentations/tree/master/2013-BlackBerryJam-Americas/JAM40/Heartbeat)**
 A Cascades sample showing how the camera viewfinder can be used in some interesting ways.  Specifically, this sample uses the video viewfinder to measure your heartrate when your finger is held over the on-board videolight.  The algorithm was hastily put together, so this sample is ripe for someone who has a bit more time to implement a proper FFT.  Community contribution welcome!
 
+**[Character](https://github.com/blackberry/Presentations/tree/master/2013-BlackBerryJam-Americas/JAM40/character)**
+A GamePlay3D sample which illustrates how to render the camera viewfinder as a texture in a 3D scene!  This uses a similar approach as the Camera3D sample.  This sample extends the stock "character" sample from the GamePlay3D repository [Here](https://github.com/blackberry/GamePlay/tree/master/samples/character).
+
+**[Moustacher](https://github.com/blackberry/Presentations/tree/master/2013-BlackBerryJam-Americas/JAM40/Moustacher)**
+A face-detection sample written in C which superimposes a moustache on your face.  Similar to the FaceFilter sample.  Illustrates in-line filter effects and parsing of face-detect data.  Moustaches will also be present in your recorded videos!
+
+**[SlaveFlash](https://github.com/blackberry/Presentations/tree/master/2013-BlackBerryJam-Europe/JAM370/SlaveFlash)**
+A C sample which was written to illustrate other interesting things that can be done with retroactive burst capture.  A circular buffer of past images is maintained and when a large jump in review-frame brightness is detected followed by a similar decrease in brightness, we assume that an external flash has fired.  The full-resolution image with the matching timestamp is extracted from the circular buffer, saved to disk, and then opened in the picture viewer card.  The decision to try this with an external flash was to demonstrate that if you don't like the on-board flash, you can try using your professional strobes!
+
 ### Presentations, Articles and Other Media
 
-* [Native Camera API Deep-Dive](http://hosting.desire2learncapture.com/RIM/1/watch/48.aspx), Breakout session by Sean McVeigh and Paul Bernhardt at the BlackBerry Jam Americas conference in San Jose, CA, Sept 26, 2012.
-* [Native API Deep-Dive: Advanced Camera and Augmented Reality](http://www.youtube.com/watch?v=wfvlt2hu-Jw), Breakout session by Sean McVeigh with Wikitude CTO Martin Lechner at the BlackBerry Jam Europe conference in Amsterdam, February 6, 2013.
 * [Advanced Native Camera: Seeing is Believing!](https://bblive.blackberryconferences.net/2013/connect/sessionDetail.ww?SESSION_ID=1948), Breakout session by Sean McVeigh at the BlackBerry Live / Jam Americas conference in Orlando, FL, May 15, 2013. (follow the Media link for the video).
+* [Native API Deep-Dive: Advanced Camera and Augmented Reality](http://www.youtube.com/watch?v=wfvlt2hu-Jw), Breakout session by Sean McVeigh with Wikitude CTO Martin Lechner at the BlackBerry Jam Europe conference in Amsterdam, February 6, 2013.
+* [Native Camera API Deep-Dive](http://hosting.desire2learncapture.com/RIM/1/watch/48.aspx), Breakout session by Sean McVeigh and Paul Bernhardt at the BlackBerry Jam Americas conference in San Jose, CA, Sept 26, 2012.
 * [Shutter Sound Policy](http://supportforums.blackberry.com/t5/Native-Development/Camera-shutter-sound/m-p/1808535#M5712),
 Forum post by Sean McVeigh, on July, 2012
 * [Getting Rolling with the Camera API](http://devblog.blackberry.com/2012/07/camera-api/), DevBlog by Paul Bernhardt, on July 20, 2012
