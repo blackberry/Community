@@ -95,9 +95,9 @@ A C sample which was written to illustrate other interesting things that can be 
 
 ### Presentations, Articles and Other Media
 
-* [Native Camera API Deep-Dive](http://hosting.desire2learncapture.com/RIM/1/watch/48.aspx), Breakout session by Sean McVeigh and Paul Bernhardt at the BlackBerry Jam Americas conference in San Jose, CA, Sept 26, 2012.
-* [Native API Deep-Dive: Advanced Camera and Augmented Reality](http://www.youtube.com/watch?v=wfvlt2hu-Jw), Breakout session by Sean McVeigh with Wikitude CTO Martin Lechner at the BlackBerry Jam Europe conference in Amsterdam, February 6, 2013.
 * [Advanced Native Camera: Seeing is Believing!](https://bblive.blackberryconferences.net/2013/connect/sessionDetail.ww?SESSION_ID=1948), Breakout session by Sean McVeigh at the BlackBerry Live / Jam Americas conference in Orlando, FL, May 15, 2013. (follow the Media link for the video).
+* [Native API Deep-Dive: Advanced Camera and Augmented Reality](http://www.youtube.com/watch?v=wfvlt2hu-Jw), Breakout session by Sean McVeigh with Wikitude CTO Martin Lechner at the BlackBerry Jam Europe conference in Amsterdam, February 6, 2013.
+* [Native Camera API Deep-Dive](http://hosting.desire2learncapture.com/RIM/1/watch/48.aspx), Breakout session by Sean McVeigh and Paul Bernhardt at the BlackBerry Jam Americas conference in San Jose, CA, Sept 26, 2012.
 * [Shutter Sound Policy](http://supportforums.blackberry.com/t5/Native-Development/Camera-shutter-sound/m-p/1808535#M5712),
 Forum post by Sean McVeigh, on July, 2012
 * [Getting Rolling with the Camera API](http://devblog.blackberry.com/2012/07/camera-api/), DevBlog by Paul Bernhardt, on July 20, 2012
