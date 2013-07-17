@@ -78,7 +78,7 @@ _Source_: [Ken Wallis] and [Russell Andrade] via [DevBlog](http://devblog.blackb
 ### BlackBerry Standardizing on Screen Sizes
 [Tim Neil] reports that RIM will standardize the screen resolutions of its future BlackBerry 10 Devices.
 
-_Source_: [Tim Neil via [DevBlog](http://devblog.blackberry.com/2012/08/blackberry-10-screen-resolutions/)
+_Source_: [Tim Neil] via [DevBlog](http://devblog.blackberry.com/2012/08/blackberry-10-screen-resolutions/)
 on August 15, 2012
 
 ### The OSBBx bbUI.js Contest
