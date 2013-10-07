@@ -40,8 +40,8 @@ This sample is based on the HelloCamera sample so it also illustrates how to set
 A camera application that let's you take photos and then have them "bombed" by somebody.  The app shows how to use the
 Cascades multimedia library with Camera, take a picture, manipulate the image, and add an image over another image.
 
-**[RotationCamera](https://github.com/blackberry/Cascades-Community-Samples/tree/master/RotationCamera)**  
-Demonstrates some best-practices for handling device rotation in the video viewfinder case.
+**[BestCamera](https://github.com/blackberry/Cascades-Community-Samples/tree/master/BestCamera)**
+Demonstrates best-practices for using the native C camera API in a barebones Cascades camera app.  This app properly handles powerdown/resume, resource sharing, rotation, aspect ratios, photo & video modes, resolution discovery, etc.
 
 ### BBJam Samples
 A collection of sample apps demonstrated in the Native Camera API Deep-Dive session at the BlackBerry JAM conferences in San Jose, Amsterdam, and Orlando.
@@ -95,6 +95,7 @@ A C sample which was written to illustrate other interesting things that can be 
 
 ### Presentations, Articles and Other Media
 
+* [Native Camera: View the World from a Different Angle](https://bbjam.blackberryconferences.net/asia2013/connect/sessionDetail.ww?SESSION_ID=1551), Breakout session by Sean McVeigh at the BlackBerry Jam Asia conference in Hong Kong, September 27, 2013. (follow the Media link for the video. PDF also available.)
 * [Advanced Native Camera: Seeing is Believing!](https://bblive.blackberryconferences.net/2013/connect/sessionDetail.ww?SESSION_ID=1948), Breakout session by Sean McVeigh at the BlackBerry Live / Jam Americas conference in Orlando, FL, May 15, 2013. (follow the Media link for the video).
 * [Native API Deep-Dive: Advanced Camera and Augmented Reality](http://www.youtube.com/watch?v=wfvlt2hu-Jw), Breakout session by Sean McVeigh with Wikitude CTO Martin Lechner at the BlackBerry Jam Europe conference in Amsterdam, February 6, 2013.
 * [Native Camera API Deep-Dive](http://hosting.desire2learncapture.com/RIM/1/watch/48.aspx), Breakout session by Sean McVeigh and Paul Bernhardt at the BlackBerry Jam Americas conference in San Jose, CA, Sept 26, 2012.
