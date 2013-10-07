@@ -95,7 +95,7 @@ A C sample which was written to illustrate other interesting things that can be 
 
 ### Presentations, Articles and Other Media
 
-* [Native Camera: View the World from a Different Angle](https://bbjam.blackberryconferences.net/asia2013/connect/search.ww?CPID=BAC-2013BBJAMAP04), Breakout session by Sean McVeigh at the BlackBerry Jam Asia conference in Hong Kong, September 27, 2013. (follow the Media link for the video. PDF also available.)
+* [Native Camera: View the World from a Different Angle](https://bbjam.blackberryconferences.net/asia2013/connect/sessionDetail.ww?SESSION_ID=1551), Breakout session by Sean McVeigh at the BlackBerry Jam Asia conference in Hong Kong, September 27, 2013. (follow the Media link for the video. PDF also available.)
 * [Advanced Native Camera: Seeing is Believing!](https://bblive.blackberryconferences.net/2013/connect/sessionDetail.ww?SESSION_ID=1948), Breakout session by Sean McVeigh at the BlackBerry Live / Jam Americas conference in Orlando, FL, May 15, 2013. (follow the Media link for the video).
 * [Native API Deep-Dive: Advanced Camera and Augmented Reality](http://www.youtube.com/watch?v=wfvlt2hu-Jw), Breakout session by Sean McVeigh with Wikitude CTO Martin Lechner at the BlackBerry Jam Europe conference in Amsterdam, February 6, 2013.
 * [Native Camera API Deep-Dive](http://hosting.desire2learncapture.com/RIM/1/watch/48.aspx), Breakout session by Sean McVeigh and Paul Bernhardt at the BlackBerry Jam Americas conference in San Jose, CA, Sept 26, 2012.
