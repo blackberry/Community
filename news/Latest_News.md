@@ -2,7 +2,9 @@
 layout: news
 title: Latest Community News
 ---
+{% include posts-defs.md %}
 {% include news-defs.md %}
+{% include common-defs.md %}
 
 <div style="background-color: ghostwhite; border-style: solid; border-width: 1px; padding: 10px; margin-top: 10px; font-size: 105%; text-align: center; line-height: 180%;">
 BlackBerry Jam is Sept 25-27th, in San Jose.  <a href="http://www.blackberryjamconference.com/americas">Register Now!</a>
@@ -19,15 +21,15 @@ BlackBerry 10 WebWorks SDK for Linux.  The port is at
 Looking forward to a pull request to understand the differences and, hopefully, to eventually support Linux.
 Also, both Michael and Joe will be listed in the [contributors page](http://blackberry.github.com/approvedSignatories.html).
 
-_Source_: [Michael Robinson] via [twitter](https://twitter.com/badtoyz/status/244295372825034752) on September 7, 2012
+_Source_: [Michael Robinson](twitter.com/badtoyz) via [twitter](https://twitter.com/badtoyz/status/244295372825034752) on September 7, 2012
 
 ### Stump the BlackBerry Devs
-After a call to action from [Brian Zubert] to
+After a call to action from [Brian Zubert](http://twitter.com/bzubert) to
 [Stump the BlackBerry Devs](http://devblog.blackberry.com/2012/08/stump-blackberry-devs/),
 we are going to start collecting challenges and solutions in the _StumpTheDevs_ section of the
 [Cascades-Community-Samples](http://github.com/blackberry/Cascades-Community-Samples).
 
-_Source_: [Brian Zubert] via [DevBlog](http://devblog.blackberry.com/2012/08/stump-blackberry-devs/) on August 10, 2012, and [Eduardo Pelegri-Llopart] on August 22, 2012
+_Source_: [Brian Zubert](http://twitter.com/bzubert) via [DevBlog](http://devblog.blackberry.com/2012/08/stump-blackberry-devs/) on August 10, 2012, and [Eduardo Pelegri-Llopart] on August 22, 2012
 
 ### Roadmaps for all 
 We have released fairly detailed roadmaps for all our technologies; check the pages for
@@ -52,7 +54,7 @@ _Source_: [Tim Neil] via [DevBlog](http://devblog.blackberry.com/2012/08/qt-casc
 The BlackBerry 10 browser will be using a new User Agent String to identify itself.  See the details at
 [DevBlog](http://devblog.blackberry.com/2012/08/blackberry-10-user-agent-string/).
 
-_Source_: [Alex Kinsella] via [DevBlog](http://devblog.blackberry.com/2012/08/blackberry-10-user-agent-string/)
+_Source_: Alex Kinsella via [DevBlog](http://devblog.blackberry.com/2012/08/blackberry-10-user-agent-string/)
 on August 16, 2012
 
 ### Online Catalogs for All Open Source Repos and Samples
@@ -73,7 +75,7 @@ a [New WebWorks SDK](http://devblog.blackberry.com/2012/08/blackberry-10-webwork
 including support for custom API extensions,
 and a [New Ripple Emulator](http://devblog.blackberry.com/2012/08/ripple-emulator-refreshed/).
 
-_Source_: [Ken Wallis] and [Russell Andrade] via [DevBlog](http://devblog.blackberry.com), on August 15, 2012
+_Source_: [Ken Wallis][kwallis] and [Russell Andrade][randrade] via [DevBlog](http://devblog.blackberry.com), on August 15, 2012
 
 ### BlackBerry Standardizing on Screen Sizes
 [Tim Neil] reports that RIM will standardize the screen resolutions of its future BlackBerry 10 Devices.
@@ -85,14 +87,14 @@ on August 15, 2012
 The OSBBx group has started a contest to create bbUI.js-based Applications.  Check it out at
 [OpenSourceBB blog](http://opensourcebb.com/2012/08/introducing-the-osbbx-bbui-js-contest/).
 
-_Source_: [Shane Cridlebaugh] via [OpenSourceBB blog](http://opensourcebb.com/2012/08/introducing-the-osbbx-bbui-js-contest/)
+_Source_: Shane Cridlebaugh via [OpenSourceBB blog](http://opensourcebb.com/2012/08/introducing-the-osbbx-bbui-js-contest/)
 on August 13, 2012
 
 ### Digia Acquires Qt from Nokia
 [Digia](http://www.digia.com/) has acquired the Qt software technologies and Qt business from
 [Nokia](http://www.nokia.com).
 
-_Source_: [Digia] via [Press Release](http://www.digia.com/en/Home/Company/News/Digia-to-acquire-Qt-from-Nokia/)
+_Source_: Digia via [Press Release](http://www.digia.com/en/Home/Company/News/Digia-to-acquire-Qt-from-Nokia/)
 on August 9th, 2012
 
 ### Early Sighting: Ruby on QNX
@@ -104,10 +106,10 @@ _Source_: [Jose Luis Bencosme](http://twitter.com/jlbenc), via
 
 
 ### VideoPlayerSample Relocation Within Cascades-Community-Samples
-[Shadab Rashid] has relocated VideoPlayerSample so it is a top-level directory for consistency within the
+[Shadab Rashid][surashid] has relocated VideoPlayerSample so it is a top-level directory for consistency within the
 [Cascades-Community-Samples](http://github.com/blackberry/Cascades-Community-Samples) repository.
 
-_Source_: [Shadab Rashid], on August 3, 2012
+_Source_: [Shadab Rashid][surashid], on August 3, 2012
 
 
 <!-- RECORDED UNTIL HERE -->
@@ -136,7 +138,7 @@ New cities added to the BlacKBerry 10 Jam World Tour: August 23 in [Waterloo, On
 August 28 in [Vancouver, BC, Canada](http://www.blackberryjamworldtour.com/vancouver)
 and September 18th in [Amsterdam](http://www.blackberryjamworldtour.com/amsterdam).
 
-_Source_: [Alex Kinsella], via [DevBlog](http://devblog.blackberry.com/2012/08/blackberry_10_jam_new_cities_august/), on August 1, 2012
+_Source_: Alex Kinsella, via [DevBlog](http://devblog.blackberry.com/2012/08/blackberry_10_jam_new_cities_august/), on August 1, 2012
 
 ### New Release of Gameplay: v1.4 with Lua Support
 The [Gameplay](http://gameplay3d.org) community has announced the release of the version 1.4 of this
@@ -146,11 +148,11 @@ Sean Taylor's [post](http://devblog.blackberry.com/2012/08/announcing-gameplay-v
 _Source_: [Sean Taylor], via [DevBlog](http://devblog.blackberry.com/2012/08/announcing-gameplay-v1-4/), on August 2, 2012
 
 ### New Cascades Sample: LocationDiagnostics
-[Shadiq Haque] has released a new [Cascades](../Cascades.html) sample that shows how to use the
+[Shadiq Haque][shadiq] has released a new [Cascades](../Cascades.html) sample that shows how to use the
 BlackBerry 10 C++ Location APIs.  Code is available at RIM's GitHub organization, under
 the [Cascades-Community-Samples repo](https://github.com/blackberry/Cascades-Community-Samples/tree/master/LocationDiagnostics).
 
-_Source_: [Shadiq Haque], on August 1, 2012
+_Source_: [Shadiq Haque][shadiq], on August 1, 2012
 
 ### New Adobe AIR Sample: PushSampleApp
 [Matthew D'Andrea](https://github.com/mdandrea) and [Marco Di Cesare](https://github.com/mdicesare)
@@ -162,7 +164,7 @@ Also see the [Developer Guide](https://developer.blackberry.com/air/beta/documen
 _Source_: [Matt](https://github.com/mdandrea) and [Marco](https://github.com/mdicesare), on July 26, 2012
 
 ### New Cascades Sample: HelloOggVorbis
-[Ramprasad Madhavan] authored a new sample to [Cascades-Community-Samples](http://github.com/BlackBerry/Cascades-Community-Samples)
+Ramprasad Madhavan authored a new sample to [Cascades-Community-Samples](http://github.com/BlackBerry/Cascades-Community-Samples)
 that shows how to do basic Ogg file handling using OpenAL and OggVorbis from Cascades.
 The [commit](https://github.com/blackberry/Cascades-Community-Samples/pull/9) was accepted today.
 

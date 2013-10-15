@@ -3,6 +3,7 @@ layout: news
 title: How to Contribute News
 ---
 {% include news-defs.md %}
+{% include common-defs.md %}
 
 You can submit news for the [Latest Community News](Latest_News.html) page
 by editing directly the corresponding [markdown](http://github.github.com/github-flavored-markdown/) page,

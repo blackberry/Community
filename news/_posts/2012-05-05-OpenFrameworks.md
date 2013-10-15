@@ -29,5 +29,5 @@ repo, and it includes
 [examples](https://github.com/falcon4ever/openFrameworks/tree/developPlayBook/examples/qnx).
 Laurence indicated that he hopes to upstream the changes at some point.
 _
-Source_: [Laurence Muller], via [DevBlog](http://openbbnews.wordpress.com/2012/05/05/elsewhere-openframeworks/), on May 5, 2012  
+Source_: [Laurence Muller][lmuller], via [DevBlog](http://openbbnews.wordpress.com/2012/05/05/elsewhere-openframeworks/), on May 5, 2012  
 

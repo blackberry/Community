@@ -18,5 +18,5 @@ More information at [DevBlog](http://devblog.blackberry.com/2012/05/ripple-black
 and at
 [OpenBBNews](http://openbbnews.wordpress.com/2012/05/08/ripple-bb10/).
 
-_Source_: [Ken Wallis], via [DevBlog](http://devblog.blackberry.com/2012/05/ripple-blackberry-10/), on May 8, 2012 
+_Source_: [Ken Wallis][kwallis], via [DevBlog](http://devblog.blackberry.com/2012/05/ripple-blackberry-10/), on May 8, 2012 
 

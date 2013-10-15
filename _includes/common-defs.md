@@ -1,6 +1,7 @@
 <!-- Repositories -->
 
 [repo:air-samples]: <https://github.com/blackberry/Samples-for-AIR> "Repo: Adobe AIR Samples"
+[repo:alicejs]: <https://github.com/blackberry/alicejs> "Repo: AliceJS"
 [repo:alut]: <https://github.com/blackberry/ALUT> "Repo: ALUT, OpenAL Utilities"
 [repo:bb10-webworks-samples]: <http://github.com/blackberry/bb10-webworks-samples> "Repo: BB10-WebWorks-Samples"
 [repo:bbuijs]: <http://github.com/blackberry/bbui.js> "Repo: bbUI.js Framework for WebWorks"
@@ -17,6 +18,7 @@
 [repo:picturewall]: <http://github.com/blackberry/PictureWall> "Repo: HTML5 Application to display pictures on a wall of devices"
 [repo:qrencode]: <http://github.com/blackberry/QREncode> "QREncode Repository"
 [repo:qt]: <http://qt.gitorious.org/qt> "Repo: Qt"
+[repo:qt2cascades-samples]: <http://github.com/blackberry/Qt2Cascades-Samples> "Repo: Qt"
 [repo:ripple-ui]: <http://github.com/blackberry/Ripple-UI> "Repo: Ripple UI Emulator"
 [repo:ripple-framework]: <http://github.com/blackberry/Ripple-Framework> "Repo: Ripple Framework"
 [repo:ripple-services]: <http://github.com/blackberry/Ripple-Services> "Repo: Ripple Services"
@@ -75,6 +77,7 @@
 <!-- Relative Paths: BlackBerry apps -->
 
 [appworld]: <AppWorld.html> "BlackBerry App World"
+[bb_appworld]: <BlackBerry_App_World.html> "BlackBerry App World"
 [bb_app_world]: <BlackBerry_App_World.html> "BlackBerry App World"
 [bb_bridge]: <BlackBerry_Bridge.html> "BlackBerry Bridge"
 [bbm]: <BlackBerry_Messenger.html> "BlackBerry_Messenger"
@@ -89,6 +92,8 @@
 [bb6]: <BlackBerry_OS6.html> "BlackBerry OS 6.x"
 [bb7]: <BlackBerry_OS7.html> "BlackBerry OS 7.x"
 [bb10_r6]: <BB10_R6.html> "A common name for BlackBerry 10.0.06"
+[bb_10]: <BlackBerry_10.html> "The next generation BlackBerry Platform"
+[bb10]: <BlackBerry_10.html> "The next generation BlackBerry Platform"
 [blackberry_10]: <BlackBerry_10.html> "The next generation BlackBerry Platform"
 [blackberry_10_releases]: <BlackBerry_10_Releases.html> "The releases for BlackBerry 10"
 [blackberry_10_0_06]: <BlackBerry_10_0_06.html> "The BlackBerry 10.0.06 Release, aka Beta 2, aka R6"
@@ -162,6 +167,7 @@
 [touchcontroloverlay]: <TouchControlOverlay.html> "TouchControlOverlay"
 [tunneltilt]: <TunnelTilt.html> "TunnelTilt - A WebGL Demo and Game"
 [webgl_samples]: <WebGL_Samples.html> "Samples showing how to use WebGL on the BlackBerry Platform"
+[webglsamples]: <WebGL_Samples.html> "Samples showing how to use WebGL on the BlackBerry Platform"
 
 <!-- Relative Paths: 3rd party Languages/Frameworks/APIs -->
 
@@ -183,6 +189,7 @@
 [openvg]: <OpenVG.html> "Open Vector Graphics Library"
 [phonegap]: <PhoneGap.html> "Original cross-platform framework from Nitobi"
 [qr_code]: <QR_Code.html> "QR Codes - Quick Release Codes"
+[qr_codes]: <QR_Code.html> "QR Codes - Quick Release Codes"
 [sdl]: <SDL.html> "SDL"
 [threejs]: <threeJS.html> "A WebGL 3D Framework"
 

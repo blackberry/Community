@@ -13,4 +13,4 @@ PushRegistry for receiving
 [NFC](http://www.nfc-forum.org/)
 transaction event notifications.
 
-_Source_: [Martin Woolley], on April 3, 2012
+_Source_: [Martin Woolley][mdw], on April 3, 2012

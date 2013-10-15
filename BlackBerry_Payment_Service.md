@@ -35,4 +35,3 @@ In beta for BlackBerry 10 is:
 See the samples in the SDKs. Open source samples are TBD. <!-- There is an NDK PaymentSample, but not a Cascades one. Which is desired? -->
 
 ### Also See
-[Main APIs] <!-- What is this? -->

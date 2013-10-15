@@ -80,7 +80,7 @@ its not (currently) on BB10 device.  Also add [DevBlog post](http://devblog.blac
 ### People
 * [Andy Abgottspon]
 * [Artem Simonov]
-* [Eduardo Pelegri-Llopart][eduardo_pelegrillopart]
+* [eduardo_pelegrillopart]
 * [George Staikos]
 * [Gord Tanner]
 * [Jeremy Nicholls]

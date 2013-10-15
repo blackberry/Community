@@ -6,4 +6,4 @@ layout: post
 
 BlackBerry 10 Jam World Tour presentations are [Now Available](http://www.blackberryjamworldtour.com/presentations)
 
-_Source_: [Eduardo Pelegri-Llopart], on July 13, 2012
+_Source_: [Eduardo Pelegri-Llopart][pelegri], on July 13, 2012

@@ -3,6 +3,7 @@ layout: news
 title: Community News
 ---
 {% include news-defs.md %}
+{% include common-defs.md %}
 
 These news also available as a [Atom Feed](atom.xml).
 Additional late-breaking news might be available at [Latest News].

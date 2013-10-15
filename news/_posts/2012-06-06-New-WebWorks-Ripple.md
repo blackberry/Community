@@ -9,4 +9,4 @@ Open Source repos are [Ripple-UI](https://github.com/blackberry/Ripple-UI) and
 [BB10-WebWorks-Packager](https://github.com/blackberry/BB10-Webworks-Packager).
 On the last one, we are in the middle of consolidating the WebWorks repos for BlackBerry 10, so stay tuned.
 
-_Source_: [Ken Wallis][TBD], at [DevBlog](), on June 6, 2012
+_Source_: [Ken Wallis][kwallis], at [DevBlog](), on June 6, 2012
