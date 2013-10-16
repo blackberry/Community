@@ -12,5 +12,5 @@ PlayBook. This is the official client to Wikipedia from the
 Go [visit AppWorld](http://appworld.blackberry.com/webstore/content/105171/?lang=en)
 and download it.
 
-_Source_: [Eduardo Pelegri-Llopart], via [OpenBBNews](http://openbbnews.wordpress.com/2012/04/18/wikipedia-app-available/), on April 18, 2012  
+_Source_: [Eduardo Pelegri-Llopart][pelegri], via [OpenBBNews](http://openbbnews.wordpress.com/2012/04/18/wikipedia-app-available/), on April 18, 2012  
 

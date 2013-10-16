@@ -11,4 +11,4 @@ and 6 for
 [Tablet](https://github.com/blackberry/WebWorks-Community-APIs/tree/master/Tablet).
 More on the way.
 
-_Source_: [Eduardo Pelegri-Llopart], on July 13, 2012
+_Source_: [Eduardo Pelegri-Llopart][pelegri], on July 13, 2012

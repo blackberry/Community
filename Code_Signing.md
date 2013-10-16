@@ -11,4 +11,4 @@ https://developer.blackberry.com/CodeSigningHelp/
 
 [Get Signed Keys](https://www.blackberry.com/SignedKeys)
 
-[App_World]
+[AppWorld]

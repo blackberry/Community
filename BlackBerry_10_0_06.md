@@ -18,7 +18,7 @@ The accompanying open source repositories for all these have been released too.
 ### Announcements
 
 * SDK Roadmap ([DevBlog](http://devblog.blackberry.com/2012/07/blackberry-10-beta-sdk-updates/))
-* Update to the [BlackBerry 10 Alpha Device] - need reference
+* Update to the BlackBerry 10 Alpha Device - need reference
 * Ability to submit BB10 Applications for Alpha community ([DevBlog](http://devblog.blackberry.com/2012/07/blackberry-10-beta-sdk-updates/))
 * Beta 2 of Native SDK for BlackBerry 10 ([DevBlog](http://devblog.blackberry.com/2012/07/native-sdk-update-improvements/))
 * Update to Cascades Framework ([DevBlog](http://devblog.blackberry.com/2012/07/cascades-ui-framework-beta-2-updates/))

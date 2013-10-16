@@ -18,5 +18,5 @@ and
 
 More details in the [DevBlog](http://devblog.blackberry.com/2012/06/upstreaming-contributions-cocos2dx/) post.
 
-_Source_: [Eduardo Pelegri-Llopart], via [DevBlog](http://devblog.blackberry.com/2012/06/upstreaming-contributions-cocos2dx/), on June 11, 2012 
+_Source_: [Eduardo Pelegri-Llopart][pelegri], via [DevBlog](http://devblog.blackberry.com/2012/06/upstreaming-contributions-cocos2dx/), on June 11, 2012 
 

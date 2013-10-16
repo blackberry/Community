@@ -11,7 +11,7 @@ layout: technology
 
 ### Description
 QML ([wikipedia](http://en.wikipedia.org/wiki/QML), [docs](http://doc-snapshot.qt-project.org/4.8/qdeclarativeelements.html))
-is a JavaScript-based, declarative language for designing user interface–centric applications.
+is a JavaScript-based, declarative language for designing user interface-centric applications.
 It is part of [Qt] and it is used by [Cascades].
 
 The Cascades [Reference pages](https://developer.blackberry.com/cascades/reference)

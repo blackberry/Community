@@ -26,7 +26,7 @@ and
 
 
 ### Contacts
-[Eduardo Pelegri-Llopart]
+[eduardo_pelegrillopart]
 
 ### Also See
 TBD

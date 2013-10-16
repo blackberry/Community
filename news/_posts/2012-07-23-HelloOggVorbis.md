@@ -4,7 +4,7 @@ layout: post
 ---
 {% include posts-defs.md %}
 
-[Ramprasad Madhavan] authored a new sample to [Cascades-Community-Samples](http://github.com/BlackBerry/Cascades-Community-Samples)
+[Ramprasad Madhavan][ram7] authored a new sample to [Cascades-Community-Samples](http://github.com/BlackBerry/Cascades-Community-Samples)
 that shows how to do basic Ogg file handling using OpenAL and OggVorbis from Cascades.
 The [commit](https://github.com/blackberry/Cascades-Community-Samples/pull/9) was accepted today.
 

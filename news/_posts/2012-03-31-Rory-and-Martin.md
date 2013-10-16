@@ -19,4 +19,4 @@ already show a healthy
 [number of contributors](https://github.com/blackberry/WebWorks-Community-APIs/contributors).
 
 
-_Source_: [Eduardo Pelegri-Llopart], on March 31, 2012
+_Source_: [Eduardo Pelegri-Llopart][pelegri], on March 31, 2012
