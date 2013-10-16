@@ -19,4 +19,4 @@ and
 [Smartphone](https://github.com/blackberry/WebWorks-Community-APIs/tree/master/Smartphone)
 directories of the repository.
 
-_Source_: [Tim Windsor], May 17, 2012
+_Source_: [Tim Windsor][twindsor], May 17, 2012

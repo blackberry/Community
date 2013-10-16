@@ -34,7 +34,7 @@ From [Knowledge Base](http://supportforums.blackberry.com/t5/Java-Development/NF
 
 * [NFC Primer for Developers](http://supportforums.blackberry.com/t5/Java-Development/NFC-Primer-for-Developers/ta-p/1334857)
 * [Reading and Writing NFC Tags](http://supportforums.blackberry.com/t5/Java-Development/Reading-and-Writing-NFC-Smart-Tags/ta-p/1379453)
-* [NDEF Tag Reading from BlackBerry® WebWorks™](http://supportforums.blackberry.com/t5/Web-and-WebWorks-Development/NFC-NDEF-Tag-Reading-from-WebWorks-Applications/ta-p/1430431)
+* [NDEF Tag Reading from BlackBerry WebWorks](http://supportforums.blackberry.com/t5/Web-and-WebWorks-Development/NFC-NDEF-Tag-Reading-from-WebWorks-Applications/ta-p/1430431)
 * [NFC Virtual Target Emulation](http://supportforums.blackberry.com/t5/Java-Development/NFC-Virtual-Target-Emulation/ta-p/1509687)
 * [NDEF Message Handling Behaviours](http://supportforums.blackberry.com/t5/Java-Development/NFC-NDEF-Message-Handling-Behaviors/ta-p/1538737)
 * [Peer to peer communication with SNEP](http://supportforums.blackberry.com/t5/Java-Development/NFC-Peer-to-Peer-Communications-with-SNEP/ta-p/1532841)
@@ -52,7 +52,7 @@ From [Knowledge Base](http://supportforums.blackberry.com/t5/Java-Development/NF
 
 #### [BlackBerry 10 Jam][bb10jam]
 
-* DEV120 – Developing NFC Applications for BlackBerry 10
+* DEV120 - Developing NFC Applications for BlackBerry 10
 ([Session](https://bbworld.blackberryconferences.net/2012/scheduler/sessionDetails.do?SESSION_ID=DEV120),
 [Recordings](http://blackberrydevcon.eventmystro.com/em/presentation-details/auid/691 "Requires Registration")) - Native for BB10
 

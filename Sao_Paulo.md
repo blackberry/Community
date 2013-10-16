@@ -1,13 +1,13 @@
 ---
 layout: basic
 
-title: São Paulo
+title: Sao Paulo
 ---
 {% include common-defs.md %}
 
 ## Overview
 
-BlackBerry Developer Community in the area around São Paulo, Brazil
+BlackBerry Developer Community in the area around Sao Paulo, Brazil
 ([Wikipedia](http://en.wikipedia.org/wiki/Sao_Paulo), [City Website](http://www.prefeitura.sp.gov.br/)).
 
 ## Future Events

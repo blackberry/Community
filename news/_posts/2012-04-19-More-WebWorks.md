@@ -17,5 +17,5 @@ Application with the
 to create a BAR that will
 run on the BB10 Device (or simulator).
 
-_Source_: [Eduardo Pelegri-Llopart], via [OpenBBNews](http://openbbnews.wordpress.com/2012/04/19/more-webworks/), on April 19, 2012  
+_Source_: [Eduardo Pelegri-Llopart][pelegri], via [OpenBBNews](http://openbbnews.wordpress.com/2012/04/19/more-webworks/), on April 19, 2012  
 

@@ -8,4 +8,4 @@ layout: post
 demonstrates how BlackBerry Java developers
 can integrate with native social apps such as Facebook, Twitter etc.
 
-_Source_: [Shadid Haque](https://github.com/shaque), on June 4, 2012
+_Source_: [Shadiq Haque](https://github.com/shaque), on June 4, 2012

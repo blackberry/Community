@@ -24,7 +24,7 @@ For details, see [Registration Page](http://blackberryjamsessions.com/registre-s
 * [Caracas], October 16, 2012
 * [Cordoba], October 18, 2012
 * [Buenos Aires], October 20, 2012
-* [San Paulo], October 27, 2012
+* [Sao Paulo], October 27, 2012
 * [Medellin], November 8, 2012
 * [Bogota], November 10, 2012
 * [Guadelajara], November 15, 2012
@@ -32,7 +32,7 @@ For details, see [Registration Page](http://blackberryjamsessions.com/registre-s
 
 ### Cities Visited
 
-* [Rosario], May 29, 2012
+* Rosario, May 29, 2012
 
 ## BlackBerry 10 Jam World Tour
 
@@ -66,8 +66,8 @@ The next few cities are:
 * [Montreal], July 11, 2012
 * [Sydney], July 12, 2012
 * [Cape Town], July 31, 2012
-* [Waterloo], August 23, 2012
-* [Vancouver], August 28, 2012
+* Waterloo, August 23, 2012
+* Vancouver, August 28, 2012
 * [Buenos Aires], August 16, 2012
 * [Mexico City], August 21, 2012
 * [Sao Paulo], August 23, 2012

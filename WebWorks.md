@@ -40,7 +40,7 @@ The main blog is DevBlog, under the [Web-Development](http://devblog.blackberry.
 As a sample, here are the 3 most recent entries as of the latest update to this page:
 
 &nbsp;&nbsp;&bull; *[BlackBerry 10 Jam Interview with Mippin -VIDEO-](http://devblog.blackberry.com/2012/06/blackberry-10-jam-interview-with-mippin-video/)*  
-&nbsp;&nbsp;&bull; *[Hey JavaScript developers! We’re hiring.](http://devblog.blackberry.com/2012/06/hiring-javascript-developers/)*  
+&nbsp;&nbsp;&bull; *[Hey JavaScript developers! We're hiring.](http://devblog.blackberry.com/2012/06/hiring-javascript-developers/)*  
 &nbsp;&nbsp;&bull; *[BlackBerry 10 WebWorks SDK and Ripple Emulator Refreshed](http://devblog.blackberry.com/2012/06/blackberry-10-webworks-sdk-ripple-update/)*  
 
 #### More RIM Articles
@@ -56,7 +56,7 @@ The Knowledge Base supports searching and well as filtering; some useful filters
 As a sample, here are the 3 most recent entries as of the latest update to this page:
 
 &nbsp;&nbsp;&bull; *[How to detect the BlackBerry Browser](http://supportforums.blackberry.com/t5/Web-and-WebWorks-Development/How-to-detect-the-BlackBerry-Browser/ta-p/559862)*  
-&nbsp;&nbsp;&bull; *[How to Use the BlackBerry WebWorks Plug-in for Eclipse®](http://supportforums.blackberry.com/t5/Web-and-WebWorks-Development/How-to-Use-the-BlackBerry-WebWorks-Plug-in-for-Eclipse/ta-p/446837)*  
+&nbsp;&nbsp;&bull; *[How to Use the BlackBerry WebWorks Plug-in for Eclipse](http://supportforums.blackberry.com/t5/Web-and-WebWorks-Development/How-to-Use-the-BlackBerry-WebWorks-Plug-in-for-Eclipse/ta-p/446837)*  
 &nbsp;&nbsp;&bull; *[How to debug BlackBerry web applications using Web Inspector](http://supportforums.blackberry.com/t5/Web-and-WebWorks-Development/How-to-debug-BlackBerry-web-applications-using-Web-Inspector/ta-p/1207155)*  
 
 #### Non-RIM

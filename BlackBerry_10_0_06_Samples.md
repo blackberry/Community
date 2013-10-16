@@ -7,7 +7,7 @@ tags: BlackBerry 10
 {% include common-defs.md %}
 
 This is a list of all the Open Source Samples and other repositories
-that are new or have changed around [BlackBerry 10.0.06]
+that are new or have changed around [BlackBerry 10.0.06][blackberry_10_0_06]
 
 ### Repositories
 

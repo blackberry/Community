@@ -14,4 +14,4 @@ Main repository for the samples to use with the Native SDK.  Not all samples are
 
 * Also See
 
-[Scoreloop-Samples]
+[Scoreloop-Samples](http://github.com/blackberry/Scoreloop-Samples)
