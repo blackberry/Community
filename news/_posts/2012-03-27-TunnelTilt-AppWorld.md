@@ -16,6 +16,6 @@ or point a modern browser to the
 [Demo Page](http://blackberry.github.com/WebGL-Samples/tunneltilt/).
 The PlayBook 2.0 browser has WebGL support and will run the demo page but we disabled screen
 rotations to avoid triggering a landscape/portrait rotation and you will need to use
-touch instead to dodge the obstacles – which is much less fun.
+touch instead to dodge the obstacles - which is much less fun.
 
 _Source_: [Eduardo Pelegri-Llopart][pelegri], on March 27, 2012

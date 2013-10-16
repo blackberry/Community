@@ -10,7 +10,7 @@ and in recent releases we had been using two separate repositories:
 and
 [Ripple-UI](https://github.com/blackberry/ripple-ui).
 Starting with this release we are going
-[“back to the future”](http://en.wikipedia.org/wiki/Back_to_the_Future)
+["back to the future"](http://en.wikipedia.org/wiki/Back_to_the_Future)
 and Ripple is, again, a Chrome Browser Extension, which does
 not require the Ripple-Framework repository.
 

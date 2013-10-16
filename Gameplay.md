@@ -41,7 +41,7 @@ Add additional samples...
 
 * [Introducing Gameplay v1.2 for 3D Indie Game Developers](http://devblog.blackberry.com/2012/04/introducing-gameplay-v1-2-for-3d-indie-game-developers/) (from [DevBlog](http://devblog.blackberry.com))
 * [Gameplay 1.2 for 3D Indie Developers](http://www.gamefromscratch.com/post/2012/04/30/Gameplay-12-for-3D-Indie-developers.aspx) (from [Game From Scratch](http://gamefromscratch.com))
-* [A quick look at RIM’s Gameplay 1.2 SDK](http://www.gamefromscratch.com/post/2012/05/02/A-quick-look-at-RIM%E2%80%99s-Gameplay-12-SDK.aspx) (from [Game From Scratch](http://gamefromscratch.com))
+* [A quick look at RIM's Gameplay 1.2 SDK](http://www.gamefromscratch.com/post/2012/05/02/A-quick-look-at-RIMs-Gameplay-12-SDK.aspx) (from [Game From Scratch](http://gamefromscratch.com))
 
 ### Contacts
 [Sean Taylor]
